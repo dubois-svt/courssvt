@@ -5,7 +5,7 @@ site_name: !ENV [CI_PROJECT_TITLE, "Cours SVT College Jean Vilar"]
 site_url: !ENV [CI_PAGES_URL, "http://127.0.0.1:8000/"]
 site_author: !ENV [CI_PROJECT_ROOT_NAMESPACE, USERNAME]
 
-repo_url: 'https://forge.aeif.fr/mdubois/6e'
+repo_url: 'https://github.com/dubois-svt/courssvt/'
 edit_uri: edit/master/docs
 
 copyright: |
