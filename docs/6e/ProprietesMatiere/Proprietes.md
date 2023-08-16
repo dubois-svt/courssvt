@@ -8,11 +8,11 @@ Comme pour la préparation du caramel, le choix de l'ustensile est très importa
 Un cuisinier dispose de deux pinces, une en bois et l'autre en métal. Laquelle choisir ?
 
 
-!!! note Consigne
+!!! warning "Consigne"
     Consigne : À partir du matériel sur votre table, choisir le matériel pour la situation ci-dessus en argumentant à partir de vos observations.
 
 
-**Document 1 : Conductivité thermique**
+**Document 1 : Défintion de la conductivité thermique**
 
 La conductivité thermique est la capacité à transmettre de la chaleur.
 

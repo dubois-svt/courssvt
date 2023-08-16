@@ -2,25 +2,24 @@ site_description: Cours SVT College Jean Vilar
 
 # Contenu généré depuis les paramètres de votre espace gitlab
 site_name: !ENV [CI_PROJECT_TITLE, "Cours SVT College Jean Vilar"]
-site_url: !ENV [CI_PAGES_URL, "http://127.0.0.1:8000/"]
-site_author: !ENV [CI_PROJECT_ROOT_NAMESPACE, USERNAME]
+site_url: !ENV [CI_PAGES_URL, "https://dubois-svt.github.io/courssvt/"]
+site_author: !ENV [CI_PROJECT_ROOT_NAMESPACE, Dubois]
+
 
 repo_url: 'https://github.com/dubois-svt/courssvt/'
-edit_uri: edit/master/docs
-
-copyright: |
-    Copyright © 2023 
+edit_uri: edit/main/docs
+edit_uri_template: 'edit/main/docs/{path}'
 
 
 docs_dir: docs
 
 
-
+copyright: >
+  <a href="#__consent">Change cookie settings</a>
 
 theme:
-    favicon: assets/favicon.ico
-    icon:
-      logo: material/application-variable
+    favicon: assets/favicon.png
+    logo: assets/favicon.png
     name: material
     font: false                     # RGPD ; pas de fonte Google
     language: fr                    # français
@@ -46,8 +45,23 @@ theme:
         - toc.integrate
         - header.autohide
         - navigation.indexes 
+        - navigation.footer
+        - content.action.edit
 
+extra:
+  consent:
+    title: Cookie consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+    actions:
+      - accept
+      - manage
+      - reject
 
+          
 
 markdown_extensions:
     - meta
@@ -100,32 +114,135 @@ markdown_extensions:
         permalink: true
         toc_depth: 1
 
-extra:
-    social:
-        - icon: fontawesome/brands/wikipedia-w
-          link: https://fr.wikipedia.org
-          name: L'encyclopédie libre que chacun peut améliorer
-
 
 nav :
   - index.md
   - 6e :
-      - Séquence 1 Propriété de la matière : 
-          - 6e/ProprietesMatiere/Intro.md
+      - Séquence Propriété de la matière : 
+          - Introduction : 6e/ProprietesMatiere/Intro.md
           - Activité Importance du tri des déchets : 6e/ProprietesMatiere/Decomposition.md
           - Activité Les propriétés des matériaux : 6e/ProprietesMatiere/Proprietes.md
           - Activité 3 : 6e/ProprietesMatiere/6e_seq1_3.md
-      - Séquence 2 :
+          - Fiche révision : 6e/ProprietesMatiere/Fiche.md
+      - Séquence Masse et volume :
           - vide.md
-      - Séquence 3 :
+      - Séquence Mélanges :
+          - vide.md
+      - Séquence Mouvements :
+          - vide.md
+      - Séquence Conversions d’énergie :
+          - vide.md
+      - Séquence Lumière : 
+          - vide.md
+      - Séquence Électricité :
+          - vide.md
+      - Séquence Transmission de l’information :
+          - vide.md
+      - Séquence Organisation des êtres vivants  :
+          - vide.md
+      - Séquence Classification du vivant :
+          - vide.md
+      - Séquence Biodiversité actuelle et passée : 
+          - vide.md
+      - Séquence Besoins alimentaires et nutrition humaine :
+          - vide.md
+      - Séquence Production et conservation des aliments :
+          - vide.md
+      - Séquence Cycle de vie  :
+          - vide.md
+      - Séquence Reproduction et sexualité humaine :
+          - vide.md
+      - Séquence La Terre, une planète singulière et active :
+          - vide.md
+      - Séquence Écosystème : 
+          - vide.md
+      - Séquence Place des êtres vivants dans les chaînes alimentaires :
+          - vide.md
+      - Séquence Conséquences des actions humaines sur l’environnement :
           - vide.md
   - 5e :
-    - vide.md
+      - Séquence Construire une école :
+          - vide.md
+      - Séquence Electricité :
+          - vide.md
+      - Séquence Séismes et volcans :
+          - vide.md
+      - Séquence La programmation :
+          - vide.md
+      - Séquence Mécanique : 
+          - vide.md
+      - Séquence Le système digestif :
+          - vide.md
+      - Séquence Evolution des objets techniques et cycle de vie :
+          - vide.md
+      - Séquence Optique :
+          - vide.md
+      - Séquence La nutrition :
+          - vide.md
+      - Séquence Techno 4 :
+          - vide.md
+      - Séquence Masse et volume:
+          - vide.md
+      - Séquence Biodiversité et activités humaines : 
+          - vide.md
   - 4e :
-    - vide.md
+      - Séquence dynamique masses d'air et d'eau:
+          - vide.md
+      - Séquence Météo et climat :
+          - vide.md
+      - Séquence Exploitations des sols pour produire de la nourriture :
+          - vide.md
+      - Séquence Reproduction des êtres vivants :
+          - vide.md
+      - Séquence Génétique : 
+          - vide.md
+      - Séquence Dynamique des populations :
+          - vide.md
+      - Séquence Phénotypes et génotypes :
+          - vide.md
+      - Séquence Diversité génétique :
+          - vide.md
+      - Séquence Système nerveux :
+          - vide.md
+      - Séquence Système nerveux et mode de vie :
+          - vide.md
+      - Séquence Le monde microbien :
+          - vide.md
+      - Séquence Asepsie et antisepsie : 
+          - vide.md
   - 3e :
-    - vide.md
- 
+      - Séquence Tectonique des plaques 1:
+          - vide.md
+      - Séquence Tectonique des plaques 2:
+          - vide.md
+      - Séquence Eres géologiques :
+          - vide.md
+      - Séquence Changements climatiques passés :
+          - vide.md
+      - Séquence Changement climatique actuel :
+          - vide.md
+      - Séquence Activité humaine et changement climatique : 
+          - vide.md
+      - Séquence Classification des êtres vivants :
+          - vide.md
+      - Séquence Evolution au cours du temps :
+          - vide.md
+      - Séquence Mécanismes évolutifs :
+          - vide.md
+      - Séquence Système immunitaire :
+          - vide.md
+      - Séquence Réactions immunitaires adaptatives:
+          - vide.md
+      - Séquence Vaccination :
+          - vide.md
+      - Séquence Puberté et focntionnement des appareils reproducteurs : 
+          - vide.md
+      - Séquence Contrôles hormonaux des appareils reproducteurs :
+          - vide.md
+      - Séquence Sexualité : 
+          - vide.md
+  - about.md
+
 plugins:
   - search
   - awesome-pages:

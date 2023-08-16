@@ -56,8 +56,8 @@ Compétences : Proposer et/ou suivre un protocole expérimental.
 Sarah et Sofiane préparent un gâteau au
 caramel.
 
-Ils ont deux cuillères, une en métal et l'autre en bois, Sofiane indique que celle en bois est moins dangereuse. 
-![](Pictures/gateauCaramel1.png)
+Ils ont deux cuillères, une en métal et l'autre en bois, Sofiane indique que celle en bois est moins dangereuse.    
+![](Pictures/gateauCaramel1.png)   
 Quelle cuillère utiliser pour ne pas se brûler ?
 
 !!! question "Problématique"
