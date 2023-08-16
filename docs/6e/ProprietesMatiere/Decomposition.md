@@ -1,10 +1,10 @@
 # Activité : Importance du tri des déchets
 
-!!! warning "Compétences"
+!!! note "Compétences"
     - Interpréter des résultats de façon raisonnée et en tirer des conclusions en mobilisant des arguments scientifiques.  
     - Relier des connaissances acquises en sciences et technologie à des questions de santé, de sécurité et d’environnement.
 
-!!! note "Consignes"
+!!! warning "Consignes"
 
     Consigne 1 : Comparer le volume de déchets qui va être envoyé en déchetterie avec et sans tri.  
     Consigne 2 : Expliquer ce que deviennent les déchets au cours du temps.  
