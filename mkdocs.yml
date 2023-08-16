@@ -110,15 +110,7 @@ extra:
 nav :
   - index.md
   - 6e :
-    - Séquence 1 Propriété de la matière : 
-      - 6e/ProprietesMatiere/Intro.md
-      - Activité Importance du tri des déchets : 6e/ProprietesMatiere/Decomposition.md
-      - Activité Les propriétés des matériaux : 6e/ProprietesMatiere/Proprietes.md
-      - Activité 3 : 6e/ProprietesMatiere/6e_seq1_3.md
-    - Séquence 2 :
-      - vide.md
-    - Séquence 3 :
-      - vide.md
+    - vide.md
   - 5e :
     - vide.md
   - 4e :
