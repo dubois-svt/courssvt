@@ -8,7 +8,10 @@
     - Relever l’évolution de la température au cours du temps lors du refroidissement ou de l’échauffement d’un corps et identifier les éventuels paliers de température lors des changements d’état.
 
 ## Séance 1 : Décompotition de la matière
-Compétences : Proposer et/ou suivre un protocole expérimental.
+!!! note "Compétences"
+    - Interpréter des résultats de façon raisonnée et en tirer des conclusions en mobilisant des arguments scientifiques.  
+    - Relier des connaissances acquises en sciences et technologie à des questions de santé, de sécurité et d’environnement.
+    
 ### Document d’appel :
 
 ![Photo d’une décharge](Pictures/decharge.png){: style="width:300px"}
@@ -19,6 +22,8 @@ Compétences : Proposer et/ou suivre un protocole expérimental.
 
 !!! question Problématique
     Pourquoi le tri des déchets est-il si important ?
+
+[Activité sur la décomposition des matériaux](../Decomposition)
 
 !!! note-prof
     Préparer un sac poubelle avec :
@@ -40,7 +45,7 @@ Compétences : Proposer et/ou suivre un protocole expérimental.
 
 <div markdown class="printme"> 
 
-??? abstract Bilan
+??? abstract "Bilan"
     La matière se décompose avec le temps.
     La vitesse de décomposition est très différente d’un objet à l’autre. Les objets composés de matière organiques se décomposent plus rapidement que les déchets composés de matière minérale, sauf les matières plastiques qui se décomposent très lentement.
 
@@ -49,8 +54,11 @@ Compétences : Proposer et/ou suivre un protocole expérimental.
 
 
 
-## Séance 2 : Propriétés physiques
-Compétences : Proposer et/ou suivre un protocole expérimental.
+## Séance 2 : Modélisation 3D d'une salle de classe
+
+!!! note "Compétences"
+    - Interpréter des résultats de façon raisonnée et en tirer des conclusions en mobilisant des arguments scientifiques.  
+    - Relier des connaissances acquises en sciences et technologie à des questions de santé, de sécurité et d’environnement.
 
 ### Document d’appel :
 Sarah et Sofiane préparent un gâteau au
@@ -63,9 +71,13 @@ Quelle cuillère utiliser pour ne pas se brûler ?
 !!! question "Problématique"
     Comment les propriétés des matériaux peuvent influencer leur utilisation ?
 
+[Activité sur les propriétés des matériaux](../Proprietes)
+
+
+
 <div style="page-break-after: always;"></div>
 
-??? abstract "Synthèse"
+??? abstract "Bilan"
     Les matériaux peuvent être caractérisés par leurs propriétés : _conductivité thermique_, _conductivité électrique, _magnétisme_, etc.
 
     On observe que chaque échantillon de matière n’aura *pas les mêmes propriétés*, cela montre une **grande diversité de la matière**.

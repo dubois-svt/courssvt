@@ -1,11 +1,8 @@
-```markmap
 # EIST 6e
 ## Matière, mouvement, énergie, information
 
 ### États et constitution de la matière à l’échelle macroscopique
-
 #### Propriétés de la matière
-
 - Rechercher des informations relatives à la durée de décomposition dans la nature de quelques matériaux usuels (objets métalliques, papiers et cartons, plastiques, verres) pour connaître leurs conséquences éventuelles sur l’environnement. **Mica**
 - Réaliser des expériences ou exploiter des documents pour comparer et trier différents matériaux sur la base de leurs propriétés physiques (conductivité thermique ou électrique, capacité à interagir avec un aimant). **Mica**
 - Mesurer des températures de changement d’état.
@@ -233,4 +230,4 @@
  Vérifier l’existence de preuves et en évaluer la qualité.
  Évaluer la pertinence des arguments et/ou identifier des arguments fallacieux.
  Distinguer ce qui relève d’une croyance de ce qui constitue un savoir scientifique.
-```
+
