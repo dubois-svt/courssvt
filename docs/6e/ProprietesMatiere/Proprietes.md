@@ -7,6 +7,9 @@ Comme pour la préparation du caramel, le choix de l'ustensile est très importa
 
 Un cuisinier dispose de deux pinces, une en bois et l'autre en métal. Laquelle choisir ?
 
+!!! note "Compétences"
+    - Interpréter des résultats de façon raisonnée et en tirer des conclusions en mobilisant des arguments scientifiques.  
+    - Relier des connaissances acquises en sciences et technologie à des questions de santé, de sécurité et d’environnement.
 
 !!! warning "Consigne"
     Consigne : À partir du matériel sur votre table, choisir le matériel pour la situation ci-dessus en argumentant à partir de vos observations.

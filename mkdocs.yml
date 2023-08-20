@@ -8,7 +8,7 @@ site_author: !ENV [CI_PROJECT_ROOT_NAMESPACE, Dubois]
 
 repo_url: 'https://github.com/dubois-svt/courssvt/'
 edit_uri: edit/main/docs
-edit_uri_template: 'edit/main/docs/{path}'
+edit_uri_template: ['edit/main/docs/{path}', 'vscode://file/home/mica/NuageVersailles/courssvt/{path}']
 
 
 docs_dir: docs
@@ -48,6 +48,7 @@ theme:
         - navigation.footer
         - content.action.edit
 
+
 extra:
   consent:
     title: Cookie consent
@@ -84,7 +85,11 @@ markdown_extensions:
             "E-mail": "📥 Entrée"
             "Text Output": "📤 Sortie"
     - pymdownx.inlinehilite         # pour  `#!python  <python en ligne>`
-    - pymdownx.snippets             # Inclusion de fichiers externe.
+    - pymdownx.snippets :            # Inclusion de fichiers externe.
+        auto_append: ["../LICENSE"]
+        base_path: ["."]  # for root of repo
+        # base_path: ["docs"]
+
     - pymdownx.tasklist:            # Cases à cocher  - [ ]  et - [x]
         custom_checkbox:    false   #   avec cases d'origine
         clickable_checkbox: true    #   et cliquables.
@@ -121,7 +126,7 @@ nav :
       - Séquence Propriété de la matière : 
           - Introduction : 6e/ProprietesMatiere/Intro.md
           - Activité Importance du tri des déchets : 6e/ProprietesMatiere/Decomposition.md
-          - Activité Les propriétés des matériaux : 6e/ProprietesMatiere/Proprietes.md
+          - Activité Les propriétDownload as és des matériaux : 6e/ProprietesMatiere/Proprietes.md
           - Activité 3 : 6e/ProprietesMatiere/6e_seq1_3.md
           - Fiche révision : 6e/ProprietesMatiere/Fiche.md
       - Séquence Masse et volume :
@@ -162,7 +167,9 @@ nav :
           - vide.md
   - 5e :
       - Séquence Construire une école :
-          - vide.md
+          - Introduction : 5e/constructionEcole/INtro_Construire_Ecole.md
+          - Cahier des charges d'une salle de classe: 5e/constructionEcole/cahierCharges.md
+          - Modélisation 3D d'une salle de classe : 5e/constructionEcole/Modelisation.md
       - Séquence Electricité :
           - vide.md
       - Séquence Séismes et volcans :

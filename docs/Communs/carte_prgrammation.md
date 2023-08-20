@@ -1,4 +1,3 @@
-```markmap
 # EIST 6e
 ## Matière, mouvement, énergie, information
 
@@ -233,4 +232,3 @@
  Vérifier l’existence de preuves et en évaluer la qualité.
  Évaluer la pertinence des arguments et/ou identifier des arguments fallacieux.
  Distinguer ce qui relève d’une croyance de ce qui constitue un savoir scientifique.
-```
