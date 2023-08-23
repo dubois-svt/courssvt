@@ -65,6 +65,7 @@ extra:
           
 
 markdown_extensions:
+    - markdown_captions
     - meta
     - abbr
     - md_in_html
@@ -126,7 +127,7 @@ nav :
       - Séquence Propriété de la matière : 
           - Introduction : 6e/ProprietesMatiere/Intro.md
           - Activité Importance du tri des déchets : 6e/ProprietesMatiere/Decomposition.md
-          - Activité Les propriétDownload as és des matériaux : 6e/ProprietesMatiere/Proprietes.md
+          - Activité Les propriétés des matériaux : 6e/ProprietesMatiere/Proprietes.md
           - Activité 3 : 6e/ProprietesMatiere/6e_seq1_3.md
           - Fiche révision : 6e/ProprietesMatiere/Fiche.md
       - Séquence Masse et volume :
@@ -171,7 +172,10 @@ nav :
           - Cahier des charges d'une salle de classe: 5e/constructionEcole/cahierCharges.md
           - Modélisation 3D d'une salle de classe : 5e/constructionEcole/Modelisation.md
       - Séquence Electricité :
-          - vide.md
+          - Introduction : 5e/electricite/IntroElectricite.md
+          - Modélisation d'une lampe de poche : 5e/electricite/modelisationLampe.md
+          - Inensité du courant électrique :  5e/electricite/intensite.md
+          - Fiche de révision : 5e/electricite/Fiche.md
       - Séquence Séismes et volcans :
           - vide.md
       - Séquence La programmation :
