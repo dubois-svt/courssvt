@@ -125,11 +125,11 @@ nav :
   - index.md
   - 6e :
       - Séquence Propriété de la matière : 
-          - Introduction : 6e/ProprietesMatiere/Intro.md
+          - Introduction : 6e/ProprietesMatiere/IntroMatiere.md
           - Activité Importance du tri des déchets : 6e/ProprietesMatiere/Decomposition.md
           - Activité Les propriétés des matériaux : 6e/ProprietesMatiere/Proprietes.md
           - Activité 3 : 6e/ProprietesMatiere/6e_seq1_3.md
-          - Fiche révision : 6e/ProprietesMatiere/Fiche.md
+          - Fiche révision : 6e/ProprietesMatiere/FicheMatiere.md
       - Séquence Masse et volume :
           - vide.md
       - Séquence Mélanges :
@@ -171,11 +171,12 @@ nav :
           - Introduction : 5e/constructionEcole/INtro_Construire_Ecole.md
           - Cahier des charges d'une salle de classe: 5e/constructionEcole/cahierCharges.md
           - Modélisation 3D d'une salle de classe : 5e/constructionEcole/Modelisation.md
-      - Séquence Electricité :
+          - Fiche de révision : 5e/constructionEcole/FicheConstruction.md
+      - Séquence Électricité :
           - Introduction : 5e/electricite/IntroElectricite.md
           - Modélisation d'une lampe de poche : 5e/electricite/modelisationLampe.md
-          - Inensité du courant électrique :  5e/electricite/intensite.md
-          - Fiche de révision : 5e/electricite/Fiche.md
+          - Intensité du courant électrique :  5e/electricite/intensite.md
+          - Fiche de révision : 5e/electricite/FicheElectricite.md
       - Séquence Séismes et volcans :
           - vide.md
       - Séquence La programmation :
@@ -222,13 +223,13 @@ nav :
       - Séquence Asepsie et antisepsie : 
           - vide.md
   - 3e :
+      - Séquence Eres géologiques :
+          - Introduction : 3e/EvtsTerre/IntroEvtsTerre.md
+          - Evénements dans l'histoire de la Terre : 3e/EvtsTerre/HistoireTerre.md
+          - Fiche de révision : 3e/EvtsTerre/FicheEvtsTerre.md
       - Séquence Tectonique des plaques 1:
           - vide.md
       - Séquence Tectonique des plaques 2:
-          - vide.md
-      - Séquence Eres géologiques :
-          - vide.md
-      - Séquence Changements climatiques passés :
           - vide.md
       - Séquence Changement climatique actuel :
           - vide.md

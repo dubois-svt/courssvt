@@ -20,7 +20,9 @@
 <div markdown class="printme"> 
 
 ??? abstract "Bilan"
-    Le concepteur rédige un cahier des charges. Il doit respecter de nombreuses contraintes et utilise plusieurs solutions techniques. Parmi les contraintes, on distingue les normes qui sont établies par des organismes reconnus et s’imposent à tous les fabricants.
+    Pour réaliser un objet technique de nombreux éléments doivent être pris en compte. 
+    L'objet doit respecter de nombreuses contraintes et utilise plusieurs solutions techniques. Parmi les contraintes, on distingue les normes qui sont établies par des organismes reconnus et s’imposent à tous les fabricants.
+    Le concepteur rédige un cahier des charges qui contient toutes les informations
 
 
 
