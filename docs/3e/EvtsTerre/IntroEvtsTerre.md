@@ -82,7 +82,7 @@ Différence météo et climat
 ??? abstract "Bilan"
     À l’échelle des temps géologiques, le climat change, selon la position de la Terre dans l’espace et son inclinaison.
 
-    Les changements climatiques peuvent **être **montrés grâce aux fossiles que l’on retrouve ou aux traces laissées par nos ancêtres.
+    Les changements climatiques peuvent être montrés grâce aux fossiles que l’on retrouve ou aux traces laissées par nos ancêtres.
 
     Ces changements climatiques passés ont provoqué des variations de la répartition des êtres vivants.
 

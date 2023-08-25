@@ -8,20 +8,8 @@
 
 ## Compétences travaillées dans la séquence
 - Retenir des idées essentielles d’une leçon
-- Formuler une problématique
 - Trouver et exploiter des informations
-- Proposer une démarche expérimentale
-- Utiliser des outils mathématiques
-- Manipuler, expérimenter
-- Analyser des résultats
-- Organiser un travail en groupe
 - Réaliser une frise chronologique
-
-## Site internet
-
-Pour s'entrainer un site à construire des circuits électriques :
-[site](https://phet.colorado.edu/sims/html/circuit-construction-kit-dc-virtual-lab/latest/circuit-construction-kit-dc-virtual-lab_fr.html)
-
 
 
 ## Flashcards
@@ -30,13 +18,13 @@ Pour s'entrainer un site à construire des circuits électriques :
 <div markdown class="flashcard">
 
 1. 
-    - A quelle composant correspond cette image ? ![](Pictures/schemaAmpoule.png)
-    - Une ampoule
+    - Quelle est la différence entre météo et climat ?
+    - la météo correspond à l'étude des paramètres à un moment donné, alors que le climat correspond à des moyennes de ces paramètres sur une longue période (30 ans minimum)
 2. 
-    - Lorem ipsum ?
-    - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam non diam ut quam vehicula efficitur sit amet vitae nisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed at rutrum dui.
+    - A quel moment est apparue la vie su la planète Terre ?
+    - il y a 3,5 milliards d'années
 3. 
-    - Question
-    - Réponse
+    - Quels indices permettent de connaître les climats passés de notre planète
+    - Ce sont les fossiles et les traces de nos ancêtres.
 
 </div>
