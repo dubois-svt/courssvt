@@ -87,5 +87,10 @@ table, th, td {
 
     
   }
+  table,
+  table tr td,
+  table tr th {
+    page-break-inside: avoid;
+  }
 }
 
