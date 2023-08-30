@@ -64,11 +64,18 @@ table, th, td {
     font-size: 1.25 em;
   }
 
+
+  body {
+    font-family: Luciole, sans-serif !important;
+
+  }
   @page {
     size: a4 portrait;
     margin: 10mm 10mm 25mm 10mm;
     counter-increment: page;
-    font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Luciole, sans-serif !important;
+    /**         font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+ **/
     white-space: pre;
     color: blue;
     @top-center {
@@ -80,6 +87,7 @@ table, th, td {
 }
 
 @media print{
+  
   .md-typeset .admonition,
   .md-typeset details {
     font-size:medium;
@@ -87,6 +95,14 @@ table, th, td {
 
     
   }
+  .entete_gras {
+    background-color:#c0c0c0;
+    border-color:inherit;
+    font-weight:bold;
+    text-align:left;
+    vertical-align:top
+  }
+  
   table,
   table tr td,
   table tr th {
@@ -94,3 +110,42 @@ table, th, td {
   }
 }
 
+@font-face {
+  font-family: 'Luciole';
+  font-style: normal;
+  font-weight: normal;
+
+  src: url('../Luciole_webfonts/Luciole-Regular/Luciole-Regular.woff') format('woff'),
+       url('../Luciole_webfonts/Luciole-Regular/Luciole-Regular.woff2') format('woff2'),
+       url('../Luciole_webfonts/Luciole-Regular/Luciole-Regular.ttf') format('truetype'),
+       url('../Luciole_webfonts/Luciole-Regular/Luciole-Regular.svg#Luciole') format('svg');
+}
+
+@font-face {
+	font-family: Luciole;
+  font-style: italic;
+  font-weight: normal;
+  src: url('../Luciole_webfonts/Luciole-Italic/Luciole-Italic.woff') format('woff'),
+       url('../Luciole_webfonts/Luciole-Italic/Luciole-Italic.woff2') format('woff2'),
+       url('../Luciole_webfonts/Luciole-Italic/Luciole-Italic.ttf') format('truetype'),
+       url('../Luciole_webfonts/Luciole-Italic/Luciole-Italic.svg#Luciole') format('svg');
+}
+
+@font-face {
+	font-family: Luciole;
+  font-style: normal;
+  font-weight: bold;
+  src: url('../Luciole_webfonts/Luciole-Bold/Luciole-Bold.woff') format('woff'),
+       url('../Luciole_webfonts/Luciole-Bold/Luciole-Bold.woff2') format('woff2'),
+       url('../Luciole_webfonts/Luciole-Bold/Luciole-Bold.ttf') format('truetype'),
+       url('../Luciole_webfonts/Luciole-Bold/Luciole-Bold.svg#Luciole') format('svg');
+}
+@font-face {
+	font-family: Luciole;
+  font-style: italic;
+  font-weight: bold;
+  src: url('../Luciole_webfonts/Luciole-BoldItalic/Luciole-BoldItalic.woff') format('woff'),
+       url('../Luciole_webfonts/Luciole-BoldItalic/Luciole-BoldItalic.woff2') format('woff2'),
+       url('../Luciole_webfonts/Luciole-BoldItalic/Luciole-BoldItalic.ttf') format('truetype'),
+       url('../Luciole_webfonts/Luciole-BoldItalic/Luciole-BoldItalic.svg#Luciole') format('svg');
+}

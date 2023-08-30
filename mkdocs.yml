@@ -168,7 +168,7 @@ nav :
           - vide.md
   - 5e :
       - Séquence Construire une école :
-          - Introduction : 5e/constructionEcole/INtro_Construire_Ecole.md
+          - Introduction : 5e/constructionEcole/Intro_Construire_Ecole.md
           - Cahier des charges d'une salle de classe: 5e/constructionEcole/cahierCharges.md
           - Modélisation 3D d'une salle de classe : 5e/constructionEcole/Modelisation.md
           - Fiche de révision : 5e/constructionEcole/FicheConstruction.md
@@ -201,7 +201,10 @@ nav :
       - Séquence dynamique masses d'air et d'eau:
           - vide.md
       - Séquence Météo et climat :
-          - vide.md
+            - Introduction : 4e/meteoetclimat/IntroMeteoClimat.md
+            - Différence Météo/Climat : 4e/meteoetclimat/diffmeteoclimat.md
+            - Vague de froid: 4e/meteoetclimat/exodiffmeteoclimat.md
+            - Utiliser une station météo : 4e/meteoetclimat/stationMeteo.md
       - Séquence Exploitations des sols pour produire de la nourriture :
           - vide.md
       - Séquence Reproduction des êtres vivants :
