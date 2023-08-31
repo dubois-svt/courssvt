@@ -13,7 +13,7 @@
 <div markdown class="flashcard">
 
 1. 
-    - A quelle composant correspond cette image ? ![](Pictures/schemaAmpoule.png)
+    - A quelle composant correspond cette image ?
     - Une ampoule
 2. 
     - Lorem ipsum ?
