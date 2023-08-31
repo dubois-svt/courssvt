@@ -8,11 +8,12 @@
     Consigne : Réaliser une modélisation 3D de votre salle de classe répondant au cahier des charges de l'activité précédente en suivant la fiche du logiciel SweetHome3D
 
 !!! bug "Critères de réussite"
-    avoir respecter le cahier des charges
-
+    avoir respecter le cahier des charges  
     avoir respecter les différentes étapes de la fiche logiciel
  
-
+<div markdown class="printable">
+d
+s
 **Fiche logiciel SweetHome3D**
 
 On souhaite réaliser la maquette numérique de votre salle de classe à l’aide du logiciel SweetHome 3D. Cette réalisation va permettre de découvrir les fonctions de base du logiciel.
@@ -23,8 +24,8 @@ On souhaite réaliser la maquette numérique de votre salle de classe à l’aid
       - Dans le menu Meubles/Importer bibliothèque de meubles, choisir le fichier [MeublesClasse.sh3f](Files/MeublesClasse.sh3f)
 2. Création de la dalle en béton  
       - Cliquer sur l’outil “Créer les pièces”  (attention à bien lire les conseils du logiciel) et tracer un rectangle de 12,5 m sur 6,5 m.  
-       - A chaque angle, faire un clic gauche.   
-     - Appuyer sur la touche   “Echap” pour arrêter le dessin  
+      - A chaque angle, faire un clic gauche. 
+      - Appuyer sur la touche   “Echap” pour arrêter le dessin  
 
 3. Création des murs  
       - Cliquer sur l’outil “créer les murs"(attention à bien lire les conseils du logiciel) et tracer des murs autour de la pièce.  
@@ -42,14 +43,16 @@ On souhaite réaliser la maquette numérique de votre salle de classe à l’aid
 6. Finition et textures
       - Faire un clic droit sur la pièce, choisir le menu “Modifier les pièces”
       - Dans les parties “Côté gauche” ou “droit”, il est possible de choisir la couleur et la texture du mur. Vous devez changer la couleur d'au moins un mur et du sol.
-  
+
+
+
 7. Rendu final
       - Ajouter un texte (dans le menu plan) sur votre plan avec le nom des deux élèves et le groupe d’EIST.
       - Dans la partie 3D, choisir le meilleur angle de vue, puis dans le menu Fichier / imprimer en PDF, faire un fichier contenant le plan et la vue 3D de votre salle de classe.
-        
-        **Attention nommer le fichier avec le nom des deux élèves et le groupe d’EIST.**
 
+      **Attention nommer le fichier avec le nom des deux élèves et le groupe d’EIST.**
 
+</div>
 
 
 <div style="page-break-after: always;"></div>

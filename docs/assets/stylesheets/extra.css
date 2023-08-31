@@ -1,9 +1,17 @@
-.flashcard ol,ul{list-style-type:none}
+.flashcard ol, .flashcard ul{list-style-type:none}
 
 
 .flashcard ol li{background-color:transparent;border-radius:20px;width:500px;height:200px;border:none;margin-bottom:3em;perspective:1000px;display:flex;align-items:center;justify-content:center}
 .flashcard ol li:hover>ul{transform:rotateY(180deg)}
-.flashcard ol li>ul li:first-of-type,ol li>ul li:nth-of-type(2){position:absolute;width:100%;height:100%;-webkit-backface-visibility:hidden;backface-visibility:hidden}
+
+
+.flashcard ol li>ul li:first-of-type, .flashcard ol li>ul li:nth-of-type(2)
+{
+  position:absolute;width:100%;height:100%;
+  -webkit-backface-visibility:hidden;
+  backface-visibility:hidden
+}
+
 .flashcard ol li>ul li:first-of-type{color:#000;font-weight:600;font-size:24px}
 .flashcard ol li>ul li:nth-of-type(2){color:#000;transform:rotateY(180deg)}
 
@@ -11,7 +19,7 @@
 .flashcard  ul{position:relative;width:100%;height:100%;transition:transform .8s;transform-style:preserve-3d}
 .flashcard  ul li{left:0;background-color:#fff;}
 
-  
+
   
   
   .root {
@@ -63,7 +71,13 @@ table, th, td {
   p, li { 
     font-size: 1.25 em;
   }
-
+  .entete_gras {
+    background-color:#c0c0c0;
+    border-color:inherit;
+    font-weight:bold;
+    text-align:left;
+    vertical-align:top
+  }
 
   body {
     font-family: Luciole, sans-serif !important;
@@ -87,21 +101,19 @@ table, th, td {
 }
 
 @media print{
-  
+  *:not(.printable) {
+    display: none; 
+  }
+  .printable, .printable * {
+    display: block; 
+  }
+
   .md-typeset .admonition,
   .md-typeset details {
     font-size:medium;
     font-weight: bold;
-
-    
   }
-  .entete_gras {
-    background-color:#c0c0c0;
-    border-color:inherit;
-    font-weight:bold;
-    text-align:left;
-    vertical-align:top
-  }
+  
   
   table,
   table tr td,
