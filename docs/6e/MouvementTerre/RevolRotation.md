@@ -90,11 +90,10 @@ flowchart LR
     C -- x  ___ --> D[Minutes]
     D -- x ___ --> E[Secondes]
 
-    B -- ÷ ___ --> A
-    C -- ÷ ___ --> B
-    D -- ÷ ___ --> C
-    E -- ÷ ___ --> D
-
+    B -- / ___ --> A
+    C -- / ___ --> B
+    D -- / ___ --> C
+    E -- / ___ --> D
 ```
 
 **Document 5 Conversion distance**
@@ -104,15 +103,14 @@ flowchart LR
     A[km] -- x ___ --> B[m]
     B -- x  ___  --> C[mm]
 
-    B -- ÷ ___ --> A
-    C -- ÷ ___ --> B
+    B -- / ___ --> A
+    C -- / ___ --> B
 ```
 
 ```mermaid
 flowchart LR
     A[cm] -- x ___ --> B[mm]
-    B -- ÷  ___  --> A[mm]
-
+    B -- /  ___  --> A[mm]
 ```
 
 
