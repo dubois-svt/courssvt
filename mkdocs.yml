@@ -125,10 +125,10 @@ nav :
   - index.md
   - 6e :
       - Séquence Mouvement de la Terre :
-        - Introduction : 6e/MouvementTerre/IntroMvtTerre.md
-        - Activité Révolution et rotation : 6e/MouvementTerre/RevolRotation.md
-        - Activité Vitesse : 6e/MouvementTerre/Vitesse.md
-        - Fiche Révision : 6e/MouvementTerre/FicheMvtTerre.md
+          - Introduction : 6e/MouvementTerre/IntroMvtTerre.md
+          - Activité Révolution et rotation : 6e/MouvementTerre/RevolRotation.md
+          - Activité Vitesse : 6e/MouvementTerre/Vitesse.md
+          - Fiche Révision : 6e/MouvementTerre/FicheMvtTerre.md
       #- Séquence Propriété de la matière : 
       #    - Introduction : 6e/ProprietesMatiere/IntroMatiere.md
       #    - Activité Importance du tri des déchets : 6e/ProprietesMatiere/Decomposition.md
