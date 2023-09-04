@@ -6,7 +6,7 @@
 ### 
 
 
-![Le système solaire](systSolaire.png)    
+![Le système solaire](Pictures/systSolaire.png)    
 
 
 

@@ -8,7 +8,7 @@ site_author: !ENV [CI_PROJECT_ROOT_NAMESPACE, Dubois]
 
 repo_url: 'https://github.com/dubois-svt/courssvt/'
 edit_uri: edit/main/docs
-edit_uri_template: ['edit/main/docs/{path}', 'vscode://file/home/mica/NuageVersailles/courssvt/{path}']
+edit_uri_template: 'edit/main/docs/{path}'
 
 
 docs_dir: docs
