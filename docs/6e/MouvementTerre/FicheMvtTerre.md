@@ -14,6 +14,12 @@ La définition du modèle héliocentrique.
 Ce que je dois savoir-faire : 
 Convertir des unités de distances (km à m) et de temps (année en jours).
 
+Ce que je dois savoir : 
+    • Formule de la vitesse et son unité usuelle.
+    • La définition d’un mouvement uniforme (mouvement durant lequel la valeur de la vitesse reste constante)
+
+Ce que dois savoir-faire : 
+    • Reconnaître des situations dans lesquelles la vitesse d’un objet en mouvement par rapport à un observateur a une valeur constante ou variable
 
 ## Flashcards
 
