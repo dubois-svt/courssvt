@@ -100,13 +100,14 @@ table, th, td {
     }
 }
 
-@media print{
+@media print{/**
   *:not(.printable) {
     display: none; 
   }
   .printable, .printable * {
     display: block; 
   }
+	     **/
 
   .md-typeset .admonition,
   .md-typeset details {
