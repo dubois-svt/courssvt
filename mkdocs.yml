@@ -128,6 +128,7 @@ nav :
           - Introduction : 6e/MouvementTerre/IntroMvtTerre.md
           - Activité Révolution et rotation : 6e/MouvementTerre/RevolRotation.md
           - Activité Vitesse : 6e/MouvementTerre/Vitesse.md
+          - Activité Exercices sur la vitesse : 6e/MouvementTerre/VitesseExercices.md
           - Fiche Révision : 6e/MouvementTerre/FicheMvtTerre.md
       #- Séquence Propriété de la matière : 
       #    - Introduction : 6e/ProprietesMatiere/IntroMatiere.md
@@ -228,11 +229,12 @@ plugins:
 extra_javascript:
   - assets/javascripts/extra.js
   - assets/javascripts/glightbox.min.js
-  #- xtra/mathjax.js                    # MathJax
-  #- https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - assets/javascripts/mathjax.js                    # MathJax
   - https://cdn.jsdelivr.net/npm/vega@5
   - https://cdn.jsdelivr.net/npm/vega-lite@5
   - https://cdn.jsdelivr.net/npm/vega-embed@6
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 extra_css:
   #- xtra/ajustements.css                      # ajustements

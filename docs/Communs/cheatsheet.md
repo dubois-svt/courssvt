@@ -136,3 +136,26 @@ regex pour remplace balise Image
 '''
 <img src="(.*?)"   => ![]($1)
     style="(.*?)" />
+
+
+
+### Adding buttons
+
+In order to render a link as a button, suffix it with curly braces and add the
+`.md-button` class selector to it. The button will receive the selected
+[primary color] and [accent color] if active.
+
+``` markdown title="Button"
+[Subscribe to our newsletter](#){ .md-button }
+```
+
+<div class="result" markdown>
+
+[Subscribe to our newsletter][Demo]{ .md-button }
+
+</div>
+
+  [primary color]: ../setup/changing-the-colors.md#primary-color
+  [accent color]: ../setup/changing-the-colors.md#accent-color 
+  [Demo]: javascript:alert$.next("Demo")
+  [Demo]: javascript:PrintElem(essaie)

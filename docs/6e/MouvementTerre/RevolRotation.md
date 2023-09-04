@@ -5,8 +5,8 @@
     - Trouver et exploiter des informations
 
 !!! warning "Consignes"
-    Consigne 1 : À l’aide des réponses aux questions 1 et 2, donner une définition de « année ».
-    Consigne 2 : Comment appelle-t-on habituellement une rotation pour la Terre ? 
+    Consigne 1 : À l’aide des réponses aux questions 1 et 2, donner une définition de « année ».  
+    Consigne 2 : Comment appelle-t-on habituellement une rotation pour la Terre ?   
     Consigne 3 : En vous aidant des documents 4 et 5, compléter les cases manquantes des tableaux des documents 3 et 6.
 
 !!! bug Critères de réussite
@@ -14,6 +14,7 @@
     - Définir ce qu'est une année
     - Définir ce qu'est une rotation
     - Définir ce qu'est une journée
+    - Compléter les documents 4 et 5, pour aider aux conversions
 
 
 
@@ -86,18 +87,15 @@ Modèle Héliocentrique : Point de vue de l'étude dss mouvements des planètes 
 ```mermaid
 flowchart LR
     A[Année] -- x ___ --> B[Jour]
-    B -- x  ___  --> C[Heure]
-    C -- x  ___ --> D[Minutes]
-    D -- x ___ --> E[Secondes]
-
     B -- / ___ --> A
-    C -- / ___ --> B
-    D -- / ___ --> C
-    E -- / ___ --> D
+
 ```
 
 **Document 5 Conversion distance**
 
+<div marrkdown style="display:flex; flex-direction:row">
+
+<div marrkdown style="display:flex; flex-direction:column">
 ```mermaid
 flowchart LR
     A[km] -- x ___ --> B[m]
@@ -112,7 +110,65 @@ flowchart LR
     A[cm] -- x ___ --> B[mm]
     B -- /  ___  --> A[mm]
 ```
+</div>
 
+<table>
+<thead>
+  <tr>
+    <th>km</th>
+    <th>hm</th>
+    <th>dam</th>
+    <th>m</th>
+    <th>dm</th>
+    <th>cm</th>
+    <th>mm</th>
+  </tr>
+</thead>
+<tbody >
+  <tr style="height:30px">
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+
+  </tr>
+    <tr style="height:30px">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+
+  </tr>
+    <tr style="height:30px">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+
+  </tr>
+  <tr style="height:30px">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+
+  </tr>
+</tbody>
+</table>
+
+</div>
 
 **Document 6 : Distance des planètes telluriques par rapports au Soleil**
 
