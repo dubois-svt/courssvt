@@ -20,7 +20,7 @@
 
 **Document 1 le système solaire**
 
-![](SchemaSystSolaire.png)
+![](Pictures/SchemaSystSolaire.png)
 
 
 **Document 2 Définitions**
