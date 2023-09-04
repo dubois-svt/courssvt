@@ -12,8 +12,7 @@
     avoir respecter les différentes étapes de la fiche logiciel
  
 <div markdown class="printable">
-d
-s
+
 **Fiche logiciel SweetHome3D**
 
 On souhaite réaliser la maquette numérique de votre salle de classe à l’aide du logiciel SweetHome 3D. Cette réalisation va permettre de découvrir les fonctions de base du logiciel.

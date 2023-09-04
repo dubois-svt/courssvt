@@ -4,7 +4,7 @@
 
     Interpréter 
 
-!!! warning "Consignes"
+!!! waring "Consignes"
 
     Consigne 1 : 
     

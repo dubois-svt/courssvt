@@ -11,8 +11,8 @@ Vous êtes responsable du projet de rénovation d’une salle de sciences. Vous 
     Consigne 3 : Réaliser un croquis rapide de la salle de classe.
 
 !!! bug "Critères de réussite"
-  - avoir compléter le tableau du document 4
-  - avoir proposer un croquis de la salle de classe
+    - avoir compléter le tableau du document 4
+    - avoir proposer un croquis de la salle de classe
 
 **Document 1 : Les objets techniques, quelques définitions de technologie**
 
