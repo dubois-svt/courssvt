@@ -124,12 +124,17 @@ markdown_extensions:
 nav :
   - index.md
   - 6e :
-      - Séquence Propriété de la matière : 
-          - Introduction : 6e/ProprietesMatiere/IntroMatiere.md
-          - Activité Importance du tri des déchets : 6e/ProprietesMatiere/Decomposition.md
-          - Activité Les propriétés des matériaux : 6e/ProprietesMatiere/Proprietes.md
-          - Activité 3 : 6e/ProprietesMatiere/6e_seq1_3.md
-          - Fiche révision : 6e/ProprietesMatiere/FicheMatiere.md
+      - Séquence Mouvement de la Terre :
+        - Introduction : 6e/MouvementTerre/IntroMvtTerre.md
+        - Activité Révolution et rotation : 6e/MouvementTerre/RevolRotation.md
+        - Activité Vitesse : 6e/MouvementTerre/Vitesse.md
+        - Fiche Révision : 6e/MouvementTerre/FicheMvtTerre.md
+      #- Séquence Propriété de la matière : 
+      #    - Introduction : 6e/ProprietesMatiere/IntroMatiere.md
+      #    - Activité Importance du tri des déchets : 6e/ProprietesMatiere/Decomposition.md
+      #    - Activité Les propriétés des matériaux : 6e/ProprietesMatiere/Proprietes.md
+      #    - Activité 3 : 6e/ProprietesMatiere/6e_seq1_3.md
+      #    - Fiche révision : 6e/ProprietesMatiere/FicheMatiere.md
       #- Séquence Masse et volume :
       #- Séquence Mélanges :
       #- Séquence Mouvements :

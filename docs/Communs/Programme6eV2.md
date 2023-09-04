@@ -10,8 +10,8 @@
   
 !!! note 
   virer Seq1 seance 1
-  rajouter conductivité electrique seq1 seance 2
-  temmpérature changt etat à faire
+  rajouter conductivité électrique seq1 seance 2
+  température changement état à faire
 
 #### Masse et volume
 
@@ -35,7 +35,7 @@
 
 !!! note
     reprendre la séance 3 et rajouter les picto
-    rejouter une transforamtion chimique    
+    rajouter une transformation chimique    
 
 ### Différents types de mouvement
 
@@ -117,8 +117,8 @@
 - Mesurer l’évolution au cours du temps de certains paramètres physico-chimiques à l’aide de capteurs.
 
 !!! note
-    faire lien entre méthode et contrainte en focntion de l'aliment 
-    mesurer temperature d'un aliment qui décongele lien avec la chaine du froid
+    faire lien entre méthode et contrainte en fonction de l'aliment 
+    mesurer temperature d'un aliment qui décongèle lien avec la chaîne du froid
 
 
 ### Cycle de vie et reproduction des êtres vivants
