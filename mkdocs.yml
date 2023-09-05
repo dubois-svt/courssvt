@@ -124,6 +124,7 @@ markdown_extensions:
 nav :
   - index.md
   - 6e :
+      - 6e/sommaire6e.md
       - Séquence Mouvement de la Terre :
           - Introduction : 6e/MouvementTerre/IntroMvtTerre.md
           - Activité Révolution et rotation : 6e/MouvementTerre/RevolRotation.md
@@ -156,6 +157,7 @@ nav :
       #- Séquence Conséquences des actions humaines sur l’environnement :
           
   - 5e :
+      - 5e/sommaire5e.md
       - Séquence Construire une école :
           - Introduction : 5e/constructionEcole/Intro_Construire_Ecole.md
           - Cahier des charges d'une salle de classe: 5e/constructionEcole/cahierCharges.md
@@ -177,6 +179,8 @@ nav :
       #- Séquence Masse et volume:
       #- Séquence Biodiversité et activités humaines : 
   - 4e :
+      - 4e/sommaire4e.md
+
       - Séquence Météo et climat :
             - Introduction : 4e/meteoetclimat/IntroMeteoClimat.md
             - Différence Météo/Climat : 4e/meteoetclimat/diffmeteoclimat.md
@@ -196,6 +200,8 @@ nav :
       #- Séquence Asepsie et antisepsie : 
           
   - 3e :
+      - 3e/sommaire3e.md
+
       - Séquence Eres géologiques :
           - Introduction : 3e/EvtsTerre/IntroEvtsTerre.md
           - Evénements dans l'histoire de la Terre : 3e/EvtsTerre/HistoireTerre.md
