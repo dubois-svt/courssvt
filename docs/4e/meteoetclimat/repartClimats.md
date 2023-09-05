@@ -72,42 +72,44 @@ Le climat chaud ou intertropical correspond à des températures moyennes annuel
 
 **Document 4 : tableau des observations (à compléter)**
 
-Zone 1
-Zone 2
-Quantité d’énergie reçue par la zone
-La quantité d’énergie reçue par les deux zones est la même car le trou percé dans la diapositive permet de laisser passer toujours la même quantité d’énergie.
-Surface de la tache lumineuse
-(indiquez le nombre approximatif de petits carreaux)
+<table >
+<thead>
+  <tr>
+    <th> 	 		</th>
+    <th>Zone 1 		</th>
+    <th>Zone 2 		</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Quantité d’énergie reçue par la zone 		</td>
+    <td colspan="2"> La quantité d’énergie reçue par les deux zones est la même 			car le trou percé dans la diapositive permet de laisser passer 			toujours la même quantité d’énergie. 		</td>
+  </tr>
+  <tr>
+    <td>Surface de la tache lumineuse<br>(indiquez le nombre approximatif de petits carreaux)</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Intensité de la tache lumineuse<br>(indiquez si la tache est très lumineuse ou peu lumineuse)</td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
 
 
-Intensité de la tache lumineuse
-(indiquez si la tache est très lumineuse ou peu lumineuse)
-
-
-
-
-Bilan :
-La Terre est une sphère. Les rayons solaires n’arrivent donc pas avec le même angle partout.
-À l’équateur, l’angle entre les rayons solaires et le sol est perpendiculaire et donc les rayons se concentrent sur une petite surface, il y a plus d’énergie, il fait donc plus chaud.
-Tandis qu’aux pôles, l’angle entre les rayons solaires et le sol est plus faible, donc les rayons s’étalent sur une grande surface, il y a moins d’énergie, il fait donc plus froid.
-L’énergie solaire est inégalement répartie à la surface du globe ce qui explique les différents climats.
-
-Un petit mot sur les saisons
-Différence d’énergie reçue au sol en France (43 ° N), en été et en hiver.
-Notez l’angle d’incidence en fonction de la saison
 
 
 
 !!! note-profs "Grille"
     Extraire et mettre en relation des informations pour répondre à un problème
 
-
-
-    Niveau I : Maîtrise insuffisante
-    Niveau F : Maîtrise fragile : Comparaison de la température aux pôles et l’équateur
-    Niveau S : Maîtrise satisfaisante : Comparaison de la température aux pôles et l’équateur.
+    - Niveau I : Maîtrise insuffisante
+    - Niveau F : Maîtrise fragile : Comparaison de la température aux pôles et l’équateur
+    - Niveau S : Maîtrise satisfaisante : Comparaison de la température aux pôles et l’équateur.
     Lien entre la surface éclairée, l’intensité lumineuse et la température aux deux endroits
-    Niveau TB : Très bonne maîtrise : Comparaison de la température aux pôles et l’équateur.
+    - Niveau TB : Très bonne maîtrise : Comparaison de la température aux pôles et l’équateur.
     Lien entre la surface éclairée, l’intensité lumineuse et la température aux deux endroits.
     Autonomie
 

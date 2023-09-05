@@ -93,12 +93,11 @@ Pour étudier le climat actuel, il faut étudier la météo
 
 
 ??? abstract "Bilan"
-    Pour décrire le temps qu’il fait à un instant donné, on peut utiliser des stations météorologiques. Ces instruments mesurent des paramètres météorologiques indispensables pour décrire le temps (température, pression, précipitation, direction, vitesse du vent…).
+    La Terre est une sphère. Les rayons solaires n’arrivent donc pas avec le même angle partout. À l’équateur, l’angle entre les rayons solaires et le sol est perpendiculaire et donc les rayons se concentrent sur une petite surface, il y a plus d’énergie, il fait donc plus chaud. Tandis qu’aux pôles, l’angle entre les rayons solaires et le sol est plus faible, donc les rayons s’étalent sur une grande surface, il y a moins d’énergie, il fait donc plus froid. L’énergie solaire est inégalement répartie à la surface du globe ce qui explique les différents climats.
 
-    Pour prévoir le temps qu’il fera dans les prochains jours, les météorologues utilisent des modèles de prévision numérique du temps. Ce sont des logiciels complexes qui simulent comment le temps va évoluer, à partir des données enregistrées.
-
-    ![Photo de serveur de calcul météo](Pictures/ordiMeteo.png)
-    ![Graphique de différents calculs météo](Pictures/calculMeteo.png)
+??? note
+    Un petit mot sur les saisons Différence d’énergie reçue au sol en France (43 ° N), en été et en hiver. Notez l’angle d’incidence en fonction de la saison.
+    ![Schéma rayons lumineux en fonction de la période l'année](Pictures/schemaSaisons.png)
 
 <div style="page-break-after: always;"></div>
 
