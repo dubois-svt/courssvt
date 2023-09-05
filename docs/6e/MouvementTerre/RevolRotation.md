@@ -93,9 +93,9 @@ flowchart LR
 
 **Document 5 Conversion distance**
 
-<div marrkdown style="display:flex; flex-direction:row">
+<div markdown style="display:flex; flex-direction:row">
 
-<div marrkdown style="display:flex; flex-direction:column">
+<div markdown style="display:flex; flex-direction:column">
 ```mermaid
 flowchart LR
     A[km] -- x ___ --> B[m]
