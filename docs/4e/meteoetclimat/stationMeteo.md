@@ -8,7 +8,7 @@
 
 !!! warning "Consignes"
 
-    Consigne 1 : Indiquer pour chaque capteur de la station météo son utilité.
+    Consigne 1 : Indiquer pour chaque capteur de la station météo son utilité.  
     Consigne 2 : À partir des données de la station météorologique, compléter la dernière ligne pour indiquer le temps qu’il faisait à Paris le 14 et le 15 septembre 2016.
     
 !!! bug Critères de réussite
@@ -20,7 +20,7 @@
 
 **Document 1 Photo d'une station météo.**
 
-![](Pictures/stationMeteo.png)
+![](Pictures/stationMeteo.png){: style="width:3000px";} 
 
 
 **Document 2 Mesure d’une station météo installée à Paris (5e arrondissement) (www.meteoalecole.org).**
