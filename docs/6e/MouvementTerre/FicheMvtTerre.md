@@ -1,25 +1,17 @@
 # Fiche de révision
 
 
+| Connaissances   | Compétence   |
+| --- | ---- |
+|   Je connais les définitions de révolution, rotation, modèle héliocentrique     |      Je sais convertir des unités de distance et de temps    |
+|   Je sais définir un mouvement  | Je sais faire un calcul de vitesse |
+
+
 ## Compétences travaillées dans la séquence
 - Trouver et exploiter des informations
 - Utiliser l'outil numérique
 
 
-Pour comprendre ces définitions, je dois également connaître :
-La définition de révolution ;
-La définition de rotation ;
-La définition du modèle héliocentrique.
-
-Ce que je dois savoir-faire : 
-Convertir des unités de distances (km à m) et de temps (année en jours).
-
-Ce que je dois savoir : 
-    • Formule de la vitesse et son unité usuelle.
-    • La définition d’un mouvement uniforme (mouvement durant lequel la valeur de la vitesse reste constante)
-
-Ce que dois savoir-faire : 
-    • Reconnaître des situations dans lesquelles la vitesse d’un objet en mouvement par rapport à un observateur a une valeur constante ou variable
 
 ## Flashcards
 
@@ -27,13 +19,16 @@ Ce que dois savoir-faire :
 <div markdown class="flashcard">
 
 1. 
-    - question
-    - Une ampoule
+    - Quelle est la formule d'un calcul de vitesse ?
+    -     $v= distance \div temps$
 2. 
-    - Lorem ipsum ?
-    - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam non diam ut quam vehicula efficitur sit amet vitae nisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed at rutrum dui.
+    - A quoi correspond une journée ?
+    - C'est le temps de rotation de la Terre par rapport à l'axe des pôles
 3. 
-    - Question
-    - Réponse
+    - A quoi correspond une année ?
+    - C'est le temps de révolution de la Terre autour du Soleil
+4. 
+    - Quels sont les deux éléments définissant un mouvement ?
+    - La vitesse et la trajectoire.
 
 </div>

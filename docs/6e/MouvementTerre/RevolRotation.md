@@ -21,7 +21,7 @@
 
 **Document 1 le système solaire**
 
-![](Pictures/SchemaSystSolaire.png)
+![](Pictures/SchemaSystSolaire.png){: style="width:500px";} 
 
 
 **Document 2 Définitions**

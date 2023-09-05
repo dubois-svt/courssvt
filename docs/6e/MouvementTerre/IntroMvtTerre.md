@@ -60,13 +60,14 @@ Dans l’activité précédente, nous avons vu que la Terre se déplaçait selon
     $v= distance \div temps$
 
     Un mouvement est caractérisé par sa trajectoire et sa vitesse.
-    Si la trajectoire est une droite le mouvement est rectiligne
-    Si la trajectoire est un cercle le mouvement est circulaire
+    - Si la trajectoire est une droite le mouvement est rectiligne
+    - Si la trajectoire est un cercle le mouvement est circulaire
 
-    Si la vitesse est constante le mouvement est uniforme
-    Si la vitesse diminue le mouvement est ralentie
-    Si la vitesse augmente le mouvement est accélérée
+    - Si la vitesse est constante le mouvement est uniforme
+    - Si la vitesse diminue le mouvement est ralentie
+    - Si la vitesse augmente le mouvement est accélérée
 
+    La Terre a donc un mouvement circulaire et uniforme.
 
 
  [Activité Exercices sur la vitesse](../VitesseExercices)
