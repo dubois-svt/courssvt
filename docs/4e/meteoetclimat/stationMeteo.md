@@ -20,7 +20,7 @@
 
 **Document 1 Photo d'une station météo.**
 
-![](stationMeteo.png)
+![](Pictures/stationMeteo.png)
 
 
 **Document 2 Mesure d’une station météo installée à Paris (5e arrondissement) (www.meteoalecole.org).**
