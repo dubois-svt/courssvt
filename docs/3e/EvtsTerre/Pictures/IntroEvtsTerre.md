@@ -80,6 +80,7 @@ Différence météo et climat
 
 
 ??? abstract "Bilan"
+    
     À l’échelle des temps géologiques, le climat change, selon la position de la Terre dans l’espace et son inclinaison.
 
     Les changements climatiques peuvent être montrés grâce aux fossiles que l’on retrouve ou aux traces laissées par nos ancêtres.
@@ -88,14 +89,25 @@ Différence météo et climat
 
 <div style="page-break-after: always;"></div>
 
-## Séance 2 : Nom
+## Séance 3 : Le changement climatique actuel
 
-[Activité nom activité](../lien vers l'activité)
+Le phénomène actuel est un consensus scientifique. Les scientifiques ont tous montrés que ce réchauffement existait depuis des dizaines d'années. Pourtant certains doutaient encore il y a quelques années.
 
 
+![© NAWAK - Licence : Tous droits réservés](Pictures/caricatureTrumClimat.png)
 
+!!! question Problématique 
+    Quels sont les arguments pour montrer que le réchauffement existe?v
+
+[Activité Changement climatique actuel](../chgtClimatActuel)
+
+
+![Alt text](Pictures/graphTempMoyenne.png)
 
 ??? abstract "Bilan"
-    Bilan
+
+    À l’échelle des temps géologiques, le climat change, selon la position de la Terre dans l’espace et son inclinaison.
+    Mais depuis la deuxième moitié du 19e siècle, on observe une augmentation plus rapide de la température moyenne à la surface de la Terre que celles constatées durant ces 500 000 dernières années
+    De nombreux indices montrent que jamais dans l’histoire du climat, la température n’a augmenté aussi rapidement qu’actuellement.
 
 <div style="page-break-after: always;"></div>

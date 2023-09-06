@@ -114,7 +114,7 @@ document 5.
 
 Compétence travaillée : Extraire et mettre en relation des informations
 
-<img src="Pictures/10000000000002AF000001AFC5A799CEE85CF733.png"
+<img src="Pictures/carteSeismes.png"
 style="width:9.696cm;height:6.115cm" />Document 1 : carte de répartition
 des séismes
 
@@ -124,7 +124,7 @@ Légende :
 
 > — points noirs : séismes en zone de rapprochement.
 
-<img src="Pictures/10000000000002AD000001ADA85BF29943999336.png"
+<img src="Pictures/carteVolcans.png"
 style="width:10.125cm;height:6.322cm" />
 
 Document 2 : carte de répartition des volcans
@@ -135,19 +135,18 @@ Légende :
 
 > — points noirs : volcanisme explosif.
 
-<img src="Pictures/1000000100000283000001A1B420F193C954A98D.png"
-style="width:11.984cm;height:7.754cm" />
+
 
 Document 3 : carte des limites de plaques tectoniques
-
+<img src="Pictures/cartePlaques.png"
+style="width:11.984cm;height:7.754cm" />
 Légende :
 
 ** : Zone d’écartement de deux plaques**
 
 : Zone de rapprochements de deux plaques
 
-Document 4 : Carte des
-reliefs.<img src="Pictures/100000010000036700000206AD2E541E091491E0.png"
+Document 4 : Carte des reliefs.<img src="Pictures/carteReliefs.png"
 style="width:18.5cm;height:11.001cm" />
 
 <div markdown="1">
@@ -818,183 +817,16 @@ lithosphériques.
 
 ## Chapitre 3 : Les changements climatiques
 
-Différence météo et climat
-
-<img src="Pictures/10000001000005BA000002C95590C1A977A8584B.png"
-style="width:9.048cm;height:7.988cm" /><img src="Pictures/10000001000000BB000000ACC4895B6D57109E0C.png"
-style="width:8.448cm;height:7.774cm" />
-
-<div markdown="1">
-
-**Document 1 : Carte du *****climat***** en France présentant les
-températures moyennes sur une période de 30 ans (1981 – 2010)**
-
-Moyenne des températures annuelles mesurées entre 1981 et 2010
-
-© MeteoNews
-
-**Document 2 : Carte *****météo***** présentant le relevé de
-températures du jeudi 15 septembre 2016 à 11 h**
-
-Températures mesurées par les stations météorologiques
-
-© Infoclimat
-
-</div>
-
-***D**éfinitions*
-
-En météorologie :
-
-On décrit les paramètres météo (températures, précipitations, vents…)
-qu’il fait à un instant donné.
-
-On prévoit comment les paramètres météo évolueront dans les prochains
-jours.
-
-En climatologie :
-
-On définit les climats avec la moyenne des paramètres météo mesurés sur
-des périodes de 30 ans.
-
-On décrit l’évolution des climats dans le passé.
-
-On prévoit l’évolution des climats dans le futur.
-
-1.  ### Comment montrer que le climat a changé dans le passé ?
-
-```{=html}
-<!-- -->
-```
-1.  #### Les changements climatiques passés
-
-Consigne 1 : À l’aide des documents, montrer que le climat à
-Vallon-Pont-d’Arc le climat a changé et expliquer comment les
-scientifiques ont pu le savoir.
-
-Consigne 2 : À l’aide des documents, montrer que le climat à Blaye le
-climat a changé et expliquer comment les scientifiques ont pu le savoir.
-
-Compétences travaillées : trouver et utiliser des informations,
-
-Document 1 : climat actuel à Vallon-Pont-d’Arc et à Blaye
-
-Aujourd’hui, le climat à Vallon-Pont-d’Arc est un climat méditerranéen
-avec des hivers doux et des étés chauds.
-
-Aujourd’hui, le climat à Blaye est un climat océanique avec des hivers
-doux et des étés frais.
-
-Document 2 : les peintures de la grotte
-Chauvet<img src="Pictures/10000000000000D5000000912262427988EBC1FC.png"
-style="width:3.757cm;height:2.558cm" />
-
-La grotte Chauvet est située à Vallon-Pont-d’Arc dans le département de
-l’Ardèche (France). Les scientifiques estiment que la grotte a été
-occupée par des Hommes préhistoriques entre 37 000 ans et 28 000 ans.
-
-<img src="Pictures/10000000000000D500000091EBEC587495DDF2AE.png"
-style="width:3.32cm;height:2.611cm" />Dans la grotte Chauvet, on peut
-observer plus de 400 peintures et gravures représentant un grand nombre
-d’animaux différents. Félins, mammouths, rhinocéros laineux, chevaux,
-bisons, bouquetins, ours, rennes, aurochs, mégacéros étaient des animaux
-typiques des régions de steppes et de toundras.
-
-Document 3 : caractéristiques des toundras
-
-Les toundras sont des formations végétales que l’on observe dans les
-régions au climat polaire (températures froides toute l’année,
-températures moyennes du mois le plus chaud jamais supérieur à 10 °C).
-Les toundras sont constituées de pelouses d’herbes, de mousses et de
-lichens, sans
-arbres.<img src="Pictures/10000000000000BB000001210999792F6D70072D.jpg"
-style="width:2.163cm;height:3.337cm" />
-
-<img src="Pictures/10000000000001730000012E8B0894A6031746E9.jpg"
-style="width:2.985cm;height:2.436cm" />Document 4 : Des fossiles à Blaye
-
-On retrouve, dans les roches datant de l’éocène (50 à 33 Ma), des
-fossiles Cypraeoidea et des Echinolampas. Aujourd’hui, ces êtres
-vivants.
-
-Document 5 : Les Cypraeoidea et les Echinolampas actuels.
-
-Actuellement, la majorité de ces êtres vivants vivent dans des climats
-tropicaux, c’est-à-dire des climats plutôt chauds.
-
-Document 6 : L’actualisme
-
-Les fossiles nous permettent d’avoir des renseignements sur les
-conditions du milieu dans le passé. Si le fossile est proche de ce à
-quoi ressemble un être vivant actuel, on admet que le milieu de vie de
-l’être vivant fossile doit être proche de celui de l’être vivant actuel.
-
-<table>
-<tbody>
-<tr class="odd">
-<td>Extraire et mettre en relation des informations pour répondre à un
-problème</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Niveau I : Maîtrise insuffisante</td>
-<td>Niveau F : Maîtrise fragile</td>
-<td>Niveau S : Maîtrise satisfaisante</td>
-<td>Niveau TB : Très bonne maîtrise</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>Le climat actuel est trouvé et les indices sur le climat passé sont
-données</td>
-<td>Le climat actuel est trouvé et les indices sur le climat passé sont
-données.<br />
-Le climat passé est trouvé. Une phrase compare les deux climats.<br />
-</td>
-<td>Le climat actuel est trouvé et les indices sur le climat passé sont
-données.<br />
-Le climat passé est trouvé. Une phrase compare les deux climats.<br />
-Autonomie</td>
-</tr>
-</tbody>
-</table>
-
-Correction :
-
-A Blaye, on a trouvé des fossiles qui datent de 50Ma. Ces fossiles ont
-des ressemblances avec des êtres vivants actuels qui vivent dans des
-climats tropicaux, on peut donc dire que les animaux qui vivaient il y a
-50Ma vivaient dans des climats tropicaux. Donc, il y a 50 Ma le climat à
-Blaye était tropical. Actuellement le climat est océanique donc le
-climat a changé.
-
-A Vallon-Pont-D’Arc, on retrouve des dessins d’animaux typiques des
-régions de toundras, datant de 30000 ans. La région était donc une
-toundra. Les toundras sont typiques des climats polaires, le climat à
-Vallon-Pont-D’arc était donc polaire, il y a 30 000 ans. Actuellement,
-le climat est méditerranéen, le climat a donc changé.
-
-Bilan :
-
-À l’échelle des temps géologiques, le climat change, selon la position
-de la Terre dans l’espace et son inclinaison.
-
-Les changements climatiques peuvent **être **montrés grâce aux fossiles
-que l’on retrouve ou aux traces laissées par nos ancêtres.
-
-Ces changements climatiques passés ont provoqué des variations de la
-répartition des êtres vivants.
 
 1.  ### Comment l’**être humain est-il responsable du changement climatique** actuel ?
 
-<img src="Pictures/1000000000000EC40000084E611481418958B702.png"
-style="width:9.186cm;height:5.166cm" /><img src="Pictures/1000000000000EC40000084E3E59E3821AC08AB0.png"
+<img src="Pictures/warmingStripesFrance.png"
+style="width:9.186cm;height:5.166cm" /><img src="Pictures/graphTempFrance.png"
 style="width:9.066cm;height:5.099cm" />France de 1899 à 2021
 
-M<img src="Pictures/1000000000000EC40000084E814DECC5754CEED1.png"
+M<img src="Pictures/warmingStripesMonde.png"
 style="width:9.267cm;height:5.212cm" />onde de 1850 à
-2021<img src="Pictures/1000000000000EC40000084EC32FDDFB469C8149.png"
+2021<img src="Pictures/graphTempMonde.png"
 style="width:8.675cm;height:4.879cm" />
 
 1.  #### Le changement climatique d’origine anthropique
