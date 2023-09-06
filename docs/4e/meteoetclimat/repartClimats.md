@@ -15,7 +15,7 @@
     Consigne 3 : À partir de vos réponses précédentes, proposez une explication à la répartition des climats sur Terre.
 
     
-!!! bug Critères de réussite
+!!! bug "Critères de réussite"
     - 
 
 

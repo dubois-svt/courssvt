@@ -9,7 +9,8 @@
     Consigne : À partir de vos connaissances, vous argumenterez pour expliquer l’erreur commise par l'ancien président des États-Unis d’Amérique.
     
 !!! bug Critères de réussite
-    - avoir utiliser les définitions de météo et climat
+    - avoir identifié les durées des phénomènes dont parle le tweet
+    - avoir utilisé les définitions de météo et climat
 
 
 
@@ -26,8 +27,19 @@ Traduction :
 
 </div>
 
+**Document 2 Temperature à New-York (source: le parisien**
+Météo Contact explique que ce phénomène de grand froid est dû « à une dorsale anticyclonique qui s'est installée du Pacifique à l'ouest du Canada, permettant à de l'air très froid de plonger sur l'Amérique du Nord. »
+
+Celui-ci devrait encore perdurer quelques jours. Le service national de météorologie a ainsi averti d'un « risque de froid excessif » jusqu'au réveillon. Selon France Info, jusqu'à -40 degrés sont attendus à Québec (Canada) et dans le nord des États-Unis.
+
+
 !!! note-prof "Correction"
     Correction La personne qui parle a tort. Elle utilise la température d’une journée pour nous parler du réchauffement du climat. Or pour parler de climats, on ne peut pas utiliser la température d’une journée, il faut utiliser la moyenne des températures mesurées pendant 30 ans. Donc on ne peut pas réfuter le réchauffement climatique avec la météo d’une période courte. Si les scientifiques parlent de réchauffement climatique, c’est qu’ils ont utilisé les données pendant 30 ans.
+    Dans le tweet, Donal Trump parle de vague de froid. Une vague de froid dure peu de temps donc il ds'agit de météorologie.
+
+    Le réchauffement climatique est un événement climatique donc il se passe une longue durée.
+
+    Donald Trum a tort car le réchauffement climatique est une moyenne sur 30 ans.
 
 !!! note-prof "grille"
     Restituer des connaissances

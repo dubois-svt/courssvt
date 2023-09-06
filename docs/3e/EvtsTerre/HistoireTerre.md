@@ -7,7 +7,7 @@
 !!! warning "Consignes"
     Consigne : à partir des informations des différents documents, réaliser une frise chronologique montrant les évènements ayant eu lieu dans l’histoire de la vie et de la Terre. (1 cm = 200Ma)
     
-!!! bug Critères de réussite
+!!! bug "Critères de réussite"
     - Avoir tracé la frise (un trait avec une flèche)
     - Avoir gradué la frise tous les 500Ma
     - Avoir placé 11 événements
