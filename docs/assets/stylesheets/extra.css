@@ -37,7 +37,8 @@
   .md-typeset details.abstract p {
     color: red;
   }
-  .md-typeset details.question p {
+
+  .md-typeset .admonition.question p:not(.admonition-title) {
     color: green;
   }
 
