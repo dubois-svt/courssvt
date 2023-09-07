@@ -37,6 +37,9 @@
   .md-typeset details.abstract p {
     color: red;
   }
+  .md-typeset details.question p {
+    color: green;
+  }
 
 
 

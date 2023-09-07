@@ -55,9 +55,9 @@ Pour la sécurité des usagers, une salle de classe et plus particulièrement un
 <thead>
   <tr>
     <th class="tg-7lf8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">N°</span></th>
-    <th class="tg-7lf8" colspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Contraintes</span></th>
-    <th class="tg-7lf8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Fonction technique</span></th>
-    <th class="tg-7lf8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Solution technique</span></th>
+    <th class="tg-7lf8" colspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">............</span></th>
+    <th class="tg-7lf8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">............ ............</span></th>
+    <th class="tg-7lf8"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">............ ............</span></th>
   </tr>
 </thead>
 <tbody>

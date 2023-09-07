@@ -7,15 +7,13 @@
     
 ### Document d’appel :
 
-À la suite d’une demande de la région Île-de-France, vous vous lancez dans la conception d’une école pour recevoir les nouveaux élèves.  
+À la suite d’une demande de la région Île-de-France, vous vous lancez dans la conception d’une nouvelle salle de classe pour recevoir les nouveaux élèves.  
 ![Photo d'une salle de classe](Pictures/salle_classe.png){: style="width:300px"}
 
 ## Séance 1 : Cahier des charges
 
 [Activité sur le cahier des charges de la construction d'une salle de classe](../cahierCharges)
 
-
-<div style="page-break-after: always;"></div>
 
 <div markdown class="printme"> 
 
