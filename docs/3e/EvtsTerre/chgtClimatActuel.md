@@ -25,11 +25,7 @@
 **Document 1 : évolution de glaciers dans le massif du Mont-Blanc et de la mer de glace (1919 à gauche et 2019 à droite).**
 
 ![L'évolution du glacier d'Ossoue (massif de Vignemale) sur ces dernières années. © Pierre René](image-1.png)
-![Alt text](image.png)
-
-![Alt text](image-2.png)
-
-![Alt text](image-3.png)
+!
 
 **Document 3 : évolution de la date des vendanges en France depuis 1974.**
 

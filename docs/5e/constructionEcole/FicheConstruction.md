@@ -1,4 +1,4 @@
-# Fiche de revision pour séquence Propriétés e la matière.
+# Fiche de revision pour séquence construire une école
 
 ## Compétences travaillées
 - Retenir des idées essentielles d’une leçon

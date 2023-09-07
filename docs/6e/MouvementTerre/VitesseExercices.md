@@ -7,7 +7,7 @@
 !!! warning "Consignes"
     Consigne : Faire les deux exercices
     
-!!! bug Critères de réussite
+!!! bug "Critères de réussite"
 
 
 

@@ -7,7 +7,7 @@
 !!! warning "Consignes"
     Consigne : Calculer la vitesse de la Terre en km/h durant sa révolution. 
     
-!!! bug Critères de réussite
+!!! bug "Critères de réussite"
     - Trouver combien il y a d'heure dans une année
       - Trouver le nombre de jour dans une année
       - Trouver le nombre d'heure dans un jour
@@ -49,4 +49,21 @@ flowchart LR
     E -- / ___ --> D
 ```
 
+
+**Document 5 Conversion distance**
+
+```mermaid
+flowchart LR
+    A[km] -- x ___ --> B[m]
+    B -- x  ___  --> C[mm]
+
+    B -- / ___ --> A
+    C -- / ___ --> B
+```
+
+```mermaid
+flowchart LR
+    A[cm] -- x ___ --> B[mm]
+    B -- /  ___  --> A
+```
 

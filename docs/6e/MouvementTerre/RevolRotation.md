@@ -5,11 +5,11 @@
     - Trouver et exploiter des informations
 
 !!! warning "Consignes"
-    Consigne 1 : À l’aide des réponses aux questions 1 et 2, donner une définition de « année ».  
+    Consigne 1 : À l’aide des documents 2 et 3, donner une définition de « année ».  
     Consigne 2 : Comment appelle-t-on habituellement une rotation pour la Terre ?   
-    Consigne 3 : En vous aidant des documents 4 et 5, compléter les cases manquantes des tableaux des documents 3 et 6.
+    Consigne 3 : En vous aidant des documents 4, compléter les cases manquantes des tableaux du document 3.
 
-!!! bug Critères de réussite
+!!! bug "Critères de réussite"
     - Définir ce qu'est une révolution
     - Définir ce qu'est une année
     - Définir ce qu'est une rotation
@@ -91,112 +91,4 @@ flowchart LR
 
 ```
 
-**Document 5 Conversion distance**
 
-<div markdown style="display:flex; flex-direction:row">
-
-<div markdown style="display:flex; flex-direction:column">
-```mermaid
-flowchart LR
-    A[km] -- x ___ --> B[m]
-    B -- x  ___  --> C[mm]
-
-    B -- / ___ --> A
-    C -- / ___ --> B
-```
-
-```mermaid
-flowchart LR
-    A[cm] -- x ___ --> B[mm]
-    B -- /  ___  --> A[mm]
-```
-</div>
-
-<table>
-<thead>
-  <tr>
-    <th>km</th>
-    <th>hm</th>
-    <th>dam</th>
-    <th>m</th>
-    <th>dm</th>
-    <th>cm</th>
-    <th>mm</th>
-  </tr>
-</thead>
-<tbody >
-  <tr style="height:30px">
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-
-  </tr>
-    <tr style="height:30px">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-
-  </tr>
-    <tr style="height:30px">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-
-  </tr>
-  <tr style="height:30px">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-
-  </tr>
-</tbody>
-</table>
-
-</div>
-
-**Document 6 : Distance des planètes telluriques par rapports au Soleil**
-
-
-<table>
-<thead>
-  <tr>
-    <th> 			</th>
-    <th> Mercure</th>
-    <th>Venus</th>
-    <th>Terre 		</th>
-    <th> Mars </th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Distance (en kilomètre) 		</td>
-    <td>4880 		</td>
-    <td> 			</td>
-    <td> 			</td>
-    <td> 6805 		</td>
-  </tr>
-  <tr>
-    <td>Distance	(en mètre) 		</td>
-    <td> 			 		</td>
-    <td> 12104000 		</td>
-    <td>12756000 		</td>
-    <td></td>
-  </tr>
-</tbody>
-</table>
