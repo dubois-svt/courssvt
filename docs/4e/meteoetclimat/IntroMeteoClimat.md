@@ -91,7 +91,6 @@ Pour étudier le climat actuel, il faut étudier la météo
 
 
 
-
 ??? abstract "Bilan"
     La Terre est une sphère. Les rayons solaires n’arrivent donc pas avec le même angle partout. À l’équateur, l’angle entre les rayons solaires et le sol est perpendiculaire et donc les rayons se concentrent sur une petite surface, il y a plus d’énergie, il fait donc plus chaud. Tandis qu’aux pôles, l’angle entre les rayons solaires et le sol est plus faible, donc les rayons s’étalent sur une grande surface, il y a moins d’énergie, il fait donc plus froid. L’énergie solaire est inégalement répartie à la surface du globe ce qui explique les différents climats.
 
