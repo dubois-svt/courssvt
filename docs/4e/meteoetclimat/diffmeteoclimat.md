@@ -8,7 +8,7 @@
 !!! warning "Consignes"
      En utilisant les documents ci-dessous, expliquer la différence entre « météo » et « climat ».
     
-!!! bug "Critères de réussite"
+??? bug "Critères de réussite"
     - comparer les deux documents climat et trouver un point commun et une différence
     - comparer les deux documents météo et trouver un point commun et une différence
     - comparer les documents climat et météo et trouver une différence

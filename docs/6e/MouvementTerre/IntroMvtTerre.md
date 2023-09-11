@@ -33,7 +33,7 @@ La planète sur laquelle nous nous trouvons s’appelle la Terre. Elle fait part
 
 
 
-- Observer et identifier des situations où la vitesse d’un objet en mouvement par rapport à un observateur a une valeur constante ou variable.
+
 
 
 

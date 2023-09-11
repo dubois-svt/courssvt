@@ -9,7 +9,7 @@
 
     Consigne 2 : À l’aide des documents, montrer que le climat à Blaye le climat a changé et expliquer comment les scientifiques ont pu le savoir.
 
-!!! bug "Critères de réussite"
+??? bug "Critères de réussite"
     - Pour chaque ville, avoir relevé le climat actuel
     - Pour chaque ville, avoir relevé un indice datant de l'époque étudiée
     - Pour chaque ville, avoir déterminé le climat passé à partir des informations de l'indice.
