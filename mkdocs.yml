@@ -14,8 +14,8 @@ edit_uri_template: 'edit/main/docs/{path}'
 docs_dir: docs
 
 
-copyright: >
-  <a href="#__consent">Change cookie settings</a>
+# copyright: >
+#   <a href="#__consent">Change cookie settings</a>
 
 theme:
     favicon: assets/favicon.png
@@ -49,18 +49,18 @@ theme:
         - content.action.edit
 
 
-extra:
-  consent:
-    title: Cookie consent
-    description: >- 
-      We use cookies to recognize your repeated visits and preferences, as well
-      as to measure the effectiveness of our documentation and whether users
-      find what they're searching for. With your consent, you're helping us to
-      make our documentation better.
-    actions:
-      - accept
-      - manage
-      - reject
+#extra:
+  # consent:
+  #   title: Cookie consent
+  #   description: >- 
+  #     We use cookies to recognize your repeated visits and preferences, as well
+  #     as to measure the effectiveness of our documentation and whether users
+  #     find what they're searching for. With your consent, you're helping us to
+  #     make our documentation better.
+  #   actions:
+  #     - accept
+  #     - manage
+  #     - reject
 
           
 
@@ -131,6 +131,11 @@ nav :
           - Activité Vitesse : 6e/MouvementTerre/Vitesse.md
           - Activité Exercices sur la vitesse : 6e/MouvementTerre/VitesseExercices.md
           - Fiche Révision : 6e/MouvementTerre/FicheMvtTerre.md
+      - Séquence Rotation de la Terre:
+        - Introduction: 6e/rotationTerre/IntroRotationTerre.md
+        - Alternance jour/nuit : 6e/rotationTerre/JourNuit.md
+
+      
       #- Séquence Propriété de la matière : 
       #    - Introduction : 6e/ProprietesMatiere/IntroMatiere.md
       #    - Activité Importance du tri des déchets : 6e/ProprietesMatiere/Decomposition.md
@@ -187,7 +192,8 @@ nav :
             - Vague de froid: 4e/meteoetclimat/exodiffmeteoclimat.md
             - Utiliser une station météo : 4e/meteoetclimat/stationMeteo.md
             - Répartition des climats : 4e/meteoetclimat/repartClimats.md
-        #- Séquence dynamique masses d'air et d'eau:
+            -  Fiche de révision : 4e/meteoetclimat/FicheMeteoClimat.md
+      #- Séquence dynamique masses d'air et d'eau:
 
       #- Séquence Exploitations des sols pour produire de la nourriture :
       #- Séquence Reproduction des êtres vivants :
@@ -203,10 +209,11 @@ nav :
   - 3e :
       - 3e/sommaire3e.md
 
-      - Séquence Eres géologiques :
+      - Séquence Histoire de la Terre :
           - Introduction : 3e/EvtsTerre/IntroEvtsTerre.md
           - Evénements dans l'histoire de la Terre : 3e/EvtsTerre/HistoireTerre.md
           - Les changements climatiques passés : 3e/EvtsTerre/chgtsClimatPasses.md
+          - Le changement climatique actuel : 3e/EvtsTerre/chgtClimatActuel.md
           - Fiche de révision : 3e/EvtsTerre/FicheEvtsTerre.md
       #- Séquence Tectonique des plaques 1:
       #- Séquence Tectonique des plaques 2:

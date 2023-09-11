@@ -8,41 +8,55 @@
 
 !!! warning "Consignes"
 
-    Consigne : réalisez le protocole présenté dans le document 2 et indiquez les résultats obtenus dans le document 4.
-
-    Consigne : à partir des documents, expliquez les différences de surface éclairées constatées dans les deux zones et expliquez les différences d’intensité lumineuse  constatées dans les deux zones.
-
-    Consigne 3 : À partir de vos réponses précédentes, proposez une explication à la répartition des climats sur Terre.
+    Consigne : À partir de la manipulation et des documents, proposer une explication à la répartition des climats sur Terre.
 
     
-!!! bug "Critères de réussite"
-    - 
+??? bug "Critères de réussite"
+    - Compléter le document 3 et document 4
+    - Comparer la température au pôle et à l'équateur
+    - Faire le lien entre surface éclairée et intensité lumineuse
+    - faire le lien entre intensité lumineuse et température.
+    - Lier les différents éléments de réponse.
 
+<div markdown style="display:flex; flex-direction:row;">
 
+<div markdown style="display:flex; flex-direction:column; width: 65%;">
 
 
 **Document 1 : carte de la répartition des climats**
 ![](Pictures/carteClimat.png)
 
-1 et 2 : emplacement des deux zones étudiées.
-Le climat froid ou polaire correspond à des températures moyennes annuelles inférieures à 0 °C.
-Le climat tempéré correspond à des températures moyennes annuelles comprises entre 0 et 20 °C.
+</div>
+
+
+<div markdown style="display:flex; flex-direction:column; margin:10px; width: 35%;">
+
+1 et 2 : emplacement des deux zones étudiées.  
+Le climat froid ou polaire correspond à des températures moyennes annuelles inférieures à 0 °C.  
+Le climat tempéré correspond à des températures moyennes annuelles comprises entre 0 et 20 °C.  
 Le climat chaud ou intertropical correspond à des températures moyennes annuelles supérieures à 20 °C.
 
-**Document 2 : protocole à réaliser**
-- Placez le projecteur sur le plateau élévateur ;  
-- Placez la diapositive percée à l’intérieur du projecteur ;  
-- Placez le globe terrestre à une distance de 20 centimètres de la lampe du projecteur ;  
-- Allumez le projecteur ;  
-- Réglez la hauteur du projecteur afin de placer la tache lumineuse dans la zone 1 (voir doc. 1) et appeler le professeur ;  
-- Placez le calque sur le globe ;  
-- Tracez sur le calque le contour de la tache lumineuse ;  
-- Placez le calque sur une feuille à petits carreaux ;  
-- Comptez le nombre approximatif de petits carreaux à l’intérieur de la tache ;  
-- Complétez le tableau (voir doc. 4) à l’aide des observations ;  
-- Répétez les opérations 5 à 10 pour la zone 2 (voir doc. 1).
+</div>
+</div>
 
-**Document 3 : du modèle à la réalité**
+**Document 2 : Modélisation de la répartition de l'énergie solaire sur Terre**
+L'énergie solaire est une source d'énergie importantes. Plus les rayons solaires sont concentrés plus il fera chaud.
+
+Matériel :
+- lampe;
+- ballon;
+- carton percé;
+- feuille petit carreaux.
+
+1. Placer la lampe sur le plateau élévateur et un ballon à un vingtaine de cm ;  
+2. Placer le carton percé entre la lampe et le ballon de façon avoir une tache lumineuse nette sur le ballon ;   
+3. Régler la hauteur de la lampe afin de placer la tache lumineuse dans la zone 1 (voir doc. 1);
+4. Placer une feuille sur la zone éclairée et tracer le contour de la tâche lumineuse
+5. Compter le nombre approximatif de petits carreaux à l’intérieur de la tache ;  
+6.  Compléter le tableau (voir doc. 4) à l’aide des observations ;  
+7.  Répéter les opérations 5 à 10 pour la zone 2 (voir doc. 1).
+
+**Document 3 : du modèle à la réalité (à compléter)**
 <table>
 <thead>
   <tr>
@@ -53,11 +67,11 @@ Le climat chaud ou intertropical correspond à des températures moyennes annuel
 <tbody>
   <tr>
     <td>Projecteur</td>
-    <td>Soleil</td>
+    <td></td>
   </tr>
   <tr>
-    <td>Globe terrestre</td>
-    <td>Terre</td>
+    <td>Ballon</td>
+    <td></td>
   </tr>
   <tr>
     <td>Diapositive percée</td>
@@ -102,7 +116,7 @@ Le climat chaud ou intertropical correspond à des températures moyennes annuel
 
 
 
-!!! note-profs "Grille"
+!!! note-prof "Grille"
     Extraire et mettre en relation des informations pour répondre à un problème
 
     - Niveau I : Maîtrise insuffisante
