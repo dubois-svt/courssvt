@@ -9,12 +9,12 @@
     Consigne 2 : Comment appelle-t-on habituellement une rotation pour la Terre ?   
     Consigne 3 : En vous aidant des documents 4, compléter les cases manquantes des tableaux du document 3.
 
-!!! bug "Critères de réussite"
-    - Définir ce qu'est une révolution
+??? bug "Critères de réussite"
     - Définir ce qu'est une année
+        - Définir ce qu'est une révolution
     - Définir ce qu'est une rotation
-    - Définir ce qu'est une journée
-    - Compléter les documents 4 et 5, pour aider aux conversions
+        - Définir ce qu'est une journée
+    - Compléter les documents 4, pour aider aux conversions
 
 
 

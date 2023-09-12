@@ -10,9 +10,10 @@ Vous êtes responsable du projet de rénovation d’une salle de sciences. Vous 
     Consigne 2 : Compléter le cahier des charges en retrouvant les  éléments manquants.  
     Consigne 3 : Réaliser un croquis rapide de la salle de classe.
 
-!!! bug "Critères de réussite"
-    - avoir compléter le tableau du document 4
-    - avoir proposer un croquis de la salle de classe
+??? bug "Critères de réussite"
+    - avoir complété le tableau du document 4
+    - avoir proposé un croquis de la salle de classe
+    - avoir mis une légende et un titre au croquis
 
 **Document 1 : Les objets techniques, quelques définitions de technologie**
 
@@ -92,7 +93,7 @@ Pour la sécurité des usagers, une salle de classe et plus particulièrement un
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6</span></td>
     <td class="tg-0pky" rowspan="3"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Liées à l’environnement</span></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Législation en vigueur</span></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Pas de table et de chaise traditionnelle</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Paillasses (30 places) + tabourets</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Pas de table et de chaise traditionnelle</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Paillasses (28 places) + tabourets</span></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">7</span></td>

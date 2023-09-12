@@ -7,7 +7,7 @@
 !!! warning "Consignes"
     Consigne : Calculer la vitesse de la Terre en km/h durant sa révolution. 
     
-!!! bug "Critères de réussite"
+??? bug "Critères de réussite"
     - Trouver combien il y a d'heure dans une année
       - Trouver le nombre de jour dans une année
       - Trouver le nombre d'heure dans un jour
