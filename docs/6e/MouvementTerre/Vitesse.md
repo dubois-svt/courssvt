@@ -1,4 +1,4 @@
-# Activité : Vitesse
+# Activité : Vitesse de la Terre
 
 
 !!! note "Compétences"

@@ -41,7 +41,7 @@ La planète sur laquelle nous nous trouvons s’appelle la Terre. Elle fait part
 
 
 
-## Séance 2 : Vitesse
+## Séance 2 : Vitesse de la Terre
 
 Dans l’activité précédente, nous avons vu que la Terre se déplaçait selon une révolution autour du Soleil en une année, soit 365,25 jours et qu’un jour correspondait à une rotation de la Terre sur elle-même par rapport à ses pôles.
 
@@ -49,7 +49,7 @@ Dans l’activité précédente, nous avons vu que la Terre se déplaçait selon
     À quelle vitesse la Terre se déplace-t-elle ?
 
 
-[Activité Vitesse](../Vitesse)
+[Activité Vitesse de la Terre](../Vitesse)
 
 
 

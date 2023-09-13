@@ -1,7 +1,7 @@
 # Fiche de révision
 
 
-| Connaissances   | Compétence   |
+| Connaissances   | Compétences   |
 | --- | ---- |
 |   Je connais les définitions de révolution, rotation, modèle héliocentrique     |      Je sais convertir des unités de distance et de temps    |
 |   Je sais définir un mouvement  | Je sais faire un calcul de vitesse |

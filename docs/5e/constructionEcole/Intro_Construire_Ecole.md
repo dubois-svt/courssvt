@@ -15,9 +15,8 @@
 [Activité sur le cahier des charges de la construction d'une salle de classe](../cahierCharges)
 
 
-<div markdown class="printme"> 
 
-??? abstract "Définitions"
+??? info "Définitions"
     Fonction d'usage : rôle d'un objet technique
     Contrainte : caractéristique imposée à l’objet technique
     Fonction technique : décomposition de la fonction d’usage  
@@ -85,5 +84,4 @@
 
 
 
-<div style="page-break-after: always;"></div>
 
