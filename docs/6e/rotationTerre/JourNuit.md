@@ -5,8 +5,9 @@
 
 !!! warning "Consignes"
     Consigne 1 : Dans le document 1, pour chaque photo indiquer qui semble en mouvement et par rapport à qui ?  
-    Consigne 2 : Réaliser les 3 modélisations du document 2 et indiquer pour chacun s'il y a une alternance jour/nuit pour le repère.  
-    Consigne 3 : Parmi les trois modèles, indiquer celui qui modélise l’alternance du jour et de la nuit du point de vue d’un observateur sur Terre ? Justifier.
+    Consigne 2 : Dans les modélisations du document 3, indiquer ce que représente le ballon et la lampe dans la réalité.  
+    COnsigne 3 : Réaliser les 3 modélisations du document 2 et indiquer pour chacun s'il y a une alternance jour/nuit pour le repère.  
+    Consigne 4 : Parmi les trois modèles, indiquer celui qui modélise l’alternance du jour et de la nuit du point de vue d’un observateur sur Terre ? Justifier.
    
    
 ??? bug "Critères de réussite"

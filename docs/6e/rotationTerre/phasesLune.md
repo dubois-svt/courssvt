@@ -1,3 +1,18 @@
+## Séance 2 : Phases de la Lune
+
+Mercredi 23 août 2023, l’Inde a réussi à faire atterrir le robot Pragyan de la mission Chandrayaan-3 dans l’hémisphère sud de la Lune. Cette mission a pour but d’étudier les sols lunaires. Le satellite naturel de la Terre reste encore aujourd’hui un sujet d’étude important et les premières traces d’études se sont axées sur son aspect variant dans le ciel au fil des nuits.
+
+![Les phases de la Lune](Pictures/phasesLune.png)
+
+!!!question "Problématique"
+    Comment expliquer l’aspect changeant de la Lune dans le ciel nocturne ?
+
+[Activité Phases de la Lune](../phasesLune)
+
+
+
+??? abstract "Bilan"
+
 # Activité : Les phases de la Lune
 
 !!! note "Compétences"

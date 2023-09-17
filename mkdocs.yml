@@ -134,8 +134,9 @@ nav :
       - Séquence Rotation de la Terre:
         - Introduction: 6e/rotationTerre/IntroRotationTerre.md
         - Alternance jour/nuit : 6e/rotationTerre/JourNuit.md
-        - Phases de la Lune : 6e/rotationTerre/phasesLune.md
         - Exercice sur la vitesse de la Lune : 6e/rotationTerre/VitesseExerciceLune.md
+        - Saisons : 6e/rotationTerre/saisons.md
+        
 
       #- Séquence Propriété de la matière : 
       #    - Introduction : 6e/ProprietesMatiere/IntroMatiere.md

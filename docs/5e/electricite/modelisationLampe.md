@@ -1,4 +1,4 @@
-# Activité : Modélisation d'une lampe de poche
+# Activité PC1.1 : Modélisation d'une lampe de poche
 
 
 

@@ -18,10 +18,11 @@ Durant l’Histoire, savoir si le Soleil tourne autour de la Terre, fixe au mili
 [Activité Alternance jour/nuit](../JourNuit)
 
 2 vidéos en directe de l'autre côté de la planète
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hWbt2eVCEe8?si=xiEI_xSySJnCgPnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hWbt2eVCEe8?si=fK99FagtwtzdCd5e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 Vidéo streaming Alaska
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tBh-ZhIB1Nk?si=AysilMHIuWNnI32R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/76rwjwc07DI?si=PsWVBlLWdmBW01e1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 Vidéo streaming Hawaï
 
 ??? abstract "Bilan"
@@ -31,48 +32,39 @@ Vidéo streaming Hawaï
     Sur 24h, un lieu passe dans la lumière du Soleil, c'est la journée, puis dans l'ombre, c'est la nuit.
     Au même moment, lorsque c'est la jour à endroit, c'est la nuit à d'autres.
 
-
-
-## Séance 2 : Phases de la Lune
-
-Mercredi 23 août 2023, l’Inde a réussi à faire atterrir le robot Pragyan de la mission Chandrayaan-3 dans l’hémisphère sud de la Lune. Cette mission a pour but d’étudier les sols lunaires. Le satellite naturel de la Terre reste encore aujourd’hui un sujet d’étude important et les premières traces d’études se sont axées sur son aspect variant dans le ciel au fil des nuits.
-
-![Les phases de la Lune](Pictures/phasesLune.png)
-
-!!!question "Problématique"
-    Comment expliquer l’aspect changeant de la Lune dans le ciel nocturne ?
-
-[Activité Phases de la Lune](../phasesLune)
-
 [Activité exercice de révision sur les vitesses](../VitesseExerciceLune)
 VitesseExerciceLune
 
 
+
+
+## Séance 2 : Les saisons
+
+La Terre n’est pas « parfaitement droite » par rapport à sa révolution autour du Soleil. En effet, elle est inclinée de 23° et c’est cette inclinaison qui est responsable des saisons. Sur Terre, un observateur n’observe pas l’inclinaison de la Terre mais celle du Soleil. 
+
+!!!question "Problématique"
+    Comment cette inclinaison peut-elle avoir un impact sur les saisons ?
+
+
+[Activité sur les saisons](../Saison)
+
+
 ??? abstract "Bilan"
+    L'inclinaison du Soleil fait que la durée des journées et des nuit varient au cours de l'année. 
+    De plus, moins le Soleil est haut dans le ciel, moins il fait chaud. 
+    Les saisons changent donc en fonction de l'inclinaison du Soleil et de la durée du jour.
+    Dans l'hémisphère nord, le jour le plus long correspond au solstice d’été (21 juin) et que le jour le plus court correspond au solstice d’hiver (21 décembre). Lors des équinoxes (21 mars et 21 septembre), la durée du jour est égale à la durée de la nuit.
 
 
 
-## Séance 3 : Les saisons
+
+## Séance 3 : 
 
 
 !!!question "Problématique"
 
 
-[Activité Vitesse](../Vitesse)
-
-
-
-
-??? abstract "Bilan"
-
-
-## Séance 2 : Phases de la Lune
-
-
-!!!question "Problématique"
-
-
-[Activité Vitesse](../Vitesse)
+[Activité ](../ccdvdv)
 
 
 

@@ -6,7 +6,7 @@
     - Utiliser l'outil numérique
 
 !!! warning "Consignes"
-  Calculer la valeur de la vitesse en km/h de révolution de la Lune autour de la Terre.
+    Calculer la valeur de la vitesse en km/h de révolution de la Lune autour de la Terre.
     
 !!! bug "Critères de réussite"
     - Rappeler la formule qui permet de calculer la vitesse.

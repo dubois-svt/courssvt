@@ -66,12 +66,18 @@ C’est en 1879 que l’américain Thomas Edison provoque une révolution dans l
     </tbody>
     </table>
 
-*On parle d’électrisation lorsque le corps humain reçoit une décharge électrique et d’électrocution lorsque cela provoque un arrêt cardiaque.*
 
 
 ## Séance 2 : Intensité du courant électrique
 
-[Activité sur la modélisation d'une lampe](../modelisationLampe)
+
+En 1820, André-Marie Ampère, physicien français, théorise ce que l’on appelle aujourd’hui : le courant électrique. Jusqu’au début du XIXe siècle, les physiciens pensaient que de l’électricité était un fluide qui circulait dans un circuit. Aujourd’hui, nous savons que l’électricité est dû au déplacement de charges électriques appelées électrons.
+
+!!! question "Problématique"
+    Comment mesurer l’intensité du courant électrique présent dans un circuit ?
+
+
+[Activité sur l'intensité du courant électrique](../intensiteCourant)
 
 ??? abstract "Bilan"
     L’intensité du courant électrique est la quantité de charges électriques qui se déplacent pendant un temps donné. 
@@ -81,10 +87,22 @@ C’est en 1879 que l’américain Thomas Edison provoque une révolution dans l
     ![Schéma normalisé d'un ampèremètre](Pictures/schemaAmperemetre.png){: style="width:150px"}
 
     L’unité de mesure est l’ampère (notée A).  
+    
+    On parle d’électrisation lorsque le corps humain reçoit une décharge électrique et d’électrocution lorsque cela provoque un arrêt cardiaque.
 
 ## Séance 3 : Installation électrique d'une pièce 
 
-[Activité sur la modélisation d'une lampe](../modelisationLampe)
+Vous vous lancez dans la réalisation des plans électriques de votre salle de classe. Plusieurs contraintes sont à respecter : 
+Il doit y avoir un seul générateur.
+Il doit y avoir deux lampes. Si une des ampoules grille, l’autre doit continuer à briller quand même.
+Il doit y avoir un interrupteur pour allumer et éteindre les deux ampoules en même temps.
+
+!!! question "Problématique :"
+    Comment réaliser un circuit électrique répondant à toutes ces contraintes  ?
+
+
+
+[Activité sur l'installation électrique d'une pièce](../installElectrique)
 
 ??? abstract "Bilan"
     Tout comme un interrupteur, une ampoule grillée (ou tout autre dipôle défectueux) ouvre le circuit. Le courant ne peut plus circuler
@@ -108,7 +126,7 @@ C’est en 1879 que l’américain Thomas Edison provoque une révolution dans l
     Les dipôles sont dépendants les uns des autres.
     Ils sont branchés les uns à la suite des autres.
 
-    ![](Pictures/schemaCircuitBoubleBranche.png){: style="width:300px"}
+
 
 
 
@@ -120,6 +138,46 @@ C’est en 1879 que l’américain Thomas Edison provoque une révolution dans l
     Dans un circuit en dérivation, il y a au moins deux boucles.
     Les dipôles sont indépendants les uns des autres.
     Ils sont branchés les uns aux bornes des autres.
+
+
+
+??? info "Infos"
+
+    <table markdown>
+    <tbody markdown>
+    <tr markdown>
+    <td class="tg-lboi">
+    Quelques informations supplémentaires : 
+
+    Une boucle est le chemin suivi par le courant électrique dans le circuit, partant de la borne positive du générateur pour arriver sur sa borne négative (sens inverse de circulation des électrons).
+
+
+    Exemple: il y a deux boucles, la rouge et la verte.
+
+
+    Dans une boucle, il y a plusieurs branches. Une branche est une portion de circuit qui comporte un dipôle. 
+
+
+    Exemple: dans la boucle rouge, il y a la branche orange et la branche bleue.
+
+
+
+
+    Si trois branches ou plus sont reliées en un même point, ce point est appelé nœud.
+
+
+    Exemple : les branches orange, bleu et violette se rejoignent en un même point, c’est un nœud. Il y en a deux.
+    </td>
+    <td  class="tg-lboi">
+    ![](Pictures/schemaCircuitBoubleBranche.png){: style="width:300px"}
+    </td>
+    </tr>
+   
+    </tbody>
+
+
+    </table>
+
 
 
 
