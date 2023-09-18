@@ -1,12 +1,11 @@
-# Activité PC1.3 : Intensité du courant électrique
+# Activité PC1.2 : Intensité du courant électrique
 
 !!! note "Compétences"
     - 
-!!!warnings "Consignes"
-    Réaliser le schéma normalisé du circuit électrique du document 4. Représenter le sens du courant électrique.
-    Réaliser le schéma normalisé du circuit électrique du document 4. Représenter le sens du courant électrique.
+!!! warnings "Consignes"
+    Consigne 1 : Réaliser le schéma normalisé du circuit électrique du document 4. Représenter le sens du courant électrique.
 
-    Pour mesurer l’intensité du courant électrique qui traverse les dipôles, suivre le protocole expérimental suivant :
+    Consigne 2 : Pour mesurer l’intensité du courant électrique qui traverse les dipôles, suivre le protocole expérimental suivant :
         
         - Matériel nécessaire :
             - Une pile
@@ -19,10 +18,9 @@
     Mesurer l’intensité du courant électrique traversant chaque dipôle
     Noter les valeurs sur le schéma
 
+    Consigne 3 : Que peut-on dire de l’intensité du courant électrique circulant dans le circuit ?
 
-    Que peut-on dire de l’intensité du courant électrique circulant dans le circuit ?
-
-    Y-a-t-il un risque d’électrocution avec la pile utilisée ? Justifier. 
+    Consigne 4 : Y-a-t-il un risque d’électrocution avec la pile utilisée ? Justifier. 
 
 
 

@@ -194,9 +194,14 @@ nav :
             - Vague de froid: 4e/meteoetclimat/exodiffmeteoclimat.md
             - Utiliser une station météo : 4e/meteoetclimat/stationMeteo.md
             - Répartition des climats : 4e/meteoetclimat/repartClimats.md
-            -  Fiche de révision : 4e/meteoetclimat/FicheMeteoClimat.md
-      #- Séquence dynamique masses d'air et d'eau:
-
+            - Fiche de révision : 4e/meteoetclimat/FicheMeteoClimat.md
+      - Séquence dynamique masses d'air et d'eau:
+            - Introduction : 4e/mouvAirEaux/IntroDynAirEau.md
+            - Dynamique des masses d'eaux : 4e/mouvAirEaux/dynEau.md
+            - Dynamique des masses d'eaux: 4e/mouvAirEaux/dynAir.md
+            - Impact sur le climat : 4e/mouvAirEaux/statiocourantsClimat.md
+            - Fiche de révision : 4e/mouvAirEaux/FicheDynAirEau.md
+           
       #- Séquence Exploitations des sols pour produire de la nourriture :
       #- Séquence Reproduction des êtres vivants :
       #- Séquence Génétique : 

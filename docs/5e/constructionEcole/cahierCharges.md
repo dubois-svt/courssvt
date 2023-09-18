@@ -31,7 +31,7 @@ Cahier des charges : document dans lequel le constructeur inscrit toutes les con
 - Rangement : pour le matériel pédagogique devant
 rester dans la salle et pour le matériel et les effets
 personnels des enseignants et des élèves.  
-- Flexibilité de configuration pour un travail individuel et/ou collectif, avec suffisamment de place pour une classe complète de 28 élèves.  
+- Flexibilité de configuration pour un travail individuel et/ou collectif, avec suffisamment de place pour une classe complète de 20 élèves.  
 - Prévoir un coin de repli pour l’élève qui ressent le besoin de s’extraire temporairement du groupe. Les élèves qui y sont sensibles à la sur-stimulation sensorielle pourront disposer d’un bureau en accès libre face à un mur vierge, par exemple.
 
 **Document 3 : Des normes dans la construction des bâtiments publiques**  
@@ -93,7 +93,7 @@ Pour la sécurité des usagers, une salle de classe et plus particulièrement un
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6</span></td>
     <td class="tg-0pky" rowspan="3"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Liées à l’environnement</span></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Législation en vigueur</span></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Pas de table et de chaise traditionnelle</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Paillasses (28 places) + tabourets</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Pas de table et de chaise traditionnelle</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Paillasses (20 places) + tabourets</span></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">7</span></td>

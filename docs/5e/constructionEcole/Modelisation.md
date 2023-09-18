@@ -22,12 +22,12 @@ On souhaite réaliser la maquette numérique de votre salle de classe à l’aid
       - Dans le menu Fichier/Préférence, choisir l’unité mètre  
       - Dans le menu Meubles/Importer bibliothèque de meubles, choisir le fichier [MeublesClasse.sh3f](Files/MeublesClasse.sh3f)
 2. Création de la dalle en béton  
-      - Cliquer sur l’outil “Créer les pièces”  (attention à bien lire les conseils du logiciel) et tracer un rectangle de 12,5 m sur 6,5 m.  
+      - Cliquer sur l’outil “Créer les pièces”  ![](Pictures/iconePieceSweetHome.png)(attention à bien lire les conseils du logiciel) et tracer un rectangle de 12,5 m sur 6,5 m.  
       - A chaque angle, faire un clic gauche. 
       - Appuyer sur la touche   “Echap” pour arrêter le dessin  
 
 3. Création des murs  
-      - Cliquer sur l’outil “créer les murs"(attention à bien lire les conseils du logiciel) et tracer des murs autour de la pièce.  
+      - Cliquer sur l’outil “créer les murs" ![](Pictures/iconeMurSweethome.png) (attention à bien lire les conseils du logiciel) et tracer des murs autour de la pièce.  
       - A chaque angle, faire un clic gauche.   
       - Appuyer sur la touche “Echap” pour arrêter le dessin  
       - Faire un clic droit et cliquer sur Verrouiller le plan de base, pour éviter de déplacer les murs et le sol  

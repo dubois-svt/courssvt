@@ -17,8 +17,8 @@
 
 
 ??? info "Définitions"
-    Fonction d'usage : rôle d'un objet technique
-    Contrainte : caractéristique imposée à l’objet technique
+    Fonction d'usage : rôle d'un objet technique  
+    Contrainte : caractéristique imposée à l’objet technique  
     Fonction technique : décomposition de la fonction d’usage  
     Solution technique : élément de l’objet technique répondant à la fonction technique. 
 

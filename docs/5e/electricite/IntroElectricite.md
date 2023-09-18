@@ -18,11 +18,13 @@ C’est en 1879 que l’américain Thomas Edison provoque une révolution dans l
 
 ??? abstract "Bilan"
     Un circuit électrique est une chaîne d'objets électriques. Il contient :
+
     - un générateur qui fournit l'énergie électrique
     - des récepteurs qui la reçoivent (lampe, moteur, fils électrique, interrupteur).
 
 
     Pour faire fonctionner des appareils électriques, il faut au minimum que le circuit :
+
     - ait un générateur
     - soit une boucle fermée.
 
