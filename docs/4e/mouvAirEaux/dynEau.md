@@ -15,20 +15,12 @@
 
 **Document 1 : Modélisation 1**
 Protocole :
-1.  Déposer une goutte d'eau colorée à la surface de deux cuvettes
-    d'eau.
-
-2.  Sur une cuvette, souffler à la surface de l'eau.
-
-3.  Sur l'autre cuvette, ne pas souffler.
-
-Protocole :
-1.  Déposer une goutte d'eau colorée en profondeur de deux cuvettes
-    d'eau.
-
-2.  Sur une cuvette, souffler à la surface de l'eau.
-
-3.  Sur l'autre cuvette, ne pas souffler.
+1.  Déposer une goutte d'eau colorée à la surface d'une cuvette     d'eau.
+2.  Observer pendant 30 secondes 
+3.  Déposer une goutte d'eau colorée à la surface d'une cuvette     d'eau.
+4.  Souffler à la surface de l'eau.
+5.  Déposer une goutte d'eau colorée en profondeur d'une cuvette d'eau.
+6.  Souffler à la surface de l'eau.
 
 
 
@@ -80,39 +72,16 @@ parle alors de convection.
 
 Protocole :
 
-1.  Remplir un bécher avec de l'eau douce à 20 °C
+1.  Remplir un bécher avec de l'eau chaude et un bécher d'eau froide.
+2.  Colorer les deux avec deux couleurs différentes.
+3.  Remplir les deux tubes du montage en même temps chacun avec un bécher.
+4.  Observer sans manipuler le montage
 
-2.  Déposer très délicatement une goutte d'eau froide colorée à la surface de
-    l'eau et une au fond.
-
-3.  Observer le mouvement sans toucher le bécher.
-
-Protocole :
-
-1.  Remplir un bécher avec de l'eau douce à 20 °C
-
-2.  Déposer très délicatement une goutte d'eau chaude colorée à la surface de
-    l'eau et une au fond.
-
-3.  Observer le mouvement sans toucher le bécher.
 
 **Document 4 : Modélisation 3**
 
 Protocole :
-
-1.  Remplir un bécher avec de l'eau douce à 20 °C
-
-2.  Déposer très délicatement une goutte d'eau salée colorée à la surface de
-    l'eau et une au fond.
-
-3.  Observer le mouvement sans toucher le bécher.
-
-
-**Modélisation circulation thermohaline**
-
-mettre de l'eau chaude dans un bécher et de l'eau froide dans l'autre.
-
-Placer les deux tubes du montage dans les béchers
-
-Remplir les deux tubes en même temps, l'un avec de l'eau chaude coloré
-en rouge et l'autre avec de l'eau froide colorée en bleue.
+1.  Remplir un bécher avec de l'eau douce et un bécher d'eau salée.
+2.  Colorer les deux avec deux couleurs différentes.
+3.  Remplir les deux tubes du montage en même temps chacun avec un bécher.
+4.  Observer sans manipuler le montage
