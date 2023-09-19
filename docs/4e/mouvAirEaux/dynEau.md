@@ -7,7 +7,7 @@
 !!! warning "Consignes"
     Réaliser chaque modélisation et valider les différentes hypothèses
     
-!!! bug Critères de réussite
+??? bug "Critères de réussite"
     - indiquer pour chaque modélisation l'hypothèse testée.
     - indiquer pour chaque modélisation le type de mouvement vertical ou horizontale et sens du mouvement
     - indiquer pour chaque modélisation la validité de l'hypothèse
@@ -74,8 +74,10 @@ Protocole :
 
 1.  Remplir un bécher avec de l'eau chaude et un bécher d'eau froide.
 2.  Colorer les deux avec deux couleurs différentes.
-3.  Remplir les deux tubes du montage en même temps chacun avec un bécher.
-4.  Observer sans manipuler le montage
+3.  Vérifier que les tubes sont fermés
+4.  Remplir les deux tubes du montage avec un bécher 120 ml dans chaque tube.
+5.  ouvrir les tubes
+6.  Observer sans manipuler le montage
 
 
 **Document 4 : Modélisation 3**
@@ -83,5 +85,7 @@ Protocole :
 Protocole :
 1.  Remplir un bécher avec de l'eau douce et un bécher d'eau salée.
 2.  Colorer les deux avec deux couleurs différentes.
-3.  Remplir les deux tubes du montage en même temps chacun avec un bécher.
+3.  Vérifier que les tubes sont fermés
+4.  Remplir les deux tubes du montage avec un bécher 120 ml dans chaque tube.
+5.  ouvrir les tubes
 4.  Observer sans manipuler le montage
