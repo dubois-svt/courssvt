@@ -88,4 +88,4 @@ Protocole :
 3.  Vérifier que les tubes sont fermés
 4.  Remplir les deux tubes du montage avec un bécher 120 ml dans chaque tube.
 5.  ouvrir les tubes
-4.  Observer sans manipuler le montage
+6.  Observer sans manipuler le montage
