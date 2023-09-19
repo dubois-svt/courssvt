@@ -2,56 +2,32 @@
 
 !!! note "compétences"
     trouver et extraire des informations
+    Manipuler
 
 
 !!! warning "Consignes"
-    À partir de l'analyse des différents documents, complète le schéma en complétant les températures, les pressions et en traçant 4 flèches indiquant le mouvement des masses d'air.
+    - faire un schéma des mouvements d'air dans la modélisation et 
+    - expliquer dans quel direction va aller le vent sur le document 1.
 
-!!! bug "critères de réussite"
-    -
-
-**Document 1 : Tableau des températures annuelles moyennes**
-
-| | | | | |
-|---|---|---|---|---|
-| Latitude   |      Équateur 0°   |  Tropique Nord 30° N  |      45° N |   70° N | 
-|  Température  |    30 °C    |       25 °C      |                10 °C |   0 °C| 
+??? bug "critères de réussite"
+    - indiquer les mouvements verticaux dans le modèle
+    - dans le modèle indiquer ou est la dépression et où est l'anticyclone
+    - indiquer dans quel direction se déplace les vents dans le modèle
+    - indiquer comment se déplace les vents sur la carte des pressions.
 
 
+**Document 1 : carte des pressions en Europe**
+
+![Alt text](image-4.png)
+
+**Document 2 : Définition anticyclone et dépression**
+A la surface de la terre circulent des masses d'air froid et des masses d'air chaud. 
+L'air froid, plus dense, est plus lourd que l'air chaud. L'air froid descend et forme une zone de haute pression appelée anticyclone. L'air chaud monte et forme une zone de basse pression appelée dépression. 
 
 
-**Document 2 : Qu'est-ce que le vent ?**
+**Document 3 : Modélisation des mouvements atmosphériques**
 
-Le vent naît sous l'effet des différences de températures et de pression. La pression à la surface est haute si de l'air dense descend.
-Par contre, la pression est basse si de l'air peu dense monte.
-
-Entre deux zones de pression différentes, des masses d'air sont mises en mouvements horizontalement, ce sont les vents. Ces vents vont de la zone de haute pression vers la zone de basse pression.
-
-**Document 3 : Expérience montrant les déplacements verticaux des masses d'air**
-
-On cherche à comparer le mouvement de l'air chaud et le mouvement de l'air froid. La fumée d'encens permet de visualiser ce mouvement
-
-Protocole :
-
-Allumer de l'encens l'air chaud en plaçant un carton au-dessus, regarder le déplacement de l'air chaud
-
-Après un instant, placer au-dessus de l'encens un pain de glace, regarder le déplacement de l'air froid
-
-![](Pictures/encensDynAir.png)
-![](Pictures/encensDynAir1.png)
-
-Résultats :
-
- | Mouvement de l'air froid   |         Mouvement de l'air chaud |
- |---|---|     
- | | |                         
-
-
-![](Pictures/schemaMouvAir.png)
-
-
-
-
-
-
+![Alt text](image-1.png)
+![Alt text](image-2.png)
+![Alt text](image-3.png)
 
