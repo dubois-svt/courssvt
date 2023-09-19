@@ -14,13 +14,15 @@
 
 
 **Document 1 : Modélisation 1**
+
 Protocole :
-1.  Déposer une goutte d'eau colorée à la surface d'une cuvette     d'eau.
-2.  Observer pendant 30 secondes 
-3.  Déposer une goutte d'eau colorée à la surface d'une cuvette     d'eau.
-4.  Souffler à la surface de l'eau.
-5.  Déposer une goutte d'eau colorée en profondeur d'une cuvette d'eau.
-6.  Souffler à la surface de l'eau.
+
+1.  Déposer une goutte d'eau colorée à la surface d'une cuvette d'eau.  
+2.  Observer pendant 30 secondes   
+3.  Déposer une goutte d'eau colorée à la surface d'une cuvette d'eau.  
+4.  Souffler à la surface de l'eau.  
+5.  Déposer une goutte d'eau colorée en profondeur d'une cuvette d'eau.  
+6.  Souffler à la surface de l'eau.  
 
 
 
@@ -83,9 +85,11 @@ Protocole :
 **Document 4 : Modélisation 3**
 
 Protocole :
+
 1.  Remplir un bécher avec de l'eau douce et un bécher d'eau salée.
 2.  Colorer les deux avec deux couleurs différentes.
 3.  Vérifier que les tubes sont fermés
 4.  Remplir les deux tubes du montage avec un bécher 120 ml dans chaque tube.
 5.  ouvrir les tubes
 6.  Observer sans manipuler le montage
+
