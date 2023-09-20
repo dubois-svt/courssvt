@@ -130,13 +130,13 @@ nav :
           - Révolution et rotation : 6e/MouvementTerre/RevolRotation.md
           - Vitesse de la Terre : 6e/MouvementTerre/Vitesse.md
           - Exercices sur la vitesse : 6e/MouvementTerre/VitesseExercices.md
+          - Exercice sur la vitesse de la Lune : 6e/MouvementTerre/VitesseExerciceLune.md
           - Fiche Révision : 6e/MouvementTerre/FicheMvtTerre.md
       - Séquence Rotation de la Terre:
         - Introduction: 6e/rotationTerre/IntroRotationTerre.md
         - Alternance jour/nuit : 6e/rotationTerre/JourNuit.md
-        - Exercice sur la vitesse de la Lune : 6e/rotationTerre/VitesseExerciceLune.md
         - Saisons : 6e/rotationTerre/saisons.md
-        
+        - Fiche Révision : 6e/rotationTerre/fiche.md
 
       #- Séquence Propriété de la matière : 
       #    - Introduction : 6e/ProprietesMatiere/IntroMatiere.md
@@ -199,7 +199,7 @@ nav :
             - Introduction : 4e/mouvAirEaux/IntroDynAirEau.md
             - Dynamique des masses d'eaux : 4e/mouvAirEaux/dynEau.md
             - Dynamique des masses d'eaux: 4e/mouvAirEaux/dynAir.md
-            - Impact sur le climat : 4e/mouvAirEaux/statiocourantsClimat.md
+            - Impact sur le climat : 4e/mouvAirEaux/courantsClimat.md
             - Fiche de révision : 4e/mouvAirEaux/FicheDynAirEau.md
            
       #- Séquence Exploitations des sols pour produire de la nourriture :

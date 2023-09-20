@@ -16,9 +16,8 @@
     - indiquer comment se déplace les vents sur la carte des pressions.
 
 
-**Document 1 : carte des pressions en Europe**
-
-![Alt text](image-4.png)
+**Document 1 : Carte des pressions atmosphériques du 28 avril 2015**
+![Carte des pressions atmosphériques du 28 avril 2015](Pictures/cartePressionSudFrance280415.png)
 
 **Document 2 : Définition anticyclone et dépression**
 A la surface de la terre circulent des masses d'air froid et des masses d'air chaud. 
