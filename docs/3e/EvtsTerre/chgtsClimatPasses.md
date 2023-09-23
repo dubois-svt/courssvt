@@ -4,10 +4,9 @@
     - trouver et utiliser des informations
 
 !!! warning "Consignes"
-    Consigne 1 : À l’aide des documents, montrer que le climat à
-    Vallon-Pont-d’Arc le climat a changé et expliquer comment les scientifiques ont pu le savoir.
+    Consigne 1 : À l’aide des documents, montrer que le climat à Vallon-Pont-d’Arc le climat a changé entre aujourd'hui et il y a 30000 ans et expliquer comment les scientifiques ont pu le savoir.
 
-    Consigne 2 : À l’aide des documents, montrer que le climat à Blaye le climat a changé et expliquer comment les scientifiques ont pu le savoir.
+    Consigne 2 : À l’aide des documents, montrer que le climat à Blaye le climat a changé entre aujourd'hui et il y a 40 Ma et expliquer comment les scientifiques ont pu le savoir.
 
 ??? bug "Critères de réussite"
     - Pour chaque ville, avoir relevé le climat actuel
@@ -18,6 +17,7 @@
 
 
 **Document 1 : climat actuel à Vallon-Pont-d’Arc et à Blaye**  
+
 Aujourd’hui, le climat à Vallon-Pont-d’Arc est un climat méditerranéen avec des hivers doux et des étés chauds.
 Aujourd’hui, le climat à Blaye est un climat océanique avec des hivers doux et des étés frais.
 
@@ -26,6 +26,7 @@ Aujourd’hui, le climat à Blaye est un climat océanique avec des hivers doux 
 ![Peinture d'un ours](Pictures/peintureOurs.png)
 
 <div markdown style="display: flex; flex-direction:column; margin-left:10px; margin-right: 10px; max-width:50%" > 
+
 **Document 2 : les peintures de la grotte Chauvet**  
 
 La grotte Chauvet est située à Vallon-Pont-d’Arc dans le département de l’Ardèche (France). Les scientifiques estiment que la grotte a été occupée par des Hommes préhistoriques entre 37 000 ans et 28 000 ans.
@@ -53,7 +54,7 @@ arbres.
 
 <div markdown style="display: flex; flex-direction:column; margin-left:10px; margin-right: 10px; max-width:50%" > 
 **Document 4 : Des fossiles à Blaye**  
-On retrouve, dans les roches datant de l’éocène (50 à 33 Ma), des fossiles Cypraeoidea et des Echinolampas. Aujourd’hui, ces êtres vivants.
+On retrouve, dans les roches datant de l’éocène (50 à 33 Ma), des fossiles Cypraeoidea et des Echinolampas.
 
 </div>
 
@@ -66,10 +67,12 @@ On retrouve, dans les roches datant de l’éocène (50 à 33 Ma), des fossiles 
 
 
 **Document 5 : Les Cypraeoidea et les Echinolampas actuels.**  
+
 Actuellement, la majorité de ces êtres vivants vivent dans des climats
 tropicaux, c’est-à-dire des climats plutôt chauds.
 
 **Document 6 : L’actualisme**
+
 Les fossiles nous permettent d’avoir des renseignements sur les conditions du milieu dans le passé. Si le fossile est proche de ce à quoi ressemble un être vivant actuel, on admet que le milieu de vie de
 l’être vivant fossile doit être proche de celui de l’être vivant actuel.
 

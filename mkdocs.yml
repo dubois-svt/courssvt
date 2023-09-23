@@ -136,6 +136,7 @@ nav :
         - Introduction: 6e/rotationTerre/IntroRotationTerre.md
         - Alternance jour/nuit : 6e/rotationTerre/JourNuit.md
         - Saisons : 6e/rotationTerre/saisons.md
+        - Peuplement au cours des saisons : 6e/rotationTerre/peuplementSaisons.md
         - Fiche Révision : 6e/rotationTerre/fiche.md
 
       #- Séquence Propriété de la matière : 
@@ -173,7 +174,8 @@ nav :
       - Séquence Électricité :
           - Introduction : 5e/electricite/IntroElectricite.md
           - Modélisation d'une lampe de poche : 5e/electricite/modelisationLampe.md
-          - Intensité du courant électrique :  5e/electricite/intensite.md
+          - Intensité du courant électrique :  5e/electricite/intensiteCourant.md
+          - Circuit électrique d’une salle de classe : 5e/electricite/installElectrique.md
           - Fiche de révision : 5e/electricite/FicheElectricite.md
       #- Séquence Séismes et volcans :
       #- Séquence La programmation :

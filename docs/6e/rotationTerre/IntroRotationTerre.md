@@ -59,17 +59,18 @@ La Terre n’est pas « parfaitement droite » par rapport à sa révolution aut
 
 
 ## Séance 3 : 
-
+![](Pictures/peuplementSaisons.png)
 
 !!!question "Problématique"
+    Comment varie le peuplement du milieu au cours des saisons ?
 
-
-[Activité ](../ccdvdv)
+[Activité ](../peulementSaisons)
 
 
 
 
 ??? abstract "Bilan"
 
+    Au cours des saisons, les paramètres physiques de l’écosystème varient : dans notre exemple, la température est plus chaude en été qu’en hiver. Les êtres vivants sont sensibles aux changements de la température. Quand la température diminue, les êtres vivants ont différents comportements : migration, hivernation, hibernation, perte des feuilles, survie de la descendance.
 
 

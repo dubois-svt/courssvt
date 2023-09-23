@@ -57,13 +57,13 @@ C’est en 1879 que l’américain Thomas Edison provoque une révolution dans l
     </thead>
     <tbody>
         <tr>
-            <td class="tg-c3ow">![Alt text](Pictures/schemaPile.png)</td>
-            <td class="tg-c3ow">![Alt text](Pictures/schemaGenerateur.png)</td>
-            <td class="tg-c3ow">![Alt text](Pictures/schemaAmpoule.png)</td>
-            <td class="tg-c3ow">![Alt text](Pictures/schemaInterrupteurOuvert.png)</td>
-            <td class="tg-c3ow">![Alt text](Pictures/schemaInterrupteurFerme.png)</td>
-            <td class="tg-c3ow">![Alt text](Pictures/schemaMoteur.png)</td>
-            <td class="tg-c3ow">![Alt text](Pictures/schemaFil.png)</td>
+            <td class="tg-c3ow">![](Pictures/schemaPile.png)</td>
+            <td class="tg-c3ow">![](Pictures/schemaGenerateur.png)</td>
+            <td class="tg-c3ow">![](Pictures/schemaAmpoule.png)</td>
+            <td class="tg-c3ow">![](Pictures/schemaInterrupteurOuvert.png)</td>
+            <td class="tg-c3ow">![](Pictures/schemaInterrupteurFerme.png)</td>
+            <td class="tg-c3ow">![](Pictures/schemaMoteur.png)</td>
+            <td class="tg-c3ow">![](Pictures/schemaFil.png)</td>
       </tr>
     </tbody>
     </table>
