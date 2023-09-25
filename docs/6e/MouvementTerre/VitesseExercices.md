@@ -42,7 +42,7 @@ Une voiture roule sur l’autoroute. La vitesse est limitée à 130km/h. Le GPS 
 
   </tr>
   <tr>
-    <td> Une femme qui prend un escalator dans un centre commerciale <br>(par rapport à une poupée dans une vitrine)</td>
+    <td> Une femme qui prend un escalator dans un centre commercial <br>(par rapport à une poupée dans une vitrine)</td>
     <td> 			<br>&nbsp;&nbsp;			 		</td>
         <td>	<br>&nbsp;&nbsp;	</td>
 

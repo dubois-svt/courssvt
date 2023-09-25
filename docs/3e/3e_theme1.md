@@ -818,119 +818,12 @@ lithosphériques.
 ## Chapitre 3 : Les changements climatiques
 
 
-1.  ### Comment l’**être humain est-il responsable du changement climatique** actuel ?
 
-<img src="Pictures/warmingStripesFrance.png"
-style="width:9.186cm;height:5.166cm" /><img src="Pictures/graphTempFrance.png"
-style="width:9.066cm;height:5.099cm" />France de 1899 à 2021
-
-M<img src="Pictures/warmingStripesMonde.png"
-style="width:9.267cm;height:5.212cm" />onde de 1850 à
-2021<img src="Pictures/graphTempMonde.png"
-style="width:8.675cm;height:4.879cm" />
-
-1.  #### Le changement climatique d’origine anthropique
-
-Consigne 1 : **Expliquer les différences de températures de surfaces
-dans le tableau du document 2.**
-
-1.  1.  1.  1.  Consigne 2 : Expliquer l’impact de l’être humain sur
-                l’évolution de la concentration en dioxyde de carbone
-                dans le document 1
-
-Consigne 3 :** À l’aide d’un schéma fonctionnel, montrer les impacts des
-activités humaines sur la température de la Terre.**
-
-Document 1 : Evolution de la température moyenne de surface depuis 1860.
-
-<img src="Pictures/10000000000004840000036738ACB8885C9A91B7.png"
-style="width:7.56cm;height:5.696cm" />
-
-Document 2 : Températures de surface de la Lune et de la Terre.
-
-|                   |                                |                                |
-|-------------------|--------------------------------|--------------------------------|
-|                   | Quantité de dioxyde de carbone | Température moyenne de surface |
-| Lune              | 0 ppm                          | — 73 °C                        |
-| Terre au cambrien | 5600 ppm                       | 22 °C                          |
-| Terre carbonifère | 280 ppm                        | 12 °C                          |
-| Terre actuel      | 400 ppm                        | 12,7 °C                        |
-
-Document 3 : L’effet de serre
-
-<img src="Pictures/10000000000006AF000002DC590349242F743210.png"
-style="width:16.304cm;height:6.973cm" />Plus un objet absorbe de
-rayonnements plus il va chauffer.
-
-Plus un objet est chaud plus il émet de rayonnements infrarouges.
-
-Document 4 : Les gaz à effet de serre
-
-Les gaz à effet de serre sont des gaz qui sont capables d’absorber les
-infrarouges.
-
-Sur terre, les principaux gaz à effet de serre sont le dioxyde de
-carbone (CO~2~) (qui est le gaz qui a le plus d’impact), le méthane
-(CH₄) et la vapeur d’eau (H₂O).
-
-***Document ****5**** : Graphique de la teneur
-atmosphériqu***<img src="Pictures/100000010000021F0000019F222189AD937EAEF3.png"
-style="width:9.195cm;height:7.027cm" />***e en dioxyde de carbone ****au
-cours du temps****.***
-
-<img src="Pictures/10000001000001C600000193D52F14B2C89BCCAB.png"
-style="width:8.647cm;height:7.676cm" />
-
-*Document 6 : Origine du dioxyde de carbone.*
-
-Le dioxyde de carbone (CO2) provient principalement de la combustion
-d’énergie fossile (charbon, essences, fiouls, gaz…) ou du bois.
-
-Sur le graphique, on voit les activités à l’origine des émissions de
-dioxyde de carbone en France en 2011.
-
-<img src="Pictures/1000000100000D48000009603574219F740D6FBC.png"
-style="width:12.374cm;height:8.735cm" />
-
-*Document 7 : Consommation d’énergies fossiles dans le monde de 1800 à
-2019.*
-
-Gas = gaz naturel
-
-oil = pétrole
-
-coal = Charbon
-
-Bilan :
-
-Depuis la deuxième moitié du 19e siècle, on observe une augmentation
-rapide de la température moyenne à la surface de la Terre.
-
-Au cours du temps, les activités humaines ont enrichi l’atmosphère en
-gaz à effet de serre (ex : dioxyde de carbone CO~2~). Ceci a entraîné
-une amplification de l’effet de serre, et donc une augmentation de plus
-rapide de la température moyenne à la surface de la Terre.
-
-L’effet de serre est un phénomène d’échauffement de la surface de la
-Terre, dû au fait que certains gaz de l’atmosphère, les gaz à effet de
-serre absorbent une partie du rayonnement infrarouge émis par la Terre
-et ce qui réchauffe la planète.
-
-D’après les prévisions des climatologues, le réchauffement climatique
-devrait se poursuivre et la température devrait augmenter de 0,5 °C à
-3 °C.
-
-<img src="Pictures/100000000000034500000330F15A64EA46E7CBB1.png"
-style="width:18.5cm;height:18.034cm" />
-
-#### 
 
 1.  ### Quelles sont les conséquences du réchauffement climatique sur la répartition des **êtres vivants** ?
 
-```{=html}
-<!-- -->
-```
-1.  #### Le réchauffement climatique et répartition des ***êtres vivants***
+
+1.  #### Le réchauffement climatique et répartition des êtres vivants
 
 Consigne : Explique quels peuvent **être les conséquences du
 réchauffement climatiques sur les espèces marines et sur certains arbres

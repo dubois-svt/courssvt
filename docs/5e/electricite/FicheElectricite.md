@@ -30,7 +30,7 @@ Pour s'entrainer un site à construire des circuits électriques :
     - Qu'est-ce que l'intensité ?
     - C'est la quantité de charges électriques qui se déplacent pendant un temps donné
 4. 
-    - Le circuit est-il en dérivation ou en série ? Justifier. ![](Pictures/circuitDerivation.png)
+    -  Le circuit est-il en dérivation ou en série ? Justifier. ![](Pictures/circuitFicheRev.png){: style="width:600px"}
     - Le circuit contient deux boucles, donc c'est un circuit en dérivation
 
 </div>

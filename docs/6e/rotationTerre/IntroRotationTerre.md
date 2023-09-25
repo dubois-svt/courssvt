@@ -54,6 +54,7 @@ La Terre n’est pas « parfaitement droite » par rapport à sa révolution aut
     De plus, moins le Soleil est haut dans le ciel, moins il fait chaud. 
     Les saisons changent donc en fonction de l'inclinaison du Soleil et de la durée du jour.
     Dans l'hémisphère nord, le jour le plus long correspond au solstice d’été (21 juin) et que le jour le plus court correspond au solstice d’hiver (21 décembre). Lors des équinoxes (21 mars et 21 septembre), la durée du jour est égale à la durée de la nuit.
+    Le Soleil apparaît à l'Est le matin et disparaît à l'ouest le soir.
 
 
 

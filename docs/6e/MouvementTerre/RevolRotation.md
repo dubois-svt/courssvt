@@ -58,7 +58,7 @@ Modèle Héliocentrique : Point de vue de l'étude dss mouvements des planètes 
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">Révolution (en jours) 		</td>
+    <td class="tg-0lax">Révolution (en jours terrestres) 		</td>
     <td class="tg-0lax">87,96 		</td>
     <td class="tg-0lax">224,7 		</td>
     <td class="tg-0lax">365,25 		</td>
@@ -69,7 +69,7 @@ Modèle Héliocentrique : Point de vue de l'étude dss mouvements des planètes 
     <td class="tg-0lax"> 			<br>&nbsp;&nbsp;			 		</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Révolution (en année) 		</td>
+    <td class="tg-0lax">Révolution (en années terrestres) 		</td>
     <td class="tg-0lax">			 		</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax">1 		</td>

@@ -4,10 +4,11 @@
     - Trouver et utiliser des informations
 
 !!! warning "Consignes"
-    1) Quelle est la saison durant laquelle les journées sont plus longues ?  
-    2) Comparer la hauteur maximal du Soleil, et donc son inclinaison dans le ciel par rapport à un observateur sur Terre, en été et en hiver.  
-    3) En vous appuyant sur le document 4, un observateur et son environnement reçoivent-t-ils autant d’énergie lorsque le Soleil est très incliné ou peu incliné par rapport à un observateur sur Terre ?  
-    4) Expliquer alors pourquoi il y a une saison où il fait plus froid et une autre plus chaud (s’appuyer sur le document 2 et les réponses aux questions précédentes).
+
+    1. Quelle est la saison durant laquelle les journées sont plus longues ?  
+    2. Comparer la hauteur maximal du Soleil, et donc son inclinaison dans le ciel par rapport à un observateur sur Terre, en été et en hiver.  
+    3. En vous appuyant sur le document 4, un observateur et son environnement reçoivent-t-ils autant d’énergie lorsque le Soleil est très incliné ou peu incliné par rapport à un observateur sur Terre ?  
+    4. Expliquer alors pourquoi il y a une saison où il fait plus froid et une autre plus chaud (s’appuyer sur le document 2 et les réponses aux questions précédentes).
    
    
 ??? bug "Critères de réussite"
@@ -23,6 +24,7 @@
 
 <div markdown style="display:flex; flex-direction:row;" >
 <div markdown style="display:flex; flex-direction:column;" >
+
 **Document 1 : Durée de l’ensoleillement**
 
 
@@ -37,6 +39,7 @@
 </div>
 
 <div markdown style="display:flex; flex-direction:column;padding-left:20px;" >
+
 **Document 2 : Température moyenne à Paris sur un mois**
 
 | Mois | Température |
@@ -56,10 +59,10 @@
 
 
 **Document 4 : Modélisation**
-![Alt text](Pictures/modelisationHauteurSoleil.png)
 
 Expérience :
 
-- Allumer l’application Phyphox
-- Placer la tablette proche d’une source lumineuse
-- Incliner la tablette et observer la valeur « intensité lumineuse »
+- Placer le luxmètre sur la table à l'horizontale
+- placer la source lumineuse de façon à modéliser la place du Soleil en hiver
+- mesurer l'intensité lumineuse
+- refaire la manipulation de façon à modéliser la place du Soleil en été

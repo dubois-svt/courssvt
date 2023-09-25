@@ -176,6 +176,7 @@ nav :
           - Modélisation d'une lampe de poche : 5e/electricite/modelisationLampe.md
           - Intensité du courant électrique :  5e/electricite/intensiteCourant.md
           - Circuit électrique d’une salle de classe : 5e/electricite/installElectrique.md
+          - Exercices : 5e/electricite/exercicesElectricite.md
           - Fiche de révision : 5e/electricite/FicheElectricite.md
       #- Séquence Séismes et volcans :
       #- Séquence La programmation :
@@ -200,7 +201,7 @@ nav :
       - Séquence dynamique masses d'air et d'eau:
             - Introduction : 4e/mouvAirEaux/IntroDynAirEau.md
             - Dynamique des masses d'eaux : 4e/mouvAirEaux/dynEau.md
-            - Dynamique des masses d'eaux: 4e/mouvAirEaux/dynAir.md
+            - Dynamique des masses d'air: 4e/mouvAirEaux/dynAir.md
             - Impact sur le climat : 4e/mouvAirEaux/courantsClimat.md
             - Fiche de révision : 4e/mouvAirEaux/FicheDynAirEau.md
            
@@ -220,13 +221,16 @@ nav :
 
       - Séquence Histoire de la Terre :
           - Introduction : 3e/EvtsTerre/IntroEvtsTerre.md
-          - Evénements dans l'histoire de la Terre : 3e/EvtsTerre/HistoireTerre.md
+          - Événements dans l'histoire de la Terre : 3e/EvtsTerre/HistoireTerre.md
           - Les changements climatiques passés : 3e/EvtsTerre/chgtsClimatPasses.md
           - Le changement climatique actuel : 3e/EvtsTerre/chgtClimatActuel.md
           - Fiche de révision : 3e/EvtsTerre/FicheEvtsTerre.md
+      - Séquence Changement climatique actuel :
+          - Introduction : 3e/chgtClimActuel/IntroChgtClimAct.md
+          - Cause du changement climatique : 3e/chgtClimActuel/chgtClimHumain.md
+          - Conséquences du réchauffement climatique : 3e/chgtClimActuel/chgtClimRepartVivant.md
       #- Séquence Tectonique des plaques 1:
       #- Séquence Tectonique des plaques 2:
-      #- Séquence Changement climatique actuel :
       #- Séquence Activité humaine et changement climatique : 
       #- Séquence Classification des êtres vivants :
       #- Séquence Evolution au cours du temps :

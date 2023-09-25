@@ -110,4 +110,3 @@ Le phénomène actuel est un consensus scientifique. Les scientifiques ont tous 
     Mais depuis la deuxième moitié du 19e siècle, on observe une augmentation plus rapide de la température moyenne à la surface de la Terre que celles constatées durant ces 500 000 dernières années
     De nombreux indices montrent que jamais dans l’histoire du climat, la température n’a augmenté aussi rapidement qu’actuellement. (enregistrement températures, date des vendanges, fonte des glaces...)
 
-<div style="page-break-after: always;"></div>

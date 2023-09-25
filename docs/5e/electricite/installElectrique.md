@@ -17,9 +17,7 @@
 
     ## Le circuit dit “en dérivation"
 
-    5. Réaliser le montage du circuit du document 2 : 
-    
-    é. Une fois validé par l’enseignant, fermer le circuit.
+    5. Réaliser le montage du circuit du document 2, une fois validé par l’enseignant, fermer le circuit.
     
     6. Que peut-on constater lorsqu’on dévisse l’une des deux ampoules ? Le circuit respecte-t-il les contraintes ?	
 
@@ -27,7 +25,7 @@
 
 
 ??? bug "Critères de réussite"
-    - faire les questions dans l'ordre
+    
 
 
 **Document 1 : Contraintes pour l'installation électrique de la salle**
