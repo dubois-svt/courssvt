@@ -26,14 +26,13 @@ Vidéo streaming Alaska
 Vidéo streaming Hawaï
 
 ??? abstract "Bilan"
-    De notre point vue, le Soleil se déplace dans le ciel de l'est vers l'ouest, c'est le mouvement apparent du Soleil.
+    De notre point de vue, le Soleil se déplace dans le ciel de l'est vers l'ouest, c'est le mouvement apparent du Soleil.
     En réalité, la Terre tourne sur elle même en 24h.
     Cette rotation entraîne l'alternance entre le jour et la nuit.
     Sur 24h, un lieu passe dans la lumière du Soleil, c'est la journée, puis dans l'ombre, c'est la nuit.
-    Au même moment, lorsque c'est la jour à endroit, c'est la nuit à d'autres.
+    Au même moment, lorsque c'est le jour à endroit, c'est la nuit à d'autres.
 
-[Activité exercice de révision sur les vitesses](../VitesseExerciceLune)
-VitesseExerciceLune
+
 
 
 
