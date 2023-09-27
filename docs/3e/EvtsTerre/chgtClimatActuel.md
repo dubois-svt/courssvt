@@ -4,7 +4,7 @@
     - argumenter
 
 !!! warning "Consignes"
-    Consigne 1 : A partir des documents, donner des arguments montrant que le réchauffement climatique actuel.
+    Consigne 1 : A partir des documents, donner des arguments montrant le réchauffement climatique actuel.
 
 ??? bug "Critères de réussite"
     - avoir montré avec le document le changement climatique actuel.
@@ -20,7 +20,7 @@
 ![](Pictures/graphTempMoyenne1860-2010.png){: style="height:400px;"}
 
 
-**Document 2 : évolution de glaciers dans le massif du Mont-Blanc et de la mer de glace (1919 à gauche et 2019 à droite).**
+**Document 2 : évolution de glaciers dans le massif de Vignemale.**
 
 ![L'évolution du glacier d'Ossoue (massif de Vignemale) sur ces dernières années. © Pierre René](Pictures/evolGlacier.png)
 
@@ -38,7 +38,7 @@
 ![](Pictures/photoVendanges.png){: style="align:right; padding-right: 20px;" }
 </div>
 <div markdown style="display:flex; flex-direction:column; width: 80%;">
-Les vignerons choisissent la date des vendanges en fonction de la maturité parfaite du raisin, c’est-à-dire essentiellement quand il atteint la quantité de sucre optimale. Plus il fait chaud et plus le raisin atteint sa maturité tout dans l'année.
+Les vignerons choisissent la date des vendanges en fonction de la maturité parfaite du raisin, c’est-à-dire essentiellement quand il atteint la quantité de sucre optimale. Plus il fait chaud et plus le raisin atteint sa maturité tôt dans l'année.
 
 </div>
 

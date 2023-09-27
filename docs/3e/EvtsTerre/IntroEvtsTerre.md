@@ -106,7 +106,8 @@ Le phénomène actuel est un consensus scientifique. Les scientifiques ont tous 
 
 ??? abstract "Bilan"
 
-    À l’échelle des temps géologiques, le climat change, selon la position de la Terre dans l’espace et son inclinaison.
-    Mais depuis la deuxième moitié du 19e siècle, on observe une augmentation plus rapide de la température moyenne à la surface de la Terre que celles constatées durant ces 500 000 dernières années
+
+    Depuis la deuxième moitié du 19e siècle, on observe une augmentation plus rapide de la température moyenne à la surface de la Terre que celles constatées durant ces 500 000 dernières années
     De nombreux indices montrent que jamais dans l’histoire du climat, la température n’a augmenté aussi rapidement qu’actuellement. (enregistrement températures, date des vendanges, fonte des glaces...)
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/K4Ra2HR27pQ?si=6bDXNQssfdaDFIiT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
