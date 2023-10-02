@@ -97,7 +97,7 @@ Le phénomène actuel est un consensus scientifique. Les scientifiques ont tous 
 ![© NAWAK - Licence : Tous droits réservés](Pictures/caricatureTrumClimat.png)
 
 !!! question Problématique 
-    Quels sont les arguments pour montrer que le réchauffement existe?v
+    Quels sont les arguments pour montrer que le réchauffement existe?
 
 [Activité Changement climatique actuel](../chgtClimatActuel)
 

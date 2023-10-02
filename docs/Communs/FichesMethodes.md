@@ -1,13 +1,13 @@
-# Fiches Methodes en Sciences
+# Fiches Méthodes en Sciences
 
 ## Lire les consignes
 
 1. Commencer par lire la consigne en entier
 2. Chercher les mots difficiles et s'assurer que l'on en comprenne le sens
-3. Réperer les mots importants :
+3. Repérer les mots importants :
   - Verbe d'action qui indique quoi faire
-  - Mots indiquant la production attendue (schém, texte, tableau ...)
-  - Mots indiquant oùtrouver les informations
+  - Mots indiquant la production attendue (schéma, texte, tableau ...)
+  - Mots indiquant où trouver les informations
 
 Voici des verbes que vous pourrez rencontrer et l’action associée.
 
@@ -22,14 +22,14 @@ Voici des verbes que vous pourrez rencontrer et l’action associée.
 - DÉCRIRE : Dire ce que l’on voit dans un document sans donner d’explication.
 - FORMULER/REFORMULER : Faire une phrase avec ses mots.
 - RÉDIGER : Expliquer par l’écrit
-- LISTER/CITER : Enoncer un au plusieurs éléments sans donner d’explications.
+- LISTER/CITER : Énoncer un au plusieurs éléments sans donner d’explications.
 - CONSTRUIRE / TRACER : A l’aide d’ustensiles spécifiques construire une représentation
 - CALCULER : Effectuer un calcul chiffré.
 - DESSINER : Faire un dessin d’observation
 - SCHÉMATISER : Faire un schéma
-- DECRIRE : Permet d’expliquer un document à l’aide des éléments qui le constituent
+- DÉCRIRE : Permet d’expliquer un document à l’aide des éléments qui le constituent
 - CLASSER :  Mettre dans des catégories
-- ETABLIR UN LIEN, ASSOCIER, RELIER : Mettre en relation avec des connecteurs logiques
+- ÉTABLIR UN LIEN, ASSOCIER, RELIER : Mettre en relation avec des connecteurs logiques
 </div>
 <div markdown style="display:flex; flex-direction:column">
 
@@ -43,21 +43,21 @@ Voici des verbes que vous pourrez rencontrer et l’action associée.
 - ANALYSER : Construire un raisonnement scientifique.
 - DETERMINER : S’exprimer en faisant une phrase afin de résoudre un problème ou une question en se basant sur le cours ou les documents.
 - PROPOSER UNE EXPLICATION : Le phénomène est inconnu et je donne une explication possible
-- FORMULER UNE HYPOTHESE : Proposer une solution qui n’est pas encore démontrée mais qui doit être possible.
-CITER les CONSEQUENCES VERIFIABLES: Chercher ce que l’on doit trouver si l’hypothèse est juste
+- FORMULER UNE HYPOTHÈSE : Proposer une solution qui n’est pas encore démontrée mais qui doit être possible.
+CITER les CONSEQUENCES VÉRIFIABLES: Chercher ce que l’on doit trouver si l’hypothèse est juste
 CONCLURE : Faire le bilan après une explication
 </div></div>
 
 ## APPRENDRE SON COURS
 La mémoire ne peut pas être efficace sur du court terme (la veille du devoir), il faut la réactiver régulièrement pour que les informations soient retenues de manière efficace sur le long terme. Si ce n'est pas le cas, les informations seront oubliées.
 ### En classe
-- Ecouter attentivement
+- Écouter attentivement
 - Participer activement
 - Prendre le cours entièrement et correctement
 - Poser des questions lors d'une difficulté de compréhension
 
 ### A la maison
-- Relir régulièrement le cours le soir 
+- Relire régulièrement le cours le soir 
 - Faire des fiches révisions, une fiche contient les idées principales du cours (définitions, mots clés ...)
 - En cas de questions, les noter pour les poser au cours suivant
 - Lorsqu'une évaluation est prévue prévoir trois périodes de révision minimum (1 semaine avant, 3 jours avant et la veille)
@@ -91,10 +91,10 @@ schéma - carte mettre en bas
 - des carrés de couleur
 - des symboles utilisés
 
-GROSSISSEMENT / ECHELLE
+GROSSISSEMENT / ÉCHELLE
 Grossissement : uniquement au microscope (objectif x oculaire)
 
-Echelle :mesurer la longueur du segment présent sur le document
+Échelle :mesurer la longueur du segment présent sur le document
 
 
 ## Représenter des DONNÉES sous forme d’un GRAPHIQUE
@@ -160,7 +160,7 @@ Il y a deux types de tableaux :
   | **Europe**  | **Asie**  | **Afrique**  |
   | -- | -- | -- |
   | France | Japon  | Namibie  |
-  | Espagne | Thailande  | Ghana  |
+  | Espagne | Thaïlande  | Ghana  |
 
 - tableau à double entrée qui permettent de comparer des informations.
 
@@ -214,7 +214,7 @@ La démarche scientifique est l'ensemble des étapes utilisées par les scientif
    Réponse possible au problème, la démarche scientifique permettra de la vérifier
 4. Expérience
    Vérification de l'hypothèse faite
-  - Protocole : Etapes pour réaliser l'expérience, chaque étape contient un verbe d'action. L'expérience doit posséder deux tests minimum avec un seul paramètre.
+  - Protocole : Étapes pour réaliser l'expérience, chaque étape contient un verbe d'action. L'expérience doit posséder deux tests minimum avec un seul paramètre.
   - Résultats attendus : Indiquer quel devrait être les résultats pour les tests si l'hypothèse est vraie.
   - Expérimentation : Faire l'expérience
 5. Résultats observés

@@ -58,7 +58,7 @@ La Terre n’est pas « parfaitement droite » par rapport à sa révolution aut
 
 
 
-## Séance 3 : 
+## Séance 3 : Le peuplement des milieux au cours des saisons
 ![](Pictures/peuplementSaisons.png)
 
 !!!question "Problématique"
@@ -71,6 +71,23 @@ La Terre n’est pas « parfaitement droite » par rapport à sa révolution aut
 
 ??? abstract "Bilan"
 
-    Au cours des saisons, les paramètres physiques de l’écosystème varient : dans notre exemple, la température est plus chaude en été qu’en hiver. Les êtres vivants sont sensibles aux changements de la température. Quand la température diminue, les êtres vivants ont différents comportements : migration, hivernation, hibernation, perte des feuilles, survie de la descendance.
+    Au cours des saisons, les paramètres physiques de l’écosystème varient : dans notre exemple, la température est plus chaude en été qu’en hiver. Le nombre d'êtres vivants présent en hiver est plus faible qu'en été.
+    
+    Les êtres vivants sont sensibles aux changements de la température. Quand la température diminue, les êtres vivants ont différents comportements : migration, hivernation, hibernation, perte des feuilles, survie de la descendance.
+    
+    La biodiversité d’un milieu change au cours des saisons en même temps que les caractéristiques du milieu.
+
+## Séance 3 : Le comportement des êtres vivants au cours de la mauvaise saison
 
 
+!!!question "Problématique"
+    Comment les êtres vivants passent-ils la mauvaise saison ?
+
+[Activité ](../comportementSaisons)
+
+??? abstract "Bilan"
+
+    Les êtres vivants sont sensibles aux changements de la température. Quand la température diminue, les êtres vivants ont différents comportements : migration, hivernation, hibernation, perte des feuilles, survie de la descendance.
+
+    La majorité des végétaux pour résister au froid changent de forme. (Perte de feuilles, laisse uniquement un bulbe…) 
+    Certains animaux aussi changent de forme (larve d’insecte, pelage…), les autres changent de comportement (hibernation, migration...)
