@@ -64,7 +64,7 @@ La Terre n’est pas « parfaitement droite » par rapport à sa révolution aut
 !!!question "Problématique"
     Comment varie le peuplement du milieu au cours des saisons ?
 
-[Activité ](../peulementSaisons)
+[Activité ](../peuplementSaisons)
 
 
 
@@ -77,7 +77,7 @@ La Terre n’est pas « parfaitement droite » par rapport à sa révolution aut
     
     La biodiversité d’un milieu change au cours des saisons en même temps que les caractéristiques du milieu.
 
-## Séance 3 : Le comportement des êtres vivants au cours de la mauvaise saison
+## Séance 4 : Le comportement des êtres vivants au cours de la mauvaise saison
 
 
 !!!question "Problématique"
