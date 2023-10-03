@@ -14,10 +14,18 @@
 
 **Document 1 : Le renard en hiver**
 
-![Graphique de l’alimentation du renard au cours des saisons](Pictures/graphAlimentationRenard.png)
+
+<div markdown style="display: flex; flex-direction: row; ">
+
+![Renard en été](Pictures/photoRenardEte.png){: style="width:300px "}
 
 Le renard roux hiverne. Sa fourrure d’épaissit en hiver lui permettant de résister à des températures de - 15°C. Dans son territoire, il creuse plusieurs terriers dans la neige pour rester à l’abri du froid, surtout la nuit. La quête de nourriture peut être compliquée en hiver, mais le renard possède une ouïe fine et un odorat très développé qui l’aident à capturer ses proies. 
-![Alt text](image.png) ![Alt text](image-1.png)
+
+![Renard en hiver](Pictures/photoRenardHiver.png){: style="width:300px; flex: 1 2 1 " }
+</div>
+
+![Graphique de l’alimentation du renard au cours des saisons](Pictures/graphAlimentationRenard.png)
+
 
 **Document 2 : Le hérisson en hiver**
 Durant l’été, chaque nuit, le hérisson part à la recherche de sa nourriture : vers de terre, insectes, escargots, serpents, champignons, racines… À la fin de l’été, il construit son nid à l’aide de feuilles, brins d’herbe et mousse.

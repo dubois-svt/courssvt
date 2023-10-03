@@ -2,12 +2,12 @@
 
 insérer une image avec changement de taille  
 '''
-![alt text](chemin){: style="width:600px"}
-'''
+![alt text](chemin){:style="width:300px; float:right"  }
+
 
 pour aller à la ligne mettre 2 espaces
 
-> voici un exemple poour aller à la ligne   loremhfjdfgjg
+> voici un exemple pour aller à la ligne   loremhfjdfgjg
 
 Pour créer un nouveau paragraphe appuyer sur entrée
 

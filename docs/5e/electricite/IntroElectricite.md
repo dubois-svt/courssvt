@@ -183,6 +183,7 @@ Il doit y avoir un interrupteur pour allumer et éteindre les deux ampoules en m
     </table>
 
 
+## Séance 4 : Exercices de révision
 
-
+[Activité exercices de révision](../exercicesElectricite)
 

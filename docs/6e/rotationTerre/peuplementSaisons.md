@@ -2,6 +2,8 @@
 
 !!! note "Compétences"
     - Trouver et utiliser des informations
+    - Construire un graphique
+    - Décrire un graphique
 
 !!! warning "Consignes"
     Avec votre tablette, scanner le QRcode suivant ou recopier dans votre barre de recherche le lien suivant : hachette-clic.fr/23st6040
@@ -29,6 +31,7 @@ Chaque phrase indique le moment de début et de fin et les valeurs du phénomèn
 Remarque : c’est le phénomène mesuré sur l’axe vertical qui évolue ; il ne faut donc pas dire que la courbe augmente ou diminue, mais que la grandeur étudiée augmente ou diminue.
 
 **Document  3 : Quantité d'espèces au cours de l'année**
+
 | MOIS DE L’ANNÉE | NOMBRE D’ESPÈCES | 
 |--|--| 
 | Janvier	| 3 | 
@@ -44,6 +47,8 @@ Remarque : c’est le phénomène mesuré sur l’axe vertical qui évolue ; 
 | Novembre	| 10 | 
 | Décembre	| 3 | 
  
+**Document 4 : Graphique de l'évolution de la température au cours de l'année**
+
 
 ```vegalite
     {
