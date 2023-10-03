@@ -82,7 +82,9 @@ En 1820, André-Marie Ampère, physicien français, théorise ce que l’on appe
 [Activité sur l'intensité du courant électrique](../intensiteCourant)
 
 ??? abstract "Bilan"
-    L’intensité du courant électrique est la quantité de charges électriques qui se déplacent pendant un temps donné. 
+    L’intensité du courant électrique est la quantité de charges électriques (électrons) qui se déplacent pendant un temps donné. 
+
+    Les électrons se déplacent de la borne négative à la borne positive. Par convention, on note le sens du coruant électrique de la borne + à la borne -.
 
 
     Elle se mesure avec un ampèremètre. 
