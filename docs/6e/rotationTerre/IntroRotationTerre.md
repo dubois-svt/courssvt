@@ -83,7 +83,7 @@ La Terre n’est pas « parfaitement droite » par rapport à sa révolution aut
 !!!question "Problématique"
     Comment les êtres vivants passent-ils la mauvaise saison ?
 
-[Activité ](../comportementSaisons)
+[Activité sur le comportement des êtres vivant en hiver](../comportementSaisons)
 
 ??? abstract "Bilan"
 
@@ -91,3 +91,7 @@ La Terre n’est pas « parfaitement droite » par rapport à sa révolution aut
 
     La majorité des végétaux pour résister au froid changent de forme. (Perte de feuilles, laisse uniquement un bulbe…) 
     Certains animaux aussi changent de forme (larve d’insecte, pelage…), les autres changent de comportement (hibernation, migration...)
+
+[Activité exercices](../exercicesSaisons)
+
+exercicesSaisons
