@@ -7,6 +7,7 @@
 
 !!! warning "Consignes"
     Avec votre tablette, scanner le QRcode suivant ou recopier dans votre barre de recherche le lien suivant : hachette-clic.fr/23st6040
+    
     1. A partir des informations du document 3, construire une graphique de l'évolution duy nombre d'espèce en fonction des mois. (Aidez-vous de la fiche méthode du document 1)
     2. A partir des informations du document 4, décrire l’évolution de la température moyenne au cours de l’année dans l’environnement étudié. (Aidez-vous de la fiche méthode du document 2)
     3. A partir des deux graphiques, comparer la température et la quantité d'espèces entre l'été et l'hiver.
