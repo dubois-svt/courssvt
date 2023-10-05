@@ -51,34 +51,34 @@ Remarque : c’est le phénomène mesuré sur l’axe vertical qui évolue ; 
 
 
 ```vegalite
-    {
-        "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-        "description": "Document 4 : Graphique de l'évolution de la température au cours de l'année ",
-        "data": {
-            "values": [
-            {"mois": "2020-01", "Température": 5},
-            {"mois": "2020-02", "Température": 5},
-            {"mois": "2020-03", "Température": 10},
-            {"mois": "2020-04", "Température": 15},
-            {"mois": "2020-05", "Température": 25},
-            {"mois": "2020-06", "Température": 25},
-            {"mois": "2020-07", "Température": 30},
-            {"mois": "2020-08", "Température": 30},
-            {"mois": "2020-09", "Température": 25},
-            {"mois": "2020-10", "Température": 10},
-            {"mois": "2020-11", "Température": 10},
-            {"mois": "2020-12", "Température": 10}
-            ]
-        },
-        "mark": {
-            "type": "line",
-            "point": true
-        },
-        "encoding": {
-            "x": {"type": "temporal", "field": "mois"},
-            "y": {"type": "quantitative", "field": "Température"}
-        }
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Document 4 : Graphique de l'évolution de la température au cours de l'année",
+    "data": {
+        "values": [
+        {"mois": "2020-01", "Température": 5},
+        {"mois": "2020-02", "Température": 5},
+        {"mois": "2020-03", "Température": 10},
+        {"mois": "2020-04", "Température": 15},
+        {"mois": "2020-05", "Température": 25},
+        {"mois": "2020-06", "Température": 25},
+        {"mois": "2020-07", "Température": 30},
+        {"mois": "2020-08", "Température": 30},
+        {"mois": "2020-09", "Température": 25},
+        {"mois": "2020-10", "Température": 10},
+        {"mois": "2020-11", "Température": 10},
+        {"mois": "2020-12", "Température": 10}
+        ]
+    },
+    "mark": {
+        "type": "line",
+        "point": true
+    },
+    "encoding": {
+        "x": {"type": "temporal", "field": "mois"},
+        "y": {"type": "quantitative", "field": "Température"}
     }
+}
 
 ```
 
