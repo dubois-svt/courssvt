@@ -34,42 +34,20 @@ Remarque : c’est le phénomène mesuré sur l’axe vertical qui évolue ; 
 **Document  3 : Quantité d'espèces au cours de l'année**
 
 
-<table>
-<thead>
-  <tr>
-    <th>MOIS DE L’ANNÉE</th>
-    <th>Janvier</th>
-    <th>Février</th>
-    <th>Mars</th>
-    <th>Avril</th>
-    <th>Mai</th>
-    <th>Juin</th>
-    <th>Juillet</th>
-    <th>Août</th>
-    <th>Septembre</th>
-    <th>Octobre</th>
-    <th>Novembre</th>
-    <th>Décembre</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>NOMBRE D’ESPÈCES</td>
-    <td>3</td>
-    <td>3</td>
-    <td>10</td>
-    <td>20</td>
-    <td>25</td>
-    <td>25</td>
-    <td>20</td>
-    <td>20</td>
-    <td>20</td>
-    <td>10</td>
-    <td>10</td>
-    <td>3</td>
-  </tr>
-</tbody>
-</table>
+| MOIS DE L’ANNÉE | NOMBRE D’ESPÈCES |
+|:---------------:|:----------------:|
+| Janvier         | 3                |
+| Février         | 3                |
+| Mars            | 10               |
+| Avril           | 20               |
+| Mai             | 25               |
+| Juin            | 25               |
+| Juillet         | 20               |
+| Août            | 20               |
+| Septembre       | 20               |
+| Octobre         | 10               |
+| Novembre        | 10               |
+| Décembre        | 3                |
 
 **Document 4 : Graphique de l'évolution de la température au cours de l'année**
 
