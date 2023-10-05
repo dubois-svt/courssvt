@@ -66,7 +66,7 @@ https://classic.nullschool.net/fr/#2020/02/27/1500Z/wind/surface/level/overlay=m
 !!! question "Problématique"
     Quel est l’impact des courants océaniques sur les climats ?
 
-[Activité Dynamiques des masses d'air](../dynAir)
+[Activité Impact sur le climat des dynmiques de masses d'air et d'eau](../courantsClimat)
 
 ??? abstract "Bilan"
     Montréal est situé plus bas que Paris, il devrait donc y faire plus chaud, mais on observe que la température moyenne est plus importante à Paris. 
