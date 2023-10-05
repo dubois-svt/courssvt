@@ -7,7 +7,7 @@
 
 !!! warning "Consignes"
     Avec votre tablette, scanner le QRcode suivant ou recopier dans votre barre de recherche le lien suivant : hachette-clic.fr/23st6040
-    
+
     1. A partir des informations du document 3, construire une graphique de l'évolution duy nombre d'espèce en fonction des mois. (Aidez-vous de la fiche méthode du document 1)
     2. A partir des informations du document 4, décrire l’évolution de la température moyenne au cours de l’année dans l’environnement étudié. (Aidez-vous de la fiche méthode du document 2)
     3. A partir des deux graphiques, comparer la température et la quantité d'espèces entre l'été et l'hiver.
@@ -33,53 +33,45 @@ Remarque : c’est le phénomène mesuré sur l’axe vertical qui évolue ; 
 
 **Document  3 : Quantité d'espèces au cours de l'année**
 
-| MOIS DE L’ANNÉE | NOMBRE D’ESPÈCES | 
-|--|--| 
-| Janvier	| 3 | 
-| Février	| 3 | 
-| Mars	| 10 | 
-| Avril	| 20 | 
-| Mai	| 25 | 
-| Juin	| 25 | 
-| Juillet	| 20 | 
-| Août	| 20 | 
-| Septembre	| 20 | 
-| Octobre	| 10 | 
-| Novembre	| 10 | 
-| Décembre	| 3 | 
- 
+
+<table>
+<thead>
+  <tr>
+    <th>MOIS DE L’ANNÉE</th>
+    <th>Janvier</th>
+    <th>Février</th>
+    <th>Mars</th>
+    <th>Avril</th>
+    <th>Mai</th>
+    <th>Juin</th>
+    <th>Juillet</th>
+    <th>Août</th>
+    <th>Septembre</th>
+    <th>Octobre</th>
+    <th>Novembre</th>
+    <th>Décembre</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>NOMBRE D’ESPÈCES</td>
+    <td>3</td>
+    <td>3</td>
+    <td>10</td>
+    <td>20</td>
+    <td>25</td>
+    <td>25</td>
+    <td>20</td>
+    <td>20</td>
+    <td>20</td>
+    <td>10</td>
+    <td>10</td>
+    <td>3</td>
+  </tr>
+</tbody>
+</table>
+
 **Document 4 : Graphique de l'évolution de la température au cours de l'année**
 
-
-```vegalite
-{
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "description": "Document 4 : Graphique de l'évolution de la température au cours de l'année",
-    "data": {
-        "values": [
-        {"mois": "2020-01", "Température": 5},
-        {"mois": "2020-02", "Température": 5},
-        {"mois": "2020-03", "Température": 10},
-        {"mois": "2020-04", "Température": 15},
-        {"mois": "2020-05", "Température": 25},
-        {"mois": "2020-06", "Température": 25},
-        {"mois": "2020-07", "Température": 30},
-        {"mois": "2020-08", "Température": 30},
-        {"mois": "2020-09", "Température": 25},
-        {"mois": "2020-10", "Température": 10},
-        {"mois": "2020-11", "Température": 10},
-        {"mois": "2020-12", "Température": 10}
-        ]
-    },
-    "mark": {
-        "type": "line",
-        "point": true
-    },
-    "encoding": {
-        "x": {"type": "temporal", "field": "mois"},
-        "y": {"type": "quantitative", "field": "Température"}
-    }
-}
-
-```
+![](Pictures/graphTempMois.png)
 
