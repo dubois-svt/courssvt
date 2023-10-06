@@ -64,7 +64,7 @@
 
 
 
-## Séance 2 : Les cosnéquences du réchauffement climatique sur les êtres vivants
+## Séance 2 : Les conséquences du réchauffement climatique sur les êtres vivants
 
 !!! question "Problématique"
     Quelles sont les conséquences du réchauffement climatique sur la répartition des êtres vivants ?
@@ -75,7 +75,11 @@
 
 
 ??? abstract "Bilan"
-    Bilan
+    Un écosystème est un système formé par un environnement et toutes les espèces qui y vivent, s’y nourrissent et s’y reproduisent.
+
+    La biodiversité (=diversité des êtres vivants) au sein des
+    écosystèmes se modifie actuellement sous l’effet des activités humaines, comme le réchauffement climatique.
+
 
 <div style="page-break-after: always;"></div>
 

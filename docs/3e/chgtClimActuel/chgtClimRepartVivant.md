@@ -2,31 +2,39 @@
 
 !!! note "Compétences"
 
-    Interpréter 
+    Trouver et extraire des informations
 
 !!! warning "Consignes"
 
-    Consigne 1 : 
+    Explique quels peuvent **être les conséquences du réchauffement climatiques sur les espèces marines et sur certains arbres en France.
     
 ??? bug "Critères de réussite"
     - 
 
 
 
+**Document 1 : Les récifs coralliens**
 
-**Document 1 Consigne de tri.**
+Les coraux sont des animaux marins. Ils sécrètent autour d’eux un squelette calcaire qui forment les récifs coralliens. Ces animaux vivent en symbiose avec des algues unicellulaires, qui leur apportent des sucres. Ces coraux forment les récifs coralliens.
 
+Les récifs coralliens abritent plus de 25 % des espèces marines mondiales (entre 1 et 3 millions d’espèces). Ces espèces marines
+trouvent dans les coraux de la nourriture et un abri. Cette biodiversité génère des milliers d’emplois dans le tourisme, la pêche, etc.
 
+**Document 2 : Le blanchiment des coraux.**
 
+![](Pictures/photoCorauxBlanchis.png)
 
-**Document 2 Dégradation et pollution.**
+L’augmentation de la quantité de CO~2~ et l’augmentation de la température de l’eau provoque
+l’acidification des océans. Cette acidification peut entraîner l’expulsion des algues symbiotiques du corail, le corail se décolore, c’est le blanchiment. Ce phénomène peut entraîner la mort du corail.
 
+**Document 3 : La chenille processionnaire du pin.**
 
+![](Pictures/photoProcessionairePin.png)
 
+La processionnaire du pin est la chenille d’un papillon nocturne. Elle dévore les parties vertes et freine ainsi le développement de l’arbre. Elle provoque de nombreuses allergies chez les êtres humains à cause de ses poils urticants.
 
-**Document 3 Temps de décomposition**
+Cette espèce d’origine méditerranéenne se développe de manière optimale entre 20 °C et 25 °C. Durant l’hiver, la moindre augmentation de température augmente ses chances de survie.
 
+**Document 4 : Progression de l’habitat de la chenille processionnaire du pin de 1979 à 2014 en France.**
 
-
-
-
+![](Pictures/carteProcessionairePin.jpg)

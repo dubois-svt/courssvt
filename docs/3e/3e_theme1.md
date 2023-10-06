@@ -820,67 +820,14 @@ lithosphériques.
 
 
 
-1.  ### Quelles sont les conséquences du réchauffement climatique sur la répartition des **êtres vivants** ?
 
 
-1.  #### Le réchauffement climatique et répartition des êtres vivants
 
-Consigne : Explique quels peuvent **être les conséquences du
-réchauffement climatiques sur les espèces marines et sur certains arbres
-en France.**
-
-Document 1 : Les récifs coralliens
-
-Les coraux sont des animaux marins. Ils sécrètent autour d’eux un
-squelette calcaire qui forment les récifs coralliens. Ces animaux vivent
-en symbiose avec des algues unicellulaires, qui leur apportent des
-sucres. Ces coraux forment les récifs coralliens.
-
-Les récifs coralliens abritent plus de 25 % des espèces marines
-mondiales (entre 1 et 3 millions d’espèces). Ces espèces marines
-trouvent dans les coraux de la nourriture et un abri. Cette biodiversité
-génère des milliers d’emplois dans le tourisme, la pêche, etc.
-
-Document 2 : Le blanchiment des coraux.
-
-<img src="Pictures/10000000000001CC0000012A41D00F2834E67651.png"
-style="width:4.8cm;height:3.11cm" />L’augmentation de la quantité de
-CO~2~ et l’augmentation de la température de l’eau provoque
-l’acidification des océans. Cette acidification peut entraîner
-l’expulsion des algues symbiotiques du corail, le corail se décolore,
-c’est le blanchiment. Ce phénomène peut entraîner la mort du corail.
-
-Document 3 : La chenille processionnaire du pin.
-
-<img src="Pictures/10000001000007800000029A30B8ECC149B74D33.png"
-style="width:9.297cm;height:3.226cm" />La processionnaire du pin est la
-chenille d’un papillon nocturne. Elle dévore les parties vertes et
-freine ainsi le développement de l’arbre. Elle provoque de nombreuses
-allergies chez les êtres humains à cause de ses poils urticants.
-
-Cette espèce d’origine méditerranéenne se développe de manière optimale
-entre 20 °C et 25 °C. Durant l’hiver, la moindre augmentation de
-température augmente ses chances de survie.
-
-<img src="Pictures/10000000000009B000000DB39FDCD8A578BF3699.jpg"
-style="width:7.188cm;height:6.394cm" />Document 4 : Progression de
-l’habitat de la chenille processionnaire du pin de 1979 à 2014 en
-France.
-
-Bilan :
-
-**Un écosystème est un système formé par un environnement et toutes les
-espèces qui y vivent, s’y nourrissent et s’y reproduisent.**
-
-La biodiversité (=diversité des **êtres vivants)** au sein des
-écosystèmes se modifie actuellement sous l’effet des activités humaines,
-comme le réchauffement climatique.
-
-1.  ### Quelles sont les conséquences de l’exploitation des énergies fossiles ?
+### Quelles sont les conséquences de l’exploitation des énergies fossiles ?
 
 #### 
 
-1.  #### Les conséquences de l’exploitation des énergies fossiles.
+#### Les conséquences de l’exploitation des énergies fossiles.
 
 Consigne : à partir de l’exploitation des différents documents,
 présenter, sous forme d’un audio de 2 minutes maximum, les conséquences
