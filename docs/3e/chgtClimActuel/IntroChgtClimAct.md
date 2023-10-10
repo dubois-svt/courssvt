@@ -52,12 +52,13 @@
 
 
 ??? abstract "Bilan"
+
     Depuis la deuxième moitié du 19e siècle, on observe une augmentation rapide de la température moyenne à la surface de la Terre.
     Au cours du temps, les activités humaines ont enrichi l’atmosphère en gaz à effet de serre (ex : dioxyde de carbone CO2). Ceci a entraîné une amplification de l’effet de serre, et donc une augmentation de plus rapide de la température moyenne à la surface de la Terre.
 
     L’effet de serre est un phénomène d’échauffement de la surface de la Terre, dû au fait que certains gaz de l’atmosphère, les gaz à effet de serre absorbent une partie du rayonnement infrarouge émis par la Terre et ce qui réchauffe la planète.
 
-    D’après les prévisions des climatologues, le réchauffement climatique devrait se poursuivre et la température devrait augmenter de 0,5 °C à 3 °C.
+    D’après les prévisions des climatologues, le réchauffement climatique devrait se poursuivre et la température devrait augmenter de 0,5 °C à 4 °C.
 
 ![](Pictures/graphTempGeol.png)
 
@@ -75,11 +76,33 @@
 
 
 ??? abstract "Bilan"
+
     Un écosystème est un système formé par un environnement et toutes les espèces qui y vivent, s’y nourrissent et s’y reproduisent.
 
     La biodiversité (=diversité des êtres vivants) au sein des
     écosystèmes se modifie actuellement sous l’effet des activités humaines, comme le réchauffement climatique.
 
 
-<div style="page-break-after: always;"></div>
 
+## Séance 3 : Les conséquences de l’exploitation des énergies fossiles.
+
+!!! question "Problématique"
+    Quelles sont les conséquences de l’exploitation des énergies fossiles ?
+
+[Activité Les conséquences de l’exploitation des énergies fossiles](../conseqEnergiesFossiles)
+
+
+
+
+??? note-prof "Bilan"
+    Définition énergie fossile : Énergie dont la source a été formée par l’accumulation d’anciens êtres vivants. Elles ne sont pas renouvelables à l’échelle humaine. (exemple : charbon, gaz, pétrole)
+
+    La présence de restes organiques dans les combustibles fossiles montre qu’ils sont issus d’une biomasse végétale. Des restes d’organismes chlorophylliens échappe à la décomposition et se transforme en combustible fossile.
+
+    Cette transformation se fait sur des centaines de millions d’années donc elles ne se forment pas sur une échelle de temps humaine. Les réserves actuelles ne sont pas infinies et celles qui sont accessibles pourraient s’épuiser.
+
+    L’exploitation de ces énergies a un impact important sur l’environnement, le dioxyde de carbone libéré va augmenter l’effet de serre et donc le réchauffement climatique.
+
+    Le changement climatique va provoquer une élévation du niveau des mers et une augmentation de la fréquence des phénomènes météorologiques exceptionnels.
+
+    On assistera aussi à une modification de la répartition mondiale des précipitations qui aura pour des conséquences importantes sur la disponibilité en eau : sécheresses et inondations plus fréquentes.
