@@ -6,13 +6,15 @@
 
 !!! warning "Consignes"
 
-    Explique quels peuvent **être les conséquences du réchauffement climatiques sur les espèces marines et sur certains arbres en France.
+    Explique quelles peuvent être les conséquences des activités humaines et  du changement  climatique sur les espèces marines et sur certains arbres en France.
     
 ??? bug "Critères de réussite"
 
-    - 
-
-
+    - expliquer l'impact des activités humaines sur les océans
+    - expliquer l'impact du changement de l'eau sur les coraux
+    - expliquer l'impact du changement du corail sur l'être humain
+    - expliquer l'impact du changement climatique sur les chenilles
+    - expliquer l'impact du changement des population de chenilles sur les arbres
 
 **Document 1 : Les récifs coralliens**
 
@@ -27,8 +29,7 @@ trouvent dans les coraux de la nourriture et un abri. Cette biodiversité génè
 
 ![](Pictures/photoCorauxBlanchis.png){: style="width:400px; flex-shrink: 0;  " }
 
-L’augmentation de la quantité de CO~2~ et l’augmentation de la température de l’eau provoque
-l’acidification des océans. Cette acidification peut entraîner l’expulsion des algues symbiotiques du corail, le corail se décolore, c’est le blanchiment. Ce phénomène peut entraîner la mort du corail.
+L’augmentation de la quantité de CO<sub>2</sub> et l’augmentation de la température de l’eau provoque l’acidification des océans. Cette acidification peut entraîner l’expulsion des algues symbiotiques du corail, le corail se décolore, c’est le blanchiment. Ce phénomène peut entraîner la mort du corail.
 
 </div>
 
