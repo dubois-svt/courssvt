@@ -1,4 +1,4 @@
-# Activité : Importance du tri des déchets
+# Activité : L'impact du changement climatique sur la biodiversité
 
 !!! note "Compétences"
 
@@ -9,6 +9,7 @@
     Explique quels peuvent **être les conséquences du réchauffement climatiques sur les espèces marines et sur certains arbres en France.
     
 ??? bug "Critères de réussite"
+
     - 
 
 
@@ -22,19 +23,28 @@ trouvent dans les coraux de la nourriture et un abri. Cette biodiversité génè
 
 **Document 2 : Le blanchiment des coraux.**
 
-![](Pictures/photoCorauxBlanchis.png)
+<div markdown style="display: flex; flex-direction: row; ">
+
+![](Pictures/photoCorauxBlanchis.png){: style="width:400px; flex-shrink: 0;  " }
 
 L’augmentation de la quantité de CO~2~ et l’augmentation de la température de l’eau provoque
 l’acidification des océans. Cette acidification peut entraîner l’expulsion des algues symbiotiques du corail, le corail se décolore, c’est le blanchiment. Ce phénomène peut entraîner la mort du corail.
 
+</div>
+
 **Document 3 : La chenille processionnaire du pin.**
 
-![](Pictures/photoProcessionairePin.png)
+<div markdown style="display: flex; flex-direction: row; ">
+
+
+![](Pictures/photoProcessionairePin.png){: style="width:400px; flex-shrink: 0;  " }
 
 La processionnaire du pin est la chenille d’un papillon nocturne. Elle dévore les parties vertes et freine ainsi le développement de l’arbre. Elle provoque de nombreuses allergies chez les êtres humains à cause de ses poils urticants.
-
 Cette espèce d’origine méditerranéenne se développe de manière optimale entre 20 °C et 25 °C. Durant l’hiver, la moindre augmentation de température augmente ses chances de survie.
+
+</div>
+
 
 **Document 4 : Progression de l’habitat de la chenille processionnaire du pin de 1979 à 2014 en France.**
 
-![](Pictures/carteProcessionairePin.jpg)
+![](Pictures/carteProcessionairePin.jpg){: style="width:400px;  " }
