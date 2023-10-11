@@ -40,7 +40,7 @@
 
 
 
-## Séance 1 : Les causes du changement climatiques
+## Séance 1 : Les causes du changement climatique
 
 !!! question "Problématique"
     Comment l’être humain est-il responsable du changement climatique actuel ?
@@ -54,7 +54,7 @@
 ??? abstract "Bilan"
 
     Depuis la deuxième moitié du 19e siècle, on observe une augmentation rapide de la température moyenne à la surface de la Terre.
-    Au cours du temps, les activités humaines ont enrichi l’atmosphère en gaz à effet de serre (ex : dioxyde de carbone CO2). Ceci a entraîné une amplification de l’effet de serre, et donc une augmentation de plus rapide de la température moyenne à la surface de la Terre.
+    Au cours du temps, les activités humaines ont enrichi l’atmosphère en gaz à effet de serre (ex : dioxyde de carbone CO<sub>2</sub>). Ceci a entraîné une amplification de l’effet de serre, et donc une augmentation plus rapide de la température moyenne à la surface de la Terre.
 
     L’effet de serre est un phénomène d’échauffement de la surface de la Terre, dû au fait que certains gaz de l’atmosphère, les gaz à effet de serre absorbent une partie du rayonnement infrarouge émis par la Terre et ce qui réchauffe la planète.
 

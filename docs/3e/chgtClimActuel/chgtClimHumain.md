@@ -57,7 +57,7 @@ Sur terre, les principaux gaz à effet de serre sont le dioxyde de carbone (CO�
 ![](Pictures/graphOrigineCO2.png){: style="max-width:300px"}
 
 
-Le dioxyde de carbone (CO2) provient principalement de la combustion d’énergie fossile (charbon, essences, fiouls, gaz…) ou du bois.
+Le dioxyde de carbone (CO<sub>2</sub>) provient principalement de la combustion d’énergie fossile (charbon, essences, fiouls, gaz…) ou du bois.
 Sur le graphique, on voit les activités à l’origine des émissions de dioxyde de carbone en France en 2011.
 
 **Document 7 : Consommation d’énergies fossiles dans le monde de 1800 à 2019.**
