@@ -20,7 +20,7 @@ Le danger du séisme vient essentiellement des effondrements des bâtiments ne r
 ## Séance 1 : Les séismes
 
 !!! question "Problématique"
-    Qu'est-ce qu'un séisme ?
+    Comment se manifeste un séisme ?
 
 
 [Activité Décrire un séisme](../seismes)

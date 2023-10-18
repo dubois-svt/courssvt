@@ -15,16 +15,26 @@
 ??? bug "Critères de réussite"
     - 
 
-**Document 1 : Les séismes.**
+**Document 1 Les séismes.**
+
+<div markdown style="display:flex; flex-direction:row;">
 
 Les séismes ou tremblements de terre sont des vibrations soudaines et fréquentes à la surface du globe, souvent imperceptibles pour des humains, il y a plus de 1000 secousses par jour, mais parfois intenses et dévastatrices (de 10 à 100 par an). Les vibrations du sol sont appelées ondes sismiques.
 
+<div markdown style="display:flex; flex-direction:column;">
 
-**Document 1 Extrait du journal de 20H, France 2**
+[![Extrait du journal de 20H, France 2 https://www.youtube.com/watch?v=dD_aj3dw1LM](pictures/qrcodeJTseisme.png)](https://www.youtube.com/watch?v=dD_aj3dw1LM)
 
-[![https://www.youtube.com/watch?v=dD_aj3dw1LM](pictures/qrcodeJTseisme.png)](https://www.youtube.com/watch?v=dD_aj3dw1LM)
+</div>
+
+</div>
+
 
 **Document 2 Paramètres d’un séisme**
+
+<div markdown style="display:flex; flex-direction:row;">
+
+<div markdown style="display:flex; flex-direction:column;">
 
 Lorsque l’on décrit un séisme, on parle soit de magnitude, soit d’intensité.
 
@@ -34,12 +44,15 @@ C'est une mesure de la “force”, de l’énergie libérée lors d’un séism
 
 Sur le croquis ci-dessous, on voit qu’un séisme de forte magnitude (à gauche) peut commettre moins de dégâts qu’un séisme de magnitude plus faible (à droite).
 
+</div>
 
 
-![](pictures/paramSeismes.png)
+![](pictures/paramSeismes.png){:style="width:1000px; flex-shrink: 0;  " }
+
+</div>
 
 
-**Document 3 : Effets des séismes observables sur le sol.**
+**Document 3 Effets des séismes observables sur le sol.**
 
 <div markdown style="display:flex; flex-direction:row;">
 
@@ -51,7 +64,7 @@ Sur le croquis ci-dessous, on voit qu’un séisme de forte magnitude (à gauche
 </div>
 
 
-**Document 4 : Effets des séismes dans les villes**
+**Document 4 Effets des séismes dans les villes**
 
 <div markdown style="display:flex; flex-direction:row;">
 
@@ -62,29 +75,18 @@ Sur le croquis ci-dessous, on voit qu’un séisme de forte magnitude (à gauche
 
 Même rue de la ville d’Amatrice (Italie) avant et après le séisme d’août 2016. (Magnitude : 6,6)
 
-**Document 5 : Origine et conséquence d’un tsunami.**
+**Document 5 Origine et conséquence d’un tsunami.**
+
+<div markdown style="display:flex; flex-direction:row;">
 
 
-![](pictures/photoTsunami.png){:style="width:400px; flex-shrink: 0;  " }
+![](pictures/photoTsunami.png){:style="width:1500px; flex-shrink: 0;  " }
 
 Un tsunami est constitué d’une série de vagues qui se propage à la surface de l’eau. Un tsunami est souvent déclenché par des séismes sous-marins. Ces vagues peuvent devenir très grandes en arrivant sur les côtes. Le séisme du 11 mars 2011 (Magnitude : 8,5) qui s’est produit au large du Japon a produit un tsunami avec des vagues qui ont été jusqu’à 15 m de hauteur. La majorité des victimes du séisme du 11 mars sont dues au tsunami. C’est ce tsunami qui est à l’origine de l’accident nucléaire de la centrale nucléaire de Fukushima.
 
+</div>
 
-**Document 6 : Carte de l’intensité du séisme de Châtelaillon-Plage du 28 avril 2016 (magnitude : 4,9).**
-
-![Alt text](pictures/carteSeisme280416.png){:style="width:400px; flex-shrink: 0;  " }
-![Alt text](pictures/legendecarteSeisme280416.png){:style="width:400px; flex-shrink: 0;  " }
- Épicentre (endroit à la surface au dessus du foyer)
-
-**Document 7 : Témoignages d’habitants ayant ressenti le séisme de Châtelaillon-Plage**
-
-
-Monsieur C : «  Les secousses étaient très fortes, courtes et très bruyantes. Le village de Villeneuse-les-Salines, près de la Rochelle, où nous habitons est proche de l’épicentre. Pas de gros dégâts apparents, sauf une fissure visible en façade. »
-A Dolus d’Oléron Madame G. : « J’ai été très impressionné. Je venais de me réveiller et quand j’ai voulu me lever, c’était comme si j’avais le vertige : j’ai réalisé que la terre tremblait car cela « balançait ». Les fenêtres et la vaisselle vibraient et cela grondait comme si un énorme engin vrombissait autour de chez moi. »
-Madame F : « J’habite [près de Niort], et j’ai également senti les secousses. J’étais en train de dormir quand soudainement j’ai été réveillée par de légers claquements de portes et tremblement des murs de ma maison. J’ai cru pendant quelques instants que j’étais en train de rêver. C’est une sensation bizarre. »
-
-**Document 3 Site national d’information sur la sismicité**
-
+**Document 6 Site national d’information sur la sismicité**
 
 [![https://renass.unistra.fr/fr/zones/](pictures/qrCodeSeismes.png)](https://renass.unistra.fr/fr/zones/)
 
