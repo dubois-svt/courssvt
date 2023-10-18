@@ -180,7 +180,12 @@ nav :
           - Circuit électrique d’une salle de classe : 5e/electricite/installElectrique.md
           - Exercices : 5e/electricite/exercicesElectricite.md
           - Fiche de révision : 5e/electricite/FicheElectricite.md
-      #- Séquence Séismes et volcans :
+      - Séquence Le risque sismique : 
+          - Introduction : 5e/seismes/IntroSeismes.md
+          - Séismes : 5e/seismes/seismes.md
+          - Modélisation d'un séisme :  5e/seismes/modelRuptureRoches.md
+          - Fiche de révision : 5e/seismes/FicheSeismes.md
+      #- Séquence le risque volcanique :
       #- Séquence La programmation :
       #- Séquence Mécanique : 
       #- Séquence Le système digestif :

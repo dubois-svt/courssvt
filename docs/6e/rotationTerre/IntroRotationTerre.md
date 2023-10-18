@@ -49,7 +49,7 @@ La Terre n’est pas « parfaitement droite » par rapport à sa révolution aut
 
 
 ??? abstract "Bilan"
-    L'inclinaison du Soleil fait que la durée des journées et des nuit varient au cours de l'année. 
+    L'inclinaison du Soleil fait que la durée des journées et des nuits varient au cours de l'année. 
     De plus, moins le Soleil est haut dans le ciel, moins il fait chaud. 
     Les saisons changent donc en fonction de l'inclinaison du Soleil et de la durée du jour.
     Dans l'hémisphère nord, le jour le plus long correspond au solstice d’été (21 juin) et que le jour le plus court correspond au solstice d’hiver (21 décembre). Lors des équinoxes (21 mars et 21 septembre), la durée du jour est égale à la durée de la nuit.

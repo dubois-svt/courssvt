@@ -13,7 +13,6 @@
 
 
 
-
 !!! question "Problématique"
     comment expliquer les déplacements de l'eau et de l'air?
 
@@ -35,10 +34,10 @@
 
 
 ??? abstract "Bilan"
-    L’inégale répartition de l’énergie solaire fait que certaines zones sont plus chaudes que d’autres
-    Les eaux froides et/ou salées sont plus denses que les eaux chaudes et/ou douces, elles vont donc plonger vers le fond ce qui entraîne de courants au fond et à la surface des océans
+    L’inégale répartition de l’énergie solaire fait que certaines zones sont plus chaudes que d’autres.
+    Les eaux froides et/ou salées sont plus denses que les eaux chaudes et/ou douces, elles vont donc plonger vers le fond ce qui entraîne de courants au fond et à la surface des océans.
     En profondeur, un mouvement d’eaux froides va des pôles vers l’équateur et à la surface un mouvement d’eaux chaudes va de l’équateur vers les pôles. 
-    Les vents peuvent entraîner les courants marins de surface 
+    Les vents peuvent entraîner les courants marins de surface.
 
 ## Séance 2 : Les courants atmosphériques
 
@@ -49,15 +48,16 @@
 
 ??? abstract "Bilan"
     L’inégale répartition de l’énergie solaire fait que certaines zones sont plus chaudes que d’autres.
-    L’air froid est plus dense que l’air chaud, il va donc descendre vers la surface, la pression va augmenter. L’air chaud est moins dense et va donc monter en altitude. Une dépression est une zone de haute pression, un anticyclone, une zone de basse pression.  Des mouvements d’air latéraux se mettent en place des anticyclones vers les dépressions, ce sont les vents. Ils sont d'autant plus fort que la différence de pression est importante.
+    L’air froid est plus dense que l’air chaud, il va donc descendre vers la surface, la pression va augmenter. L’air chaud est moins dense et va donc monter en altitude. Une dépression est une zone de basse pression, un anticyclone, une zone de haute pression.  Des mouvements d’air latéraux se mettent en place des anticyclones vers les dépressions, ce sont les vents. 
     Ces mouvements créent des différences de pressions qui vont entraîner des mouvements d’air latéraux, les vents.
+    Ils sont d'autant plus fort que la différence de pression est importante.
 
 ![](Pictures/celluleCOnvection.png)
 ![](Pictures/globeCellulesConvections.png)
 
 https://classic.nullschool.net/fr/#2020/02/27/1500Z/wind/surface/level/overlay=mean_sea_level_pressure/orthographic=8.86,46.81,328/loc=6.011,49.920
 
-## Séance 3 : Le climat et les dybnamiques des masses d'air et d'eaux
+## Séance 3 : Le climat et les dynamiques des masses d'air et d'eaux
 
 ![](Pictures/articleFroidQuebec.png)
 
