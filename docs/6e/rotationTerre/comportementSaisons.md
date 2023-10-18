@@ -49,7 +49,7 @@ L'hibernation est un processus permettant à des animaux de passer l'hiver dans 
 <div markdown style="display: flex; flex-direction: row; ">
 
 La migration d’automne des hirondelles débute quand la nourriture disponible diminue. Elles se dirigent alors vers le sud et beaucoup passent l’hiver dans les pays d'Afrique du Centre-Ouest. 
-Au printemps, les grues repacomme les…………………………………………………………………rtent vers le nord pour se reproduire.
+Au printemps, les hirondelles repartent vers le nord pour se reproduire.
 
 ![Carte de migration des hirondelles](Pictures/carteMigratoionHirondelle1.png){: style="width:400px; flex-shrink: 0;  " }
 

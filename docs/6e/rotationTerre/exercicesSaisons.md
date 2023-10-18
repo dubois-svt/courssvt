@@ -5,18 +5,6 @@
     - Construire un graphique
     - Décrire un graphique
 
-!!! warning "Consignes"
-    
-    1. Indiquer ce que représente l’ordonnée du graphique.
-    2. Indiquer ce que représente l’abscisse du graphique.
-    3. Indiquer le mois de l’année où il y a le plus de sarcelles d’hiver en Camargue.
-    4. Préciser quel est l’effectif de sarcelles d’hiver à ce moment-là.
-    5. Indiquer les mois de l’année où il y a le moins de sarcelles d’hiver en Camargue.
-    6. Indiquer l’information extraite de ce graphique en recopiant et complétant le document 3.
-   
-??? bug "Critères de réussite"
-    - avoir 
-
 
 ## Exercice 1
 

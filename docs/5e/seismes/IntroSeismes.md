@@ -34,6 +34,10 @@ Le danger du séisme vient essentiellement des effondrements des bâtiments ne r
 
 ## Séance 2 : Modéliser un séisme
 
+!!! question "Problématique"
+    Comment se manifeste un séisme ?
+
+
 [Activité Modéliser une rupture de roche](../modelRuptureRoches)
 
 

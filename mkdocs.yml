@@ -184,8 +184,16 @@ nav :
           - Introduction : 5e/seismes/IntroSeismes.md
           - Séismes : 5e/seismes/seismes.md
           - Modélisation d'un séisme :  5e/seismes/modelRuptureRoches.md
+          - Propagation des ondes sismiques : 5e/seismes/propaSeismes.md
+          - Gestion du risque sismique : 5e/seismes/risquesSeismes.md
           - Fiche de révision : 5e/seismes/FicheSeismes.md
-      #- Séquence le risque volcanique :
+      - Séquence le risque volcanique :
+          - Introduction : 5e/volcans/IntroVolcans.md
+          - Volcans : 5e/volcans/volcans.md
+          - Modélisation d'une éruption :  5e/volcans/modelEruption.md
+          - Gestion du risque volcanique : 5e/volcans/risquesVolcans.md
+          - Fiche de révision : 5e/volcans/FicheVolcans.md
+
       #- Séquence La programmation :
       #- Séquence Mécanique : 
       #- Séquence Le système digestif :
@@ -247,7 +255,7 @@ nav :
       #- Séquence Système immunitaire :
       #- Séquence Réactions immunitaires adaptatives:
       #- Séquence Vaccination :
-      #- Séquence Puberté et focntionnement des appareils reproducteurs : 
+      #- Séquence Puberté et fonctionnement des appareils reproducteurs : 
       #- Séquence Contrôles hormonaux des appareils reproducteurs :
       #- Séquence Sexualité : 
           
