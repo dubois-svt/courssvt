@@ -1,4 +1,4 @@
-# Activité : Importance du tri des déchets
+# Activité : Les mouvements à la surface de la Terre
 
 !!! note "Compétences"
 

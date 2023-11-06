@@ -41,10 +41,6 @@
 
 
 
-<div style="page-break-after: always;"></div>
-
-
-
 ## Séance 2 : Les mouvements à la surface de la Terre
 
 !!! question "Problématique"

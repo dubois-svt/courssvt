@@ -1,4 +1,4 @@
-# Activité : Importance du tri des déchets
+# Activité : Répartition des séismes et des volcans
 
 !!! note "Compétences"
 
