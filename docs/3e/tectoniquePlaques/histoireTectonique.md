@@ -2,7 +2,8 @@
 
 !!! note "Compétences"
 
-    Interpréter 
+    - Trouver et exploiter des informations
+    - Représenter des données sous différentes formes
 
 !!! warning "Consignes"
 
