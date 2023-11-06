@@ -1,36 +1,67 @@
-# Activité : Modéliser une rupture de roche
+# Activité : Modéliser un séisme
 
 !!! note "Compétences"
 
-    trouver et utiliser des informations 
+    - trouver et utiliser des informations 
+    - Modéliser un phénomène
 
 !!! warning "Consignes"
 
-    1. Lister le matériel nécessaire
-    2. Rédiger un protocole expérimental
-    3. Compléter le texte suivant du document 1
-    4. Ce que l’on a construit s’appelle un modèle, son objectif est « d’imiter » la réalité à l’échelle de la classe pour essayer de mieux la comprendre. Néanmoins ce modèle n’est pas parfait et reste critiquable. Donner 2 limites au moins de ce modèle.
+
+    1. À partir de l’analyse des documents 1, 2 et 3, construire un schéma fonctionnel expliquant ce qui provoque un séisme.
+    2. Rédiger un protocole expérimental d'un modèle qui permettrait d'enregistrer des ondes sismiques, en vous aidant du document 4. Appeler l'enseignant.
+    3. Réaliser la modélisation.
+    4. Expliquer l’intérêt du modèle dans cette activité et donner une ou deux critiques qui pourrait être faite.
 
 ??? bug "Critères de réussite"
 
+    Pour chacun des documents 1, 2 et 3 : relever les différents événements ayant lieu dans le déclenchement d'un séisme.
 
-**Document 1 observation et conclusions ur le modèle**
+    Avoir placé les différents événements :
 
-Observation
-La _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ du polystyrène provoque l’apparition de _ _ _ _ _ _ _ _ _ _ _ _
-_ _
-Conclusion :
-L’accumulation de _ _ _ _ _ _ _ _ _ _ _ _ _ (contrainte) entraîne la rupture _ _ _ _ _ _ _ _ _
-_ des roches, ce qui provoque des _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+    - Déplacement des blocs de roches
+    - Rupture des roches
+    - Contraintes (ou tensions) sur les roches
+    - Secousses (=séismes)
+    - Déformation des roches
+    - Ondes libérées
 
-
-
-
-**Document 2 Modélisation d’un séisme**
-
-[![](pictures/qrcodeModelSeisme.png)](https://www.youtube.com/watch?v=4dDM9FqJH50)
+**Document 1 Un séisme.**
 
 
+Un séisme est une secousse du sol provoquée par des ondes se propageant dans le sol comme des « vagues » parcourant les roches.
+
+**Document 2 Mouvements le long d’une faille**
+
+<div markdown style="display:flex; flex-direction:row;">
+
+<div markdown style="flex:1 1 0">
+
+![Photographie](pictures/photoFaille.png)
+
+</div>
+
+<div markdown style="flex:1 1 0">
+
+![Photographie interprétée](pictures/photoFailleInt.png)
+
+</div>
+</div>
+
+Le long d’une faille, les aspérités des roches empêchent le glissement de deux blocs rocheux l’un par rapport à l’autre.
+Lorsque, les roches cassent brutalement. La libération d’énergie accumulée permet le déplacement des blocs rocheux. C'est lors du déplacement des blocs, au niveau du foyer, en profondeur, que prennent naissance les vibrations ou ondes sismiques.
+
+**Document 3 Comportements des roches soumis à des contraintes.**
+
+Des forces (ou contraintes) s’exercent en permanence sur les roches du sous-sol, qui accumulent ainsi de l’énergie.
+Lorsque l’on applique des forces sur un bloc solide, une tension, et donc de l’énergie, s’accumule au sein du bloc. Cette tension provoque la déformation du bloc, celui-ci commence à plier.
+Au-delà d’une certaine force, le bloc se casse, c’est la rupture, en un point profond appelé foyer.
 
 
+**Document 4 Modélisation d’un séisme**
 
+Un modèle en sciences est une représentation simplifiée de la réalité d’un phénomène pour expliquer ce phénomène ou faire une expérience pour tester une hypothèse concernant le phénomène.
+Le modèle réduit la complexité du réel, afin de le comprendre ou le faire comprendre. Il est différent de la réalité. Construit autour d’hypothèses, il doit être testé par confrontation au réel.
+
+Dans notre modèle, les roches seront représentées par une plaque de polystyrène. 
+Pour enregistrer les ondes, on utilisera une tablette posée et tenue sur la plaque, avec l'application phyphox avec l'outil "accélération sans g".

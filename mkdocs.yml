@@ -140,6 +140,12 @@ nav :
         - Comportement au cours des saisons : 6e/rotationTerre/comportementSaisons.md
         - Exercices sur les graphiques : 6e/rotationTerre/exercicesSaisons.md
         - Fiche Révision : 6e/rotationTerre/fiche.md
+      - Séquence Condition de vie :
+        - Introduction : 6e/CondVie/IntroCondVie.md
+        - Condition de vie : CondVie/conditionVie.md
+        - Etres vivants et eau : 6e/CondVie/VivantetEau.md
+        - Besoins des végétaux : 6e/CondVie/besoinVeg.md
+        - Fiche Révision : 6e/CondVie/ficheCondVie.md
 
       #- Séquence Propriété de la matière : 
       #    - Introduction : 6e/ProprietesMatiere/IntroMatiere.md
@@ -219,17 +225,22 @@ nav :
             - Dynamique des masses d'air: 4e/mouvAirEaux/dynAir.md
             - Impact sur le climat : 4e/mouvAirEaux/courantsClimat.md
             - Fiche de révision : 4e/mouvAirEaux/FicheDynAirEau.md
-           
+      - Séquence Une ressource naturelle, l'eau :
+            - Introduction : 4e/ressourceNaturelleEau/IntroEau.md
+            - Reservoirs et utilisation de l'eau : 4e/ressourceNaturelleEau/reservoiretutilisationEau.md
+            - Eau ressource précieuse : 4e/ressourceNaturelleEau/eauRessourcePrecieuse.md
+            - Fiche de révision : 4e/ressourceNaturelleEau/Fiche.md
+
+      #- Séquence Le monde microbien : 
+      #- Séquence Système nerveux :
+      #- Séquence Système nerveux et mode de vie :
       #- Séquence Exploitations des sols pour produire de la nourriture :
       #- Séquence Reproduction des êtres vivants :
       #- Séquence Génétique : 
       #- Séquence Dynamique des populations :
       #- Séquence Phénotypes et génotypes :
       #- Séquence Diversité génétique :
-      #- Séquence Système nerveux :
-      #- Séquence Système nerveux et mode de vie :
-      #- Séquence Le monde microbien : 
-      #- Séquence Asepsie et antisepsie : 
+
           
   - 3e :
       - 3e/sommaire3e.md
@@ -246,7 +257,15 @@ nav :
           - Conséquences du réchauffement climatique : 3e/chgtClimActuel/chgtClimRepartVivant.md
           - Conséquences de l'exploitation des énergies fossiles : 3e/chgtClimActuel/conseqEnergiesFossiles.md
           - Fiche de révision :  3e/chgtClimActuel/FicheChgtClimatActuel.md
-      #- Séquence Tectonique des plaques 1:
+      - Séquence Tectonique des plaques :
+          - Introdution : 3e/tectoniquePlaques/IntroTecto.md
+          - Repartition des séismes et des volcans : 3e/tectoniquePlaques/repartSeismesVolcans.md
+          - Mouvements à la surface de la Terre : 3e/tectoniquePlaques/mvtsSurfaceTerre.md
+          - Construction de la théorie : 3e/tectoniquePlaques/histoireTectonique.md
+          - Fiche Révision : 3e/tectoniquePlaques/Fiche.md
+
+
+
       #- Séquence Tectonique des plaques 2:
       #- Séquence Activité humaine et changement climatique : 
       #- Séquence Classification des êtres vivants :
