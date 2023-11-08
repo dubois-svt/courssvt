@@ -5,6 +5,11 @@
     - Construire un graphique
     - Décrire un graphique
 
+??? note-prof 
+    Retenir des idées :    1.1 1.2
+    Trouver des informations :     1.3 1.4 1.5 1. 6
+    Construire un graph :     2.1
+    Décrire un graph :     2.2
 
 ## Exercice 1
 

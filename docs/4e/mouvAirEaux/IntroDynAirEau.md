@@ -65,9 +65,8 @@ https://classic.nullschool.net/fr/#2020/02/27/1500Z/wind/surface/level/overlay=m
 [Activité Impact sur le climat des dynamiques de masses d'air et d'eau](../courantsClimat)
 
 ??? abstract "Bilan"
-    Montréal est situé plus bas que Paris, il devrait donc y faire plus chaud, mais on observe que la température moyenne est plus importante à Paris. 
-    Un courant océanique chaud passe au niveau de la France ce qui pourrait expliquer cette différence
 
-    L’inégale répartition de l’énergie solaire crée des mouvements de l’hydrosphère et dans l’atmosphère. Cela entraîne un transfert d’énergie (chaleur) de l’équateur aux pôles ce qui permet d’équilibrer l’excès d’énergie reçue à l’équateur. Cela va avoir un effet sur le climat. 
+
+    L’inégale répartition de l’énergie solaire crée des mouvements de l’hydrosphère et dans l’atmosphère. Cela entraîne un transfert d’énergie (chaleur) de l’équateur aux pôles ce qui permet d’équilibrer l’excès d’énergie reçue à l’équateur. Les mouvements d'air et d'eaux vont avoir un effet sur le climat. 
 
 ![](Pictures/carteGulfStream.png)

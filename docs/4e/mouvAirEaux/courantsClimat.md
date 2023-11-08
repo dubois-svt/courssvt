@@ -28,3 +28,7 @@ Deux types de courants océaniques se distinguent dans l'Atlantique Nord:
 - un courant chaud le long des côtes françaises, le Gulf Stream.
 ![](Pictures/carteGulfStream.png)
 
+??? note-prof "Correction"
+
+    Montréal est situé plus bas que Paris, il devrait donc y faire plus chaud, mais on observe que la température moyenne est plus importante à Paris. 
+    Un courant océanique chaud passe au niveau de la France ce qui pourrait expliquer cette différence

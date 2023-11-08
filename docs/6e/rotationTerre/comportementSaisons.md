@@ -113,8 +113,8 @@ La pause hivernale (appelée diapause) est une période cruciale pour la colonie
 
 **Document 9 : Résumé des informations**
 
-Quand il fait trop froid, certains être vivants……………… vers des pays plus chauds.  
-Certains………...………… (c’est à dire que leur fourrure s’épaissit et qu’ils adaptent leur alimentation).  
-D’autres………………… (c’est à dire qu’ils dorment durant toute la saison).  
-D’autres perdent leur………………… pour éviter la…………………………….  
-D’autres……………………… mais leur descendance survit dans le sol sous forme de…………… ou de bulbes.
+Quand il fait trop froid, certains êtres vivants   ……………… vers des pays plus chauds.  
+Certains   ………...………… (c’est à dire que leur fourrure s’épaissit et qu’ils adaptent leur alimentation).  
+D’autres  ………………… (c’est à dire qu’ils dorment durant toute la saison).  
+D’autres perdent leurs  ………………… pour éviter le  …………………………….  
+D’autres  ……………………… mais leur descendance survit dans le sol sous forme de  .…………… ou de bulbes.

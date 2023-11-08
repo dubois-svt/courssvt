@@ -9,7 +9,7 @@
         
 ### Document d’appel :
 
-![Article de l'ONU](aticleONUEau.png)
+![Article de l'ONU](pictures/aticleONUEau.png)
 
 ![](pictures/graphConsoeauFrance19002010.png)
 
@@ -34,7 +34,7 @@
 
 
 
-??? abstract "Bilan"
+??? note-prof "Bilan"
 
     À l’échelle de l’individu, en plus d’être une boisson vitale pour l’organisme, l’eau participe grandement à l’hygiène et donc à la bonne santé.
     

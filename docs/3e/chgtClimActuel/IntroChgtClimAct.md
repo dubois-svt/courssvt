@@ -92,6 +92,12 @@
 [Activité Les conséquences de l’exploitation des énergies fossiles](../conseqEnergiesFossiles)
 
 
+??? abstract "Bilan"
+
+    Les énergies fossiles sont des énergies dont la source a été formée par l’accumulation d’anciens êtres vivants. Elles ne sont pas renouvelables à l’échelle humaine. (exemple : charbon, gaz, pétrole)
+
+    L’exploitation de ces énergies a un impact important sur l’environnement et les populations humaines
+
 
 
 ??? note-prof "Bilan"
