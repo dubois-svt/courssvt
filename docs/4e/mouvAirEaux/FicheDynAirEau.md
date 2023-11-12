@@ -24,13 +24,19 @@
 <div markdown class="flashcard">
 
 1. 
-    - question
-    - Une ampoule
+    - Qu'est-ce qui entraîne les courants marins de surface ?
+    - Les vents
 2. 
-    - Lorem ipsum ?
-    - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam non diam ut quam vehicula efficitur sit amet vitae nisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed at rutrum dui.
+    - Qu'est-ce qui fait que l'air chaud monte en altitude ?
+    - Sa densité est moins élevée que celle de l'air froid.
 3. 
-    - Question
-    - Réponse
+    - Qu'est-ce qu'un anticyclone ?
+    - Une zone de haute pression
+4. 
+    - Qu'est-ce qui crée des différences de pressions ?
+    - Les vents
+5. 
+    - Qu'est-ce qui permet d'équilibrer l'excès d'énergie reçue à l'équateur ?
+    - Les mouvements d'eau et d'air.
 
 </div>

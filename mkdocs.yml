@@ -190,7 +190,7 @@ nav :
           - Introduction : 5e/seismes/IntroSeismes.md
           - Séismes : 5e/seismes/seismes.md
           - Modélisation d'un séisme :  5e/seismes/modelRuptureRoches.md
-          - Propagation des ondes sismiques : 5e/seismes/propaSeismes.md
+          - Propagation des ondes sismiques : 5e/seismes/propagOndes.md
           - Gestion du risque sismique : 5e/seismes/risquesSeismes.md
           - Fiche de révision : 5e/seismes/FicheSeismes.md
       - Séquence le risque volcanique :

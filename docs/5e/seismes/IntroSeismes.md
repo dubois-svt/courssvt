@@ -35,7 +35,7 @@ Le danger du séisme vient essentiellement des effondrements des bâtiments ne r
 ## Séance 2 : Modéliser un séisme
 
 !!! question "Problématique"
-    Comment se manifeste un séisme ?
+    Comment modéliser un séisme ?
 
 
 [Activité Modéliser une rupture de roche](../modelRuptureRoches)
@@ -46,11 +46,11 @@ Le danger du séisme vient essentiellement des effondrements des bâtiments ne r
     Le déplacement de ces blocs, le long de la faille, libère des ondes qui se propagent dans le sol. Ces ondes provoquent des secousses appelées tremblement de terre ou séisme.
 
 
-## Séance 2 : Modéliser un séisme
+## Séance 3 : Les ondes sismiques
 
 
-Activité n°SVT1.3 : Propagation des ondes sismiques et intensité*
 
+[Activité Propagation des ondes sismiques et intensité](../propagOndes)
 
 
 
@@ -62,21 +62,11 @@ Activité n°SVT1.3 : Propagation des ondes sismiques et intensité*
 
     Plus on s’éloigne de l’épicentre, plus l’intensité du séisme sera faible.
 
-
-
-## Séance 2 : Modéliser un séisme
-
-
-Activité n°SVT1.4 : Mesures : intensité et vitesse de propagation des ondes
-
-
-??? abstract "Bilan"
-
     Les sismomètres et les sismographes sont des appareils qui permettent d’enregistrer les vibrations du sol. Ils permettent donc de détecter et d’enregistrer les séismes.
     De nombreux sismomètres sont disposés à la surface du globe. Grâce à ces enregistrements, au moins 3, on peut calculer la localisation de l’épicentre.
 
 
-## Séance 2 : Modéliser un séisme
+## Séance 4 : Modéliser un séisme
 
 
 Activité n°SVT1.5 : Gestion d’un risque
