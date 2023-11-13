@@ -1,3 +1,9 @@
 {
-    "cSpell.language": "fr,fr-FR,en-US,en-GB"
+    "cSpell.language": "fr,fr-FR,en-US,en-GB",
+    "grammarly.selectors": [
+        {
+            "language": "markdown",
+            "scheme": "file"
+        }
+    ]
 }

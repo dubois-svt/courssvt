@@ -5,9 +5,9 @@
 
 
     
-### Document d’appel :
+### Situation déclenchante :
 
-Situation déclenchante : Photographie de Thomas Pesquet et de la Terre.
+Photographie de Thomas Pesquet et de la Terre.
 ![](Pictures/photoPesquet.png)
 
 ![](Pictures/photoTerre.png)
@@ -51,8 +51,19 @@ La planète Terre est la seule planète du système solaire à présenter de la 
 ??? abstract "Bilan"
     Tous les êtres vivants contiennent de l’eau à l’état liquide et ont besoin d’eau ou d’aliments contenant de l’eau.
 
+## Séance 3 : La température de changement d'état
 
-## Séance 3 : Les besoins d'un végétal
+![](Pictures/panneauVerglas.png)
+
+Le verglas est une couche de glace qui se forme sur le sol à une température inférieure à zéro degrés Celsius (°C). Chaque année, de nombreux accidents sont dus à la présence de verglas sur la route. Pour pallier ce problème, la neige est souvent déblayée et on projette du sel sur la route.
+
+!!! question "Problématique"
+    Pourquoi projeter du sel sur la route lorsqu’il y a du verglas ?
+
+[Activité Les changement d'état de l'eau](../chgtEtatEau)
+
+
+## Séance 4 : Les besoins d'un végétal
 
 !!! question "Problématique"
     Quels sont les besoins des plantes ?

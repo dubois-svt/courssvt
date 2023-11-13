@@ -20,7 +20,7 @@
 ??? bug "Critères de réussite"
     - description intensité :
       - comparer intensité autour de la ville de Bam
-      - Formuler une coinclusion
+      - Formuler une conclusion
         - compléter la phrase suivante : Plus on s’éloigne  de _ _ _ _ _ _ _ _ _ _ _ _ _  plus l’intensité du séisme  _ _ _ _ _ _ _ _ _ _ _ _
     - calculer vitesse
       - rappeler formule

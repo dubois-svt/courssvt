@@ -1,3 +1,8 @@
+---
+lang: FRENCH
+---
+
+
 # Activité : Une vague de froid.
 
 !!! note "Compétences"
@@ -39,7 +44,7 @@ Celui-ci devrait encore perdurer quelques jours. Le service national de météor
 
     Le réchauffement climatique est un événement climatique donc il se passe une longue durée.
 
-    Donald Trum a tort car le réchauffement climatique est une moyenne sur 30 ans.
+    Donald Trump a tort car le réchauffement climatique est une moyenne sur 30 ans.
 
 !!! note-prof "grille"
     Restituer des connaissances
