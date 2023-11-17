@@ -7,9 +7,9 @@
 
 !!! warning "Consignes"
     
-    1. D'après le document 1, comment est qualifiée la ville de Bam ? Qu’est-ce que cela signifie ?
-    2. Décrire l'intensité du séisme dans la région de Bam.
-    3. Calculer la vitesse des ondes sismiques à partir du document 5
+    1. D'après les documents 2 et 3 , quel mot permet de qualifier la ville de Bam ? Qu’est-ce que cela signifie ?
+    2. Décrire l'intensité du séisme dans la région de Bam. (document 2)
+    3. Calculer la vitesse des ondes sismiques à partir des documents 1 et 5
     4. Compléter et légender le schéma du document 6 avec
         - Le foyer (par un point vert), la faille et l’épicentre (point rouge)
         - La propagation des ondes sismiques (cercle en pointillés)
@@ -29,7 +29,7 @@
 
 **Document 1 Un séisme à Bam.**
 
-Le 26 décembre 2003 en Iran à 1h56min52s, de fortes secousses ont détruit la ville de Bam en 13 secondes. 35 000 morts ont été déplorés. Après avoir observé les dégâts et interrogé les témoins, les géologues déterminent, à partir d’une échelle de I à XII l’intensité du séisme en différents lieux. Les valeurs obtenues sont reportées sur une carte et les points de même intensité sont reliés pour délimiter des zones d’égale intensité. On localise ensuite l’épicentre du séisme. Le foyer sismique était situé à 10 de profondeur
+Le 26 décembre 2003 en Iran à 1h56min52s, de fortes secousses ont détruit la ville de Bam en 13 secondes. 35 000 morts ont été déplorés. Après avoir observé les dégâts et interrogé les témoins, les géologues déterminent, à partir d’une échelle de I à XII l’intensité du séisme en différents lieux. Les valeurs obtenues sont reportées sur une carte et les points de même intensité sont reliés pour délimiter des zones d’égale intensité. On localise ensuite l’épicentre du séisme. Le foyer sismique était situé à 10 km de profondeur
 
 
 **Document 2 Échelle d’intensité et carte des intensités établies après le séisme de Bam.**

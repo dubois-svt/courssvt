@@ -32,13 +32,14 @@ La planète Terre est la seule planète du système solaire à présenter de la 
 ??? abstract "Bilan"
 
     Pour pouvoir vivre sur une planète, il faut regrouper les conditions nécessaires au fonctionnement des cellules :
-    • Une température adaptée (environ 15 degrés)
-    • De l’eau à l’état liquide
-    • Une atmosphère avec une couche d’ozone protectrice des mauvais rayons du soleil (Rayons Ultras Violets)
-    La température d’une planète dépend de sa distance au Soleil et de la présence d’une atmosphère.
-    Attention : le dioxygène n’est pas nécessaire à la vie ! (des bactéries anaérobies qui font de la fermentation ; bactérie dénitrifiante dans le cycle de l’azote (utilise l’azote à la place du dioxygène))
 
-<div style="page-break-after: always;"></div>
+    - Une température adaptée (environ 15 degrés)
+    - De l’eau à l’état liquide
+    - Une atmosphère avec une couche d’ozone protectrice des mauvais rayons du soleil (Rayons Ultras Violets)
+
+    La température d’une planète dépend de sa distance au Soleil et de la présence d’une atmosphère.
+
+    Attention : le dioxygène n’est pas nécessaire à la vie !
 
 ## Séance 2 : L'eau dans les êtres vivants
 

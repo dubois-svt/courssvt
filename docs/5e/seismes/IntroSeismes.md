@@ -48,7 +48,8 @@ Le danger du séisme vient essentiellement des effondrements des bâtiments ne r
 
 ## Séance 3 : Les ondes sismiques
 
-
+!!! question "Problématique"
+    Comment se propagent les ondes sismiques ? 
 
 [Activité Propagation des ondes sismiques et intensité](../propagOndes)
 
@@ -66,33 +67,22 @@ Le danger du séisme vient essentiellement des effondrements des bâtiments ne r
     De nombreux sismomètres sont disposés à la surface du globe. Grâce à ces enregistrements, au moins 3, on peut calculer la localisation de l’épicentre.
 
 
-## Séance 4 : Modéliser un séisme
+## Séance 4 : Le risque sismique*
+
+!!! question "Problématique"
+    Comment gérer le risque sismique ?
 
 
-Activité n°SVT1.5 : Gestion d’un risque
 
+[Activité Gestion d'un risque](../risquesSismiques)
 
 
 ??? abstract "Bilan"
     Les phénomènes sismiques peuvent exposer les populations humaines à un risque.
-    Pour caractériser le risque pour une population humaine dans une région, il est nécessaire de connaître l’aléa et la vulnérabilité.
+
+    Un risque est évalué en tenant compte de son aléa (sa probabilité de survenir) et de la vulnérabilité (sensibilité au risque).
+
     Pour réduire le risque, on peut utiliser des mesures de prévision, de prévention et de protection.
 
 
 
-
-
-
-??? abstract "Bilan"
-    Les roches en profondeur sont soumises à des contraintes. Lorsque ces contraintes sont trop fortes, il se produit une rupture brutale entre ces roches, ce qui entraîne des vibrations.
-    Ces ondes sismiques se propagent alors dans toutes les directions et peuvent provoquer de nombreux dégâts.
-
-    L’épicentre, situé à la verticale au-dessus du foyer, est le lieu où le séisme sera ressenti le plus fortement.
-
-    La France est davantage exposée au risque sismique dans les régions montagneuses.
-    Pour limiter les risques, plusieurs moyens sont mis en place :
-    des mesures de prévision
-    des mesures de prévention
-    des mesures de protection
-
-    Un risque est évalué en tenant compte de son aléa (sa probabilité de survenir) et de la vulnérabilité (sensibilité au risque).

@@ -130,6 +130,3 @@ On ajoute du sel sur les routes car cela permet de modifier la temp√©rature de ‚
 |     |     |     |
 |     |     |     |
 |     |     |     |
-|     |     |     |
-|     |     |     |
-|     |     |     |
