@@ -66,23 +66,28 @@ Le danger du séisme vient essentiellement des effondrements des bâtiments ne r
     Les sismomètres et les sismographes sont des appareils qui permettent d’enregistrer les vibrations du sol. Ils permettent donc de détecter et d’enregistrer les séismes.
     De nombreux sismomètres sont disposés à la surface du globe. Grâce à ces enregistrements, au moins 3, on peut calculer la localisation de l’épicentre.
 
-
-## Séance 4 : Le risque sismique*
+## Séance 4 : Le risque sismique
 
 !!! question "Problématique"
     Comment gérer le risque sismique ?
 
 
 
-[Activité Gestion d'un risque](../risquesSismiques)
+[Activité Gestion d'un risque sismique](../risquesSismiques)
 
 
 ??? abstract "Bilan"
     Les phénomènes sismiques peuvent exposer les populations humaines à un risque.
 
-    Un risque est évalué en tenant compte de son aléa (sa probabilité de survenir) et de la vulnérabilité (sensibilité au risque).
+    Un risque est évalué en tenant compte de son aléa (sa probabilité de survenir) et de la vulnérabilité des enjeux (sensibilité au risque des biens et des humains).
 
     Pour réduire le risque, on peut utiliser des mesures de prévision, de prévention et de protection.
 
 
 
+## Séance 5 : Exercices
+
+
+
+
+[Activité Exercices sur les séismes](../exoSeismes)

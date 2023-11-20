@@ -2,12 +2,12 @@
 
 !!! note "Compétences"
 
-    Communiquer à l'oral
-    Trouver et utiliser des informations 
+    - Communiquer à l'oral
+    - Trouver et utiliser des informations 
 
 !!! warning "Consignes"
 
-    A partir des documents, présenter dans un audio, en quoi l'eau est importante, quel est l'état actuel de nos ressources en eau. Finir par une présentation de 2 solutions possibles pour l'avenir.
+    A partir des documents et de l'activité précédente, présenter dans un audio de 3 minutes maximum, en quoi l'eau est importante, quel est l'état actuel de nos ressources en eau. Finir par une présentation de 2 solutions possibles pour l'avenir.
     
 ??? bug "Critères de réussite"
     - Indiquer l'utilité de l'eau
@@ -29,17 +29,17 @@
     <td>Insuffisant</td>
     </tr>
     <tr>
-    <td><p>L’élève est pleinement engagé dans sa parole.</p>
-    <p>La voix est assez forte et claire et la parole n’est ni trop lente ni
-    trop rapide.</p></td>
-    <td><p>L’élève parvient à susciter l’intérêt.</p>
-    <p>La prise de parole est affirmée, cependant quelques variations dans
-    l’utilisation de la voix.</p></td>
-    <td><p>L’élève a des difficultés à capter l’attention, la prise de
-    parole est monocorde.</p>
-    <p>La voix n’est plus très audible au fil de l’oral.</p></td>
-    <td><p>L’élève n’arrive pas à capter l’attention.</p>
-    <p>La voix n’est pas audible sur l’ensemble de l’oral.</p></td>
+    <td>L’élève est pleinement engagé dans sa parole.<br>
+    La voix est assez forte et claire et la parole n’est ni trop lente ni
+    trop rapide.</td>
+    <td>L’élève parvient à susciter l’intérêt.<br>
+    La prise de parole est affirmée, cependant quelques variations dans
+    l’utilisation de la voix.</td>
+    <td>L’élève a des difficultés à capter l’attention, la prise de
+    parole est monocorde.<br>
+    La voix n’est plus très audible au fil de l’oral.</td>
+    <td>L’élève n’arrive pas à capter l’attention.<br>
+    La voix n’est pas audible sur l’ensemble de l’oral.</td>
     </tr>
     </tbody>
     </table>
@@ -61,19 +61,17 @@
     <td>Insuffisant</td>
     </tr>
     <tr >
-    <td><p>Utilisation d’un vocabulaire riche et précis.</p>
-    <p>Discours fluide, efficace, tirant pleinement profit du temps.</p>
-    <p>Le temps est respecté.</p></td>
-    <td><p>Le lexique est adapté.</p>
-    <p>Discours articulé et pertinent, énoncés bien construits.</p>
-    <p>Le temps est respecté.</p></td>
-    <td><p>Discours assez clair mais vocabulaire limité, approximatif et
-    énoncés schématiques.</p>
-    <p>Et/ou, le temps n’est pas totalement respecté.</p></td>
-    <td><p>Le vocabulaire est insuffisant.</p>
-    <p>Énoncés courts, ponctués de pauses et de faux démarrages ou énoncés
-    longs à la syntaxe mal maîtrisée.</p>
-    <p>Et/ou le temps n’est pas maîtrisé.</p></td>
+    <td>Utilisation d’un vocabulaire riche et précis.<br>
+    Discours fluide, efficace, tirant pleinement profit du temps.
+    Le temps est respecté.</td>
+    <td>Le lexique est adapté.<br>
+    Discours articulé et pertinent, énoncés bien construits.
+    Le temps est respecté.</td>
+    <td>Discours assez clair mais vocabulaire limité, approximatif et énoncés schématiques.<br>
+    Et/ou, le temps n’est pas totalement respecté.</td>
+    <td>Le vocabulaire est insuffisant.<br>
+    Énoncés courts, ponctués de pauses et de faux démarrages ou énoncés longs à la syntaxe mal maîtrisée. <br>
+    Et/ou le temps n’est pas maîtrisé.</td>
     </tr>
     </tbody>
     </table>
@@ -134,7 +132,7 @@
 
 **Document 1 Les utilisation quotidiennes de l'eau d'un burkinabé et d'un français.**
 
-![](pictures/graphConsoEau.png){:style="height:300px;"}
+![](pictures/graphConsoEau.png){:style="height:250px;"}
 
 
 Pour vivre décemment,l'OMS(Organisation mondiale de la Santé) préconise 50 litres d'eau par jour et par personne. Un confort réel est toutefois atteint à partir de 100 litres par personne et par jour
@@ -142,12 +140,12 @@ Pour vivre décemment,l'OMS(Organisation mondiale de la Santé) préconise 50 li
 
 **Document 2 Carte de la disponibilité des ressources en eau douce dans le monde (en m3 d’eau douce par personne et par an).**
 
-![](pictures/carteDispoEauDouce.png){:style="height:500px;"}
+![](pictures/carteDispoEauDouce.png){:style="height:400px;"}
 
 
 **Document 3 L'eau disponible sur Terre pour les besoins des humains**
 
-![](pictures/graphEauTerre.png){:style="height:500px;"}
+![](pictures/graphEauTerre.png){:style="height:400px;"}
 
 Pour ses usages, l'être humain n'utilise que les eaux douces issues des eaux de surface et des nappes phréatiques. A l'échelle mondiale, l'obtention d'eau douce à partir du dessalement d'eau de mer reste marginale car les techniques utilisées sont onéreuses et consommatrices de grandes quantités d'énergie.
 

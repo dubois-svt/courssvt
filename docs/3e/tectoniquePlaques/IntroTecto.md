@@ -10,7 +10,7 @@
     Qu'est-ce qu'une plaque ?
 
     
-### Document d’appel :
+
 
 
 
@@ -77,6 +77,5 @@
     Définition : Une théorie est un ensemble de lois scientifiques, de principes et de règles visant à décrire et à expliquer un ensemble de faits. Une théorie se construit autour de faits, des observations, des résultats expérimentaux. Une théorie scientifique a un statut provisoire et correspond à la vérité scientifique du moment.
 
 
-<div style="page-break-after: always;"></div>
 
-![Alt text](image.png)
+![](Pictures/schemaDiffTectoWegener.png)

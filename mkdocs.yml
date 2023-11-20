@@ -192,12 +192,13 @@ nav :
           - Séismes : 5e/seismes/seismes.md
           - Modélisation d'un séisme :  5e/seismes/modelRuptureRoches.md
           - Propagation des ondes sismiques : 5e/seismes/propagOndes.md
-          - Gestion du risque sismique : 5e/seismes/risquesSeismes.md
+          - Gestion du risque sismique : 5e/seismes/risquesSismiques.md
+          - Exercices : 5e/seismes/exoSeismes.md
           - Fiche de révision : 5e/seismes/FicheSeismes.md
       - Séquence le risque volcanique :
           - Introduction : 5e/volcans/IntroVolcans.md
           - Volcans : 5e/volcans/volcans.md
-          - Modélisation d'une éruption :  5e/volcans/modelEruption.md
+          - Modélisation d'une éruption :  5e/volcans/eruption.md
           - Gestion du risque volcanique : 5e/volcans/risquesVolcans.md
           - Fiche de révision : 5e/volcans/FicheVolcans.md
 
@@ -232,7 +233,13 @@ nav :
             - Eau ressource précieuse : 4e/ressourceNaturelleEau/eauRessourcePrecieuse.md
             - Fiche de révision : 4e/ressourceNaturelleEau/Fiche.md
 
-      #- Séquence Le monde microbien : 
+      - Séquence Le monde microbien : 
+            - Introduction : 4e/mondeMicrobien/IntroMicrobes.md
+            - Microorganismes : 4e/mondeMicrobien/microbes.md
+            - Microbiote : 4e/mondeMicrobien/microbiote.md
+            - Asepsie et antisepsie : 4e/mondeMicrobien/asepsieAntisepsie.md
+            - Antiobiotiques : 4e/mondeMicrobien/antiobio.md
+            - Fiche de révision : 4e/mondeMicrobien/FicheMicrobes.md
       #- Séquence Système nerveux :
       #- Séquence Système nerveux et mode de vie :
       #- Séquence Exploitations des sols pour produire de la nourriture :
