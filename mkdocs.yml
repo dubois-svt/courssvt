@@ -271,10 +271,13 @@ nav :
           - Mouvements à la surface de la Terre : 3e/tectoniquePlaques/mvtsSurfaceTerre.md
           - Construction de la théorie : 3e/tectoniquePlaques/histoireTectonique.md
           - Fiche Révision : 3e/tectoniquePlaques/Fiche.md
-
-
-
-      #- Séquence Tectonique des plaques 2:
+      - Séquence mouvements de la tectoniques des plaques:
+          - Introdution : 3e/tecto2/IntroTecto2.md
+          - Divergences : 3e/tecto2/divergences.md
+          - Les subductions : 3e/tecto2/subduction.md
+          - Les collisions : 3e/tecto2/collision.md
+          - Le moteur de la tectonique des plaques : 3e/tecto2/moteurTecto.md
+          - Fiche Révision : 3e/tecto2/FicheTecto2.md
       #- Séquence Activité humaine et changement climatique : 
       #- Séquence Classification des êtres vivants :
       #- Séquence Evolution au cours du temps :
