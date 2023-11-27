@@ -11,7 +11,7 @@
 !!! note 
   virer Seq1 seance 1
   rajouter conductivité électrique seq1 seance 2
-  température changement état à faire
+
 
 #### Masse et volume
 

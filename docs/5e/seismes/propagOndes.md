@@ -102,6 +102,6 @@ Les vibrations provoquées par un séisme sont dues à des ondes sismiques qui s
 </div>
 
 
-**Document 4 Schema des effets d'un séisme**
+**Document 6 Schema des effets d'un séisme**
 
 ![](pictures/schemaEffetSeisme.png)

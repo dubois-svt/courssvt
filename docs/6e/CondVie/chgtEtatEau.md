@@ -17,7 +17,7 @@
 
 
 **Document 1 Etude de l'influence de la température sur l'eau**
-On place dans un tube à essai, contenant de l’eau pure (environ 3cm de hauteur), dans un mélange réfrigérant.
+On place dans un tube à essai, contenant de l’eau pure (environ 3cm de hauteur), dans un mélange réfrigérant (glace pilée + sel).
 
 On observe l’état physique de l’eau contenue dans le tube à essai et on relève la température de l’eau pure, à intervalle de temps régulier.
 
@@ -130,3 +130,9 @@ On ajoute du sel sur les routes car cela permet de modifier la température de �
 |     |     |     |
 |     |     |     |
 |     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+
+
+![](image.png)

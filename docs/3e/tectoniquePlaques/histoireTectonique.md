@@ -54,9 +54,9 @@ Le météorologue allemand Alfred Wegener a émis l’idée que les continents t
 
 
 
-**Document 4 Des fossiles utilisés par Wegener**
+**Document 4 Des indices utilisés par Wegener**
 
-Wegener a émis son hypothèse parce qu’il avait constaté que les côtes de l’Afrique de l’Ouest et celles de l’Est de l’Amérique du Sud ressemblaient à des pièces de casse-tête qui se seraient détachées et éloignées l’une de l’autre. De plus, en examinant, les fossiles de roches et d’animaux et les roches de ces deux continents, il a remarqué de nombreuses similitudes qu’il n’arrive pas à expliquer si les deux continents ont toujours été aussi éloignés.
+Wegener a émis son hypothèse parce qu’il avait constaté que les côtes de l’Afrique de l’Ouest et celles de l’Est de l’Amérique du Sud ressemblaient à des pièces de casse-tête qui se seraient détachées et éloignées l’une de l’autre. De plus, en examinant, les fossiles d’animaux et les roches de ces deux continents, il a remarqué de nombreuses similitudes qu’il n’arrive pas à expliquer si les deux continents ont toujours été aussi éloignés.
 
 ![](Pictures/indicesWegener.png)
 
@@ -105,5 +105,5 @@ Vitesse en cm/an
 
 
 ??? note-prof
-    <img src="Pictures/friseChronoTectonique.png"
-    style="width:18.5cm;height:12.404cm" />
+    ![](Pictures/friseChronoTectonique.png)
+    ![](Pictures/friseChronosTectoPlaques.png)

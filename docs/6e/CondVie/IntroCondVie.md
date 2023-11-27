@@ -63,6 +63,18 @@ Le verglas est une couche de glace qui se forme sur le sol à une température i
 
 [Activité Les changement d'état de l'eau](../chgtEtatEau)
 
+??? abstract "Bilan"
+
+    L'état physique (solide, liquide ou gaz) d'un corps dépend de sa température.
+
+    Le changement d’état d’un corps pur s’effectue à température constante, il y a un palier de température.
+    La température du palier est appelée température de changement d'état.
+
+    - 0°C, c’est la température de solidification de l’eau pure.
+    - 100°C, c’est la température d’ébullition de l’eau pure.
+
+
+    Durant les changement d'état de mélange, la température ne reste pas constante.
 
 ## Séance 4 : Les besoins d'un végétal
 

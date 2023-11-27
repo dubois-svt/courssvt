@@ -1,4 +1,4 @@
-# Activité : Gestion d'un risque sismique
+# Activité : Exercice
 
 !!! note "Compétences"
 

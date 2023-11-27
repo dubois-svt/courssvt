@@ -143,11 +143,28 @@ nav :
       - Séquence Condition de vie :
         - Introduction : 6e/CondVie/IntroCondVie.md
         - Condition de vie : 6e/CondVie/conditionVie.md
-        - Etres vivants et eau : 6e/CondVie/VivantetEau.md
+        - Êtres vivants et eau : 6e/CondVie/VivantetEau.md
         - Les changement d'état de l'eau : 6e/CondVie/chgtEtatEau.md
         - Besoins des végétaux : 6e/CondVie/besoinVeg.md
         - Fiche Révision : 6e/CondVie/ficheCondVie.md
-
+      - Séquence Les êtres vivants :
+        - Introduction : 6e/etresVivants/IntroEtresVivants.md
+        - Observation cellules de triton : 6e/etresVivants/obsTriton.md
+        - Observation cellules d'oignon : 6e/etresVivants/obsOignon.md
+        - Calculer la taille des cellules : 6e/etresVivants/calculTaille.md
+        - Hérédité et lien de parenté : 6e/etresVivants/VivantetEau.md
+        - Fiche Révision : 6e/etresVivants/ficheEtresVivants.md     
+      - Séquence Biodiversité actuelle et passée :
+        - Introduction : 6e/biodiv/IntroBiodiv.md
+        - Diversité intraspécifique : 6e/biodiv/chgtEtatEau.md
+        - Paléoenvironnement et crise biologique: 6e/biodiv/besoinVeg.md
+        - Fiche Révision : 6e/biodiv/ficheBiodiv.md     
+      - Séquence Devenir de la matière organique :
+        - Introduction : 6e/matOrga/IntroMatOrga.md
+        - Réseaux aliemntaires : 6e/matOrga/conditionVie.md
+        - Faune du sol: 6e/matOrga/VivantetEau.md
+        - Décomposition : 6e/matOrga/chgtEtatEau.md
+        - Fiche Révision : 6e/matOrga/ficheMatOrga.md
       #- Séquence Propriété de la matière : 
       #    - Introduction : 6e/ProprietesMatiere/IntroMatiere.md
       #    - Activité Importance du tri des déchets : 6e/ProprietesMatiere/Decomposition.md
