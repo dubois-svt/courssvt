@@ -21,8 +21,7 @@ En 1928, le médecin anglais Alexander Fleming cultive pour les étudier des bac
 **Document 2 : Effet de pénicilline sur les staphylocoques (bactéries)**
 
 Les antibiotiques vont tuer les bactéries
-
-![](pictures/photoEffetAntibioBact.png){: style="height:300px;"}
+![](pictures/photoEffetAntibioBact.png)
 
 **Document 3 : La résistance aux antibiotiques**
 
@@ -70,7 +69,7 @@ L’efficacité de l’antibiotique est révélée par la réaction de la popula
 
 Un antibiogramme est fait pour connaître l’antibiotique à utiliser dans le cas d’un patient souffrant d’une infection bactérienne.
 
-![](pictures/Antibiogramme.png){: style="height:300px;"}
+![](pictures/Antibiogramme.png)
 
 
 ??? note-prof "correction"

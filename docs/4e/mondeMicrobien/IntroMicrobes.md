@@ -61,7 +61,12 @@ Par Laura Thouny, L’express, publié le 16/07/2010
 
     Certaines bactéries du microbiote pourraient influencer notre comportement, notre mode d’alimentation.
 
-## Séance 3 : Les risques de contamination
+## Séance 3 : Limiter les risques de contamination
+
+!!! question "Problématique"
+    Comment limiter les risques de contamination ?
+
+[Activité Les risques de contamination](../asepsieAntisepsie)
 
 
 ??? abstract "Bilan"
@@ -77,7 +82,14 @@ Par Laura Thouny, L’express, publié le 16/07/2010
 
     Définition : muqueuses : ce sont des tissus recouvrant les parties intérieures du corps en contact avec l’extérieur.
 
-## Séance 4 :    antibiotiques
+## Séance 4 : Les antibiotiques
+
+!!! question "Problématique"
+    Comment les antibiotiques aident-ils à lutter contre certaines maladies ? 
+
+[Activité Les antibiotiques](../antibio)
+
+[Activité Combattre une infection : une angine](../tpAngine)
 
 ??? abstract "Bilan"
 
@@ -85,3 +97,9 @@ Par Laura Thouny, L’express, publié le 16/07/2010
     Les antibiotiques n’ont aucun effet sur les virus.
     
     Une mauvaise utilisation des antibiotiques peut entraîner une résistance des bactéries aux antibiotiques, ceux-ci peuvent donc devenir moins efficaces. De plus ces antibiotiques peuvent tuer le microbiote intestinal de l’être humain.
+
+??? abstract "Infos Supplémentaires"
+
+    ![](pictures/carteResistanceAntiobio.png)
+    ![](pictures/graphResistanceAntiobio.png)
+    ![](pictures/friseChronoAntibio.png)
