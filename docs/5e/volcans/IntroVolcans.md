@@ -1,4 +1,4 @@
-# Séquence : Nom de la séquence
+# Séquence : Le risque volcanique
 
 !!! note-prof
     si besoin d'infos

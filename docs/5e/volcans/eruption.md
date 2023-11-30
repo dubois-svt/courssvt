@@ -46,7 +46,7 @@ Le modèle réduit la complexité du réel, afin de le comprendre ou le faire co
 Pour réaliser un modèle de volcan, on peut utiliser :
 
 - un tube en U (attention le tube est en verre et donc très fragile),
-- de la purée, la quantité d’eau utilisée pour faire la purée fera varier la viscosité de celle-ci, avec 40 ml d’eau la purée sera peu visqueuse alors qu’avec 20 ml d’eau la purée sera très visqueuse.
+- 5g de purée, la quantité d’eau utilisée pour faire la purée fera varier la viscosité de celle-ci, avec 40 ml d’eau la purée sera peu visqueuse alors qu’avec 20 ml d’eau la purée sera très visqueuse.
 - Un demi cachet effervescent et de l’eau, le cachet en se dissolvant dans l’eau va libérer du gaz.
 - Une cuvette en plastique au-dessus de laquelle, les expériences seront faites pour éviter de salir la paillasse.
 

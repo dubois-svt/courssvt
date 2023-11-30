@@ -7,9 +7,9 @@
 !!! warning "Consignes"
     
     1. En utilisant les documents, compléter le tableau du document 4 pour caractériser le risque sismique pour les quatre zones étudiées (Alaska ; Haïti ; Inde ; Japon).
-    2. Classer les exemples proposés dans le tableau du document 4 :
+    2. Classer les exemples proposés dans le tableau du document 5 :
         Évacuation d’une ville / Étude de la fréquence de survenue des séismes / Éducation des populations / Sensibilisation des populations des zones à risques / Étude de la composition des fumées s’échappant d’un volcan / Bâtiments aux normes parasismiques
-    3. A partir de la vidéo du document 5, expliquer pourquoi y a-t-il eu beaucoup de victimes lors du séisme de Kobe, au Japon. (Votre réponse doit comporter au minimum 3 facteurs pouvant expliquer ce tragique évènement)
+    3. A partir de la vidéo du document 6, expliquer pourquoi y a-t-il eu beaucoup de victimes lors du séisme de Kobe, au Japon. (Votre réponse doit comporter au minimum 3 facteurs pouvant expliquer ce tragique évènement)
 
     
 ??? bug "Critères de réussite"
@@ -60,9 +60,9 @@ En revanche, dans les pays pauvres, comme Haïti par exemple, les constructions 
     <th> Nombre d’habitants 		</th>
     <th> Densité de population (habitants par km²) 		</th>
     <th> PIB par habitant 		</th>
-    <th> Aléa  sismique (faible ou élevé) 		</th>
-    <th> Vulnérabilité  de l'enjeu (faible ou élevée) 		</th>
-    <th> Risque  sismique (faible ou élevé) 		</th>
+    <th> Aléa  sismique  		</th>
+    <th> Vulnérabilité  de l'enjeu 		</th>
+    <th> Risque  sismique 		</th>
   </tr>
 </thead>
 <tbody>

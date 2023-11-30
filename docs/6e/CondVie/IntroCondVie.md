@@ -74,7 +74,7 @@ Le verglas est une couche de glace qui se forme sur le sol à une température i
     - 100°C, c’est la température d’ébullition de l’eau pure.
 
 
-    Durant les changement d'état de mélange, la température ne reste pas constante.
+    Durant les changements d'état de mélange, la température ne reste pas constante.
 
 ## Séance 4 : Les besoins d'un végétal
 
