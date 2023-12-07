@@ -6,9 +6,9 @@
 
 !!! warning "Consignes"
 
-  1. Choisir deux manipulations qui permettent de vérifier que les plantes ont besoin de dioxyde de carbone justifier votre réponse.
-  2. recopier et compléter le tableau du document 2 en utilisant les montages e et b.
-  3. recopier et compléter le tableau du document 2 en utilisant les montages e et f.
+    1. Choisir deux manipulations qui permettent de vérifier que les plantes ont besoin de dioxyde de carbone justifier votre réponse.
+    2. recopier et compléter le tableau du document 2 en utilisant les montages e et b.
+    3. recopier et compléter le tableau du document 2 en utilisant les montages e et f.
         
 ??? bug "Critères de réussite"
     - 
