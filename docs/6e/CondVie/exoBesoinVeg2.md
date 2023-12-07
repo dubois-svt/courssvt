@@ -6,7 +6,7 @@
 
 !!! warning "Consignes"
 
-  À partir des documents, compléter l’analyse d’expérience du document 2
+    À partir des documents, compléter l’analyse d’expérience du document 2
         
 ??? bug "Critères de réussite"
     - 
