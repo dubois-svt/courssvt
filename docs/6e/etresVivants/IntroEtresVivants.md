@@ -50,7 +50,7 @@ Si on ne peut pas le voir à l’œil nu, comment faudrait-il faire ?
 
 ## Séance 2 : Hérédité et lien de parenté
 
-Rappel : Espèce : ensemble d’individu qui se reproduisent entre eux et ont une descendance fertile.
+Rappel Espèce : ensemble d’individu qui se reproduisent entre eux et ont une descendance fertile.
 
 Situation déclenchante : Dans le dessin animé, Le monde de Dory, le poisson-chirurgien, part à la recherche de ses parents. Ce qu’elle ignore, c’est que toutes les espèces ont un lien de parenté.
 
@@ -59,17 +59,33 @@ Situation déclenchante : Dans le dessin animé, Le monde de Dory, le poisson-c
 !!! question "Problématique"
     Comment peut-on faire des liens de parenté entre les espèces d’êtres vivants ?
 
-rier : c'est opérer un choix éliminatoire, à partir d'un critère donné, c'est « oui » ou « non », « a » ou « n'a pas ».
-− Ranger : c'est introduire une notion d'ordre, selon un critère continu (ordre croissant, alphabétique ...).
-− Classer : c'est établir des relations entre les objets afin de former des ensembles (au moins deux, souvent plus).
+- Trier : c'est opérer un choix éliminatoire, à partir d'un critère donné, c'est « oui » ou « non », « a » ou « n'a pas ».
+- Ranger : c'est introduire une notion d'ordre, selon un critère continu (ordre croissant, alphabétique ...).
+- Classer : c'est établir des relations entre les objets afin de former des ensembles (au moins deux, souvent plus).
 
-[Activité nom activité](../lien vers l'activité)
+[Activité Des liens de parenté dans le monde de Dory](../classifDory)
 
+[Activité Classification des végétaux ](../classifVegetauxExo)
 
+[Activité Classification de la jaune d'un jardin](../classifJardin)
+[Activité Classification exercice phylogène](../classifPhylogeneExo)
+[Activité Classification exercice](../classifExo)
 
 
 ??? abstract "Bilan"
-    Bilan
+
+    Les êtres vivants peuvent être classés en fonction des attributs qu’ils possèdent sous la forme de groupes emboîtés.
+    On classe dans un même groupe les êtres vivants possédant un attribut en commun.
+    Plus le nombre de caractères partagés est important, plus leur lien de parenté est grand. Les êtres vivants qui ont le plus de caractères en commun sont ceux d’une même espèce. 
+    
+    Ils sont classés dans une classification en groupes emboîtés.
+    Ces groupes emboîtés permettent de mettre en évidence les relations de parenté entre les espèces.
+
+    Un arbre de parenté, ou arbre phylogénétique, représente les relations de parenté entre des espèces supposées avoir un ancêtre commun. Cela permet de visualiser plus facilement les liens de parents et de voir quelles espèces sont plus proches parents et comment ont évolué les espèces au cours du temps.
+
+    Définition attribut : Caractère défini par les scientifiques qui permet d’établir des relations de parenté. Généralement ce sont des caractères anatomiques.
+
+
 
 
 
