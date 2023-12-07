@@ -20,7 +20,12 @@
 
 **Document 2 Compte-rendu d’une expérience**
 
-<table>
+<table style="width:700px;">
+    <colgroup>
+       <col span="1" style="width: 10%;">
+       <col span="1" style="width: 45%;">
+       <col span="1" style="width: 45%;">
+    </colgroup>
 <thead>
   <tr>
     <th> 			Problème 		</th>

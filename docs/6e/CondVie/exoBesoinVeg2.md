@@ -21,11 +21,16 @@ Des élèves ont voulu vérifier que la terre était nécessaire pour faire germ
 
 **Document 2 Analyse de l’expérience.**
 
-<table>
+<table style="width:700px;">
+    <colgroup>
+       <col span="1" style="width: 10%;">
+       <col span="1" style="width: 45%;">
+       <col span="1" style="width: 45%;">
+    </colgroup>
 <thead>
   <tr>
     <th> 			Problème 		</th>
-    <th colspan="2"> 			<br>&nbsp;&nbsp;			 		 </th>
+    <th colspan="2" > 			<br>&nbsp;&nbsp;			 		 </th>
   </tr>
 </thead>
 <tbody>
