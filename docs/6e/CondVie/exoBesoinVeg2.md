@@ -6,20 +6,20 @@
 
 !!! warning "Consignes"
 
-    À partir des documents, compléter l’analyse d’expérience du document 2
+    À partir des documents, compléter; dans le document 3, l’analyse d’expérience du document 2
         
 ??? bug "Critères de réussite"
     - 
 
-**Document 1 : Une expérience sur la germination**
+**Document 1 Une expérience sur la germination**
 
 Des élèves ont voulu vérifier que la terre était nécessaire pour faire germer des graines. Pour cela, ils ont fait une expérience dans laquelle ils ont pris deux pots. Dans l’un des pots, ils ont mis de la terre et des graines, dans l’autre du coton et des graines. Ils ont ensuite arrosé les deux régulièrement.
 
-**Document 2 : Photos des résultats de germinations dans différentes conditions.**
+**Document 2 Photos des résultats de germinations dans différentes conditions.**
 
 ![](Pictures/photoExpGerminationeExo.png)
 
-**Document 2 Analyse de l’expérience.**
+**Document 3 Analyse de l’expérience.**
 
 <table style="width:700px;">
     <colgroup>
