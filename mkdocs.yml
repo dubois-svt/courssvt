@@ -218,8 +218,14 @@ nav :
           - Modélisation d'une éruption :  5e/volcans/eruption.md
           - Gestion du risque volcanique : 5e/volcans/risquesVolcans.md
           - Fiche de révision : 5e/volcans/FicheVolcans.md
-
-      #- Séquence La programmation :
+      - Séquence La programmation :
+          - Introduction : 5e/programmation/IntroProg.md
+          - Initiation à la programmation : 5e/programmation/initProg.md
+          - Drone pour l'agriculture :  5e/programmation/etudesObjets1.md
+          - Robot aspirateur : 5e/programmation/etudesObjets2.md
+          - Programmation d'un robot : 5e/programmation/progmBot.md
+          - Exercices sur la programmation : 5e/programmation/exosProg.md
+          - Fiche de révision : 5e/programmation/FicheProg.md
       #- Séquence Mécanique : 
       #- Séquence Le système digestif :
       #- Séquence Evolution des objets techniques et cycle de vie :

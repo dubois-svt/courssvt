@@ -2,7 +2,8 @@
 
 !!! note "Compétences"
 
-    Interpréter 
+    - Trouver et utiliser des informations
+    - Passer d'un langage à un autre.
 
 !!! warning "Consignes"
 
@@ -14,27 +15,32 @@
     - 
 
 
-Document n°1 : Projet Roobs
+**Document 1 Projet Roobs**
+
 Le projet de robot aspirateur Roobs est en phase de conception pour la société Clean’up. Ce robot devra être capable de se déplacer rapidement en évitant les obstacles et d’aspirer les poussières sur le sol lors de son passage.
 
 L’aspiration des poussières est assurée par la rotation de deux brosses cylindriques animées d’un mouvement de rotation grâce à un moteur à courant continu. Ces dernières déposent les poussières dans un compartiment. Le compartiment à poussière a une taille limitée et un capteur est prévu pour prévenir l’utilisateur lorsque le niveau maximum de poussière est atteint (l’aspirateur s’arrête et déclenche un signal sonore).
 
 Le déplacement du robot est assuré par deux moteurs à courant continu. Ils transmettent le mouvement de rotation à des roues en caoutchouc à l’aide d’engrenages en silicone. Le robot fonctionne à l’aide de batteries rechargeables au lithium basse tension 12V.
 
-Document n°2 : Exemple de programme
+**Document 2 Exemple de programme et le résultat du parcours**
 
-Programme
-![Alt text](image-3.png)
-Tracé du parcours
-![Alt text](image-4.png)
+<div markdown style="display:flex; flex-direction: row;">
 
 
-Document n°3 : Vue interne du robot aspirateur
+![Programme](pictures/programmeRobot.png){: style="width:200px;"}
 
-![Alt text](image-2.png)
+![Tracé du parcours](pictures/parcoursRobot.png){: style="width:150px;"}
+
+</div>
+
+**Document 3 Vue interne du robot aspirateur**
+
+![](pictures/interieurRobotAspi.png){: style="width:600px;"}
 
 
-Document 4 Solutions techniques adoptées
+**Document 4 Solutions techniques adoptées**
+
 <table>
 <thead>
   <tr>
@@ -88,9 +94,10 @@ Document 4 Solutions techniques adoptées
 </tbody>
 </table>
 
-Document 5 Exemple de programme
+**Document 5 Exemple de programme**
 
-![Alt text](image-5.png)
+![](pictures/programmeRobotAspi.png){: style="width:300px;"}
 
-document 6 Algorigramme du robot aspirateur
-![Alt text](image-6.png)
+**Document 6 Algorigramme du robot aspirateur**
+
+![](pictures/algorigrammeRobotAspi.png){: style="width:400px;"}
