@@ -83,6 +83,9 @@ Le verglas est une couche de glace qui se forme sur le sol à une température i
 
 [Activité Les besoins nutritifs des végétaux](../besoinVeg)
 
+[Activité Exercice sur les besoins des végétaux](../exoBesoinVeg)
+
+[Activité  Exercice sur les besoins des végétaux lors de la germination](../exoBesoinVeg2)
 
 
 

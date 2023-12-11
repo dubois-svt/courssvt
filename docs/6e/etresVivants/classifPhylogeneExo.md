@@ -1,15 +1,15 @@
-# Activité : Classification de la jaune d'un jardin
+# Activité : Exercice classification phylogène
 
 !!! note "Compétences"
 
-    Interpréter 
+    Communiquer sous différentes formes  
 
 !!! warning "Consignes"
 
-    1. A l'aide du logiciel phylogène et du document créer un arbre de parenté
-    2. recopier l'arbre de parenté dans votre cahier.
-    3. Quelles sont les 2 espèces qui possèdent le plus de caractère en commun? --> Hérisson et Mulot gris qui possèdent 4 caractères en commun.
-    4. Quelle est l'espèce qui présente le plus de lien de parenté avec l'abeille domestique?
+    1. Réaliser un arbre de parenté à partir de la collection : MNHN GAC Collège avec les espèces : bactérie, criquet, écrevisse, grenouille, homme, fougère et les caractères suivants : cellule, carapace articulée, reproduction sexuée, vertèbre, chlorophylle.
+    2. Déterminer quelle est l'espèce qui a le plus de lien de parenté avec l'Homme.
+    3. Quelle est l'espèce qui présente le moins de caractère en commun avec les autres espèces?
+    4. Quel est le caractère propre à la fougère?
 
     
 ??? bug "Critères de réussite"
@@ -31,6 +31,6 @@
 
 
 
-
-
-
+??? note-prof "correction"
+![Alt text](image-4.png)
+![Alt text](image-5.png)
