@@ -2,7 +2,9 @@
 
 !!! note "Compétences"
 
-    Interpréter 
+    - Trouver et utiliser des informations 
+    - Argumenter
+ 
 
 !!! warning "Consignes"
 

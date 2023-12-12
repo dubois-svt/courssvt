@@ -5,13 +5,13 @@
 
 
 !!! question "Problématique"
-    Quels sont les éléments à prendre en compte pour répondre à un besoin ?
+    Comment montrer la parenté de tous les êtres vivants ?
 
 
 
 ## Séance 1 : Unité du vivant
 
-Rappel : un être vivant respire, se nourrit, se reproduit.
+Rappel : un être vivant se nourrit, se reproduit et grandit.
 
 Situation déclenchante : A priori, entre cette plante (élodée), ce micro-organisme (une paramécie) et moi, il n’y a pas de points communs. Pourtant on est tous classés dans le groupe des êtres vivants : c’est donc que l’on a quelque chose en commun.
 Si on ne peut pas le voir à l’œil nu, comment faudrait-il faire ? 
@@ -89,9 +89,4 @@ Situation déclenchante : Dans le dessin animé, Le monde de Dory, le poisson-c
 
 
 
-
-
-
-??? abstract "Bilan"
-    Bilan
 
