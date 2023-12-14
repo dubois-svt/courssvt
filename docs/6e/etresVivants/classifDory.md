@@ -60,7 +60,6 @@ Plus les organismes vivants partagent d’attributs en commun, plus ils sont por
     <td>    </td>
     <td>    </td>
     <td>    </td>
-    <td>    </td>
   </tr>
   <tr>
     <td> Allaitement</td>
@@ -69,11 +68,9 @@ Plus les organismes vivants partagent d’attributs en commun, plus ils sont por
     <td>    </td>
     <td>    </td>
     <td>    </td>
-    <td>    </td>
   </tr>
   <tr>
     <td> Vertèbre</td>
-    <td>    </td>
     <td>    </td>
     <td>    </td>
     <td>    </td>
@@ -90,7 +87,6 @@ Plus les organismes vivants partagent d’attributs en commun, plus ils sont por
   </tr>
   <tr>
     <td> Nageoire caudale symétrique</td>
-    <td>    </ td>
     <td>    </td>
     <td>    </td>
     <td>    </td>
@@ -99,7 +95,6 @@ Plus les organismes vivants partagent d’attributs en commun, plus ils sont por
   </tr>
   <tr>
     <td> Squelette cartilagineux</td>
-    <td>    </td>
     <td>    </td>
     <td>    </td>
     <td>    </td>

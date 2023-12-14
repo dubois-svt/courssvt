@@ -15,11 +15,11 @@
     3. Repérer l’attribut partagé par tous les êtres vivants.
     
 ??? bug "Critères de réussite"
-    - 
 
-![Alt text](image-11.png)
-![Alt text](image-12.png)
-![Alt text](image-13.png)
+
+**Document 1 photos de quelques êtres vivants.**
+
+![](pictures/photoExoClassif.png)
 
 <table>
 <thead>
@@ -111,7 +111,16 @@
 
 **Document 1 : le zorse.**
 
-![Alt text](image-14.png)
+
+<div markdown style="display:flex; flex-direction:row;">
+
+![](pictures/zorse.png)
+
+<div markdown style="display:flex; flex-direction:column;">
+
 C’est animal est un zorse, c’est-à-dire le fils d’un zèbre et d’une jument. Cet animal est dit « hybride » et ne se rencontre pas dans la nature, car les zèbres et les chevaux sont d’espèces différentes et n’habitent pas les mêmes régions.
 Ce croisement est le résultat d’une expérience dans un zoo.
 Le zorse (zèbre+horse) est un animal stérile, qui n’aura donc pas de descendance.
+
+</div>
+</div>

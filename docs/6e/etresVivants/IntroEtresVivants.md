@@ -54,7 +54,7 @@ Rappel Espèce : ensemble d’individu qui se reproduisent entre eux et ont un
 
 Situation déclenchante : Dans le dessin animé, Le monde de Dory, le poisson-chirurgien, part à la recherche de ses parents. Ce qu’elle ignore, c’est que toutes les espèces ont un lien de parenté.
 
-![](image.png)
+![](pictures/animauxMarins.png)
 
 !!! question "Problématique"
     Comment peut-on faire des liens de parenté entre les espèces d’êtres vivants ?

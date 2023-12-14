@@ -12,33 +12,67 @@
 ??? bug "Critères de réussite"
     - 
 
+
+<div markdown style="display: flex; flex-direction: row;">
+
+<div markdown style="display: flex; flex-direction: column;">
+
 **Document 1 : Le polypode.**
 
 Le polypode est une fougère. Il possède des pigments verts, une tige et des feuilles en frondes.
-Taille : 50 cm.![Alt text](image-6.png)
+Taille : 50 cm.
 
+![](pictures/polypode.png){: style="height:200px;"}	
+
+</div>
+
+<div markdown style="display: flex; flex-direction: column;">
 
 **Document 2 : Le cerisier.**
 
 Le cerisier est un arbre. Il possède des pigments verts, une tige, des graines et des fleurs.
-Taille : 20 m.![Alt text](image-7.png)
+Taille: 20 m.
+![](pictures/cerisier.png){: style="height:200px;"}	
+</div>
 
+</div>
+<div markdown style="display: flex; flex-direction: row;">
 
+<div markdown style="display: flex; flex-direction: column;">
 
-**Document 3 : Polytric**
+**Document 3 Polytric**
 
 Le polytric est une mousse. Il possède des pigments verts et une tige.
-Taille : 5 à 10 cm.![Alt text](image-9.png)
+Taille: 5 à 10 cm.
 
-**Document 4 : Ulve**
+![](pictures/polytric.png){: style="height:200px;"}	
+</div>
+
+<div markdown style="display: flex; flex-direction: column;">
+
+**Document 4 Ulve**
 
 L’ulve est une algue. Elle possède des pigments verts.
-Taille : 20 cm.![](image-10.png)
+Taille: 20 cm.
 
-**Document 5 : Le pin sylvestre.**
+![](pictures/ulve.png){: style="height:200px;"}	
+</div>
+
+</div>
+
+<div markdown style="display: flex; flex-direction: row;">
+
+<div markdown style="display: flex; flex-direction: column;">
+**Document 5 Le pin sylvestre.**
 
 Le pin sylvestre est un arbre. Il possède des pigments verts, une tige et des graines.
-Taille : 35 à 40 m.![Alt text](image-8.png)
+Taille : 35 à 40 m.
+
+</div>
+
+![](pictures/pin.png){: style="height:200px;"}	
+
+</div>
 
 **Document 3 : Tableau des attributs. Pour chaque être vivant, indiquer si le caractère est présent ou absent en cochant ou non la case.**
 
@@ -69,7 +103,6 @@ Taille : 35 à 40 m.![Alt text](image-8.png)
     <td>    </td>
     <td>    </td>
     <td>    </td>
-    <td>    </td>
   </tr>
   <tr>
     <td> </td>
@@ -78,11 +111,9 @@ Taille : 35 à 40 m.![Alt text](image-8.png)
     <td>    </td>
     <td>    </td>
     <td>    </td>
-    <td>    </td>
   </tr>
   <tr>
     <td> </td>
-    <td>    </td>
     <td>    </td>
     <td>    </td>
     <td>    </td>
@@ -106,22 +137,21 @@ Taille : 35 à 40 m.![Alt text](image-8.png)
 **Document 4 : Images pour classif**
 
 
-<table>
-<tbody>
-  <tr>
-    <td> 			Cerisier 		</td>
-    <td> 			Polypode 		</td>
-    <td> Ulve</td>
+<table markdown>
+<tbody markdown>
+<tr markdown>
+<td markdown> 			Cerisier 		 <br>	![](pictures/cerisier.png){: style="height:200px;"}	</td>
+<td markdown> 			Polypode 	 <br>	![](pictures/polypode.png){: style="height:200px;"}			</td>
+<td markdown> Ulve <br>	![](pictures/ulve.png){: style="height:200px;"}		</td>
 
-  </tr>
+</tr>
 
+<tr markdown>
+<td markdown> 			Polytric <br>	![](pictures/polytric.png){: style="height:200px;"}			 		</td>
+<td markdown > 			Pin 			sylvestre		 <br>	![](pictures/pin.png){: style="height:200px;"}		 		</td>
+<td></td>
 
-  <tr>
-    <td> 			Polytric			 		</td>
-    <td > 			Pin 			sylvestre			 		</td>
-    <td></td>
-
-  </tr>
+</tr>
   <tr>
     <td> 			Feuilles en fronde 		</td>
     <td> 			Graines 		</td>
