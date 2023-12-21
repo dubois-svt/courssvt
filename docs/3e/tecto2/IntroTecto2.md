@@ -62,7 +62,7 @@
 !!! question "Problématique"
     Comment expliquer les mouvements des plaques lithosphériques ?
 
-[Activité Le moteur des mouvement](../moteurTecto)
+[Activité Le moteur des mouvements](../moteurTecto)
 
 ??? abstract "Bilan"
 
