@@ -21,6 +21,7 @@ theme:
     favicon: assets/favicon.png
     logo: assets/favicon.png
     name: material
+    #custom_dir: overrides
     font: false                     # RGPD ; pas de fonte Google
     language: fr                    # français
     palette:                        # Palettes de couleurs jour/nuit
@@ -47,12 +48,12 @@ theme:
         - navigation.indexes 
         - navigation.footer
         - content.action.edit
-    custom_dir: overrides
+    
 
-extra:
-  analytics:
-    provider: custom
-    property: foobar 
+#extra:
+#  analytics:
+#    provider: custom
+#    property: foobar 
 
 #extra:
   # consent:
