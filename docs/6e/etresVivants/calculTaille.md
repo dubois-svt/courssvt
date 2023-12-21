@@ -14,11 +14,11 @@
 
 
 
+Pour avoir une idée de la taille réelle d’un élément observé au microscope, il faut :
+- Mesurer l’élément dont on souhaite connaître la taille sur le document
+- Puis diviser par le grossissement
+Cela donne une idée de la taille, mais attention si la taille photo a été agrandi ou réduite, cela va changer le résultat, il y a donc d'autres méthodes plus précises qui existent
 
-
-Pour connaître la taille réelle d’un élément observé au microscope :
-    • Tu mesures l’élément dont tu souhaites connaître la taille sur le document
-    • Puis tu divises par le grossissement
 
 
 $\text{Taille réelle de l’élément} = \frac{\text{Taille mesurée à la règle}}{\text{Grossissement du microscope}}$
