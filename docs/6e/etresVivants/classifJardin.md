@@ -8,7 +8,7 @@
 
     1. A l'aide du logiciel Phylogène et du document créer un arbre de parenté
     2. recopier l'arbre de parenté dans votre cahier.
-    3. Quelles sont les 2 espèces qui possèdent le plus de caractère en commun? --> Hérisson et Mulot gris qui possèdent 4 caractères en commun.
+    3. Quelles sont les 2 espèces qui possèdent le plus de caractère en commun?
     4. Quelle est l'espèce qui présente le plus de lien de parenté avec l'abeille domestique?
 
     
@@ -35,3 +35,4 @@
     ![](pictures/correctionPhylogeneJardin1.png)
     ![](pictures/correctionPhylogeneJardin2.png)
     ![](pictures/correctionPhylogeneJardin3.png)
+     --> Hérisson et Mulot gris qui possèdent 4 caractères en commun.
