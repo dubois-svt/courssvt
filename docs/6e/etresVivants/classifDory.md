@@ -38,7 +38,8 @@ Plus les organismes vivants partagent d’attributs en commun, plus ils sont por
   <tr>
     <th>    </th>
     <th > Poisson chirurgie</th>
-    <th> Requin – baleine</th>
+        <th> Poisson clown</th>
+    <th> Requin-baleine</th>
     <th> Poulpe tacheté</th>
     <th> Raie léopard</th>
     <th> Béluga</th>
@@ -49,6 +50,7 @@ Plus les organismes vivants partagent d’attributs en commun, plus ils sont por
     <td> Yeux, bouche</td>
     <td >    </td>
     <td>    </td>
+        <td>    </td>
     <td>    </td>
     <td>    </td>
     <td>    </td>
@@ -56,6 +58,7 @@ Plus les organismes vivants partagent d’attributs en commun, plus ils sont por
   <tr>
     <td> Tentacule</td>
     <td>    </td>
+        <td>    </td>
     <td>    </td>
     <td>    </td>
     <td>    </td>
@@ -65,6 +68,7 @@ Plus les organismes vivants partagent d’attributs en commun, plus ils sont por
     <td> Allaitement</td>
     <td>    </td>
     <td>    </td>
+      <td>    </td>
     <td>    </td>
     <td>    </td>
     <td>    </td>
@@ -76,6 +80,8 @@ Plus les organismes vivants partagent d’attributs en commun, plus ils sont por
     <td>    </td>
     <td>    </td>
     <td>    </td>
+        <td>    </td>
+
   </tr>
   <tr>
     <td> Squelette osseux</td>
@@ -84,6 +90,8 @@ Plus les organismes vivants partagent d’attributs en commun, plus ils sont por
     <td>    </td>
     <td>    </td>
     <td>    </td>
+        <td>    </td>
+
   </tr>
   <tr>
     <td> Nageoire caudale symétrique</td>
@@ -92,6 +100,8 @@ Plus les organismes vivants partagent d’attributs en commun, plus ils sont por
     <td>    </td>
     <td>    </td>
     <td>    </td>
+        <td>    </td>
+
   </tr>
   <tr>
     <td> Squelette cartilagineux</td>
@@ -100,6 +110,8 @@ Plus les organismes vivants partagent d’attributs en commun, plus ils sont por
     <td>    </td>
     <td>    </td>
     <td>    </td>
+        <td>    </td>
+
   </tr>
 </tbody>
 </table>

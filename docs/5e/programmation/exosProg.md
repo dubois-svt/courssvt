@@ -3,7 +3,8 @@
 
 !!! note "Compétences"
 
-    Interpréter 
+    - Trouver et utiliser des informations
+    - Passer d'un langage à un autre.
     
 ??? bug "Critères de réussite"
 

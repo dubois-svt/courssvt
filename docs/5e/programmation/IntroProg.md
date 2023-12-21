@@ -6,19 +6,16 @@
 On doit le tout premier programme informatique à l’anglaise Ada Lovelace au XIXe siècle, 100 ans avant le tout premier ordinateur. La programmation informatique est une technique qui englobe de plus en plus notre quotidien.
 
 !!! question "Problématique"
-    Comment écrire un programme informatique ?
-    A quoi peut-il servir ?
-    
-### Document d’appel :
-
+    Qu'est-ce qu'un programme informatique ?
 
 
 ## Séance 1 : Découverte de la programmation
 
-[Activité Initiation à la programmation](../initProg)
-
 !!! question "Problématique"
     Comment écrire un programme informatique ?
+
+[Activité Initiation à la programmation](../initProg)
+
 
 
 ??? abstract "Bilan"

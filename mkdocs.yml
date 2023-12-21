@@ -270,7 +270,12 @@ nav :
             - Antiobiotiques : 4e/mondeMicrobien/antiobio.md
             - Combattre une infection : 4e/mondeMicrobien/tpAngine.md
             - Fiche de révision : 4e/mondeMicrobien/FicheMicrobes.md
-      #- Séquence Système nerveux :
+      - Séquence Système nerveux :
+            - Introduction : 4e/systNerveux/IntroSystNerveux.md
+            - Organes du mouvement : 4e/systNerveux/organesMvt.md
+
+            - Fiche de révision : 4e/systNerveux/FicheMicrobes.md
+      
       #- Séquence Système nerveux et mode de vie :
       #- Séquence Exploitations des sols pour produire de la nourriture :
       #- Séquence Reproduction des êtres vivants :

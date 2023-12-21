@@ -94,10 +94,19 @@ Le déplacement du robot est assuré par deux moteurs à courant continu. Ils tr
 </tbody>
 </table>
 
+<div markdown style="display:flex; flex-direction: row;">
+
+<div markdown style="display:flex; flex-direction: column;">
 **Document 5 Exemple de programme**
 
 ![](pictures/programmeRobotAspi.png){: style="width:300px;"}
 
+</div>
+<div markdown style="display:flex; flex-direction: column;">
+
 **Document 6 Algorigramme du robot aspirateur**
 
 ![](pictures/algorigrammeRobotAspi.png){: style="width:400px;"}
+
+</div>
+</div>
