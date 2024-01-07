@@ -177,6 +177,12 @@ nav :
         - Faune du sol: 6e/matOrga/VivantetEau.md
         - Décomposition : 6e/matOrga/chgtEtatEau.md
         - Fiche Révision : 6e/matOrga/ficheMatOrga.md
+      - Séquence Alimentation :
+        - Introduction : 6e/alimentation/IntroAlim.md
+        - Apports des aliments : 6e/alimentation/apportsAlim.md
+        - Conservation des aliments : 6e/alimentation/conservation.md
+        - Fabrication du yaourt : 6e/alimentation/fabricationYaourt.md
+        - Fiche Révision : 6e/alimentation/ficheAlim.md
       #- Séquence Propriété de la matière : 
       #    - Introduction : 6e/ProprietesMatiere/IntroMatiere.md
       #    - Activité Importance du tri des déchets : 6e/ProprietesMatiere/Decomposition.md

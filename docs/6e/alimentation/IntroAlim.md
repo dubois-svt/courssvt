@@ -5,11 +5,13 @@
 
 
 !!! question "Problématique"
-    Quels sont les éléments à prendre en compte pour répondre à un besoin ?
+    Comment produire et conserver des aliments ?
 
 
 ## Séance 1 : Alimentation et santé
-Rechercher et exploiter des informations sur l’alimentation humaine pour identifier des comportements favorables à la santé (composition d’aliments, adéquation entre les apports et les besoins etc.)
+
+!!! question "Problématique"
+    Comment les aliments répondent-ils à nos besoins ?
 
 [Activité Les apports de nos aliments](../apportsAlim)
 
@@ -19,45 +21,60 @@ Rechercher et exploiter des informations sur l’alimentation humaine pour ident
     L’alimentation doit apporter à un individu suffisamment d’énergie et une quantité équilibrée de glucides, lipides, protéines, vitamines et sels minéraux.
     Les besoins énergétiques varient en fonction des individus (âge, sexe, activité ...)
     Chaque aliment apporte des éléments différents, donc il faut manger un peu de tout pour répondre à ces besoins, notre alimentation doit être variée.
-    ![Alt text](image-2.png)
 
+    ![](pictures/pyramideAlim.png)
 
-## Séance 2 : Alimentation et culture
-Relier la diversité des aliments avec les cultures et les sociétés humaines, et leur mode de production
-
-Mexique: Mais
-Sénégal : mil
-Japon riz
-
-??? abstract "Bilan"
     Dans le monde, les habitudes alimentaires sont différentes.
     Les cultures des pays dépendent des climats. 
     Les habitudes alimentaires ont donc, pendant très longtemps, été influencées par le climat.
 
+## Séance 2 : Conservation, saumure
 
-## Séance 4 : Fabrication du yaourt 
+!!! question "Problématique"
+    Comment conserver les aliments ?
+
+[Activité La conservation des aliments](../conservation)
+
+??? abstract "Bilan"
+    Des micro-organismes peuvent se développer sur les aliments. Certains de ces micro-organismes sont pathogènes. On prend donc des mesures d’hygiène pour éviter la contamination des aliments. 
+    Pour conserver les aliments on peut les stériliser (ce qui tue les micro-organismes) ou les conserver au froid (ce qui évite le développement de micro-organismes).
+
+    Micro-organismes : êtres vivants très petits observables uniquement au microscope.
+    Pathogène : se dit d’un élément qui provoque des maladies chez l’être humain
+
+
+
+    ![](pictures/dateConservation.png)
+    ![](pictures/campagneGaspi.png)
+
+## Séance 3 : Fabrication du yaourt 
+
+Un gérant d'une société produisant des yaourts souhaiterait faire des économies dans sa production de yaourts. Il souhaiterait donc supprimer une des étapes de la recette, tout en gardant un résultat correct. Proposer une solution possible au gérant en vérifiant avant la validité de votre choix
+
+**Document Recette de yaourt**
+
+1. Chauffer légèrement un litre de lait.
+2. Verser un yaourt du commerce dans le lait ou remplacer par des ferments lactiques (bactéries).
+3. Remuer avec une spatule pour bien mélanger.
+4. Remplir les pots avec le mélange.
+5. Placer les pots dans la yaourtière à 40°C.
+6. Les yaourts sont prêts 6 à 8 heures plus tard.
+7. Conserver les yaourts au réfrigérateur et les consommer dans les jours suivants.
+
+!!! question "Problématique"
+    Quelles étapes indispensables permettant de faire le yaourt consistant ?
+
+
+[Activité La fabrication du yaourt](../fabricationYaourt)
+
 Effectuer des conversions d’unités de masse et de volumes
 Réaliser une transformation alimentaire impliquant des micro-organismes effectuant une fermentation et identifier certains paramètres d’influence
 
 
 
 
-## Séance 3 : Conservation, saumure
-Observer le phénomène de saturation lors du mélange d’un solide dans l’eau et en rendre compte quantitativement
-Mesurer l’évolution au cours du temps de certains paramètres physico-chimiques à l’aide de capteurs
-Relier le processus de conservation des aliments et la limitation des risques sanitaires (salaison, conservation au froid, stérilisation, etc.)
-
-mesurer quantité sel necessaire à la satratioin de l'eau.
-comparer degradation saumure concomcomre avec concombre frais
-
-suivre la température d'un aliment congelé, la teméprature ne doit pas être supérieur +2°C par rapport au départ pour ne pas casser la chaine du froid
-À -10°C, les bactéries et micro-organismes dans les produits surgelés prolifèrent et ce développement peut entraîner des intoxications alimentaires.
-
-
-!!! note
-    faire lien entre méthode et contrainte en fonction de l'aliment mesurer temperature d'un aliment qui décongèle lien avec la chaîne du froid
-
-
 
 ??? abstract "Bilan"
-    Bilan
+    Pour fabriquer du yaourt, on utilise des bactéries. Les bactéries sont des micro-organismes. Ce sont des êtres vivants unicellulaires.
+
+    On utilise d’autres micro-organismes, par exemple des champignons, comme les levures, pour faire le fromage ou le pain.
