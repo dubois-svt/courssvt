@@ -1,4 +1,4 @@
-# Activité : Importance du tri des déchets
+# Activité : Conservation des aliments
 
 !!! note "Compétences"
 
@@ -26,23 +26,28 @@ Le tube peut être conservé 1 mois
 
 **Document 2 Saturation.**
 
-Certains solides peuvent se dissoudre dans l'eau. C'est le cas du sel dans l'eau. L'eau ne peut ^pas dissoudre une quantité infinie de sel. Lorsque le sel ne se dissout pas, opn dit que la solution est saturée.
+Certains solides peuvent se dissoudre dans l'eau. C'est le cas du sel dans l'eau. L'eau ne peut pas dissoudre une quantité infinie de sel. Lorsque le sel ne se dissout pas, on dit que la solution est saturée.
 
 **Document 3 Chaîne du froid**
 
-La température ne doit pas être supérieur +2°C par rapport au départ pour ne pas casser la chaîne du froid
+La température ne doit pas être supérieure +2°C par rapport au départ pour ne pas casser la chaîne du froid
 À -10°C, les bactéries et micro-organismes dans les produits surgelés prolifèrent et ce développement peut entraîner des intoxications alimentaires.
 
 
 **Document 4 Les micro-organismes dans l’alimentation**
+<div markdown style="display: flex; flex-direction:row;">
 
-![conditions de développement des micro-organises](pictures/tempCuisineBactérie.png)
+<div markdown style="display: flex; flex-direction:column; flex: 1 1 0">
+![conditions de développement des micro-organises](pictures/tempCuisineBactérie.png){style="width:300px" }
+</div>
+<div markdown style="display: flex; flex-direction:column; flex: 1 1 0">
 
 Certains micro-organismes (champignons ou bactéries) peuvent se développer très facilement sur les aliments en fonction de la température ou des conditions.
 Les micro-organismes se développent peu dans les aliments secs, très salés, très sucrés (comme le miel) ou les aliments stérilisés.
 
 Certains micro-organismes peuvent provoquer des maladies, ce sont des micro-organismes pathogènes. 
-
+</div>
+</div>
 
 
 

@@ -105,12 +105,11 @@
 
 ### Alimentation humaine
 
-#### Besoins alimentaires et nutrition humaine ** Mica **
-
+#### Besoins alimentaires et nutrition humaine 
 - Rechercher et exploiter des informations sur l’alimentation humaine pour identifier des comportements favorables à la santé (composition d’aliments, adéquation entre les apports et les besoins, etc.).
 - Relier la diversité des aliments avec les cultures et les sociétés humaines, et leur mode de production.
 
-#### Production et conservation des aliments ** Mica **
+#### Production et conservation des aliments 
 
 - Relier les processus de conservation des aliments et la limitation des risques sanitaires (salaison, conservation au froid, stérilisation, etc.).
 - Réaliser une transformation alimentaire impliquant des micro-organismes effectuant une fermentation et identifier certains paramètres d’influence.
@@ -158,7 +157,7 @@
 - Présenter différentes adaptations au passage de la « mauvaise » saison.
 - Décrire les effets d’une perturbation naturelle sur un écosystème (chablis, incendie, etc.) et son évolution au cours du temps. 
 
-#### Place des êtres vivants dans les chaînes alimentaires ** mICA**
+#### Place des êtres vivants dans les chaînes alimentaires ** 
 - Concevoir et mettre en œuvre des expériences pour relier la production de matière par les végétaux et leurs besoins (lumière, eau, sels minéraux, dioxyde de carbone).
 - Justifier la place des végétaux dans les chaînes alimentaires par leur propriété de production primaire.
 - Mettre en évidence que la matière organique des êtres vivants est décomposée après leur mort (exemple du sol).

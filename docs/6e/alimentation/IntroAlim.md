@@ -1,4 +1,4 @@
-# Séquence : Nom de la séquence
+# Séquence : Alimentation humaine
 
 !!! note-prof
     si besoin d'infos
