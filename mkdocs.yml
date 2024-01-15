@@ -244,6 +244,13 @@ nav :
           - Programmation d'un robot : 5e/programmation/progmBot.md
           - Exercices sur la programmation : 5e/programmation/exosProg.md
           - Fiche de révision : 5e/programmation/FicheProg.md
+      - Séquence mécanique :
+          - Introduction : 5e/mouvements/IntroMeca.md
+          - Trajectoire et mouvement : 5e/mouvements/trajectoire.md
+          - Vitesse et mouvement :  5e/mouvements/vitesse.md
+          - Référentiel :  5e/mouvements/referentiel.md
+          - Exercices sur la mécanique: 5e/mouvements/exercices.md
+          - Fiche de révision : 5e/mouvements/FicheMeca.md
       #- Séquence Mécanique : 
       #- Séquence Le système digestif :
       #- Séquence Evolution des objets techniques et cycle de vie :
@@ -285,6 +292,9 @@ nav :
       - Séquence Système nerveux :
             - Introduction : 4e/systNerveux/IntroSystNerveux.md
             - Organes du mouvement : 4e/systNerveux/organesMvt.md
+            - cellules nerveuses : 4e/systNerveux/nerfs.md
+            - Communication nerveuse: 4e/systNerveux/commNerveuse.md
+            - Traitement des informations par le cerveau: 4e/systNerveux/cerveauInfos.md
 
             - Fiche de révision : 4e/systNerveux/FicheMicrobes.md
       
@@ -325,11 +335,20 @@ nav :
           - Les collisions : 3e/tecto2/collision.md
           - Le moteur de la tectonique des plaques : 3e/tecto2/moteurTecto.md
           - Fiche Révision : 3e/tecto2/FicheTecto2.md
+          
+      - Séquence Système immunitaire :
+          - Introdution : 3e/systImmun/IntroSystImmu.md
+          - Acteurs de la défense : 3e/systImmun/acteursSystImmu.md
+          - Réaction inflammatoire : 3e/systImmun/inflammation.md
+          - Les collisions : 3e/systImmun/collision.md
+          - Le moteur de la tectonique des plaques : 3e/systImmun/moteurTecto.md
+          - Fiche Révision : 3e/systImmun/FicheTecto2.md
+
       #- Séquence Activité humaine et changement climatique : 
       #- Séquence Classification des êtres vivants :
       #- Séquence Evolution au cours du temps :
       #- Séquence Mécanismes évolutifs :
-      #- Séquence Système immunitaire :
+
       #- Séquence Réactions immunitaires adaptatives:
       #- Séquence Vaccination :
       #- Séquence Puberté et fonctionnement des appareils reproducteurs : 
