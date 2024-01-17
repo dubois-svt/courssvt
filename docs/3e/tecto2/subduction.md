@@ -6,8 +6,8 @@
 
 !!! warning "Consignes"
 
-    1. Décrire comment varie la profondeur des séismes de A vers B sur le document 
-    2. en utilisant les informations du document 3, expliquer pourquoi il est étonnant d’avoir des foyers sismiques à cette profondeur / Représenter sur le graphique du document 1, la lithosphère en vous aidant des informations du document 2
+    1. Décrire comment varie la profondeur des séismes de A vers B sur le document 2 
+    2. en utilisant les informations du document 3, expliquer pourquoi il est étonnant d’avoir des foyers sismiques à cette profondeur / Représenter sur le graphique du document 2, la lithosphère en vous aidant des informations du document 3
     3. en utilisant les informations des documents 1, 2 et 3, expliquer ce qui se passe au niveau de cette zone.
     
 ??? bug "Critères de réussite"

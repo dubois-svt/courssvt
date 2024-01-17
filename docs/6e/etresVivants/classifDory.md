@@ -28,7 +28,7 @@ Les scientifiques nomment ensuite ces groupes.
 **Document 2 : Comment établir des parentés entre espèces.**
 
 Les attributs partagés par différentes espèces traduisent une origine commune, c’est-à-dire des relations de parenté entre les organismes vivants.
-Plus les organismes vivants partagent d’attributs en commun, plus ils sont porches parents.
+Plus les organismes vivants partagent d’attributs en commun, plus ils sont proches parents.
 
 
 **Document 3 : Tableau des attributs. Pour chaque être vivant, indiquer si le caractère est présent ou absent en cochant ou non la case.**
@@ -38,7 +38,7 @@ Plus les organismes vivants partagent d’attributs en commun, plus ils sont por
   <tr>
     <th>    </th>
     <th > Poisson chirurgie</th>
-        <th> Poisson clown</th>
+    <th> Poisson clown</th>
     <th> Requin-baleine</th>
     <th> Poulpe tacheté</th>
     <th> Raie léopard</th>

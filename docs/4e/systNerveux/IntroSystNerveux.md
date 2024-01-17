@@ -5,7 +5,7 @@
 
 
 !!! question "Problématique"
-    Quels sont les éléments à prendre en compte pour répondre à un besoin ?
+    Comment fonctionne le système nerveux ?
 
     
 ### Document d’appel :

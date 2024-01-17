@@ -19,8 +19,8 @@
 
 1. Aller sur phylogène et sélectionner la collection : faune jardin-étang. Appuyer sur ok.
 2. Cliquer sur Activités puis construire.
-3. Sélectionner les espèces suivantes : Abeille domestique, escargot des bois, fourmi rousse, gardon, grenouille rousse, hérisson, mulot gris, Rouge gorge.
-4. Sélectionner les caractères suivants : 4 membres, 6 pattes, coquille, nageoires à rayon, plume, poils, squelette externe, squelette interne, yeux.
+3. Sélectionner les espèces.
+4. Sélectionner les caractères.
 5. Compléter le tableau en cliquant sur chaque case. Vous pouvez vérifier votre tableau en cliquant sur vérifier.
 6. Cliquer sur Activités puis classer. Vous pouvez déplacer les lignes et colonne du tableau de caractères.
 7. Cliquer sur Afficher les boites. Puis cliquer sur les différents caractères pour faire apparaitre les différentes boites.

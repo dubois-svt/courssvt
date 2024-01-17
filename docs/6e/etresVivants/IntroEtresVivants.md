@@ -50,7 +50,6 @@ Si on ne peut pas le voir à l’œil nu, comment faudrait-il faire ?
 
 ## Séance 2 : Hérédité et lien de parenté
 
-Rappel Espèce : ensemble d’individu qui se reproduisent entre eux et ont une descendance fertile.
 
 Situation déclenchante : Dans le dessin animé, Le monde de Dory, le poisson-chirurgien, part à la recherche de ses parents. Ce qu’elle ignore, c’est que toutes les espèces ont un lien de parenté.
 
@@ -68,7 +67,9 @@ Situation déclenchante : Dans le dessin animé, Le monde de Dory, le poisson-c
 [Activité Classification des végétaux ](../classifVegetauxExo)
 
 [Activité Classification de la jaune d'un jardin](../classifJardin)
+
 [Activité Classification exercice phylogène](../classifPhylogeneExo)
+
 [Activité Classification exercice](../classifExo)
 
 
