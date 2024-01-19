@@ -14,11 +14,11 @@
     Pour chaque situation décrire la trajectoire de l’objet à partir de sa chronophotographie et donner le type de mouvement
 
 <div markdown style="display:flex; flex-wrap: wrap;">
-![Chronophotographie d'une balle lâchée](Pictures/chronophotographieBalle.png){: style="width: 200px"}
- ![Chronophotographie des étoiles](Pictures/chronophotographieEtoiles.png){: style="width: 400px"} 
- ![Chronophotographie d'une pâle éolienne](Pictures/chronophotographieEolienne.png){: style="width: 400px"} 
- ![Chronophotographie d'un saut de moto](Pictures/chronophotographieMoto.png){: style="width: 400px"}
-  ![Chronophotographie d'un skieur](Pictures/chronophotographieSki.png){: style="width:400px"}
+![Chronophotographie d'une balle lâchée](Pictures/chronophotographieBalle.png){: style="width: 150px"}
+ ![Chronophotographie des étoiles](Pictures/chronophotographieEtoiles.png){: style="width: 300px"} 
+ ![Chronophotographie d'une pâle éolienne](Pictures/chronophotographieEolienne.png){: style="width: 300px"} 
+ ![Chronophotographie d'un saut de moto](Pictures/chronophotographieMoto.png){: style="width: 300px"}
+  ![Chronophotographie d'un skieur](Pictures/chronophotographieSki.png){: style="width:300px"}
 
 </div>
 
@@ -33,8 +33,8 @@
     4. Après combien de minutes de trajet l’automobiliste a-t-il enclenché son régulateur de vitesse pour maintenir une vitesse constante ?
     5. Dans l’hypothèse où le véhicule suit une ligne droite et sachant que la vitesse est constante : comment qualifie-t-on le mouvement (trajectoire + vitesse)
 
-
-
+<div markdown style="display:flex; flex-direction:row";>
+<div markdown style="display:flex; flex-direction:column";>
 **Document n°1 : Réglementation de la vitesse sur route en France**
 
 <div markdown style="display:flex; flex-direction:row";>
@@ -44,17 +44,18 @@
 
 La réglementation peut varier en fonction du type de véhicule. Ici on ne parlera que des véhicules légers (voiture)
 </div>
-
 </div>
-
+</div>
+<div markdown style="display:flex; flex-direction:column";>
 **Document n°2 : Evolution de la vitesse en fonction du temps de trajet**
 
 ![](Pictures/graphVitesseVoiture.png){: style="width: 400px"}
 
 La vitesse moyenne du conducteur sur le trajet est de 88 km/h
+</div>
+</div>
 
-
-**Exercice 3**
+## Exercice 3
 
 !!! warning "Consignes"
     1. Déterminer le type de mouvement entre les positions :
