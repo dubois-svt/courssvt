@@ -21,9 +21,10 @@
     Les animaux se nourrissent de matière organique et de matière minérale. Ce sont des producteurs secondaires.
     Il existe différents types de régimes alimentaires :
 
-        - les zoophages se nourrissent d’animaux
-        - les phytophages se nourrissent de végétaux .
-        - les omnivores se nourrissent d’animaux et de végétaux.
+         
+    - les zoophages se nourrissent d’animaux
+    - les phytophages se nourrissent de végétaux .
+    - les omnivores se nourrissent d’animaux et de végétaux.
   
     Un ensemble de chaînes alimentaires forme un réseau alimentaire, ce réseau indique les relations alimentaires entre les êtres vivants.
 
@@ -40,7 +41,9 @@
 
 
 
-??? abstract "Infos supp"
+??? abstract "Bilan"
+    ![](pictures/etresVivantsSol.png)
+
     Il existe de nombreux êtres vivants dans le sol. 
     Une partie des êtres vivants sont très petits et font partie de la microfaune.
 
@@ -57,16 +60,14 @@
 
 ??? abstract "Infos supp"
 
-    ![Alt text](image-4.png)
-    ![Alt text](image-5.png)
-    ![](image-6.png)
-    Litière : partie superficielle du sol forestier, formée de feuilles mortes, de débris végétaux et d’animaux en décomposition.
-    Décomposeur
-    humus
+    ![](pictures/reaseauAlimSol.png)
+    ![](pictures/graphMinerauxDecompo.png)
 
 ??? abstract "Bilan"
     La matière organique n’appartenant plus à un être vivant va se décomposer grâce à des êtres vivants, les décomposeurs.
+
     Cette décomposition va donner de la matière minérale.
+    
     Cette matière minérale va être utilisée par les végétaux pour former de la matière organique.
 
-    ![Alt text](image-7.png)
+    ![](pictures/schemaRecyclageMat.png)

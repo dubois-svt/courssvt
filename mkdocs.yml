@@ -174,9 +174,9 @@ nav :
         - Fiche Révision : 6e/biodiv/ficheBiodiv.md     
       - Séquence Devenir de la matière organique :
         - Introduction : 6e/matOrga/IntroMatOrga.md
-        - Réseaux alimentaires : 6e/matOrga/conditionVie.md
-        - Faune du sol: 6e/matOrga/VivantetEau.md
-        - Décomposition : 6e/matOrga/chgtEtatEau.md
+        - Réseaux alimentaires : 6e/matOrga/reseauxAlim.md
+        - Faune du sol: 6e/matOrga/fauneSol.md
+        - Décomposition : 6e/matOrga/devenirMatOrga.md
         - Fiche Révision : 6e/matOrga/ficheMatOrga.md
       - Séquence Alimentation :
         - Introduction : 6e/alimentation/IntroAlim.md
@@ -341,8 +341,8 @@ nav :
           - Introdution : 3e/systImmun/IntroSystImmu.md
           - Acteurs de la défense : 3e/systImmun/acteursSystImmu.md
           - Réaction inflammatoire : 3e/systImmun/inflammation.md
-          - Les collisions : 3e/systImmun/collision.md
-          - Le moteur de la tectonique des plaques : 3e/systImmun/moteurTecto.md
+          - Infection qui continue : 3e/systImmun/infectionContinue.md
+          - Exercice: 3e/systImmun/exoActeursInfections.md
           - Fiche Révision : 3e/systImmun/FicheTecto2.md
 
       #- Séquence Activité humaine et changement climatique : 
