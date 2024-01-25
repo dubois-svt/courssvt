@@ -198,10 +198,6 @@ nav :
       #- Séquence Électricité :
       #- Séquence Transmission de l’information :
       #- Séquence Organisation des êtres vivants  :
-      #- Séquence Classification du vivant :
-      #- Séquence Biodiversité actuelle et passée : 
-      #- Séquence Besoins alimentaires et nutrition humaine :
-      #- Séquence Production et conservation des aliments :
       #- Séquence Cycle de vie  :
       #- Séquence Reproduction et sexualité humaine :
       #- Séquence La Terre, une planète singulière et active :
@@ -252,7 +248,6 @@ nav :
           - Référentiel :  5e/mouvements/referentiel.md
           - Exercices sur la mécanique: 5e/mouvements/exercices.md
           - Fiche de révision : 5e/mouvements/FicheMeca.md
-      #- Séquence Mécanique : 
       #- Séquence Le système digestif :
       #- Séquence Evolution des objets techniques et cycle de vie :
       #- Séquence Optique :
@@ -299,7 +294,6 @@ nav :
 
             - Fiche de révision : 4e/systNerveux/FicheMicrobes.md
       
-      #- Séquence Système nerveux et mode de vie :
       #- Séquence Exploitations des sols pour produire de la nourriture :
       #- Séquence Reproduction des êtres vivants :
       #- Séquence Génétique : 
@@ -343,15 +337,19 @@ nav :
           - Réaction inflammatoire : 3e/systImmun/inflammation.md
           - Infection qui continue : 3e/systImmun/infectionContinue.md
           - Exercice: 3e/systImmun/exoActeursInfections.md
-          - Fiche Révision : 3e/systImmun/FicheTecto2.md
+          - Fiche Révision : 3e/systImmun/Fiche.md
 
-      #- Séquence Activité humaine et changement climatique : 
+      - Séquence Les anticorps :
+          - Introdution : 3e/anticorps/IntroAnticorps.md
+          - Action des anticorps : 3e/anticorps/anticorps.md
+          - Vaccination : 3e/systIanticorpsmmun/vaccin.md
+          - SIDA et VIH : 3e/anticorps/sida.md
+          - Fiche Révision : 3e/anticorps/Fiche.md
+
       #- Séquence Classification des êtres vivants :
       #- Séquence Evolution au cours du temps :
       #- Séquence Mécanismes évolutifs :
 
-      #- Séquence Réactions immunitaires adaptatives:
-      #- Séquence Vaccination :
       #- Séquence Puberté et fonctionnement des appareils reproducteurs : 
       #- Séquence Contrôles hormonaux des appareils reproducteurs :
       #- Séquence Sexualité : 

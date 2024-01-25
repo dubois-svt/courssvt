@@ -86,20 +86,21 @@ Les virus ont besoin de nos cellules pour se multiplier. Ils vont entrer à l’
 ??? abstract "Bilan"
 
 
-    Les micro-organismes portent à leur surface des molécules, les
-    antigènes, qui provoquent l’activation du système immunitaire.
+    Les micro-organismes portent à leur surface des molécules, les antigènes, qui provoquent l’activation du système immunitaire.
 
-    Après détection d’un micro-organisme étranger, les lymphocytes vont
-    être activés et se multiplier.
+    Après détection d’un micro-organisme étranger, les lymphocytes vont être activés et se multiplier.
 
-    Les lymphocytes T tueurs reconnaissent et détruisent spécifiquement
-    les cellules infectées par les virus portant l’antigène reconnu.
+    Les lymphocytes T tueurs reconnaissent et détruisent  spécifiquement les cellules infectées par les virus portant l’antigène reconnu.
 
     Ce sont des réactions immunitaires lentes et spécifiques.
+
+
     ![](Pictures/lymphocyteT_2.jpg)
     ![](Pictures/lymphocyteT_3.jpg)
+    ![](Pictures/localisationGanglions.png)
 
- 
+    ![](Pictures/toucherGanglions.png)
+    ![](Pictures/graphTempCroissanceBAct.png)
 
 ## Séance 4  : Exercice
 
