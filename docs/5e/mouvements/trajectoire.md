@@ -6,37 +6,21 @@
 
 !!! warning "Consignes"
 
-    1. À partir des photographies du document 4, décrire le type de mouvement de ces 3 objets, en vous aidant des informations du tableau.
-    2. Le robot a été programmé pour effectuer différents mouvements en fonction du bouton sur lequel on appuie. Pour chaque bouton, indiquer en justifiant le type de mouvement dans le document 5.
+    1. À partir des photographies du document 2, décrire le type de mouvement de ces 3 objets, en vous aidant des informations du tableau.
+    2. Le robot a été programmé pour effectuer différents mouvements en fonction du bouton sur lequel on appuie. Pour chaque bouton, indiquer en justifiant le type de mouvement dans le document 3.
     
 ??? bug "Critères de réussite"
     - 
 
 
-**Document 1 Trajectoire.**
-
-Définition : ensemble des positions successives occupées par un objet en mouvement au cours du temps
-
-
-
-**Document 2 Les types de trajectoire et les types de mouvement.**
-
-Les trajectoires suivies par un objet en mouvement sont des formes géométriques : droite, cercle ou d’autres.
-On dira alors que :
-
-- Si la trajectoire est une droite alors le mouvement est rectiligne
-- Si la trajectoire est un cercle est un cercle alors le mouvement est circulaire
-- Si la trajectoire est une courbe quelconque alors le mouvement est curviligne.
-
-
-**Document 3 Chronophotographie**
+**Document 1 Chronophotographie**
 
 Définition : méthode d’analyse d’un mouvement qui est décomposé par une succession de photographies prises à échelle de temps régulier. Cela permet de connaître la trajectoire suivie par l’objet. 
 
 ![](Pictures/chronophotographieCheval.png)
 
 
-**Document 4 Exemples d'analyses de mouvement**
+**Document 2 Exemples d'analyses de mouvement**
 
 
 
@@ -83,7 +67,7 @@ Définition : méthode d’analyse d’un mouvement qui est décomposé par une
 </tbody>
 </table>
 
-**Document 5 Analyses de mouvement d'un robot**
+**Document 3 Analyses de mouvement d'un robot**
 
 <table markdown>
 <colgroup>

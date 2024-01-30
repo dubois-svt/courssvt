@@ -18,7 +18,6 @@
 
 
 
-[Activité La notion d’espèce](../espece)
 
 ??? abstract "Bilan"
     Une espèce regroupe des êtres vivants qui peuvent se reproduire entre eux et dont la descendance est fertile. Généralement les individus d’une espèce se ressemblent.
@@ -31,6 +30,10 @@
     - Fertile : un individu fertile peut se reproduire.
 
     - Stérile : un individu stérile ne peut pas se reproduire.
+
+
+
+[Activité La notion d’espèce](../espece)
 
 ## Séance 2 : La diversité intraspécifique
 
@@ -63,7 +66,7 @@ Tous les chats font partie de la même espèce, Felis catus. Cependant, malgré 
 A Digne-Les-Bains dans les Alpes de Haute-Provence, on peut trouver un site exceptionnel : une dalle de roche calcaire remplie de fossiles d’ammonites, un mollusque marin disparu depuis bien longtemps…
 
 !!! question "Problématique"
-    Comment la biodiversité a changé sur Terre 
+    Comment la biodiversité a changé sur Terre ?
 
 
 [Activité Paléoenvironnement et crise biologique](../paleoenv)

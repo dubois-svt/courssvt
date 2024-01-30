@@ -17,14 +17,6 @@ La mécanique est une branche de la physique consacrée à l'étude du mouvement
 
 Le mouvement d’un objet correspond à sa trajectoire et sa vitesse. On peut suivre la trajectoire d’un objet en pointant, image par image, à intervalle de temps régulier, sa position dans l’espace. Un objet qui se déplace suit une trajectoire, c’est-à-dire qu’il suit une succession ponctuelle de plusieurs positions dans l’espace. On repère ces positions sur une chronophotographie.
 
-!!! question "Problématique"
-    Comment analyser la trajectoire d’un objet ?
-
-[Activité Trajectoire et mouvement](../trajectoire)
-
-
-
-
 ??? abstract "Bilan"
 
     Le mouvement est le déplacement au cours du temps d'un objet dans
@@ -45,6 +37,18 @@ Le mouvement d’un objet correspond à sa trajectoire et sa vitesse. On peut su
     -   une droite, le mouvement est rectiligne
     -   un cercle ou un arc de cercle, le mouvement est circulaire
     -   une courbe quelconque, le mouvement est curviligne
+
+!!! question "Problématique"
+    Comment analyser la trajectoire d’un objet ?
+
+
+
+
+
+
+[Activité Trajectoire et mouvement](../trajectoire)
+
+
 
 ## Séance 2 : Vitesse et mouvement
 
@@ -118,7 +122,7 @@ Un phénomène que nous pouvons voir tous les jours, c'est le lever et le couche
     Pourquoi dit-on alors que c'est la Terre qui tourne autour du Soleil ?
 
 
-[Activité référentiel](../referentiel)
+[Activité Le référentiel](../referentiel)
 
 
 
