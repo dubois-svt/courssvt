@@ -248,7 +248,15 @@ nav :
           - Référentiel :  5e/mouvements/referentiel.md
           - Exercices sur la mécanique: 5e/mouvements/exercices.md
           - Fiche de révision : 5e/mouvements/FicheMeca.md
-      #- Séquence Le système digestif :
+      - Séquence Le système digestif :
+          - Introduction : 5e/systDigestif/IntroDigestion.md
+          - Etude de la digestion : 5e/systDigestif/etudeDigestion.md
+          - Vitesse et mouvement :  5e/systDigestif/vitesse.md
+          - Référentiel :  5e/systDigestif/referentiel.md
+          - Exercices sur la mécanique: 5e/systDigestif/exercices.md
+          - Fiche de révision : 5e/systDigestif/FicheMeca.md
+
+      
       #- Séquence Evolution des objets techniques et cycle de vie :
       #- Séquence Optique :
       #- Séquence La nutrition :
