@@ -28,15 +28,24 @@ Après avoir détecté un virus ou une bactérie grâce à leurs antigènes (él
 
 **Document 2 Les trois types de lymphocytes.**
 
+
+<div markdown style="display:flex; flex-direction:row;">
+
+<div markdown style="display:flex; flex-direction:column; flex : 1 1 0;">
+
 ![](Pictures/lymphocyteT.png)
+</div>
+
+<div markdown style="display:flex; flex-direction:column; flex : 1 1 0;">
 
 Lymphocytes T activateurs : activés par les cellules sentinelles, ils activent à leur tour les lymphocytes B et les lymphocytes T tueurs.
 
-Lymphocytes B : lorsqu’ils sont activés, ils produisent des anticorps.
+- Lymphocytes B : lorsqu’ils sont activés, ils produisent des anticorps.
 
 -   Lymphocytes T : lorsqu’ils sont activés, ils se fixent aux cellules infectées par les virus.
+</div>
 
-
+</div>
 
 **Document 3 Evolution du nombre de lymphocytes T et B dans un ganglion suite à une infection.**
 
@@ -60,9 +69,17 @@ Les cellules infectées par un virus possèdent à leur surface des antigènes d
 
 **Document 6 Antigène de micro-organisme et récepteur de lymphocyte.**
 
-![](Pictures/schemaAntigene.jpg)
+<div markdown style="display:flex; flex-direction:row;">
 
+
+<div markdown style="display:flex; flex-direction:column; flex : 1 1 0;">
+![](Pictures/schemaAntigene.jpg)
+</div>
+
+<div markdown style="display:flex; flex-direction:column; flex : 1 1 0;">
 ![](Pictures/schemaAntigene2.png)
+</div>
+</div>
 
 Tout micro-organisme possède à sa surface des éléments qui lui sont propres (les antigènes). Les lymphocytes possèdent naturellement à leur surface des récepteurs qui s’adaptent à la structure de tout type d’antigènes, ce qui leur permet de reconnaître ou non l’antigène (mécanisme clé – serrure). À chaque antigène correspond un récepteur d’un lymphocyte (un lymphocyte ne reconnaît qu’un seul type d’ antigène) : c’est une réaction spécifique.
 
