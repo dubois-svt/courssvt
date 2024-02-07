@@ -36,13 +36,13 @@
 ![](Pictures/frottisSanguinMalade.jpg)
 </div>
 <div markdown style="flex: 1 1 0;  flex-direction: column;">
-Le colorant colore le noyau.
+Le colorant violet colore le noyau.
 
 1 = **hématie** (globule rouge)
 
-2-3 = **phagocyte**
+2-3 = **phagocyte** (leucocyte = globule blanc)
 
-4 = **lymphocyte**
+4 = **lymphocyte** (leucocyte = globule blanc)
 </div>
 </div>
 

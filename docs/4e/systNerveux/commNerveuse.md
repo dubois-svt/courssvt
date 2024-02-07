@@ -18,7 +18,7 @@
 
 **Document 1 : Vidéo neurone et synapses**
 
-[https://synbox.ac-paris.fr/index.php/s/8nDEGM5jAbmmyKq](https://synbox.ac-paris.fr/index.php/s/8nDEGM5jAbmmyKq)
+<iframe title="Transmission du message nerveux" width="560" height="315" src="https://tube-sciences-technologies.apps.education.fr/videos/embed/bf689b88-5500-4233-806c-665918968998" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 
 						
 

@@ -44,7 +44,7 @@ L’être humain et plus généralement tous les animaux ont besoin de manger po
     Quelles sont les substances chimiques du tube digestif qui participent à la digestion ?
 
     
-[Activité nom activité](../lien vers l'activité)
+[Activité La digestion chimique des aliments](../digestionChimique)
 
 
 

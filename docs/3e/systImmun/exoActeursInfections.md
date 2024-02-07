@@ -24,19 +24,23 @@ Les photographies des deux frottis sont représentatives de l’ensemble des cel
 
 **Document 1 Photo d’un frottis sanguin légendés (MO x400)**
 
+<div markdown style="display:flex; flex-direction: row;">
+<div markdown style="flex: 1 1 0; flex-direction: row;">
+
 ![](Pictures/frottisSanguinMalade.jpg)
-
-Le colorant colore le noyau.
-
+</div>
+<div markdown style="flex: 1 1 0;  flex-direction: column;">
 1 = **hématie** (globule rouge)
 
-2-3 = **phagocyte**
+2-3 = **phagocyte** (leucocyte = globule blanc)
 
-4 = **lymphocyte**
+4 = **lymphocyte** (leucocyte = globule blanc)
+</div>
+</div>
 
 **Document 2 Comparaison du sang de Jules avec celui d’une personne non malade**
 
-![](Pictures/frottisSanguinSain.png)
+![](Pictures/frottisSanguinMaladeEtSain.png)
 
 
 **Document 3 Tableau présentant les résultats d’une analyse sanguine de deux sujets**

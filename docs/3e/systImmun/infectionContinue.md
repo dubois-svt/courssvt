@@ -33,10 +33,10 @@ Après avoir détecté un virus ou une bactérie grâce à leurs antigènes (él
 
 <div markdown style="display:flex; flex-direction:column; flex : 1 1 0;">
 
-![](Pictures/lymphocyteT.png)
+![](Pictures/lymphocyteT.png){: style="width: 300px; padding-right: 10px;"}
 </div>
 
-<div markdown style="display:flex; flex-direction:column; flex : 1 1 0;">
+<div markdown style="display:flex; flex-direction:column; flex : 2 1 0;">
 
 Lymphocytes T activateurs : activés par les cellules sentinelles, ils activent à leur tour les lymphocytes B et les lymphocytes T tueurs.
 
