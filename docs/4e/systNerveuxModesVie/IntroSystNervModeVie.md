@@ -34,82 +34,60 @@
     voir l'objet comme un tout (forme + couleur + mouvement) : on parle
     d'intégration cérébrale.
 
-## Séance 2 : Les nerfs
+[Activité La vision et IRM](../visionCheese)
 
-![](Pictures/systNervGrenouille.jpg)
 
-[https://vimeo.com/263053418](https://vimeo.com/263053418)
+## Séance 2 : Le sommeil et l'apprentissage
 
-![](Pictures/dessiSystNerveux.png)
-
+![](Pictures/illustrationSommeil.png)
 !!! question "Problématique"
-    De quoi sont composés les nerfs et les centres nerveux ?
+    En quoi le sommeil favorise-t-il l'apprentissage ?
 
 
 
-[Activité Les cellules des nerfs](../nerfs)
+[Activité Le sommeil et la mémoire](../sommeil)
 
 
 
 
 ??? abstract "Bilan"
-    Un nerf est un organe en forme de tube qui contient un très grand nombre de fibres nerveuses (= axones).
-    Une fibre nerveuse correspond au prolongement d’une cellule appelée neurone.
-    Les centres nerveux sont eux aussi composés de neurones.
-    Différents organes sensoriels (= organes récepteurs) captent les informations provenant de l’environnement et produisent des messages nerveux (messages sensitifs).
-    Les messages nerveux sensitifs sont envoyés par les nerfs sensitifs vers le cerveau (= centre nerveux).
-    Lorsque le cerveau reçoit les messages nerveux sensitifs, il produit alors des messages nerveux pour commander une tâche à effectuer, ce sont les messages moteurs.
-    Les messages nerveux moteurs sont envoyés par les nerfs moteurs vers les muscles (= organes effecteurs). Les muscles reçoivent alors l’ordre de se contracter ou de se relâcher.
-    Des organes récepteurs jusqu’au cerveau, et du cerveau jusqu’aux organes effecteurs, le message nerveux parcourt des nerfs.
+    Le sommeil a un rôle important pour le cerveau :
 
-## Séance 3 : La communication nerveuse
+    - il permet la mémorisation des choses apprises durant la période
+    d'éveil qui précède ;
 
-On a vu que la succession d’étapes entre le stimulus et la réaction. 
-Le message qui va de l’œil au cerveau puis du cerveau au muscle.
-Ce message emprunte des nerfs pour circuler.
-C’est le message nerveux.
-Les nerfs sont constitués de plusieurs neurones.
-Le message passe de neurone en neurone jusqu’aux muscles.
+    - il facilite de nouveaux apprentissages durant la période d'éveil qui suit.
 
-![](Pictures/schemaCommNerveuse.png)
+    Le sommeil permet aussi de préserver l'ensemble des fonctions du cerveau qui permettent le fonctionnement du corps lors de l'éveil.
+
+## Séance 3 : L'impact de notre mode de vie sur nos organes sensoriels
+
+
+![](Pictures/illustrationsImpactModesVieSN.png){width="9.613cm" height="10.271cm"}
+
 
 !!! question "Problématique"
-    Comment se réalise la communication nerveuse entre neurones ?
+    Quels sont les effets de nos comportements sur le système nerveux ?
 
 
 
-[Activité Transmission du message de neurone en neurone](../commNerveuse)
-
+[Activité Impact du bruit sur notre système nerveux](../bruit)
+[Activité Les conduites addictives](../addictions)
 
 
 
 ??? abstract "Bilan"
-    Les neurones sont des cellules qui permettent la transmission des messages nerveux.
-    Le message nerveux circule de neurone en neurone jusqu’aux organes effecteurs (exemple : muscles).
-    Dans un neurone, le message est de nature électrique. .
-    Au niveau des synapses neurone-neurone et des synapses neurone-muscle, le message nerveux est transmis par des substances chimiques, les neurotransmetteurs.
+    Une mauvaise hygiène de vie comme un manque de sommeil, le bruit, les addictions... peuvent modifier le fonctionnement du système nerveux et     entraîner une baisse des performances cérébrales.
 
-    ![](Pictures/schemaSynapse.png)
+    Plus le niveau sonore d'un bruit est important, plus sa durée d'écoute doit être brève. Une exposition à un niveau sonore trop important peut endommager l'oreille de façon irréversible et entraîner une perte d'audition.
 
-## Séance 4 : Le cerveau, élément central du système nerveux
+    Réduire le volume du casque, s'éloigner des enceintes lors d'un concert et mettre des bouchons auditifs permet de réduire les risques de lésions de l'oreille et donc de perte d'audition.
 
+    L'addiction à certains jeux, applications ou activités stimulent le circuit de la récompense et créent des dépendances. Il est important d'avoir une bonne hygiène de vie pour préserver le bon fonctionnement du système nerveux.
 
-!!! question "Problématique"
-    Comment le cerveau traite-t-il les informations ?
+    Document 4 : habitudes d'écoute chez les 12-17 ans.
 
+    Une enquête Bruitparif, réalisée en 2015-2016 sur 1178 élèves d'Île-de-France de 12 à 17 ans, a permis de mettre en évidence différents profils d'utilisateurs, et notamment des utilisateurs qui cumulent les pratiques à risque pour l'audition. Chaque point correspond à un individu sondé.
 
+    ![](Pictures/enqueteVolEcoute.png)
 
-[Activité Traitement des informations par le cerveau](../cerveauInfos)
-
-
-
-
-??? abstract "Bilan"
-    Bilan :
-    Les messages nerveux sensitifs arrivent dans des aires cérébrales précises. Les aires cérébrales communiquent entre elles et traitent les informations reçues pour produire une réponse adaptée. Ce sont les neurones qui permettent ces communications dans le cerveau.
-    Pour percevoir une sensation, le cerveau tient compte des différentes informations provenant des organes des sens, mais aussi des informations stockées dans la mémoire, chacun perçoit donc l’environnement différemment.
-    Le réseau de neurones peut évoluer avec l’expérience, c’est la plasticité cérébrale.
-
-    ![](Pictures/schemaZonesCerebrales1.png)
-
-    ![](Pictures/schemaZonesCerebrales2.png)

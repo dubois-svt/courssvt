@@ -1,32 +1,25 @@
 # Activité : Chez Miss Cheese à l'heure du thé
 
+Miss Cheese, gauchère, a été victime d'un accident vasculaire cérébral (AVC). Depuis son accident, à chaque tea time il se passe la même chose : le thé qu'elle est en train de servir se répand sur le napperon brodé. Dans son entourage, d'aucuns supposent que Miss Cheese a un problème de motricité consécutif à l'AVC. D'autres pensent que le problème de Miss Cheese est dû à l'absence de perception visuelle du remplissage (mouvement) de la tasse lorsqu'elle verse le thé, en relation avec son AVC.
+
+On veut déterminer, par une étude d'images d'IRM, si la maladresse de Miss Cheese est due à une atteinte d'une aire motrice ou d'une aire visuelle.
+
 !!! note "Compétences"
 
-    Interpréter
+    - Interpréter
+    - utiliser l'outil numérique
 
 !!! warning "Consignes"
 
     1. Ouvrir, le fichier de l'IRM de Miss Cheese à gauche et l'IRM de l'individu sain à droite.
-
     2. Repérer quelle zone du cerveau a été touchée (gauche/droite, avant/arrière, haut/bas) justifier votre réponse. (1 point)
-
     3. Ajouter les différents fichiers IRMf sur l'IRM de l'individu sain en pensant à bien régler le seuil(document 3).
-
     4. Indiquer pour chaque fonction quelle zone du cerveau est activée. (1,5 points)
-
     5. Répondre à la problématique en expliquant votre raisonnement. (2,5 points)
 
     
 ??? bug "Critères de réussite"
     - 
-
-
-
-Miss Cheese, gauchère, a été victime d'un accident vasculaire cérébral (AVC). Depuis son accident, à chaque tea time il se passe la même chose : le thé qu'elle est en train de servir se répand sur le napperon brodé. Dans son entourage, d'aucuns supposent que Miss Cheese a un problème de motricité consécutif à l'AVC. D'autres pensent que le problème de Miss Cheese est dû à l'absence de perception visuelle du remplissage (mouvement) de la tasse lorsqu'elle verse le thé, en relation avec son AVC.
-
-
-Problématique : On veut déterminer, par une étude d'images d'IRM, si la maladresse de Miss Cheese est due à une atteinte d'une aire motrice ou d'une aire visuelle.
-
 
 **Document 1 Les accidents vasculaires cérébraux ( AVC).**
 
@@ -46,18 +39,13 @@ Vous pouvez ouvrir les différents fichiers avec le logiciel EduAnat2
 (<http://acces.ens-lyon.fr/logiciels/EduAnat2Online/>)
 
 - IRM de Miss Cheese = IRM_CHEESE.nii.gz
-
 - IRM d'un indivdu sain = IRM_sain.nii.gz
-
 - IRMf lors d'un mouvement de la main droite = IRMf_MotriciteMainDroite.nii.nii.gz (seuil 75)
-
 - IRMf lors d'un mouvement de la main gauche = IRMf_MotriciteMainGauche.nii.nii.gz (seuil 70)
-
 - IRMf lors de la vision d'un mouvement = IRMf_VisionMouvements.nii.gz (seuil 70)
 
-![](Pictures/ficheEduAnatomist1.jpg)
-![](Pictures/ficheEduAnatomist2.jpg)
 
+**Document 4 Fiches méthodes EduAntomist.**
 
-
-
+![](Pictures/ficheEduAnatomist1.png)
+![](Pictures/ficheEduAnatomist2.png)
