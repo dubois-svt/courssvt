@@ -12,12 +12,12 @@
 
 
 
-## Séance 1 : Vision et 
+## Séance 1 : Vision et cerveau
 
 !!! question "Problématique"
     Comment le cerveau intervient-il dans la perception des images ?
 
-[Activité Les organes du mouvement](../organesMvt)
+[Activité Le cerveau et la vision](../cerveauVision)
 
 
 

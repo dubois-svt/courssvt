@@ -40,20 +40,20 @@ particulière de son cerveau.
 
 On demande au patient de cocher la forme qu'il considère comme identique
 au premier dessin de chaque ligne.
-![](Pictures/1000000000000104000000BCBA21D23AE588D588.jpg)
+![](Pictures/testRecoForme.jpg)
     
 
 
 **Document 2  Localisation de la lésion cérébrale du patient.**
 
-![](Pictures/100000010000032C000003506AF8CA669F17DC88.png)
+![](Pictures/lesionPatient1.png)
 
 **Document 3 : Zones cérébrales impliquées dans la vision.**
 
 Il est aujourd'hui admis que plusieurs aires cérébrales, notées V1 à V5,
 situées au niveau du cortex cérébral, participent à la vision.
 
-![](Pictures/10000000000009B000000DB3A1BC372AEADDA332.jpg)
+![](Pictures/zonesVision.jpg)
 
 
 
@@ -70,13 +70,13 @@ Le dessin effectué par le patient est présenté ici à droite du tableau :
 
 **Document 2 : Localisation de la lésion cérébrale du patient.**
 
-![](Pictures/lesionCerveau.png)
+![](Pictures/lesionPatient2.png)
 
 **Document 3 : Zones cérébrales impliquées dans la vision.**
 
 Il est aujourd'hui admis que plusieurs aires cérébrales, notées V1 à V5, situées au niveau du cortex cérébral, participent à la vision.
 
-![](Pictures/10000000000009B000000DB3A1BC372AEADDA332.jpg)
+![](Pictures/zonesVision.jpg)
 
 
 
@@ -95,19 +95,19 @@ http://acces.inrp.fr/acces/ressources/neurosciences/vision/cas_anomalies_vision/
 
 **Document 2 Localisation de la lésion cérébrale du patient.**
 
-![](Pictures/100000010000032C0000035024CED6DC5F8E4F94.png)
+![](Pictures/lesionPatient3.png)
 
 **Document 3 Zones cérébrales impliquées dans la vision.**
 
 Il est aujourd'hui admis que plusieurs aires cérébrales, notées V1 à V5,
 situées au niveau du cortex cérébral, participent à la vision.
 
-![](Pictures/10000000000009B000000DB3A1BC372AEADDA332.jpg){
+![](Pictures/zonesVision.jpg)
 
 
 
 **Document 3b : Le cerveau nous permet de former une image.**
 
-![](Pictures/1000000100000193000001A7F7596415D2443B65.png)
+![](Pictures/integrationVision.png)
 
-![](Pictures/10000000000004420000027AA4756724C452402A.jpg)
+![](Pictures/anomalieCourleurs.jpg)

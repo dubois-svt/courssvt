@@ -24,7 +24,7 @@ Consigne 2 : Repérer quelle zone du cerveau a été touchée
 (gauche/droite, avant/arrière, haut/bas) justifier votre réponse. (1
 point)
 
-Consigne 3 : A**jouter** les différents fichiers IRMf sur l'IRM de
+Consigne 3 : Ajouter les différents fichiers IRMf sur l'IRM de
 l'individu sain en pensant à bien régler le seuil(document 3).
 
 Consigne 4 : Indiquer pour chaque fonction quelle zone du cerveau est
@@ -83,20 +83,19 @@ IRMf_MotriciteMainGauche.nii.nii.gz (seuil 70)
 
 ### En quoi le sommeil favorise-t-il l'apprentissage ?
 
-![](Pictures/10000000000001F400000181A9329F1392A38EBD.png){width="8.812cm"
-height="6.784cm"}
+![](Pictures/illustrationSommeil.png){width="8.812cm" height="6.784cm"}
 
-[]{#anchor-38}MÉTHODE POUR INTERPRÉTER UNE EXPÉRIENCE
+MÉTHODE POUR INTERPRÉTER UNE EXPÉRIENCE
 
-[]{#anchor-39}Décrire le protocole de l'expérience (comparer le test et
+Décrire le protocole de l'expérience (comparer le test et
 le témoin, quel paramètre change).
 
-[]{#anchor-40}Décrire les résultats de l'expérience (décrire les
+Décrire les résultats de l'expérience (décrire les
 résultats du test et du témoin).
 
-[]{#anchor-41}Interpréter les résultats de l'expérience
+Interpréter les résultats de l'expérience
 
-1.  #### []{#anchor-42}Le sommeil et la mémoire
+1.  #### Le sommeil et la mémoire
 
 Consigne :
 
