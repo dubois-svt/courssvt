@@ -2,8 +2,8 @@
 
 !!! note "Compétences"
 
-    Extraire et mettre en relations des informations   
-    Autonomie du travail
+    - Extraire et mettre en relations des informations   
+    - Autonomie du travail
 
 !!! warning "Consignes"
 
@@ -34,12 +34,9 @@
 
 **Document 1 Cas clinique n° 1 : Patient souffrant d'une lésion d'une aire cérébrale**
 
-À la suite d'une intoxication au monoxyde de carbone, un patient souffre
-d'une destruction des cellules nerveuses localisées dans une zone
-particulière de son cerveau.
+À la suite d'une intoxication au monoxyde de carbone, un patient souffre d'une destruction des cellules nerveuses localisées dans une zone particulière de son cerveau.
 
-On demande au patient de cocher la forme qu'il considère comme identique
-au premier dessin de chaque ligne.
+On demande au patient de cocher la forme qu'il considère comme identique au premier dessin de chaque ligne.
 ![](Pictures/testRecoForme.jpg)
     
 
@@ -50,8 +47,7 @@ au premier dessin de chaque ligne.
 
 **Document 3 : Zones cérébrales impliquées dans la vision.**
 
-Il est aujourd'hui admis que plusieurs aires cérébrales, notées V1 à V5,
-situées au niveau du cortex cérébral, participent à la vision.
+Il est aujourd'hui admis que plusieurs aires cérébrales, notées V1 à V5, situées au niveau du cortex cérébral, participent à la vision.
 
 ![](Pictures/zonesVision.jpg){: style="width: 400px"}
 
@@ -99,8 +95,7 @@ http://acces.inrp.fr/acces/ressources/neurosciences/vision/cas_anomalies_vision/
 
 **Document 3 Zones cérébrales impliquées dans la vision.**
 
-Il est aujourd'hui admis que plusieurs aires cérébrales, notées V1 à V5,
-situées au niveau du cortex cérébral, participent à la vision.
+Il est aujourd'hui admis que plusieurs aires cérébrales, notées V1 à V5, situées au niveau du cortex cérébral, participent à la vision.
 
 ![](Pictures/zonesVision.jpg){: style="width: 400px"}
 
