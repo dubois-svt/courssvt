@@ -34,9 +34,19 @@ On demande au patient de cocher la forme qu'il considère comme identique au pre
 
 ![](Pictures/testRecoForme.jpg)
 
+<div markdown style="display:flex; flex-direction: row;">
+
+<div markdown style="display:flex; flex-direction: column;">
+
+
 **Document 2 Localisation de la lésion cérébrale du patient.**
 
 ![](Pictures/lesionPatient1.png){: style="width: 400px"}
+</div>
+
+
+<div markdown style="display:flex; flex-direction: column;">
+
 
 **Document 3 Zones cérébrales impliquées dans la vision.**
 
@@ -44,7 +54,8 @@ Il est aujourd'hui admis que plusieurs aires cérébrales, notées V1 à V5, sit
 
 ![](Pictures/zonesVision.jpg){: style="width: 400px"}
 
-
+</div>
+</div>
 
 ## Groupe 2
 
@@ -57,9 +68,17 @@ Le dessin effectué par le patient est présenté ici à droite du tableau :
 
 ![](Pictures/tableauPatientLesioNCerebrale.jpg)
 
+<div markdown style="display:flex; flex-direction: row;">
+
+<div markdown style="display:flex; flex-direction: column;">
+
 **Document 2 Localisation de la lésion cérébrale du patient.**
 
 ![](Pictures/lesionPatient2.png){: style="width: 400px"}
+</div>
+
+
+<div markdown style="display:flex; flex-direction: column;">
 
 **Document 3 Zones cérébrales impliquées dans la vision.**
 
@@ -67,6 +86,8 @@ Il est aujourd'hui admis que plusieurs aires cérébrales, notées V1 à V5, sit
 
 ![](Pictures/zonesVision.jpg){: style="width: 400px"}
 
+</div>
+</div>
 
 
 ## Groupe 3
@@ -77,14 +98,19 @@ Suite à un AVC (accident vasculaire cérébral), une patiente a subi une destru
 
 Traverser une rue est pour elle très dangereux puisqu'une voiture qu'elle a vu « arrêtée », à une grande distance de l'endroit où elle est, peut se retrouver tout près d'elle après qu'elle eut commencé à traverser. Se verser un verre d'eau est tout aussi problématique puisqu'elle voit l'eau qui coule comme gelée et qu'elle comprend qu'elle en a trop versé quand elle découvre soudain l'eau répandue sur la table.
 
-*D'après Françoise Jauzein et Aude Richter*
+*D'après Françoise Jauzein et Aude Richter http://acces.inrp.fr/acces/ressources/neurosciences/vision/cas_anomalies_vision/cas10/cas10*
 
-http://acces.inrp.fr/acces/ressources/neurosciences/vision/cas_anomalies_vision/cas10/cas10
+<div markdown style="display:flex; flex-direction: row;">
 
+<div markdown style="display:flex; flex-direction: column;">
 
 **Document 2 Localisation de la lésion cérébrale du patient.**
 
 ![](Pictures/lesionPatient3.png){: style="width: 400px"}
+</div>
+
+
+<div markdown style="display:flex; flex-direction: column;">
 
 **Document 3 Zones cérébrales impliquées dans la vision.**
 
@@ -92,10 +118,11 @@ Il est aujourd'hui admis que plusieurs aires cérébrales, notées V1 à V5, sit
 
 ![](Pictures/zonesVision.jpg){: style="width: 400px"}
 
+</div>
+</div>
 
+??? abstrat "correction"
 
-**Document 4 Le cerveau nous permet de former une image.**
-
-![](Pictures/integrationVision.png)
-
-![](Pictures/anomalieCourleurs.jpg)
+    **Document 4 Le cerveau nous permet de former une image.**
+    ![](Pictures/integrationVision.png)
+    ![](Pictures/anomalieCourleurs.jpg)

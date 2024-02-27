@@ -61,12 +61,7 @@
 
     Les centres nerveux sont eux aussi composés de neurones.
 
-    Différents organes sensoriels (= organes récepteurs) captent les informations provenant de l’environnement et produisent des messages nerveux (messages sensitifs).
-    Les messages nerveux sensitifs sont envoyés par les nerfs sensitifs vers le cerveau (= centre nerveux).
 
-    Lorsque le cerveau reçoit les messages nerveux sensitifs, il produit alors des messages nerveux pour commander une tâche à effectuer, ce sont les messages moteurs.
-
-    Les messages nerveux moteurs sont envoyés par les nerfs moteurs vers les muscles (= organes effecteurs). Les muscles reçoivent alors l’ordre de se contracter ou de se relâcher.
 
     Des organes récepteurs jusqu’au cerveau, et du cerveau jusqu’aux organes effecteurs, le message nerveux parcourt des nerfs.
 
@@ -99,6 +94,9 @@ Le message passe de neurone en neurone jusqu’aux muscles.
 
     Au niveau des synapses neurone-neurone et des synapses neurone-muscle, le message nerveux est transmis par des substances chimiques, les neurotransmetteurs.
 
+    Les messages nerveux sensitifs sont envoyés par les organes récepteurs vers le cerveau (= centre nerveux) via les nerfs sensitifs.
+    Les messages nerveux moteurs sont envoyés par le cerveau  vers les organes effecteurs via les nerfs moteurs.
+
     ![](Pictures/schemaSynapse.png)
 
 ## Séance 4 : Le cerveau, élément central du système nerveux
@@ -115,6 +113,9 @@ Le message passe de neurone en neurone jusqu’aux muscles.
 
 
 ??? abstract "Bilan"
+    Les messages nerveux sensitifs sont envoyés par les organes récepteurs vers le cerveau (= centre nerveux) via les nerfs sensitifs.
+    Les messages nerveux moteurs sont envoyés par le cerveau  vers les organes effecteurs via les nerfs moteurs.
+    
     Les messages nerveux sensitifs arrivent dans des aires cérébrales précises. Les aires cérébrales communiquent entre elles et traitent les informations reçues pour produire une réponse adaptée. Ce sont les neurones qui permettent ces communications dans le cerveau.
 
     Pour percevoir une sensation, le cerveau tient compte des différentes informations provenant des organes des sens, mais aussi des informations stockées dans la mémoire, chacun perçoit donc l’environnement différemment.
