@@ -1,101 +1,17 @@
 
-
-
-
-1.  #### Activité : Chez Miss Cheese à l'heure du thé
-
-Miss Cheese, gauchère, a été victime d'un accident vasculaire cérébral
-(AVC). Depuis son accident, à chaque tea time il se passe la même
-chose : le thé qu'elle est en train de servir se répand sur le napperon
-brodé. Dans son entourage, d'aucuns supposent que Miss Cheese a un
-problème de motricité consécutif à l'AVC. D'autres pensent que le
-problème de Miss Cheese est dû à l'absence de perception visuelle du
-remplissage (mouvement) de la tasse lorsqu'elle verse le thé, en
-relation avec son AVC.
-
-Problématique : On veut déterminer, par une étude d'images d'IRM, si la
-maladresse de Miss Cheese est due à une atteinte d'une aire motrice ou
-d'une aire visuelle.
-
-Consigne 1 : Ouvrir, le fichier de l'IRM de Miss Cheese à gauche et
-l'IRM de l'individu sain à droite.
-
-Consigne 2 : Repérer quelle zone du cerveau a été touchée
-(gauche/droite, avant/arrière, haut/bas) justifier votre réponse. (1
-point)
-
-Consigne 3 : Ajouter les différents fichiers IRMf sur l'IRM de
-l'individu sain en pensant à bien régler le seuil(document 3).
-
-Consigne 4 : Indiquer pour chaque fonction quelle zone du cerveau est
-activée. (1,5 points)
-
-Consigne 5 : Répondre à la problématique en expliquant votre
-raisonnement. (2,5 points)
-
-Document 1 : Les accidents vasculaires cérébraux ( AVC).
-
-Un AVC est lié à une perturbation de l'irrigation de certaines cellules
-du cerveau ce qui conduit à un déficit neurologique localisé. Les
-cellules nerveuses de la zone sont endommagées et périssent. Les
-fonctions corporelles liées aux zones dont les cellules sont endommagées
-sont perturbées après une attaque cérébrale et la sévérité des séquelles
-dépendent de l\'étendue et de la situation de la région touchée.
-
-Document 2 : L'IRM (Imagerie par résonance magnétique) :
-
--- L'IRM anatomique :
-
-Appliquée à l'encéphale, cette technique permet de visualiser les
-structures cérébrales.
-
-Cette technique permet aussi de visualiser les structures endommagées
-qui apparaissent comme des taches noires ou blanches.
-
--- L'IRM fonctionnelle (IRMf) :
-
-Pendant qu'un individu accomplit une tâche simple, sensorielle ou
-motrice, l'IRMf permet de localiser dans son cerveau les zones activées
-par la tâche réalisée. L'image obtenue représente les zones du cerveau
-statistiquement plus actives entre des conditions « ON » (avec
-stimulation ou mouvement) et « OFF » (sans stimulation ou mouvement).
-
-Document 3 : Liste des fichiers disponibles.
-
-Vous pouvez ouvrir les différents fichiers avec le logiciel EduAnat2
-(<http://acces.ens-lyon.fr/logiciels/EduAnat2Online/>)
-
--- IRM de Miss Cheese = IRM_CHEESE.nii.gz
-
--- IRM d'un indivdu sain = IRM_sain.nii.gz
-
--- IRMf lors d'un mouvement de la main droite =
-IRMf_MotriciteMainDroite.nii.nii.gz (seuil 75)
-
--- IRMf lors d'un mouvement de la main gauche =
-IRMf_MotriciteMainGauche.nii.nii.gz (seuil 70)
-
--- IRMf lors de la vision d'un mouvement = IRMf_VisionMouvements.nii.gz
-(seuil 70)
-
-![](Pictures/ficheEduAnatomist1.jpg)
-![](Pictures/ficheEduAnatomist2.jpg)
-
 ### En quoi le sommeil favorise-t-il l'apprentissage ?
 
 ![](Pictures/illustrationSommeil.png){width="8.812cm" height="6.784cm"}
 
 MÉTHODE POUR INTERPRÉTER UNE EXPÉRIENCE
 
-Décrire le protocole de l'expérience (comparer le test et
-le témoin, quel paramètre change).
+Décrire le protocole de l'expérience (comparer le test et le témoin, quel paramètre change).
 
-Décrire les résultats de l'expérience (décrire les
-résultats du test et du témoin).
+Décrire les résultats de l'expérience (décrire les résultats du test et du témoin).
 
 Interpréter les résultats de l'expérience
 
-1.  #### Le sommeil et la mémoire
+Activité : Le sommeil et la mémoire
 
 Consigne :
 
@@ -278,12 +194,12 @@ suit.
 Le sommeil permet aussi de préserver l'ensemble des fonctions du cerveau
 qui permettent le fonctionnement du corps lors de l'éveil.
 
-I.  ### []{#anchor-56}[]{#anchor-57}Quels sont les effets de nos comportements sur le système nerveux ?
+### Quels sont les effets de nos comportements sur le système nerveux ?
 
 ![](Pictures/100000000000016C00000184F7880C7693FCDE17.png){width="9.613cm"
 height="10.271cm"}
 
-1.  #### L'impact de notre mode de vie sur nos organes sensoriels
+#### L'impact de notre mode de vie sur nos organes sensoriels
 
 #### Consigne 1 : Expliquer **les risques liés à une exposition importante au bruit**. 
 
@@ -291,8 +207,9 @@ height="10.271cm"}
 
 <div>
 
-**D**![](Pictures/1000000000000155000001892488219A41427E0E.png){width="6.567cm"
-height="7.029cm"}**ocument 1 : L'oreille, organe de l'audition.**
+![](Pictures/1000000000000155000001892488219A41427E0E.png){width="6.567cm" height="7.029cm"}
+
+**Document 1 : L'oreille, organe de l'audition.**
 
 Le son correspond à des vibrations de l'air, conduites jusqu'au tympan
 qui entre à son tour en vibration. Ces vibrations sont à l'origine des
@@ -300,47 +217,40 @@ mouvements des cils de cellules dans l'oreille interne. Cela génère un
 message nerveux sensitif qui se propage le long du nerf auditif vers le
 cerveau.
 
-***Document 2 : ****N****iveau sonore et durée maximum admissibles
-d'exposition quotidienne au bruit selon l'Organisation mondiale de la
-santé (OMS).***
+**Document 2 Niveau sonore et durée maximum admissibles d'exposition quotidienne au bruit selon l'Organisation mondiale de la santé (OMS).**
 
 ![](Pictures/10000000000001B9000000FF0838E228BCFDF863.png){width="9.001cm"
 height="5.203cm"}
 
-Pour préserver au mieux les capacités d'audition, l'OMS préconise de ne
-pas dépasser un niveau d'écoute de 75 dB sur 8 heures.
+Pour préserver au mieux les capacités d'audition, l'OMS préconise de ne pas dépasser un niveau d'écoute de 75 dB sur 8 heures.
 
-Une différence de +10 dB correspond à un niveau sonore 1à fois plus
-fort.
+Une différence de +10 dB correspond à un niveau sonore 1à fois plus fort.
 
-![](Pictures/100000000000011B0000018979A9C817CB88BA01.png){width="6.209cm"
-height="7.832cm"}Document 3 : Effet d'un bruit intense sur les cellules
-ciliées (vue au MEB)
+![](Pictures/100000000000011B0000018979A9C817CB88BA01.png){width="6.209cm" height="7.832cm"}Document 3 : Effet d'un bruit intense sur les cellules ciliées (vue au MEB)
 
 Ces cellules peuvent être détruites sous l'effet d'un bruit intense.
-Elles ne se renouvellent pas ensuite. Les sifflements, les
-bourdonnements et l'hypersensibilité au bruit traduisent des lésions des
-cellules ciliées.
+Elles ne se renouvellent pas ensuite. Les sifflements, les bourdonnements et l'hypersensibilité au bruit traduisent des lésions des cellules ciliées.
 
-***Document ****4**** : Campagne de sensibilisation ****à la
-protecti***![](Pictures/100000000000046F000006A6C4A6642F533EF3CF.jpg){width="6.047cm"
-height="9.163cm"}***on de l'ouïe.***
+***Document 4 Campagne de sensibilisation à la protection de l'ouïe.**
 
-***D****ocument 5 : Exposition au volume sonore dans un concert.***
+![](Pictures/100000000000046F000006A6C4A6642F533EF3CF.jpg){width="6.047cm"
+height="9.163cm"}
+
+***Document 5 Exposition au volume sonore dans un concert.**
 
 ![](Pictures/100000000000015A0000010D3B65E2B598943872.png){width="9.001cm"
 height="6.057cm"}
 
-Document 6 : Des bouchons auditifs.
+**Document 6 : Des bouchons auditifs.**
 
 ![](Pictures/10000000000000FF0000010F48EAB23B209A1ADB.png){width="6.747cm"
 height="4.655cm"}Suivant les modèles et s'ils sont insérés correctement,
 ils atténuent l'intensité du bruit parvenant aux cellules ciliées de 21
 à 30 dB.
 
-</div>
 
-1.  #### []{#anchor-58}Les conduites addictives
+
+1.  #### Les conduites addictives
 
 Consigne : À partir des documents et de la vidéo, expliquer comment nous
 pouvons développer des addictions en utilisant certaines applications.
@@ -412,4 +322,3 @@ cumulent les pratiques à risque pour l'audition. Chaque point correspond
 ![](Pictures/100000000000036B000001E1BE09786A2056C0B8.png){width="16.572cm"
 height="8.16cm"}
 
-## 
