@@ -46,7 +46,7 @@ au premier dessin de chaque ligne.
 
 **Document 2  Localisation de la lésion cérébrale du patient.**
 
-![](Pictures/lesionPatient1.png)
+![](Pictures/lesionPatient1.png){: style="width: 400px"}
 
 **Document 3 : Zones cérébrales impliquées dans la vision.**
 
@@ -70,7 +70,7 @@ Le dessin effectué par le patient est présenté ici à droite du tableau :
 
 **Document 2 : Localisation de la lésion cérébrale du patient.**
 
-![](Pictures/lesionPatient2.png)
+![](Pictures/lesionPatient2.png){: style="width: 400px"}
 
 **Document 3 : Zones cérébrales impliquées dans la vision.**
 
@@ -95,7 +95,7 @@ http://acces.inrp.fr/acces/ressources/neurosciences/vision/cas_anomalies_vision/
 
 **Document 2 Localisation de la lésion cérébrale du patient.**
 
-![](Pictures/lesionPatient3.png)
+![](Pictures/lesionPatient3.png){: style="width: 400px"}
 
 **Document 3 Zones cérébrales impliquées dans la vision.**
 
