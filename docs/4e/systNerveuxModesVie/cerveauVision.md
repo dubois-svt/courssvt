@@ -53,7 +53,7 @@ au premier dessin de chaque ligne.
 Il est aujourd'hui admis que plusieurs aires cérébrales, notées V1 à V5,
 situées au niveau du cortex cérébral, participent à la vision.
 
-![](Pictures/zonesVision.jpg)
+![](Pictures/zonesVision.jpg){: style="width: 400px"}
 
 
 
@@ -76,7 +76,7 @@ Le dessin effectué par le patient est présenté ici à droite du tableau :
 
 Il est aujourd'hui admis que plusieurs aires cérébrales, notées V1 à V5, situées au niveau du cortex cérébral, participent à la vision.
 
-![](Pictures/zonesVision.jpg)
+![](Pictures/zonesVision.jpg){: style="width: 400px"}
 
 
 
@@ -102,11 +102,11 @@ http://acces.inrp.fr/acces/ressources/neurosciences/vision/cas_anomalies_vision/
 Il est aujourd'hui admis que plusieurs aires cérébrales, notées V1 à V5,
 situées au niveau du cortex cérébral, participent à la vision.
 
-![](Pictures/zonesVision.jpg)
+![](Pictures/zonesVision.jpg){: style="width: 400px"}
 
 
 
-**Document 3b : Le cerveau nous permet de former une image.**
+**Document 4 Le cerveau nous permet de former une image.**
 
 ![](Pictures/integrationVision.png)
 
