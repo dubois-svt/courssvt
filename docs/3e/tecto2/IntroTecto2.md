@@ -47,7 +47,7 @@
 
     La convergence de deux plaques lithosphériques dont l’une est océanique, entraîne le plongement (subduction) de la plaque océanique sous l’autre plaque, au niveau d’une fosse océanique Cette limite est caractérisée par un volcanisme explosif.
 
-    La collision de deux plaques lithosphériques continentales entraînent la formation d’une chaîne de montagne.
+    La collision de deux plaques lithosphériques continentales entraîne la formation d’une chaîne de montagne.
 
     Définition :
 

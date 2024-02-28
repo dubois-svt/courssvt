@@ -55,9 +55,13 @@
 
     Ces plaques sont en mouvements les unes par rapport aux autres :
 
+
     - Elles s’écartent dans les zones en divergence
+
     - Elles se rapprochent dans les zones en convergence
+
     - Elles peuvent aussi coulisser l’une par rapport à l’autre (décrochement)
+
 
 
 ## Séance 3 : Histoire des sciences et tectoniques des plaques
