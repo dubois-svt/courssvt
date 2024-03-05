@@ -61,7 +61,7 @@ La vitesse moyenne du conducteur sur le trajet est de 88 km/h
     1. Déterminer le type de mouvement entre les positions :
         a) A et G
         b) G et I
-    2. Dans cette situation, on considérera la vitesse instantanée comme étant la vitesse entre deux positions successives. Justifier que la vitesse instantanée maximale de l’objet est de 1 332 km/h.
+    2. Dans cette situation, on considérera la vitesse instantanée comme étant la vitesse entre deux positions successives. Justifier que la vitesse instantanée maximale de l’objet est de 0.37 km/s.
     3. L’ouverture du parachute entraîne le freinage de la chute. À quelle position le parachute a-t-il été ouvert ? Justifier.
     4. Calculer la vitesse moyenne en km/s sur la totalité de la chute.
     5. Convertir votre résultat en km/h
@@ -89,7 +89,7 @@ Felix Baumgartner a effectué un saut historique en parachute d’une altitude d
     1.  Charles est-il immobile ou en mouvement par rapport à Ahmed ? Justifie.
     2.  Charles est-il immobile ou en mouvement par rapport à Boris ? Justifie.
     3.  Complète le tableau en indiquant « en mouvement » ou « immobile »
-    4.  Pour pour pouvoir décider du caractère immobile ou en mouvement d'un objet ou d'un personnage, quelle précision est nécessaire ?
+    4.  Pour pouvoir décider du caractère immobile ou en mouvement d'un objet ou d'un personnage, quelle précision est nécessaire ?
 
 Ahmed et Charles prennent place dans un TGV. Leur ami Boris les a accompagnés jusqu'au quai. Ahmed s'assoit à sa place. Lorsque le train démarre, Charles encore debout, veut voir le plus longtemps possible Boris, qui est immobile par rapport au quai. Charles se déplace alors vers Ahmed en restant dans le même alignement que Boris et son sac.
 
