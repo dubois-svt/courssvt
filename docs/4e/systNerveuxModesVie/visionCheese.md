@@ -36,7 +36,9 @@ Cette technique permet aussi de visualiser les structures endommagées qui appar
 **Document 3 Liste des fichiers disponibles.**
 
 Vous pouvez ouvrir les différents fichiers avec le logiciel EduAnat2
-(<http://acces.ens-lyon.fr/logiciels/EduAnat2Online/>)
+[http://acces.ens-lyon.fr/logiciels/EduAnat2Online/](http://acces.ens-lyon.fr/logiciels/EduAnat2Online/)
+
+[Fichiers IRM](/Activite6_IRM_Miss-CHEESE.zip)
 
 - IRM de Miss Cheese = IRM_CHEESE.nii.gz
 - IRM d'un indivdu sain = IRM_sain.nii.gz
