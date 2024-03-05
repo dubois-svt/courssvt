@@ -41,10 +41,10 @@ Vous pouvez ouvrir les différents fichiers avec le logiciel EduAnat2
 [Fichiers IRM](Activite6_IRM_Miss-CHEESE.zip)
 
 - IRM de Miss Cheese = IRM_CHEESE.nii.gz
-- IRM d'un indivdu sain = IRM_sain.nii.gz
-- IRMf lors d'un mouvement de la main droite = IRMf_MotriciteMainDroite.nii.nii.gz (seuil 75)
-- IRMf lors d'un mouvement de la main gauche = IRMf_MotriciteMainGauche.nii.nii.gz (seuil 70)
-- IRMf lors de la vision d'un mouvement = IRMf_VisionMouvements.nii.gz (seuil 70)
+- IRM d'un indivdu sain = IRM_sain.nii.gz
+- IRMf lors d'un mouvement de la main droite = IRMf_MotriciteMainDroite.nii.nii.gz (seuil 75)
+- IRMf lors d'un mouvement de la main gauche = IRMf_MotriciteMainGauche.nii.nii.gz (seuil 70)
+- IRMf lors de la vision d'un mouvement = IRMf_VisionMouvements.nii.gz (seuil 70)
 
 
 **Document 4 Fiches méthodes EduAntomist.**
