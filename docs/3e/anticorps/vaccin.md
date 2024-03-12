@@ -44,15 +44,20 @@ Après vaccination, une partie de la population est immunisée directement par l
 
 Certaines personnes ne peuvent pas se faire vacciner pour des raisons de santé. En effet, dans certains l’administration d’un vaccin pourrait mettre en danger la personne, c’est le cas des personnes ayant certaines allergies aux composés des vaccins, des personnes souffrant de maladies causant un affaiblissement du système immunitaire ou bien des femmes enceintes.
 
-**Document 6 : Evolution du nombre de cas de rougeole de 1950 à 2001.**
+**Document 6 : Evolution du nombre de cas de rougeole de 1950 à 2001 aux États-Unis.**
 
-Données recueillies aux États-Unis.
-
+<div markdown style="display:flex; flex-direction:row;">
+<div markdown style="display:flex; flex: 1 1 0; flex-direction:column;">
 ![](Pictures/graphNbCasRougeole.png)
+</div>
 
+<div markdown style="display:flex; flex: 2 1 0; flex-direction:row;">
 Dans le monde, les décès dus à la rougeole ont chuté de 75 % entre 2000 et 2013 grâce à la vaccination, soit 15,6 millions de décès évités dans cette période.
 
 La couverture vaccinale en France en 2008 était de 89 %, pour une éradication de la maladie en France, le Haut Conseil de la santé publique recommande une couverture de 95 %.
+</div>
+
+</div>
 
 **Document 7 Risques dus à la rougeole et au vaccin contre la rougeole.**
 
