@@ -51,7 +51,7 @@ Certaines personnes ne peuvent pas se faire vacciner pour des raisons de santé.
 ![](Pictures/graphNbCasRougeole.png)
 </div>
 
-<div markdown style="display:flex; flex: 2 1 0; flex-direction:row;">
+<div markdown style="display:flex; flex: 2 1 0; flex-direction:column;">
 Dans le monde, les décès dus à la rougeole ont chuté de 75 % entre 2000 et 2013 grâce à la vaccination, soit 15,6 millions de décès évités dans cette période.
 
 La couverture vaccinale en France en 2008 était de 89 %, pour une éradication de la maladie en France, le Haut Conseil de la santé publique recommande une couverture de 95 %.

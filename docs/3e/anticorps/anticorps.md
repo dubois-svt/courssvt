@@ -232,22 +232,35 @@ anticorps ?)</p></td>
 </table>
 
 **Document 2 Informations sur les anticorps.**
-
+<div markdown style="display:flex; flex-direction:row;">
+<div markdown style="display:flex; flex: 1 1 0; flex-direction:column;">
 ![](Pictures/anticorps-antigene.png)
+</div>
+
+<div markdown style="display:flex; flex: 2 1 0; flex-direction:column;">
 
 Les anticorps ont la capacité de se lier à un ou deux antigènes et de les neutraliser. Un antigène correspond à un élément étranger à l’organisme qui entraîne une réponse immunitaire en étant reconnu par des anticorps.
 
 Les anticorps sont des protéines solubles qui se fixent spécifiquement à un antigène entraînant la formation d’un complexe antigène-anticorps insoluble neutralisant l’agent infectieux.
 
 Lorsqu’un individu présente un type d’anticorps dans son sang on dit qu’il est séropositif pour cet anticorps.
+</div>
+</div>
+<div markdown style="display:flex; flex-direction:row;">
+<div markdown style="display:flex; flex: 1 1 0; flex-direction:column;">
 
 **Document 3 : Expérience historique de localisation des anticorps.**
 
 ![](Pictures/schemaExpLocalisationAnticorps.png)
+</div>
+
+<div markdown style="display:flex; flex: 2 1 0; flex-direction:column;">
 
 **Document 4 Le mode d’action des anticorps**
 
 ![](Pictures/modeActAnticorps.png)
+</div>
+</div>
 
 **Document 5 Antigène de micro-organisme et récepteur de lymphocyte.**
 
@@ -308,40 +321,18 @@ Chaque anticorps est spécifique d’un antigène donné : il ne reconnaît et 
 
     La réaction antigène-anticorps s’obtient de façon optimale lorsque la rencontre a lieu à l’intérieur de la gélose, entre les puits.
 
+!!! note-prof "matériel"
+
+    Matériel à préparer
+        - GEl 1,5g d'a  gar-agar pour 100ml
+        - solution de soude 0,5mol/L : 0,4g pour 10ml
+        - solution de sulfate de zinc à 0,5mol/l : 0,8g pour 10ml
+    Tubes:
+        - P et S : soude
+        - G et N : eau
+        - Ag: zinc
 
 ??? note-prof "correction"
-
-    **Consigne 2 : Compléter le tableau à l’aide des documents fournis pour comprendre le rôle des anticorps dans la défense de l’organisme contre les agents pathogènes.**
-
-    ***Document 1 Tableau à compléter regroupant les informations issues des documents sur les anticorps :***
-
-    <table>
-    <tbody>
-    <tr class="odd">
-    <td><p>Définition du terme anticorps</p></td>
-    <td></td>
-    </tr>
-    <tr class="even">
-    <td><p>Où trouve-t-on les anticorps dans notre corps</p></td>
-    <td></td>
-    </tr>
-    <tr class="odd">
-    <td><p>Production (quand et comment sont produits les
-    anticorps ?)</p></td>
-    <td></td>
-    </tr>
-    <tr class="even">
-    <td><p>Rôle (mode d’action pour éliminer l’agent pathogène)</p></td>
-    <td></td>
-    </tr>
-    </tbody>
-    </table>
-
-    Consigne 3 : Expliquer pourquoi les antigènes sont disposés au centre.
-
-    Consigne 4 : Schématiser la boite obtenue avec les résultats et répondre au problème posé.
-
-    Consigne 5 : Expliquer la réaction ou son absence pour l’individu séropositif au virus de la grippe
 
     **Consigne 2 : Compléter le tableau à l’aide des documents fournis pour comprendre le rôle des anticorps dans la défense de l’organisme contre les agents pathogènes.**
 
@@ -380,13 +371,3 @@ Chaque anticorps est spécifique d’un antigène donné : il ne reconnaît et 
 
 
 
-!!! note-prof "matériel"
-
-    Matériel à préparer
-        - GEl 1,5g d'a  gar-agar pour 100ml
-        - solution de soude 0,5mol/L : 0,4g pour 10ml
-        - solution de sulfate de zinc à 0,5mol/l : 0,8g pour 10ml
-    Tubes:
-        - P et S : soude
-        - G et N : eau
-        - Ag: zinc
