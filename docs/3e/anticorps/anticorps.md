@@ -195,11 +195,13 @@ Chaque anticorps est spécifique d’un antigène donné : il ne reconnaît et 
 </div>
 
 <div markdown style="display:flex; flex: 2 1 0; flex-direction:column;">
+
 1. Principe du test d’immunodiffusion sur gel :
 
     Les solutions déposées dans des puits creusés dans le gel diffusent de façon homogène dans toutes les directions autour des puits. Deux auréoles de diffusion peuvent donc entrer en contact lorsqu’elles ont suffisamment progressé. Cette zone de contact reste invisible s’il n’y a pas de réaction entre les deux solutions. En revanche, elle se traduit par un arc de précipitation visible à l’œil nu lorsque les deux solutions réagissent, c’est-à-dire si elles forment un complexe non soluble dans le gel.
 </div>
 </div>
+
 2. Matériel :
 
     - petite boite de Pétri gélosée (6 cm de diamètre)
@@ -220,7 +222,16 @@ Chaque anticorps est spécifique d’un antigène donné : il ne reconnaît et 
 
     les produits utilisés (soude notamment) sont des produits de substitution permettant de modéliser les réactions entre sérum et anticorps, afin d’éviter les risques liés à la manipulation de produits biologiques dangereux. Cependant, un risque chimique subsiste puisque la soude provoque des brûlures et lésions oculaires.
 
-3. Réalisation :
+<div markdown style="display:flex;  flex-direction:row;">
+
+<div markdown style="display:flex; flex: 1 1 0; flex-direction:column;">
+
+![](Pictures/gabaritOuchterlony.png)
+</div>
+
+<div markdown style="display:flex; flex: 2 1 0; flex-direction:column;">
+
+1. Réalisation :
 
     1. Préparation de la boîte :
 
@@ -244,7 +255,14 @@ Chaque anticorps est spécifique d’un antigène donné : il ne reconnaît et 
         - Observer les résultats fournis sur fond noir.
 
     La réaction antigène-anticorps s’obtient de façon optimale lorsque la rencontre a lieu à l’intérieur de la gélose, entre les puits.
+</div>
+</div>
 
+**Document 7 Gabarit pour les puits**
+
+![](Pictures/gabaritOuchterlony.png)
+
+gabaritOuchterlony.png
 !!! note-prof "matériel"
 
     Matériel à préparer
