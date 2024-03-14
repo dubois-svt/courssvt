@@ -204,23 +204,23 @@ Chaque anticorps est spécifique d’un antigène donné : il ne reconnaît et 
 
 #### Matériel :
 
-    - petite boite de Pétri gélosée (6 cm de diamètre)
-    - emporte-pièce
-   - cure-dent ou aiguille lancéolée
-   - série de compte-gouttes propres
-   - feutre
-   - feuille de papier noir
-   - 5 tubes contenant les solutions :
+- petite boite de Pétri gélosée (6 cm de diamètre)
+- emporte-pièce
+- cure-dent ou aiguille lancéolée
+- série de compte-gouttes propres
+- feutre
+- feuille de papier noir
+- 5 tubes contenant les solutions :
 
-        - \(Ag) solution d’antigènes du virus ;
-        - \(P\) sérum d’un individu séropositif à l’antigène d’Ebola ;
-        - \(N\) sérum d’un individu séronégatif à l’antigène d’Ebola ;
-        - \(S\) sérum du médecin à tester ;
-        - \(G\) sérum d’un individu séropositif à l’antigène de la grippe ; (utile pour la consigne 5 uniquement)
+    - \(Ag) solution d’antigènes du virus ;
+    - \(P\) sérum d’un individu séropositif à l’antigène d’Ebola ;
+    - \(N\) sérum d’un individu séronégatif à l’antigène d’Ebola ;
+    - \(S\) sérum du médecin à tester ;
+    - \(G\) sérum d’un individu séropositif à l’antigène de la grippe ; (utile pour la consigne 5 uniquement)
 
 
 
-    les produits utilisés (soude notamment) sont des produits de substitution permettant de modéliser les réactions entre sérum et anticorps, afin d’éviter les risques liés à la manipulation de produits biologiques dangereux. Cependant, un risque chimique subsiste puisque la soude provoque des brûlures et lésions oculaires.
+les produits utilisés (soude notamment) sont des produits de substitution permettant de modéliser les réactions entre sérum et anticorps, afin d’éviter les risques liés à la manipulation de produits biologiques dangereux. Cependant, un risque chimique subsiste puisque la soude provoque des brûlures et lésions oculaires.
 
 <div markdown style="display:flex;  flex-direction:row;">
 
@@ -233,28 +233,28 @@ Chaque anticorps est spécifique d’un antigène donné : il ne reconnaît et 
 
 #### Réalisation :
 
-    1. Préparation de la boîte :
+1. Préparation de la boîte :
 
-        - À l’aide de l’emporte-pièce et du gabarit de perçage, creuser,dans la gélose de la boîte de Pétri un puits central, puis 4     autres puits, uniformément répartis et disposés à égale distance du puits central.
-        - Utiliser le cure-dent (ou l’aiguille lancéolée) pour éliminer les disques de gélose si nécessaire.
+    - À l’aide de l’emporte-pièce et du gabarit de perçage, creuser,dans la gélose de la boîte de Pétri un puits central, puis 4     autres puits, uniformément répartis et disposés à égale distance du puits central.
+    - Utiliser le cure-dent (ou l’aiguille lancéolée) pour éliminer les disques de gélose si nécessaire.
 
-    2. Repérage :
+2. Repérage :
 
-        - Marquer sous la boîte de Pétri la disposition des produits à déposer dans les puits.
-        - Marquer les compte-gouttes qui seront utilisés pour chaque produit
+    - Marquer sous la boîte de Pétri la disposition des produits à déposer dans les puits.
+    - Marquer les compte-gouttes qui seront utilisés pour chaque produit
 
-    3. Remplissage des puits :
+3. Remplissage des puits :
 
-        - Prélever un produit dans un tube avec le compte-goutte propre correspondant
-        - Disposer le produit dans le puits approprié pour le remplir sans débordement ni bulles, et sans endommager le gel d’agar.
-        - Renouveler l’opération pour chaque produit.
+    - Prélever un produit dans un tube avec le compte-goutte propre correspondant
+    - Disposer le produit dans le puits approprié pour le remplir sans débordement ni bulles, et sans endommager le gel d’agar.
+    - Renouveler l’opération pour chaque produit.
 
-    4. Lecture des résultats :
+4. Lecture des résultats :
 
-        - Laisser diffuser les produits pendant 15 minutes.
-        - Observer les résultats fournis sur fond noir.
+    - Laisser diffuser les produits pendant 15 minutes.
+    - Observer les résultats fournis sur fond noir.
 
-    La réaction antigène-anticorps s’obtient de façon optimale lorsque la rencontre a lieu à l’intérieur de la gélose, entre les puits.
+La réaction antigène-anticorps s’obtient de façon optimale lorsque la rencontre a lieu à l’intérieur de la gélose, entre les puits.
 </div>
 </div>
 
