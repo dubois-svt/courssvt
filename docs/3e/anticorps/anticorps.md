@@ -226,7 +226,7 @@ Chaque anticorps est spécifique d’un antigène donné : il ne reconnaît et 
 
 <div markdown style="display:flex; flex: 1 1 0; flex-direction:column;">
 
-![](Pictures/gabaritOuchterlony.png)
+![](Pictures/gabaritOuchterlony.png){: style="width: 100%;"}
 </div>
 
 <div markdown style="display:flex; flex: 1 1 0; flex-direction:column;">
@@ -258,11 +258,9 @@ Chaque anticorps est spécifique d’un antigène donné : il ne reconnaît et 
 </div>
 </div>
 
-**Document 7 Gabarit pour les puits**
 
-![](Pictures/gabaritOuchterlony.png)
 
-gabaritOuchterlony.png
+
 !!! note-prof "matériel"
 
     Matériel à préparer
