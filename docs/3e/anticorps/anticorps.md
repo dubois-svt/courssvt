@@ -114,85 +114,6 @@
     </tbody>
     </table>
 
-    <table>
-    <tbody>
-    <tr class="odd">
-    <td>Compétences évaluées au cours du TP</td>
-    <td>TRÈS BONNE MAÎTRISE</td>
-    <td>MAITRISE SATISFAISANTE</td>
-    <td>MAITRISE FRAGILE</td>
-    <td>MAITRISE INSUFFISANTE</td>
-    </tr>
-    <tr class="even">
-    <td>Exploiter des données sous différentes formes</td>
-    <td>Tableau correctement rempli sans aide</td>
-    <td>3 cases correctement remplies sans aide ou tableau correctement
-    rempli avec l’aide</td>
-    <td>2 cases correctement remplies sans aide ou 3 cases correctement
-    remplies l’aide</td>
-    <td>1 case bien remplie avec ou sans aide ou 2 cases correctement
-    remplies avec l’aide</td>
-    </tr>
-    <tr class="odd">
-    <td>2</td>
-    <td>1,5</td>
-    <td>1</td>
-    <td>0,5</td>
-    <td></td>
-    </tr>
-    <tr class="even">
-    <td>Mettre en œuvre un protocole expérimental et organiser son
-    travail</td>
-    <td><p>Résultats exploitables et consignes suivies.</p>
-    <p>Matériel rangé.</p>
-    <p>Travail en autonomie.</p></td>
-    <td><p><em>Résultats exploitables</em>.</p>
-    <p>Aide pour suivre les consignes et/ou ranger le matériel.</p></td>
-    <td><p>Résultats non exploitables malgré le suivi des consignes.</p>
-    <p>Matériel rangé.</p></td>
-    <td><p>Résultats non exploitables.</p>
-    <p>Consignes non suivies.</p></td>
-    </tr>
-    <tr class="odd">
-    <td>0,75</td>
-    <td>0,5</td>
-    <td>0,25</td>
-    <td>0</td>
-    <td></td>
-    </tr>
-    <tr class="even">
-    <td>Communiquer ses résultats</td>
-    <td>Schéma légendé avec un titre</td>
-    <td>Schéma avec légendes ou titre</td>
-    <td>Schéma sans titre ni légende</td>
-    <td>Absence de schéma cohérent</td>
-    </tr>
-    <tr class="odd">
-    <td>1,5</td>
-    <td>1</td>
-    <td>0,5</td>
-    <td>0</td>
-    <td></td>
-    </tr>
-    <tr class="even">
-    <td>Interpréter des résultats et tirer des conclusions</td>
-    <td><p>Réponse au problème</p>
-    <p>Observations avant conclusion</p></td>
-    <td><p>Réponse au problème</p>
-    <p>Observations pas avant conclusion</p></td>
-    <td>Réponse au problème partielle</td>
-    <td>Réponse au problème fausse ou absente</td>
-    </tr>
-    <tr class="odd">
-    <td>0,75</td>
-    <td>0,5</td>
-    <td>0,25</td>
-    <td>0</td>
-    <td></td>
-    </tr>
-    </tbody>
-    </table>
-
 
 
 En février 2014, une épidémie de fièvre hémorragie due au virus Ebola s’est déclenchée dans les forêts de Guinée. Elle s’est propagée en Sierra Leone et au Liberia. Cette fièvre peut atteindre 90 % de mortalité dans les populations qui la contractent. Cependant, une étude menée en 2010 a montré que 15,3 % de la population gabonaise possèdent des anticorps dirigés contre le virus sans jamais avoir eu de fièvre hémorragique. Un médecin d’origine gabonaise envisage de se porter volontaire pour une mission humanitaire en Sierra Leone.
@@ -202,7 +123,6 @@ En février 2014, une épidémie de fièvre hémorragie due au virus Ebola s’e
 
 
 **Document 1 Tableau à compléter regroupant les informations issues des documents sur les anticorps**
-
 <table>
 <colgroup>
 <col style="width: 200px">
@@ -254,7 +174,7 @@ Lorsqu’un individu présente un type d’anticorps dans son sang on dit qu’i
 ![](Pictures/schemaExpLocalisationAnticorps.png)
 </div>
 
-<div markdown style="display:flex; flex: 2 1 0; flex-direction:column;">
+<div markdown style="display:flex; flex: 1 1 0; flex-direction:column;">
 
 **Document 4 Le mode d’action des anticorps**
 
@@ -269,13 +189,17 @@ Lorsqu’un individu présente un type d’anticorps dans son sang on dit qu’i
 Chaque anticorps est spécifique d’un antigène donné : il ne reconnaît et ne peut éliminer que cet antigène. Les anticorps sont produits par les lymphocytes B (cellules présentes dans le sang). Un lymphocyte ne produit des anticorps qu’après un contact avec un antigène.
 
 **Document 6 Protocole pour réaliser un test d’Ouchternoly**
-
+<div markdown style="display:flex; flex-direction:row;">
+<div markdown style="display:flex; flex: 1 1 0; flex-direction:column;">
 ![](Pictures/testOuchternoly.png)
+</div>
 
+<div markdown style="display:flex; flex: 2 1 0; flex-direction:column;">
 1. Principe du test d’immunodiffusion sur gel :
 
     Les solutions déposées dans des puits creusés dans le gel diffusent de façon homogène dans toutes les directions autour des puits. Deux auréoles de diffusion peuvent donc entrer en contact lorsqu’elles ont suffisamment progressé. Cette zone de contact reste invisible s’il n’y a pas de réaction entre les deux solutions. En revanche, elle se traduit par un arc de précipitation visible à l’œil nu lorsque les deux solutions réagissent, c’est-à-dire si elles forment un complexe non soluble dans le gel.
-
+</div>
+</div>
 2. Matériel :
 
     - petite boite de Pétri gélosée (6 cm de diamètre)
