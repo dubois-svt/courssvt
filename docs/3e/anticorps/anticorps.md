@@ -229,7 +229,7 @@ Chaque anticorps est spécifique d’un antigène donné : il ne reconnaît et 
 ![](Pictures/gabaritOuchterlony.png)
 </div>
 
-<div markdown style="display:flex; flex: 2 1 0; flex-direction:column;">
+<div markdown style="display:flex; flex: 1 1 0; flex-direction:column;">
 
 1. Réalisation :
 
