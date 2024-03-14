@@ -196,13 +196,13 @@ Chaque anticorps est spécifique d’un antigène donné : il ne reconnaît et 
 
 <div markdown style="display:flex; flex: 2 1 0; flex-direction:column;">
 
-1. Principe du test d’immunodiffusion sur gel :
+#### Principe du test d’immunodiffusion sur gel :
 
     Les solutions déposées dans des puits creusés dans le gel diffusent de façon homogène dans toutes les directions autour des puits. Deux auréoles de diffusion peuvent donc entrer en contact lorsqu’elles ont suffisamment progressé. Cette zone de contact reste invisible s’il n’y a pas de réaction entre les deux solutions. En revanche, elle se traduit par un arc de précipitation visible à l’œil nu lorsque les deux solutions réagissent, c’est-à-dire si elles forment un complexe non soluble dans le gel.
 </div>
 </div>
 
-2. Matériel :
+#### Matériel :
 
     - petite boite de Pétri gélosée (6 cm de diamètre)
     - emporte-pièce
@@ -231,7 +231,7 @@ Chaque anticorps est spécifique d’un antigène donné : il ne reconnaît et 
 
 <div markdown style="display:flex; flex: 1 1 0; flex-direction:column;">
 
-1. Réalisation :
+#### Réalisation :
 
     1. Préparation de la boîte :
 
