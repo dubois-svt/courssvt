@@ -54,7 +54,7 @@ Le virus du sida peut être présent dans certains liquides du corps :
 <div markdown style="display:flex; flex: 2 1 0; flex-direction:column">
 
 
-![](Pictures/transmissionVIH.png){: style="width: 300px;"}
+![](Pictures/transmissionVIH.png){: style="width: 600px;"}
 
 </div>
 </div>
@@ -89,7 +89,7 @@ Les seuls moyens de détruire le virus sont l’eau de javel, les détergents et
 <div markdown style="display:flex;  flex: 2 1 0; flex-direction:column">
 
 
-![](Pictures/protectionVIH.png){: style="width: 300px;"}
+![](Pictures/protectionVIH.png){: style="width: 600px;"}
 
 </div>
 </div>
