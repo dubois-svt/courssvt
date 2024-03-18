@@ -80,13 +80,13 @@ Actuellement, il n’y a pas de vaccin protégeant du VIH et aucun traitement ne
 
 <div markdown style="display:flex; flex-direction:row">
 
-<div markdown style="display:flex; flex-direction:column">
+<div markdown style="display:flex;  flex: 1 1 0; flex-direction:column">
 
 
 Les seuls moyens de détruire le virus sont l’eau de javel, les détergents et une chaleur de plus de 60 °C.
 </div>
 
-<div markdown style="display:flex; flex-direction:column">
+<div markdown style="display:flex;  flex: 2 1 0; flex-direction:column">
 
 
 ![](Pictures/protectionVIH.png){: style="width: 300px;"}
