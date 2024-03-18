@@ -36,6 +36,12 @@ Les lymphocytes T4 sont des lymphocytes T activateurs.
 
 **Document 2 Voies de contamination.**
 
+
+<div markdown style="display:flex; flex-direction:row">
+
+<div markdown style="display:flex; flex-direction:column">
+
+
 Le virus du sida peut être présent dans certains liquides du corps :
 
 - le sang,
@@ -43,7 +49,15 @@ Le virus du sida peut être présent dans certains liquides du corps :
 - les sécrétions vaginales (cyprine),
 - le lait maternel.
 
-![](Pictures/transmissionVIH.png)
+</div>
+
+<div markdown style="display:flex; flex-direction:column">
+
+
+![](Pictures/transmissionVIH.png){: style="width: 300px;"}
+
+</div>
+</div>
 
 **Document 3 Les différentes phases de la maladie.**
 
@@ -63,9 +77,23 @@ Actuellement, il n’y a pas de vaccin protégeant du VIH et aucun traitement ne
 
 **Document 5 Prévention pour le VIH.**
 
-Les seuls moyens de détruire le virus sont l’eau de javel, les détergents et une chaleur de plus de 60 °C.
 
-![](Pictures/protectionVIH.png)
+<div markdown style="display:flex; flex-direction:row">
+
+<div markdown style="display:flex; flex-direction:column">
+
+
+Les seuls moyens de détruire le virus sont l’eau de javel, les détergents et une chaleur de plus de 60 °C.
+</div>
+
+<div markdown style="display:flex; flex-direction:column">
+
+
+![](Pictures/protectionVIH.png){: style="width: 300px;"}
+
+</div>
+</div>
+
 
 ??? note-prof "Correction"
 
