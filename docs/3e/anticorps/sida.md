@@ -39,7 +39,7 @@ Les lymphocytes T4 sont des lymphocytes T activateurs.
 
 <div markdown style="display:flex; flex-direction:row">
 
-<div markdown style="display:flex; flex-direction:column">
+<div markdown style="display:flex; flex: 1 1 0; flex-direction:column">
 
 
 Le virus du sida peut être présent dans certains liquides du corps :
@@ -51,7 +51,7 @@ Le virus du sida peut être présent dans certains liquides du corps :
 
 </div>
 
-<div markdown style="display:flex; flex-direction:column">
+<div markdown style="display:flex; flex: 2 1 0; flex-direction:column">
 
 
 ![](Pictures/transmissionVIH.png){: style="width: 300px;"}
