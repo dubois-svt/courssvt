@@ -22,7 +22,8 @@ Paul a eu une relation non protégée lors d’une soirée. Il s’inquiète sur
 
 **Document 1 : évolution de la concentration de VIH (Virus de l’ImmunoDéficience Humaine), de Lymphocytes T et d’anticorps anti-VIH.**
 
-![](Pictures/graphEffetVIH.gif)
+![](Pictures/graphEffetVIH.gif){: style="width: 600px;"}
+
 
 3 Phases apparaissent :
 
