@@ -11,7 +11,7 @@ Miss Cheese, gauchère, a été victime d'un accident vasculaire cérébral (AVC
 
 !!! warning "Consignes"
 
-    1. Ouvrir, le fichier de l'IRM de Miss Cheese à gauche et l'IRM de l'individu sain à droite. Repérer quelle zone du cerveau a été touchée (gauche/droite, avant/arrière, haut/bas) justifier votre réponse. (1 point)
+    1. Ouvrir, le fichier de l'IRM de Miss Cheese à droite et l'IRM de l'individu sain à gauche. Repérer quelle zone du cerveau a été touchée (gauche/droite, avant/arrière, haut/bas) justifier votre réponse. (1 point)
     2. Ajouter les différents fichiers IRMf sur l'IRM de l'individu sain en pensant à bien régler le seuil(document 3). Indiquer pour chaque fonction quelle zone du cerveau est activée. (1,5 points)
     3. Répondre à la problématique en expliquant votre raisonnement. (2,5 points)
 
