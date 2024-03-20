@@ -68,14 +68,15 @@ On donne à un individu un plat de pâtes à manger. Puis l’on suit la quantit
 
 
 
-**Document 4 Détail de la paroi de l’intestin grêle**
+**Document 4 L’intestin grêle**
+Les villosités intestinales sont des structures de la paroi intestinale dont la surface est estimé à 250m². Elles multiplient par 20 la surface de contact entre le contenu de l'intestin grêle et le sang.
 
-![alt text](image.png)
+![](pictures/schemaParoiIntestin.png)
 
 
 
 **Document 5 :**
-![alt text](image-1.png)
+![](pictures/graphAbsoptIntes.png)
 
 
 
