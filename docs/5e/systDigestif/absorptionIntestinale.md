@@ -1,14 +1,15 @@
-# Activité : Importance du tri des déchets
+# Activité : Absoprtion intestinale
 
 !!! note "Compétences"
 
-    Interpréter 
+    - Interpréter
+    - Rélaiser un graphique
 
 !!! warning "Consignes"
 
     1. À partir du document 3, trace un graphique de la quantité de nutriments présents dans le tube digestif en fonction de la distance à la bouche.
 
-    2. À partir des informations, indique ce que deviennent les nutriments présents dans le tube digestif.
+    2. À partir des informations, indiquer ce que deviennent les nutriments présents dans le tube digestif.
 
     
 ??? bug "Critères de réussite"
@@ -71,7 +72,8 @@ On donne à un individu un plat de pâtes à manger. Puis l’on suit la quantit
 **Document 4 L’intestin grêle**
 Les villosités intestinales sont des structures de la paroi intestinale dont la surface est estimé à 250m². Elles multiplient par 20 la surface de contact entre le contenu de l'intestin grêle et le sang.
 
-![](pictures/schemaParoiIntestin.png)
+![](pictures/schemaParoiIntestin.png){: style="width:600px;"}
+
 
 
 
