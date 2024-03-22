@@ -90,7 +90,7 @@ Les seuls moyens de détruire le virus sont l’eau de javel, les détergents et
 <div markdown style="display:flex;  flex: 2 1 0; flex-direction:column">
 
 
-![](Pictures/protectionVIH.png){: style="width: 600px;"}
+![](Pictures/protectionVIH.png){: style="width: 300px;"}
 
 </div>
 </div>
