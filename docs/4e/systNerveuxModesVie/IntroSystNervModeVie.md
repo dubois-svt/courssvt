@@ -63,8 +63,7 @@
 ## Séance 3 : L'impact de notre mode de vie sur nos organes sensoriels
 
 
-![](Pictures/illustrationsImpactModesVieSN.png){width="9.613cm" height="10.271cm"}
-
+![](Pictures/illustrationsImpactModesVieSN.png)
 
 !!! question "Problématique"
     Quels sont les effets de nos comportements sur le système nerveux ?
@@ -72,6 +71,7 @@
 
 
 [Activité Impact du bruit sur notre système nerveux](../bruit)
+
 [Activité Les conduites addictives](../addictions)
 
 

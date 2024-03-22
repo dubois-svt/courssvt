@@ -75,7 +75,7 @@ L’être humain et plus généralement tous les animaux ont besoin de manger po
     La paroi des intestins constitue donc une très bonne surface d’échange.
     Les aliments qui ne sont pas digérés forment les excréments qui seront évacués par l’anus.
 
-## Séance 4 : Maladies liées à l'alimentaiton
+## Séance 4 : Maladies liées à l'alimentation
 
 
 !!! question "Problématique"

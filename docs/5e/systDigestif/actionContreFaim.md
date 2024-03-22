@@ -6,18 +6,43 @@
 
 !!! warning "Consignes"
 
-    1. À partir des documents, expliquer quels types de nourriture il est nécessaire d’apporter  pour lutter contre le kwashiorkor. 
-    2. Parmi les aliments proposés, lesquels faut-il apporter en priorité, justifier.
+    1. À partir des documents, expliquer quels types de constituants alimentaires il est nécessaire d’apporter  pour lutter contre le kwashiorkor. 
+    2. Parmi les aliments proposés, lesquel faut-il apporter en priorité, justifier.
 
 
     
 ??? bug "Critères de réussite"
     - 
 
+**Document 1 Les principaux composants des aliments**
 
+Les étiquettes des produits alimentaires donnent la composition des aliments. Il existe 7 grandes familles de constituants alimentaires:
 
+![](pictures/compoAlim.png)
 
-**Document 1 : Un exemple de maladie due à la malnutrition, le kwashiorkor.**
+<table>
+<thead>
+<tr>
+<th>glucides
+</th>
+<th>lipides
+</th>
+<th>protéines
+</th>
+<th>fibres
+</th>
+<th>vitamines
+</th>
+<th>minéraux
+</th>
+<th>eau
+</th>
+
+</tr>
+</thead>
+</table>
+
+**Document 2 Un exemple de maladie due à la malnutrition, le kwashiorkor.**
 
 Le kwashiorkor est une maladie qui touche chaque année des millions d’enfants en Afrique. 
 
@@ -31,11 +56,11 @@ Le kwashiorkor est une maladie causée par une carence* en protéines (l’alime
 
 *Carence : absence ou apport insuffisant d’une substance nécessaire à l’organisme.
 
-**Document 2 Enfant atteint du kwashiorkor.**
+**Document 3 Enfant atteint du kwashiorkor.**
 
-![alt text](image-2.png)
+![](pictures/enfantKwashiorkor.png)
 
-**Document 3 Composition de quelques aliments (pour 100 g)**
+**Document 4 Composition de quelques aliments (pour 100 g)**
 
 <table>
 <thead>
@@ -61,15 +86,6 @@ Le kwashiorkor est une maladie causée par une carence* en protéines (l’alime
     <td>29,7 g </td>
     <td>4,85 g </td>
     <td> 0,7 g </td>
-
-  </tr>
-  <tr>
-    <td>Farine </td>
-    <td>1387 kJ </td>
-    <td>70,9 g </td>
-    <td> 8,7 g </td>
-    <td> 0,9 g </td>
-
 
   </tr>
   <tr>
