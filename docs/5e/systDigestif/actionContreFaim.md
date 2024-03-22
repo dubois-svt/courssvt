@@ -1,4 +1,4 @@
-# Activité : Action Contre la Faim
+# Activité : Maladies liées à l'alimentation
 
 !!! note "Compétences"
 
@@ -45,7 +45,7 @@ Les étiquettes des produits alimentaires donnent la composition des aliments. I
 **Document 2 Un exemple de maladie due à la malnutrition, le kwashiorkor.**
 <div markdown style="display:flex; flex-direction:row">
 
-<div markdown style="display:flex;  flex: 1 1 0; flex-direction:column">
+<div markdown style="display:flex;  flex: 2 1 0; flex-direction:column">
 Le kwashiorkor est une maladie qui touche chaque année des millions d’enfants en Afrique. 
 
 Cette maladie provoque : 
@@ -60,7 +60,9 @@ Le kwashiorkor est une maladie causée par une carence* en protéines (l’alime
 </div>
 
 <div markdown style="display:flex;  flex: 1 1 0; flex-direction:column">
-![Enfant atteint du kwashiorkor](pictures/enfantKwashiorkor.png)
+
+![Enfant atteint du kwashiorkor](pictures/enfantKwashiorkor.png){: style="width: 200px;"}
+
 </div>
 </div>
 
