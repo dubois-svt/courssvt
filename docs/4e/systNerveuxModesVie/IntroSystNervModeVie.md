@@ -5,7 +5,7 @@
 
 
 !!! question "Problématique"
-    Quel est l'uimpact de notre mode de vie sur notre système nerveux ? 
+    Quel est l'impact de notre mode de vie sur notre système nerveux ? 
 
     
 ### Document d’appel :

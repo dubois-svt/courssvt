@@ -10,7 +10,7 @@
 
 En février 2014, une épidémie de fièvre hémorragie due au virus Ebola s’est déclenchée dans les forêts de Guinée. Elle s’est propagée en Sierra Leone et au Liberia. Cette fièvre peut atteindre 90 % de mortalité dans les populations qui la contractent. Cependant, une étude menée en 2010 a montré que 15,3 % de la population gabonaise possèdent des anticorps dirigés contre le virus sans jamais avoir eu de fièvre hémorragique. Un médecin d’origine gabonaise envisage de se porter volontaire pour une mission humanitaire en Sierra Leone.
 
-[Activité Action des anticorps](../acteursSystImmu)
+[Activité Action des anticorps](../anticorps)
 
 
 
