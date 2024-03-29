@@ -35,12 +35,12 @@ Le son correspond à des vibrations de l'air, conduites jusqu'au tympan qui entr
 **Document 2 Niveau sonore et durée maximum admissibles d'exposition quotidienne au bruit selon l'Organisation mondiale de la santé (OMS).**
 
 <div markdown style="display:flex; flex-direction: row;">
-<div markdown style="display:flex; flex-direction: column;">
+<div markdown style="display:flex; flex: 1 1 0; flex-direction: column;">
 
 ![](Pictures/niveauSonore.png)
 
 </div>
-<div markdown style="display:flex; flex-direction: column;">
+<div markdown style="display:flex; flex: 2 1 0; flex-direction: column;">
 
 Pour préserver au mieux les capacités d'audition, l'OMS préconise de ne pas dépasser un niveau d'écoute de 75 dB sur 8 heures.
 
@@ -52,12 +52,12 @@ Une différence de +10 dB correspond à un niveau sonore 1à fois plus fort.
 **Document 3 Effet d'un bruit intense sur les cellules ciliées (vue au MEB)**
 
 <div markdown style="display:flex; flex-direction: row;">
-<div markdown style="display:flex; flex-direction: column;">
+<div markdown style="display:flex; flex: 1 1 0; flex-direction: column;">
 
 ![](Pictures/photoEffetBruitCellulesCiliees.png)
 
 </div>
-<div markdown style="display:flex; flex-direction: column;">
+<div markdown style="display:flex;  flex: 2 1 0; flex-direction: column;">
 
 Ces cellules peuvent être détruites sous l'effet d'un bruit intense.
 Elles ne se renouvellent pas ensuite. Les sifflements, les bourdonnements et l'hypersensibilité au bruit traduisent des lésions des cellules ciliées.
@@ -71,7 +71,7 @@ Elles ne se renouvellent pas ensuite. Les sifflements, les bourdonnements et l'h
 
 
 <div markdown style="display:flex; flex-direction: row;">
-<div markdown style="display:flex; flex-direction: column;">
+<div markdown style="display:flex; flex: 1 1 0; flex-direction: column;">
 
 
 **Document 5 Exposition au volume sonore dans un concert.**
@@ -79,7 +79,7 @@ Elles ne se renouvellent pas ensuite. Les sifflements, les bourdonnements et l'h
 ![](Pictures/expositionBruitConcert.png)
 
 </div>
-<div markdown style="display:flex; flex-direction: column;">
+<div markdown style="display:flex; flex: 1 1 0; flex-direction: column;">
 
 
 **Document 6 : Des bouchons auditifs.**
