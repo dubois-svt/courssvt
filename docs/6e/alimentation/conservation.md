@@ -6,7 +6,7 @@
     - Trouver et extraire des informations 
 
 !!! warning "Consignes"
-    1. Compléter la recette et la préparer.
+    1. Compléter la recette de saumure et la préparer.
     2. Comparer la méthode de conservation de légumes par saumure à un légume frais
     3. En utilisant le matériel à disposition, expliquer pourquoi il peut être dangereux de laisser un produit congelé en dehors du congélateur pendant plus de 30 minutes.
     
@@ -19,10 +19,10 @@
 
 **Document 1 Préparation de saumure de légumes.**
 
-1. Préparer une solution de 20ml d'eau salée à saturation.
+1. Préparer une solution de 20ml d'eau salée à saturation, pour cela ajouter ....g de sel dans 20ml d'eau.
 2. Mettre les bouts de légumes à l'intérieur.
 3. Fermer le tube.
-Le tube peut être conservé 1 mois
+Le tube peut être conservé 1 mois.
 
 **Document 2 Saturation.**
 

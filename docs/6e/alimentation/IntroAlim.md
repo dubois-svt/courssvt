@@ -67,14 +67,40 @@ Un gérant d'une société produisant des yaourts souhaiterait faire des économ
 
 [Activité La fabrication du yaourt](../fabricationYaourt)
 
-Effectuer des conversions d’unités de masse et de volumes
-Réaliser une transformation alimentaire impliquant des micro-organismes effectuant une fermentation et identifier certains paramètres d’influence
-
-
-
-
-
 ??? abstract "Bilan"
     Pour fabriquer du yaourt, on utilise des bactéries. Les bactéries sont des micro-organismes. Ce sont des êtres vivants unicellulaires.
 
     On utilise d’autres micro-organismes, par exemple des champignons, comme les levures, pour faire le fromage ou le pain.
+
+
+## Séance 4 : Fabrication du pain
+
+Un gérant d'une société produisant des yaourts souhaiterait faire des économies dans sa production de yaourts. Il souhaiterait donc supprimer une des étapes de la recette, tout en gardant un résultat correct. Proposer une solution possible au gérant en vérifiant avant la validité de votre choix
+
+**Document Recette de deux pains différents**
+
+![Alt text](pictures/photosPain.png)
+
+
+|  Types de pain |  ingrédients  |  Étapes  |
+|---------|----------|--------------|
+|     Pain blanc     |   500g de farine  10g de sel   3200 ml d’eau  8g de levure de boulanger        |       Mélanger les ingrédients   pétrissage.    Laisser reposer la pâte    Façonner la pâte     Laisser reposer la pâte    cuisson à 240 °C          |
+|  Pain azyme         |     500 g de farine    12,5g de sel     250 ml d’eau              |             Mélanger les ingrédients    cuisson à 200 °C            |
+
+
+
+!!! question "Problématique"
+    Comment la pâte à pain peut-elle gonfler ?
+
+
+
+[Activité La fabrication du pain](../fabricationPain)
+
+??? abstract "Bilan"
+
+    Pour fabriquer du pain, on utilise des levures. Les levures sont des micro-organismes. Ce sont des êtres vivants unicellulaires. Ces levures permettent de faire gonfler la pâte à pain.
+
+    On utilise d’autres micro-organismes, par exemple des bactéries, pour faire le fromage ou des yaourts.
+
+    Les levures vont faire gonfler la pâte à pain en produisant un gaz, le dioxyde de carbone.
+    Ce gaz va créer des petites bulles dans la pâte.
