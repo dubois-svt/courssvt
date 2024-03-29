@@ -19,13 +19,13 @@
 **Document 1 L'oreille, organe de l'audition.**
 
 <div markdown style="display:flex; flex-direction: row;">
-<div markdown style="display:flex; flex-direction: column;">
+<div markdown style="display:flex; flex: 1 1 0; flex-direction: column;">
 
 ![](Pictures/schemaOreilles.png)
 
 
 </div>
-<div markdown style="display:flex; flex-direction: column;">
+<div markdown style="display:flex; flex: 2 1 0; flex-direction: column;">
 
 Le son correspond à des vibrations de l'air, conduites jusqu'au tympan qui entre à son tour en vibration. Ces vibrations sont à l'origine des mouvements des cils de cellules dans l'oreille interne. Cela génère un message nerveux sensitif qui se propage le long du nerf auditif vers le cerveau.
 
