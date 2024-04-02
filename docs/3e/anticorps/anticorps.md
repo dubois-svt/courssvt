@@ -8,13 +8,13 @@
 !!! warning "Consignes"
     1. Suivre le protocole du test d’Ouchterlony permettant de savoir si ce médecin possède des anticorps susceptibles de le protéger face au virus. (Document 6)
 
-    2. Compléter le tableau à l’aide des documents fournis pour comprendre le rôle des anticorps dans la défense de l’organisme contre les agents pathogènes.
+    2. Compléter le tableau à l’aide des documents fournis pour comprendre le rôle des anticorps dans la défense de l’organisme contre les agents pathogènes. (2 points)
 
-    3. Expliquer pourquoi les antigènes sont disposés au centre.
+    3. Expliquer pourquoi les antigènes sont disposés au centre. (0,5 point)
 
-    4. Schématiser la boite obtenue avec les résultats et répondre au problème posé.
-
-    5. Expliquer la réaction ou son absence pour l’individu séropositif au virus de la grippe
+    4. Schématiser la boite obtenue avec les résultats et répondre au roblème posé. (1,75 points)
+p
+    5. Expliquer la réaction ou son absence pour l’individu séropositif au virus de la grippe (0,75 point)
     
 ??? bug "Critères de réussite"
     <table>
@@ -166,21 +166,17 @@ Les anticorps sont des protéines solubles qui se fixent spécifiquement à un a
 Lorsqu’un individu présente un type d’anticorps dans son sang on dit qu’il est séropositif pour cet anticorps.
 </div>
 </div>
-<div markdown style="display:flex; flex-direction:row;">
-<div markdown style="display:flex; flex: 1 1 0; flex-direction:column;">
+
 
 **Document 3 : Expérience historique de localisation des anticorps.**
 
 ![](Pictures/schemaExpLocalisationAnticorps.png)
-</div>
 
-<div markdown style="display:flex; flex: 1 1 0; flex-direction:column;">
 
 **Document 4 Le mode d’action des anticorps**
 
 ![](Pictures/modeActAnticorps.png)
-</div>
-</div>
+
 
 **Document 5 Antigène de micro-organisme et récepteur de lymphocyte.**
 
