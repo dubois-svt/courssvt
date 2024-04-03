@@ -1,8 +1,36 @@
+# Séquence : La reproduction chez l'espèce humaine
 
-## Chapitre 2 : La puberté et la reproduction chez l’être humain
+!!! note-prof
+    si besoin d'infos
 
-!!! question "Problématique" 
-   Quelles sont les différences anatomiques qui se mettent en place au cours du développement d’un individu ?
+
+!!! question "Problématique"
+    Quels sont les éléments à prendre en compte pour répondre à un besoin ?
+
+    
+### Document d’appel :
+
+
+
+## Séance 1 : Nom
+
+!!! question "Problématique"
+    Quelles sont les différences anatomiques qui se mettent en place au cours du développement d’un individu ?
+
+[Activité nom activité](../lien vers l'activité)
+
+
+
+
+??? abstract "Bilan"
+    Lors du développement embryonnaire, les appareils reproducteurs internes et externes deviennent différents chez l’homme et chez la femme, ce sont les caractères sexuels primaires.
+
+    À la puberté, d’autres différences apparaissent entre l’homme et la femme, ce sont les caractères sexuels secondaires (par exemple : développement des seins, développement du pénis…)
+
+    L’appareil reproducteur interne de la femme est constitué des ovaires, des trompes, de l’utérus et du vagin. Et son appareil reproducteur externe, appelé vulve, est constitué de l’orifice du vagin, des petites lèvres, des grandes lèvres et du clitoris.
+
+    L’appareil reproducteur interne de l’homme est constitué des testicules, du canal déférent et de l’urètre. Et son appareil reproducteur externe est constitué des bourses et du pénis.
+
 
 
 Activité Les différences anatomiques entre un homme et une femme.
@@ -11,11 +39,11 @@ Consigne : Construire un tableau en indiquant pour l’homme et la femme : la 
 
 Compétence travaillée : Construire un tableau
 
-**Document 1 : Photographie des appareils reproducteurs externes de l’homme et de la femme à différents moments du développement embryonnaire.**
+**Document 1 Photographie des appareils reproducteurs externes de l’homme et de la femme à différents moments du développement embryonnaire.**
 
 ![](Pictures/formationAppGenital.png)
 
-**Document 2 : Des transformations liées à la puberté**
+**Document 2 Des transformations liées à la puberté**
 
 ![](Pictures/transfoPuberte.png)
 
@@ -24,15 +52,15 @@ L’âge de la puberté est différent en fonction des individus. Dans la majori
 -   entre 9 et 13 ans chez les filles
 -   entre 10,5 et 14 ans chez les garçons
 
-**Document 3 : l’appareil reproducteur de la femme**
+**Document 3 l’appareil reproducteur de la femme**
 
 ![](Pictures/appReproFemme.png)
 
-**Document 4 : l’appareil reproducteur de l’homme (seules les légendes engras font partie de l’appareil reproducteur)**
+**Document 4 l’appareil reproducteur de l’homme (seules les légendes en gras font partie de l’appareil reproducteur)**
 
 ![](Pictures/appReproHomme.png)
 
-**Document 5 : Les caractères sexuels**
+**Document 5 Les caractères sexuels**
 
 On appelle caractère sexuel primaire, l’ensemble des différences anatomiques qui différencie un homme d’une femme pendant la grossesse et à la naissance.
 
@@ -95,16 +123,7 @@ Tous ces caractères sont variables d’un individu à l’autre même du même 
     </tbody>
     </table>
 
-Bilan :
-
-Lors du développement embryonnaire, les appareils reproducteurs internes et externes deviennent différents chez l’homme et chez la femme, ce sont les caractères sexuels primaires.
-
-À la puberté, d’autres différences apparaissent entre l’homme et la femme, ce sont les caractères sexuels secondaires (par exemple : développement des seins, développement du pénis…)
-
-L’appareil reproducteur interne de la femme est constitué des ovaires, des trompes, de l’utérus et du vagin. Et son appareil reproducteur externe, appelé vulve, est constitué de l’orifice du vagin, des petites lèvres, des grandes lèvres et du clitoris.
-
-L’appareil reproducteur interne de l’homme est constitué des testicules, du canal déférent et de l’urètre. Et son appareil reproducteur externe est constitué des bourses et du pénis.
-
+Séance 2 :
 
 
 !!! question "Problématique"

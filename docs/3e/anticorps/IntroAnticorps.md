@@ -72,6 +72,13 @@ Paul a eu une relation non protégée lors d’une soirée. Il s’inquiète sur
 
 [Activité Le VIH et le SIDA](../sida)
 
+![](Pictures/prenventionVIH.png)
+
+La Prep (pre-exposure prophylaxis) s’adresse aux personnes qui n’ont pas le VIH, et consiste à prendre un médicament afin d’éviter de se contaminer. 93%
+
+TPE, traitement post-exposition, dit aussi « traitement d’urgence » qui doit être pris au plus tard dans les 48 heures après un risque de transmission, puis tous les jours pendant un mois.
+
+Tasp (Treatment as Prevention) : sous traitement, la quantité de virus dans l’organisme devient extrêmement faible, on parle de « charge virale indétectable ». Lorsque la charge virale est indétectable et que la personne séropositive continue de prendre son traitement correctement, les études ont démontré que le VIH ne peut plus se transmettre aux partenaires sexuels-les, même lors de rapports sans préservatif.
 
 ??? abstract "Bilan"
 

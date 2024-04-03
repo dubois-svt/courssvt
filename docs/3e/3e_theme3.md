@@ -21,23 +21,14 @@ Document 1 : Construire un arbre de parenté.
 
 2.  Choisir la collection « Vertébrés actuels et fossiles »
 
-3.  Créer la matrice de caractères des espèces suivantes (Archéoptéryx,
-    > Caudipteryx, Chat, Composognathus, Crocodile, Ichtyostega,
-    > Megazostrodon, Pigeon) en utilisant les caractères (3 doigts sur
-    > le sol, ailes, fenêtre mandibulaire, mâchoire inférieure en un
-    > seul os, plumes, plus de 3 vertèbres cervicales et squelette
-    > osseux) « outil Construire »
+3.  Créer la matrice de caractères des espèces suivantes (Archéoptéryx, Caudipteryx, Chat, Composognathus, Crocodile, Ichtyostega, Megazostrodon, Pigeon) en utilisant les caractères (3 doigts sur le sol, ailes, fenêtre mandibulaire, mâchoire inférieure en un seul os, plumes, plus de 3 vertèbres cervicales et squelette osseux) « outil Construire »
 
-4.  Remplir le tableau et utiliser l’outil « établir les liens de
-    > parenté »
+4.  Remplir le tableau et utiliser l’outil « établir les liens de parenté »
 
-5.  Cliquer sur l’icône « afficher les boites » et sélectionner les
-    > caractères qui nous intéressent.
+5.  Cliquer sur l’icône « afficher les boites » et sélectionner les caractères qui nous intéressent.
 
-6.  En cliquant sur chaque nœud (ancêtre commun), nommer les différents
-    > groupes selon leurs
-    > caractéristiques.<img src="Pictures/100000000000023D000000A5B1435F65C0EA6A6B.png"
-    > style="width:15.473cm;height:4.463cm" />
+6.  En cliquant sur chaque nœud (ancêtre commun), nommer les différents groupes selon leurs caractéristiques.
+<img src="Pictures/100000000000023D000000A5B1435F65C0EA6A6B.png" />
 
 Document 2 : Un arbre de parenté.
 
@@ -60,7 +51,7 @@ groupe.
 
 Doc caractères commun
 
-tableau cellule, noyau, Adn chez diffrents etres vivatn ????
+tableau cellule, noyau, Adn chez différents etres vivatn ????
 
 <https://vimeopro.com/user36345481/svt-cycle-4/video/218456791>
 
@@ -75,28 +66,24 @@ style="width:16.87cm;height:7.452cm" />
 
 Consigne 1 : Citer au moins un caractère commun au thon et au dauphin.
 
-Consigne 2 : Citer un caractère présent chez le dauphin, mais absent
-chez l’Ichtyosaurus.
+Consigne 2 : Citer un caractère présent chez le dauphin, mais absent chez l’Ichtyosaurus.
 
-Consigne 3 : Entourer en vert le groupe des mammifères et en bleu le
-groupe des tétrapodes.
+Consigne 3 : Entourer en vert le groupe des mammifères et en bleu le groupe des tétrapodes.
 
 Consigne 4 : Citer un animal qui est le plus proche parent de
 l’Ichtyosaurus que du thon.
 
-Consigne 5 : Expliquer pourquoi on peut dire que le chat est plus proche
-du dauphin que l’Ichtyosaurus.
+Consigne 5 : Expliquer pourquoi on peut dire que le chat est plus proche du dauphin que l’Ichtyosaurus.
 
 <img src="Pictures/10000000000003E20000027A3A4FA51E4FF45F76.png"
-style="width:8.996cm;height:7.318cm" /><img src="Pictures/100000000000040A000002771D8902CAA19E3055.png"
+style="width:8.996cm;height:7.318cm" />
+<img src="Pictures/100000000000040A000002771D8902CAA19E3055.png"
 style="width:10.287cm;height:6.276cm" />
 
 Bilan :
 
-La classification des **êtres vivants et fondée sur des liens de
-parentés entre les êtres vivants. Les caractéristiques communes sont
-transmises de façon héréditaire par un ancêtre commun à tous ses
-descendants.**
+La classification des êtres vivants et fondée sur des liens de
+parentés entre les êtres vivants. Les caractéristiques communes sont transmises de façon héréditaire par un ancêtre commun à tous ses descendants.
 
 Ils sont regroupés en fonction des caractères qu’ils partagent.
 
@@ -105,9 +92,7 @@ d’ancêtres en commun, plus elles sont apparentées (proches).
 
 Les degrés de parenté sont représentés par un arbre de parenté.
 
-Tous les êtres vivants sont constitués de cellules et possèdent de l’ADN
-qui est une molécule universelle. Ces arguments indiquent une parenté et
-une origine commune à toutes les espèces.
+Tous les êtres vivants sont constitués de cellules et possèdent de l’ADN qui est une molécule universelle. Ces arguments indiquent une parenté et une origine commune à toutes les espèces.
 
 Exercice : La parenté des reptiles
 
@@ -117,35 +102,25 @@ Consigne 2 : Quel est le caractère commun à la colombe et au crocodile.
 
 Consigne 2 : Sur le document 4, entourer le groupe des oiseaux.
 
-Consigne 3 : Sur le document 4, ajouter une branche pour placer le
-tyrannosaure.
+Consigne 3 : Sur le document 4, ajouter une branche pour placer le tyrannosaure.
 
-Consigne 4 : Compter le nombre d’ancêtres communs entre le crocodile et
-l’iguane et entre le crocodile et la colombe. De qui est le plus proche
-du crocodile ?
+Consigne 4 : Compter le nombre d’ancêtres communs entre le crocodile et l’iguane et entre le crocodile et la colombe. De qui est le plus proche du crocodile ?
 
 Consigne 5 : Quel est le problème pour encadrer le groupe des reptiles ?
 
 Document 1 : Les groupes dans les arbres de parentés.
 
-Les scientifiques pour former un groupe, dans un arbre de parenté,
-regroupe un ancêtre et tous ses descendants.
+Les scientifiques pour former un groupe, dans un arbre de parenté, regroupe un ancêtre et tous ses descendants.
 
 Document 2 : Les reptiles.
 
-Les reptiles sont considérés comme des vertébrés tétrapodes ayant la
-peau recouverte d’écailles et ne régulant la température de leur corps
-que par leur comportement, on considère comme des reptiles, l’alligator,
-le boa, l’iguane et la tortue, mais pas la colombe ou la pie.
-Actuellement ce groupe n’existe pas dans la classification évolutive. En
-revanche, les oiseaux forment un groupe d’espèces caractérisées par la
-présence de plumes ainsi que d’un orteil tourné vers l’arrière.
+Les reptiles sont considérés comme des vertébrés tétrapodes ayant la peau recouverte d’écailles et ne régulant la température de leur corps que par leur comportement, on considère comme des reptiles, l’alligator, le boa, l’iguane et la tortue, mais pas la colombe ou la pie.
+Actuellement ce groupe n’existe pas dans la classification évolutive. En revanche, les oiseaux forment un groupe d’espèces caractérisées par la présence de plumes ainsi que d’un orteil tourné vers l’arrière.
 
 Document 3 : Tableau de caractères.
 
-|                                |        |           |     |        |              |     |         |
-|--------------------------------|--------|-----------|-----|--------|--------------|-----|---------|
 |                                | Tortue | Crocodile | Pie | Iguane | Tyrannosaure | Boa | Colombe |
+|--------------------------------|--------|-----------|-----|--------|--------------|-----|---------|
 | Vertèbres avec une quille      | \+     | \+        | \+  | \+     | \+           | \+  | \+      |
 | Carapace                       | \+     | \-        | \-  | \-     | \-           | \-  | \-      |
 | 2 fosses temporales            | \-     | \+        | \+  | \+     | \+           | \+  | \+      |
@@ -157,29 +132,20 @@ Document 3 : Tableau de caractères.
 
 Document 4 : Arbre de parenté de quelques espèces.
 
-<img src="Pictures/10000000000004060000024F09577A1B988A177D.png"
+<img src="Pictures/buissonVivant.png"
 style="width:18.72cm;height:10.76cm" />
 
 1.  ### Quelle est la place de l’être humain parmi les autres êtres vivants ?
 
-```{=html}
-<!-- -->
-```
-1.  #### La place de l’***être humain***
+2.  #### La place de l’***être humain***
 
-Consigne 1 : Complétez l’arbre de parenté du document 3 à l’aide des
-informations du document 2, entourer le groupe des primates.
+Consigne 1 : Complétez l’arbre de parenté du document 3 à l’aide des informations du document 2, entourer le groupe des primates.
 
-Consigne 2 : Justifier la place de l’être humain dans le groupe des
-primates.
+Consigne 2 : Justifier la place de l’être humain dans le groupe des primates.
 
-Consigne 3 : À partir de la lecture de l’arbre du document 3, expliquez
-pourquoi on peut affirmer que l’être humain ne descend pas du chimpanzé,
-mais que le chimpanzé est notre plus proche parent actuel.
+Consigne 3 : À partir de la lecture de l’arbre du document 3, expliquer pourquoi on peut affirmer que l’être humain ne descend pas du chimpanzé, mais que le chimpanzé est notre plus proche parent actuel.
 
-Consigne 4 : Peut-on dire que l’australopithèque est l’ancêtre du genre
-Homo ou qu’Homo neanderthalensis est l’ancêtre d’Homo sapiens ?
-Justifier.
+Consigne 4 : Peut-on dire que l’australopithèque est l’ancêtre du genre Homo ou qu’Homo neanderthalensis est l’ancêtre d’Homo sapiens ? Justifier.
 
 Document 1 : Le groupe des primates.
 
@@ -205,37 +171,37 @@ X : absent O : présent
 | Homo neanderthalensis      | O                      | O               | O                           | O                  | O                 | O      |
 | Australopithecus africanus | O                      | o               | O                           | x                  | O                 | O      |
 
-Document 3 : Arbre de parenté des primates
+Document 3  Arbre de parenté des primates
 
-Document 4 : Période d’existence de quelques espèces de la lignée
+Document 4  Période d’existence de quelques espèces de la lignée
 humaine.
 
-|                            |                           |
-|----------------------------|---------------------------|
 | Espèce                     | Période d’existence       |
+|----------------------------|---------------------------|
 | Australopithecus africanus | -3,5 à -2,5 Ma            |
 | Homo habilis               | -2,6 à -1,65 Ma           |
 | Homo erectus               | -1,9 Ma à -100000 ans     |
 | Homo neanderthalensis      | -450000 à – 30000 ans     |
 | Homo sapiens               | -300000 ans à aujourd’hui |
 
-Document 5 : Quelques fossiles de crânes de la lignée humaine et
+Document 5  Quelques fossiles de crânes de la lignée humaine et
 représentation.
 
-<img src="Pictures/10000000000002BC000001D3D7366BAC803A895B.jpg"
-style="width:6.5cm;height:4.336cm" /><img src="Pictures/1000000000000280000001E04F9CF24F455F50F5.jpg"
-style="width:4.595cm;height:7.001cm" /><img src="Pictures/100000010000070F0000072E345B0A9BD9C4D907.png"
+![australopithecusAfricanus](australopithecusAfricanus.jpg")
+![homo Neandertalis](Pictures/homoNeandertalis.jpg)
+
+<img src="Pictures/cranesHominines.png"
 style="width:16.452cm;height:5.853cm" />
 
 Correction :
 
-<img src="Pictures/10000000000002BC00000174B77CB25C5A349CDD.png"
+<img src="Pictures/friseChonoHominines.png"
 style="width:18.461cm;height:9.814cm" />
 
-<img src="Pictures/10000001000002DF00000229B2C318F9BE4DB45D.png"
+<img src="Pictures/arbrePhyloHominides.png"
 style="width:18.461cm;height:13.898cm" />
 
-<img src="Pictures/100000010000064000000238427EF56E3B61F697.png"
+<img src="Pictures/marcheEvol.png"
 style="width:12.903cm;height:4.581cm" />
 
 Bilan : L’espèce humaine (Homo sapiens) est un vertébré (présence de
@@ -251,25 +217,17 @@ se sont pas succédé de manière linéaire, mais que plusieurs espèces ont
 coexisté à certaines périodes (évolution buissonnante). Le plus vieux
 fossile d’Homo sapiens date de 200000 ans.
 
-### 
 
-1.  ### 
-
-```{=html}
-<!-- -->
-```
 1.  #### Evolution et nouvelles espèces
 
-Consigne : Construire un schéma fonctionnel qui montre comment à partir
-d’une population une nouvelle espèce peut apparaître.
+Consigne : Construire un schéma fonctionnel qui montre comment à partir d’une population une nouvelle espèce peut apparaître.
 
 Compétences travaillées : schéma fonctionnel.
 
-<img src="Pictures/10000000000002C0000001F1F95D834733DF5143.jpg"
-style="width:8.126cm;height:5.733cm" /><img src="Pictures/1000000000000258000001C315A893EB8E607C0B.png"
-style="width:7.625cm;height:5.729cm" />
+![Culex pipiens molestus ](Pictures/culexPipiensMolestus.jpg)
+![Culex pipiens pipiens](Pictures/culexPipiensPipiens.png)
 
-Culex pipiens molestus Culex pipiens pipiens
+
 
 Document 1 : l’histoire des moustiques du métro londonien
 
@@ -288,12 +246,11 @@ devint impossible.
 C’est ainsi qu’a émergé, à partir de l’espèce d’origine, une autre
 espèce de moustique : Culex pipiens molestus.
 
-Document 2 : Comparaison des deux espèces de moustiques. Les
+Document 2 Comparaison des deux espèces de moustiques. Les
 caractéristiques en gras sont déterminées par l’information génétique.
 
-|                                             |                                                                                      |                                          |
-|---------------------------------------------|--------------------------------------------------------------------------------------|------------------------------------------|
 |                                             | Culex pipiens molestus                                                               | Culex pipiens pipiens                    |
+|---------------------------------------------|--------------------------------------------------------------------------------------|------------------------------------------|
 | Localisation                                | Dans le métro                                                                        | En surface                               |
 | Conditions environnementales                | Températures chaudes et stables toute l’année, flaques d’eau et nourriture abondante | Hivers rigoureux, alternance des saisons |
 | Cible piquée préférentiellement             | Mammifères (rat, humain)                                                             | oiseaux                                  |
@@ -318,13 +275,12 @@ qui porteront alors dans toutes leurs cellules le nouvel allèle.
 
 Aides
 
-Expliquer pourquoi on peut dire que les deux populations de moustiques
-appartiennent à des espèces différentes
+Expliquer pourquoi on peut dire que les deux populations de moustiques appartiennent à des espèces différentes
 
 Représenter les différents évènements qui ont eu lieu
 
 Bilan : L’apparition d’une forme nouvelle d’un caractère au cours de
-l’évolution peut s’expliquer par une modification au hasard du matériel
+l’évolution peut s’expliquer p10000000000004470000032A58FBDDC2684B317Aar une modification au hasard du matériel
 génétique (génome) comme les mutations.
 
 Des espèces apparaissent quand 2 populations évoluent séparément et que
@@ -332,24 +288,22 @@ la reproduction entre elles devient impossible.
 
 1.  ### Comment expliquer l’évolution des populations ?
 
-#### <img src="Pictures/100000000000028A000003682A6A152533A30FD5.png"
-style="width:8.128cm;height:11.936cm" /><img src="Pictures/10000000000004470000032A58FBDDC2684B317A.png"
+#### <img src="Pictures/photoPhalenes.png"/>
+
+<img src="Pictures/cartePopPhalenes.png"
 style="width:9.643cm;height:7.133cm" />
 
 1.  #### Evolution des populations et sélection naturelle
 
 Consigne 1 : A l’aide du site internet,
-[*https://www.pedagogie.ac-nice.fr/wp-content/uploads/sites/5/productions/phalenes/*](https://www.pedagogie.ac-nice.fr/wp-content/uploads/sites/5/productions/phalenes/),
-simuler ce qui s’est passée dans la région de Manchester de 1800 à 1950.
-Pour cela, il faudra :
+[https://www.pedagogie.ac-nice.fr/wp-content/uploads/sites/5/productions/phalenes/](https://www.pedagogie.ac-nice.fr/wp-content/uploads/sites/5/productions/phalenes/),
+simuler ce qui s’est passée dans la région de Manchester de 1800 à 1950. Pour cela, il faudra :
 
-Choisir la population initiale parmi les 3 proposées grâce aux
-informations des documents.
+Choisir la population initiale parmi les 3 proposées grâce aux informations des documents.
 
 Choisir une fréquence de mutations communes à 1%
 
-Choisir la couleur des bouleaux au début de la simulation, à l’aide des
-informations des documents.
+Choisir la couleur des bouleaux au début de la simulation, à l’aide des informations des documents.
 
 Faire la simulation pendant 5 ans.
 
@@ -457,10 +411,7 @@ différents.
 
 Document 4 : Définition de la sélection naturelle
 
-Évolution de la fréquence d’un allèle dans une population sous l’effet
-du milieu. Dans un milieu donné, certains allèles « avantageux »
-favorisent la survie et donc auront plus de chance d’être transmis à la
-génération suivante.
+Évolution de la fréquence d’un allèle dans une population sous l’effet du milieu. Dans un milieu donné, certains allèles « avantageux » favorisent la survie et donc auront plus de chance d’être transmis à la génération suivante.
 
 
 
@@ -470,112 +421,69 @@ style="width:9.073cm;height:8.862cm" /><img src="Pictures/1000000000000124000000
 style="width:7.726cm;height:6.054cm" /><img src="Pictures/1000000000000400000003A5B8C60582A51CCD68.jpg"
 style="width:18.461cm;height:16.817cm" />
 
-Bilan : L’apparition d’une forme nouvelle d’un caractère au cours de
-l’évolution peut s’expliquer par une modification au hasard du matériel
-génétique (génome) comme les mutations.
+Bilan : L’apparition d’une forme nouvelle d’un caractère au cours de l’évolution peut s’expliquer par une modification au hasard du matériel génétique (génome) comme les mutations.
 
-Sous l’effet de l’environnement qui sélectionne les caractères
-avantageux. Si la nouvelle caractéristique apporte un avantage de survie
-ou de reproduction, elle va être transmise plus facilement à la
-descendance : c’est la sélection naturelle. (= Sélection par
-l’environnement des individus les mieux adaptés à leur environnement).
+Sous l’effet de l’environnement qui sélectionne les caractères avantageux. Si la nouvelle caractéristique apporte un avantage de survie ou de reproduction, elle va être transmise plus facilement à la descendance : c’est la sélection naturelle. (= Sélection par l’environnement des individus les mieux adaptés à leur environnement).
 
-Au cours des générations, les populations évoluent sous l’effet des
-forces évolutives :
+Au cours des générations, les populations évoluent sous l’effet des forces évolutives :
 
 -   mutation (hasard)
 -   dérive génétique (hasard)
 -   sélection naturelle
 
-<img src="Pictures/100000000000024E0000031E3ACDE31422601E13.png"
+<img src="Pictures/schBilanEvol.png"
 style="width:16.822cm;height:22.749cm" />
 
-1.  ### En quoi l’évolution est-elle une théorie ?
+### En quoi l’évolution est-elle une théorie ?
 
-1.  #### La théorie de l’évolution, un fait scientifique.
+#### La théorie de l’évolution, un fait scientifique.
 
-Consigne : À partir des documents, expliquer en quoi la théorie de
-l’évolution est une théorie et pourquoi la question de « croire ou pas »
-en l’évolution biologique n’a pas de sens en cours de sciences.
+Consigne : À partir des documents, expliquer en quoi la théorie de l’évolution est une théorie et pourquoi la question de « croire ou pas » en l’évolution biologique n’a pas de sens en cours de sciences.
 
-Compétences travaillées : Extraire et mettre en relation des
-informations
+Compétences travaillées : Extraire et mettre en relation des informations
 
 Document 1 : La théorie au sens scientifique.
 
-Le mot théorie a plusieurs sens dans la langue française. Dans le
-langage courant, une théorie est un ensemble d’idées sur un sujet qui
-relève parfois de l’opinion, sans preuve. Ces idées restent… théoriques.
+Le mot théorie a plusieurs sens dans la langue française. Dans le langage courant, une théorie est un ensemble d’idées sur un sujet qui relève parfois de l’opinion, sans preuve. Ces idées restent… théoriques.
 
-En sciences, le mot théorie à une autre signification : c’est une
-construction méthodique qui cherche à représenter et à expliquer des
-phénomènes. Une théorie scientifique s’articule avec des faits, des
-observations, des résultats expérimentaux répétés auxquels elle donne
-une cohérence. C’est le cas de la théorie de l’évolution : elle n’est
-donc pas du tout théorique.
+En sciences, le mot théorie à une autre signification : c’est une construction méthodique qui cherche à représenter et à expliquer des phénomènes. Une théorie scientifique s’articule avec des faits, des observations, des résultats expérimentaux répétés auxquels elle donne une cohérence. C’est le cas de la théorie de l’évolution : elle n’est donc pas du tout théorique.
 
 Document 2 : Une théorie scientifique peut évoluer
 
-Une théorie scientifique a un statut provisoire et correspond à la
-vérité scientifique du moment.
+Une théorie scientifique a un statut provisoire et correspond à la vérité scientifique du moment.
 
-« Une théorie, pour rester bonne, doit toujours se modifier avec le
-progrès de la science et demeurer constamment soumise à la vérification
-et à la critique des faits nouveaux qui apparaissent. Si l’on
-considérait une théorie comme parfaite et si l’on cessait de la vérifier
-par l’expérience scientifique, elle deviendrait une doctrine » Claude
-Bernard, médecin français (1813-1878).
+« Une théorie, pour rester bonne, doit toujours se modifier avec le progrès de la science et demeurer constamment soumise à la vérification et à la critique des faits nouveaux qui apparaissent. Si l’on considérait une théorie comme parfaite et si l’on cessait de la vérifier par l’expérience scientifique, elle deviendrait une doctrine » Claude Bernard, médecin français (1813-1878).
 
 Doctrine : ensemble de conceptions théoriques enseignées comme vraies.
 
-Document 3 : L’évolution reconnue comme un fait par les scientifiques.
+Document 3 L’évolution reconnue comme un fait par les scientifiques.
 
-« Depuis Darwin, un très grand nombre de données d’ordre divers
-(anatomiques, cytologiques, moléculaires, paléontologiques, etc.) ont
-confirmé cette théorie et l’on n’a jamais trouvé de données qui
-l’infirment.
+« Depuis Darwin, un très grand nombre de données d’ordre divers (anatomiques, cytologiques, moléculaires, paléontologiques, etc.) ont confirmé cette théorie et l’on n’a jamais trouvé de données qui l’infirment.
 
-C’est pourquoi E. Mayr dit que toutes ces preuves sont considérées, à ce
-point, comme incontestables qu’aucun biologiste ne parle plus de
-l’évolution comme d’une proposition théorique et que, considérant
-l’évolution comme un fait, aucun évolutionniste ne s’attarde plus à en
-chercher des preuves supplémentaires. »
+C’est pourquoi E. Mayr dit que toutes ces preuves sont considérées, à ce point, comme incontestables qu’aucun biologiste ne parle plus de l’évolution comme d’une proposition théorique et que, considérant l’évolution comme un fait, aucun évolutionniste ne s’attarde plus à en chercher des preuves supplémentaires. »
 
-Enseigner la classification et l’évolution, Monique Dupuis et
-Jean-Claude Hervé, 2008, éditions Hatier.
+Enseigner la classification et l’évolution, Monique Dupuis et Jean-Claude Hervé, 2008, éditions Hatier.
 
-Document 4 : Relations simplifiées entre savoir, opinion, croyance.
+Document 4 Relations simplifiées entre savoir, opinion, croyance.
 
-<img src="Pictures/10000001000004470000021335AD6B9844794EDF.png"
-style="width:18.424cm;height:8.927cm" />
+<img src="Pictures/diffSavoirOpinionCroyance.png"/>
 
 Document 5 : L’évolution
 
-L’évolution biologique est un fait scientifique prouvé par deux types de
-preuves :
+L’évolution biologique est un fait scientifique prouvé par deux types de preuves :
 
-– des preuves expérimentales ;
+- des preuves expérimentales ;
 
-– des preuves historiques, c’est-à-dire des reconstitutions à partir
-d’enquêtes et d’indices (le commissaire de police utilise aussi des
-preuves historiques quand il reconstitue, à partir d’indices et d’une
-enquête, le scénario d’un crime).
+- des preuves historiques, c’est-à-dire des reconstitutions à partir d’enquêtes et d’indices (le commissaire de police utilise aussi des preuves historiques quand il reconstitue, à partir d’indices et d’une enquête, le scénario d’un crime).
 
-La théorie de l’évolution a évolué à partir des connaissances
-scientifiques nouvelles. Lorsque Darwin a écrit les premières bases, les
-notions d’ADN et de mutations n’étaient pas connues. Elles ont depuis
-permis de mieux expliquer l’évolution.
+La théorie de l’évolution a évolué à partir des connaissances scientifiques nouvelles. Lorsque Darwin a écrit les premières bases, les notions d’ADN et de mutations n’étaient pas connues. Elles ont depuis permis de mieux expliquer l’évolution.
 
 Bilan : L’un des fondateurs de la théorie de l’évolution est Darwin.
 
-L’évolution biologique n’est ni une opinion ni une croyance. L’évolution
-repose sur un raisonnement logique qui permet d’expliquer des faits, des
-observations et des expériences.
+L’évolution biologique n’est ni une opinion ni une croyance. L’évolution repose sur un raisonnement logique qui permet d’expliquer des faits, des observations et des expériences.
 
-Aujourd’hui, l’évolution biologique est confortée par de nombreuses
-preuves à la fois expérimentales et historiques.
+Aujourd’hui, l’évolution biologique est confortée par de nombreuses preuves à la fois expérimentales et historiques.
 
-**
 
 <table>
 <tbody>
@@ -623,28 +531,21 @@ dés</td>
 </tbody>
 </table>
 
-Bilan : L’espèce humaine (Homo sapiens) est un vertébré (présence de
-vertèbres), un mammifère (présence de poils et de mamelles) et un
-primate (pouce opposable et ongles) classé dans le groupe des grands
-singes (coccyx). L’être humain résulte, comme les autres espèces, d’une
-série d’innovations évolutives à partir d’un ancêtre commun partagé avec
-les chimpanzés. Cet ancêtre commun vivait, il y a plus de 7 Ma.
+Bilan : L’espèce humaine (Homo sapiens) est un vertébré (présence de vertèbres), un mammifère (présence de poils et de mamelles) et un primate (pouce opposable et ongles) classé dans le groupe des grands singes (coccyx). L’être humain résulte, comme les autres espèces, d’une série d’innovations évolutives à partir d’un ancêtre commun partagé avec les chimpanzés. Cet ancêtre commun vivait, il y a plus de 7 Ma.
 
-Le groupe des humains réunit l’Homo sapiens et tous les fossiles
-apparentés. L’évolution de ce groupe montre que les espèces fossiles ne
-se sont pas succédé de manière linéaire, mais que plusieurs espèces ont
-coexisté à certaines périodes (évolution buissonnante). Le plus vieux
-fossile d’Homo sapiens date de **200 000 ans**.
+Le groupe des humains réunit l’Homo sapiens et tous les fossiles apparentés. L’évolution de ce groupe montre que les espèces fossiles ne se sont pas succédé de manière linéaire, mais que plusieurs espèces ont coexisté à certaines périodes (évolution buissonnante). Le plus vieux fossile d’Homo sapiens date de 200 000 ans.
 
-<img src="Pictures/100000000000043800000282BAD1A99E97C84194.png"
+<img src="Pictures/comparaisonADN.png"
 style="width:17.865cm;height:10.619cm" />
 
-<img src="Pictures/100000000000034F0000016B93536581447E0C53.png"
+<img src="Pictures/arbrePhyloEtresVivants.png"
 style="width:16.334cm;height:7.013cm" />
 
-<img src="Pictures/10000000000002BC00000174B77CB25C5A349CDD.png"
+<img src="Pictures/friseChonoHominines.png"
 style="width:18.461cm;height:9.814cm" />
 
-<img src="Pictures/10000001000002DF00000229B2C318F9BE4DB45D.png"
-style="width:18.461cm;height:13.898cm" /><img src="Pictures/100000010000064000000238427EF56E3B61F697.png"
+<img src="Pictures/arbrePhyloHominides.png"
+style="width:18.461cm;height:13.898cm" />
+
+<img src="Pictures/marcheEvol.png"
 style="width:12.903cm;height:4.581cm" />

@@ -34,8 +34,10 @@
     Définition fossile : Reste ou trace d’êtres vivants (animaux, végétaux, bactéries**…**) conservés dans la roche.
 
 
-<iframe width="100%" height="1000px" src="http://www.frisechronos.fr/H5PdfFiles/3D-278b634e-0d73-49d0-974e-2fdee4a6e41a.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+??? abstract "Notes Supplémentaires"
 
+    ![](Pictures/frise-de-lhistoire-du-vivant-et-de-lunivers-frise.png)
+    ![](Pictures/horloge-de-la-vie.gif)
 
 
 ## Séance 2 : le climat dans l'histoire de la Terre 
