@@ -12,14 +12,12 @@
 
 
 
-## Séance 1 : Nom
+## Séance 1 : les différences anatomiques
 
 !!! question "Problématique"
     Quelles sont les différences anatomiques qui se mettent en place au cours du développement d’un individu ?
 
-[Activité nom activité](../lien vers l'activité)
-
-
+[Activité Les différences anatomiques entre un homme et une femme](../diffFemmeHomme)
 
 
 ??? abstract "Bilan"
@@ -31,839 +29,86 @@
 
     L’appareil reproducteur interne de l’homme est constitué des testicules, du canal déférent et de l’urètre. Et son appareil reproducteur externe est constitué des bourses et du pénis.
 
+## Séance 2 : Les cellules reproductrices
+
+!!! question "Problématique"
+    Comment sont produites les cellules reproductrices ?
+
+[Activité Les cellules reproductrices des femmes et des hommes](../diffCellRepro)
 
 
-Activité Les différences anatomiques entre un homme et une femme.
+??? abstract "Bilan"
 
-Consigne : Construire un tableau en indiquant pour l’homme et la femme : la période de puberté, les 2 caractères sexuels primaires, 2 caractères sexuels secondaires et le moment d’apparition des caractères sexuels primaires.
+    Les gamètes** (=**cellules reproductrices) sont produites par les gonades.
 
-Compétence travaillée : Construire un tableau
+    Chez les hommes, les spermatozoïdes sont produits par les testicules, en continu, à partir de la puberté. Le sperme contient du liquide séminal et des spermatozoïdes.
 
-**Document 1 Photographie des appareils reproducteurs externes de l’homme et de la femme à différents moments du développement embryonnaire.**
+    Chez les femmes, les ovules sont émis de façon cyclique (1 par mois environ), à partir de la puberté jusqu’à la ménopause.
 
-![](Pictures/formationAppGenital.png)
 
-**Document 2 Des transformations liées à la puberté**
-
-![](Pictures/transfoPuberte.png)
-
-L’âge de la puberté est différent en fonction des individus. Dans la majorité des cas, elle commence :
-
--   entre 9 et 13 ans chez les filles
--   entre 10,5 et 14 ans chez les garçons
-
-**Document 3 l’appareil reproducteur de la femme**
-
-![](Pictures/appReproFemme.png)
-
-**Document 4 l’appareil reproducteur de l’homme (seules les légendes en gras font partie de l’appareil reproducteur)**
-
-![](Pictures/appReproHomme.png)
-
-**Document 5 Les caractères sexuels**
-
-On appelle caractère sexuel primaire, l’ensemble des différences anatomiques qui différencie un homme d’une femme pendant la grossesse et à la naissance.
-
-On appelle caractère sexuel secondaire, l’ensemble des différences anatomiques qui différencie un homme d’une femme à partir de la puberté.
-
-Tous ces caractères sont variables d’un individu à l’autre même du même sexe.
-
-??? note-prof "Correction"
-
-    <table>
-    <tbody>
-    <tr class="odd">
-    <td></td>
-    <td>Femme</td>
-    <td>Homme</td>
-    </tr>
-    <tr class="even">
-    <td>Période de puberté</td>
-    <td>10,5 – 16,5 ans</td>
-    <td>12 – 18 ans</td>
-    </tr>
-    <tr class="odd">
-    <td>Caractères sexuels primaires</td>
-    <td>Appareil reproducteur externe :<br />
-    Vulve (petite lèvres, grandes lèvres, clitoris et vagin)<br />
-    Appareil reproducteur interne :<br />
-    Ovaires<br />
-    Trompe<br />
-    Utérus<br />
-    vagin</td>
-    <td>Appareil reproducteur externe :<br />
-    Pénis<br />
-    Bourse<br />
-    Appareil reproducteur interne<br />
-    Testicule<br />
-    Épididyme<br />
-    Canal déférent<br />
-    Vésicule séminale<br />
-    Prostate<br />
-    Urètre</td>
-    </tr>
-    <tr class="even">
-    <td>Caractères sexuels secondaires</td>
-    <td>Seins<br />
-    Développement des hanches<br />
-    Poils pubiens et poils sous les bras<br />
-    règles</td>
-    <td>Développement musculature<br />
-    Voix grave<br />
-    Développement taille testicules<br />
-    Développement taille pénis<br />
-    Poils pubiens, sous les bras et sur le visage…<br />
-    éjaculations</td>
-    </tr>
-    <tr class="odd">
-    <td>Moment d’apparition des caractères sexuels primaires</td>
-    <td>Après 13 semaines du développement embryonnaire</td>
-    <td>Après 13 semaines du développement embryonnaire</td>
-    </tr>
-    </tbody>
-    </table>
-
-Séance 2 :
+## Séance 3 : Le début de la puberté
 
 
 !!! question "Problématique"
     Comment expliquer les changements liés à la puberté ?
 
-### Activité  L’origine de la puberté.
+[Activité La puberté](../puberte)
 
-Consigne 1 : Ajouter une courbe représentant l’évolution de la quantité de testostérone en fonction de l’âge sur le graphique.
 
-Consigne 2 : Décrire les deux courbes du graphique.
+??? abstract "Bilan"
 
-Consigne 3 : Répondre au problème en utilisant les documents
 
-Compétences travaillées : Construire un graphique et décrire un graphique
+    ![](Pictures/hormonePuberteMale.png)
 
-**Document 1 ____________________________________________________________________**
+    ![](Pictures/hormonePuberteFemelle.png)
 
 
-![](Pictures/graphiqueQteHormone.png)
+    À la puberté, les taux d’hormones sexuelles (testostérone chez l’homme et œstrogène chez la femme) augmentent, ce qui est responsable des changements observés à la puberté.
 
-**Document 2 Tableau de la quantité d’hormones sexuelles en fonction de l’âge**
+    Définition hormone : substance chimique fabriquée par un organe et libérée dans le sang provoquant des modifications de certains organes (organes cibles de l’hormone). Les hormones sont un moyen de communication dans notre corps.
 
-|                 | Quantité d’hormones chez l’homme         | Quantité d’hormones chez la femme      |
-| Âge (en années) | Testostérone (en unités arbitraires, ua) | Œstrogènes (en unités arbitraires, ua) |
-|-----------------|------------------------------------------|----------------------------------------|
-| 6               | 0,2                                      | 0,3                                    |
-| 9               | 0,2                                      | 0,4                                    |
-| 12              | 0,5                                      | 2,3                                    |
-| 14              | 1                                        | 3,3                                    |
-| 16              | 3                                        | 4,5                                    |
-| 18              | 4                                        | 4,8                                    |
-| 19              | 4,5                                      | 5                                      |
+    ![](Pictures/schemaCommHormone.png)
 
-**Document 3 Deux hormones sexuelles, la testostérone et l’œstrogène**
+## Séance 4 : Le contrôle des appareils reproducteurs
 
-La testostérone est une hormone sexuelle fabriquée par l’homme
-
-L’œstrogène est une hormone sexuelle fabriquée par la femme, c’est une hormone ovarienne
-
-Définition d’hormone : substance chimique fabriquée par un organe et libéré dans le sang provoquant des modifications de certains organes (organes cibles de l’hormone).
-
-Document 4 : La puberté.**
-
-La puberté commence vers 10 ans chez la femme et vers 14 ans chez l’homme.
-
-Chez certaines personnes la puberté ne se déclenche pas, des traitements existent. Par exemple, les femmes atteintes du syndrome de Turner, sont de petites tailles, stériles, leurs seins ne sont pas développés et elles n’ont pas leurs règles. Pour les traiter, on leur injecte des hormones ovariennes
-
-**Document 5 Décrire une courbe d’un graphique.**
-
-Commencer par résumer les informations concernant le graphique (le titre).
-
-Pour décrire le graphique, il faut commencer par définir les différents tronçons qui permettent de visualiser les changements d’évolution de la courbe.
-
-Décrire la courbe en utilisant les verbes suivants : augmenter, diminuer, stagner (ou rester stable). On ne parle pas du graphique ou de la courbe, mais de la variable qui est représentée.
-
-Pour décrire le graphique, utiliser la structure de phrase suivante, sans oublier les unités :
-
-De (valeur A sur l’axe horizontal) et (valeur B sur l’axe horizontal), (la variable) \[verbe\] de (valeur A sur l’axe vertical) à (valeur B sur l’axe vertical)
-
-??? note-prof "Correction :"
-
-    ![](Pictures/10000001000003A00000024EDD3EE0CC5218FDA8.png)
-
-    **Document 1 Graphique de la quantité d’hormones sexuelles en fonction de l’âge**
-
-    Ce graphique représente la quantité d’hormones sexuelles en fonction de l’âge.
-
-    Pour la quantité d’œstrogènes :
-
-    De 6 à 19 ans, la quantité d’œstrogènes augmente de 0,3 à 5 ua.
-
-    Pour la quantité de testostérone :
-
-    De 6 à 9 ans, la quantité de testostérone reste stable à 0,2 ua.
-
-    Puis de 9 à 19 ans, la quantité de testostérone augmente de 0,2 à 4,5 ua.
-
-![](Pictures/hormonePuberteMale.png)
-
-![](Pictures/hormonePuberteFemelle.png)
-
-Bilan :
-
-À la puberté, les taux d’hormones sexuelles (testostérone chez l’homme et œstrogène chez la femme) augmentent, ce qui est responsable des changements observés à la puberté.
-
-Définition hormone : substance chimique fabriquée par un organe et libérée dans le sang provoquant des modifications de certains organes (organes cibles de l’hormone). Les hormones sont un moyen de communication dans notre corps.
-
-![](Pictures/schemaCommHormone.png)
-
- ### Comment sont produites les cellules reproductrices ?
-
-
-### Activité  Les cellules reproductrices
- 
-Consigne 1 : À partir de l’observation de la lame et du document 1, explique où sont produits les spermatozoïdes.
-
-Consigne 2 : À l’aide des informations du document 3, légende la photo du document 2.
-
-Consigne 3 : Faire un tableau comparant les spermatozoïdes et les ovules du point de vue de la taille, du nombre, de la durée de vie et de la mobilité.
-
-Aide :
-
-Avoir retrouvé les différentes zones présente dans le document 1 sur la lame
-
-Avoir identifié les spermatozoïdes.
-
-Compétence travaillée : faire un dessin d’observation et construire un tableau
-
-**Document 1 Photo légendée d’une coupe de testicules.**
-
-![](Pictures/testicule.jpg)
-
-**Document 2  Photo de spermatozoïdes de taureau MO x600.**
-
-![](Pictures/spermatozoides.png)
-
-**Document 3 Les spermatozoïdes.**
-
-Les spermatozoïdes sont les cellules reproductrices de l’homme.
-
-Il est composé de deux parties :
-
-- La tête : qui mesure 5 µm
-- Le flagelle qui mesure 60 µm
-
-Lors d’une éjaculation, entre 200 et 300 millions de spermatozoïdes sont libérés. Ils ont une durée de 3 à 5 jours.
-
-Ces spermatozoïdes peuvent atteindre la vitesse de 60 µm par seconde.
-
-![](Pictures/fécondation.png)
-
-**Document 4 Les ovules.**
-
-Les ovules sont les cellules reproductrices de la femme.
-
-C’est une cellule ronde d’un diamètre de 120 µm.
-
-Lors de l’ovulation, un seul ovule est libéré.
-
-L’ovule ne peut pas se déplacer tout seul.
-
-Ils ont une durée de 1 à 2 jours.
-
-
-
-??? note-prof "Correction :"
-
-    |          | Spermatozoïde                  | ovule             |
-    |----------|--------------------------------|-------------------|
-    | taille   | 65 µm, plus petit              | 120 µm, plus gros |
-    | Nombre   | Plusieurs millions             | Un seul           |
-    | Mobilité | Se déplace à 60 µm par seconde | immobile          |
-
-Bilan :
-
-Les gamètes** (=**cellules reproductrices) sont produites par les gonades.
-
-Chez les hommes, les spermatozoïdes sont produits par les testicules, en continu, à partir de la puberté. Le sperme contient du liquide séminal et des spermatozoïdes.
-
-Chez les femmes, les ovules sont émis de façon cyclique (1 par mois environ), à partir de la puberté jusqu’à la ménopause.
-
- ### Comment est contrôlé le fonctionnement de l’appareil reproducteur ?
+!!! question "Problématique"
+    Comment est contrôlé le fonctionnement de l’appareil reproducteur ?
 
 ![](Pictures/castrationCoq.jpg)
 ![](Pictures/castrationCoq1.jpg)
 
-### Activité  Le contrôle du fonctionnement de l’appareil reproducteur 
 
-Consigne 1 : Déterminer les différents organes et hormones impliqués dans le fonctionnement de l’appareil reproducteur en indiquant leur effet.
+[Activité Le contrôle du fonctionnement de l’appareil reproducteur](../controlAppRepro)
 
-Consigne 2 : Construire un schéma fonctionnel qui montre le contrôle du fonctionnement de l’appareil reproducteur.
 
-**Document 1 Quelques troubles du fonctionnement de l’appareil reproducteur**
 
-À l’hôpital, des patients sont suivis pour des troubles du fonctionnement de l’appareil reproducteur.
+??? abstract "Bilan"
 
--   Cas n°1 : homme qui a eu une puberté tardive et qui a des caractères
-    sexuels secondaires peu développés (faibles pilosité, testicules de
-    petite taille). Sa maladie est due à un dysfonctionnement d’une zone
-    du cerveau reliée à l’hypophyse.
--   Cas n°2 : homme souffrant de maux de tête et de troubles de
-    l’érection. L’analyse de son sperme montre qu’il en produit peu et
-    que ses spermatozoïdes sont peu fécondants. Une IRM de son cerveau
-    révèle une tumeur bénigne à l’hypophyse.
--   Cas n°3 : femme atteinte d’une tumeur à l’hypophyse. Sa maladie a
-    notamment provoqué l’arrêt de des ovulations et de ses règles, alors
-    qu’elle n’est pas en période de ménopause.
+    Chez les êtres humains, l’hypophyse (dans le cerveau) contrôle les testicules ou les ovaires grâce à des hormones hypophysaires (LH et FSH). En réponse, les gonades (ovaires ou testicules) produisent des hormones sexuelles (testostérone par les testicules et œstrogènes et progestérones par les ovaires). Ce sont hormones sexuelles qui permettent l’apparition et le maintien des caractères sexuels secondaires et la production de cellules reproductrices.
 
-![](Pictures/hypophyse.png)
+    ![](Pictures/schemaControleHormonaleHomme.png)
 
-**Document 2 L’hypophyse, une petite glande du cerveau qui sécrète des hormones.**
 
-L’hypophyse est une petite glande située à la base du cerveau. Elle peut être visualisée grâce à une imagerie par résonance magnétique (IRM) du cerveau.
 
-L’hypophyse est un organe producteur d’hormones (les hormones hypophysaires).
+## Séance 5 : Le cycle de la femme
 
-L’hypophyse libère les hormones qu’elle fabrique dans la circulation sanguine.
+!!! question "Problématique"
 
-**Document 3 Rôle de l’hypophyse dans le déclenchement de la puberté.**
+[Activité Le contrôle du fonctionnement de l’appareil reproducteur](../controlAppRepro)
 
-<table>
-<tbody>
-<tr class="odd">
-<td>Expériences</td>
-<td>Contenu du sang</td>
-<td>Résultats</td>
-</tr>
-<tr class="even">
-<td><p>Souris mâles 
-![](Pictures/100000000000009900000059AB8ECE7CB0DCC690.png)
-</p>
-<p>(témoins)</p></td>
-<td>Dioxygène, glucides, hormones cérébrales</td>
-<td>Puberté normale et production de testostérone</td>
-</tr>
-<tr class="odd">
-<td><p> ![](Pictures/10000000000000970000005975C7AD2290937B93.png) Souris mâles ayant subi une
-hypophysectomie</p>
-<p>Hypophysectomie : ablation de l’hypophyse</p></td>
-<td>Dioxygène, glucides</td>
-<td><p>Diminution de la taille des testicules et du nombre de
-spermatozoïdes produits</p>
-<p>arrêt de la production de testostérone</p></td>
-</tr>
-<tr class="even">
-<td>![](Pictures/100000000000008C000000596DC10658686BBB0F.png)
-Souris mâles ayant subi une hypophysectomie avec injection d’hormones produites par
-l’hypophyse (LH et FSH)</td>
-<td>Dioxygène, glucides, hormones cérébrales</td>
-<td><p>Augmentation de la taille des testicules et du nombre de
-spermatozoïdes produits</p>
-<p>Reprise de la production de testostérone</p></td>
-</tr>
-</tbody>
-</table>
 
-**Document 4 Origine des caractères sexuels secondaires chez le coq.**
 
-Contrairement au coq le chapon adulte n’a pas de crête.
+??? abstract "Bilan"
 
-| Expériences               | Résultats             |
-|-------------------------------------------------------------------------------------------------|-----------------------|
-| ![](Pictures/100000000000029E000001AAC44AAC19F9D1B3ED.jpg) Des testicules de coq sont greffés à un chapon (coq castré à la naissance) sous la peau en relation avec la circulation sanguine  | La crête se développe |
-| ![](Pictures/100000000000029E000001AAC44AAC19F9D1B3ED.jpg) Une hormone sexuelle masculine extraite de testicule de coq est injecté dans le sang d’un chapon .                               |                       |
+    Les règles se caractérisent par un écoulement de sang provenant de l’utérus.
 
-**Document 5 Activité hypophysaire sur le fonctionnement des ovaires et de l’utérus**
+    De la puberté à la ménopause, lors de chaque cycle, la muqueuse utérine s’épaissit puis est éliminée.
 
-<table>
-<tbody>
-<tr class="odd">
-<td>Souris témoins</td>
-<td>Souris femelles ayant subi une hypophysectomie (ablation de
-l’hypophyse)</td>
-<td>Souris femelles ayant subi une hypophysectomieavec
-injection d’hormones produites par l’hypophyse (LH et FSH)</td>
-<td>Ovariectomie et hypophysectomieavec injection d’hormones
-produites par l’hypophyse (LH et FSH)</td>
-</tr>
-<tr class="even">
-<td>![](Pictures/10000000000000A2000000592BB371477074B54A.png)</td>
-<td>![](Pictures/10000000000000A700000059DBF7DF72CCDE1BCB.png)</td>
-<td>![](Pictures/10000000000000A900000059BB8D45DFAF7917AB.png)</td>
-<td>![](Pictures/10000000000000A900000059BB8D45DFAF7917AB.png)</td>
-</tr>
-<tr class="odd">
-<td>Activité ovarienne normale<br />
-et fonctionnement cyclique<br />
-normal de l’utérus<br />
-</td>
-<td>Pas d’activité ovarienne (ni<br />
-ovulation, ni sécrétion<br />
-hormonale) et pas d’activité<br />
-cyclique de l’utérus</td>
-<td>Reprise d’activité des ovaires<br />
-(ovulation et sécrétion<br />
-hormonale) et de l’activité<br />
-cyclique de l’utérus</td>
-<td>Pas d’activité ovarienne et<br />
-pas d’activité cyclique de<br />
-l’utérus</td>
-</tr>
-</tbody>
-</table>
+    Les règles sont dues à l’élimination de cette muqueuse.
 
-??? note-prof "Correction"
+    L’épaisseur de l’utérus est contrôlée par la quantité d’hormones produites par les ovaires. Lorsque la quantité d’hormones diminue, la muqueuse utérine est éliminée et les règles apparaissent.
 
-    Dans le document 1, on voit que des patients avec des troubles au niveau
-    de l’hypophyse ont des problèmes dans le fonctionnement de leur appareil
-    reproducteur, donc l’hypophyse doit contrôler l’appareil reproducteur
-
-    Dans le document 2 : on voit que l’hypophyse une glande du cerveau
-
-
-
-
-Bilan :
-
-Chez les êtres humains, l’hypophyse (dans le cerveau) contrôle les testicules ou les ovaires grâce à des hormones hypophysaires (LH et FSH). En réponse, les gonades (ovaires ou testicules) produisent des hormones sexuelles (testostérone par les testicules et œstrogènes et progestérones par les ovaires). Ce sont hormones sexuelles qui permettent l’apparition et le maintien des caractères sexuels secondaires et la production de cellules reproductrices.
-
-![](Pictures/schemaControleHormonaleHomme.png)
-
-### Activité  
-
-   ### Activité  Le contrôle hormonal du fonctionnement de l’appareil reproducteur de la femme
-
-Consigne 1 : Analyser l’expérience du document 1 pour vérifier l’hypothèse que l’utérus permet l’apparition des caractères sexuels secondaires
-
-Consigne 2 : Analyser les expériences du document 1 pour vérifier l’hypothèse que les ovaires permettent l’apparition des caractères sexuels secondaires.
-
-Consigne 3 : En utilisant les documents 1, 2, 3, répondre au problème par un schéma fonctionnel.
-
-Compétences travaillées : analyser une expérience et construire un schéma fonctionnel
-
-**Document 1  expériences sur le fonctionnement de l’appareil reproducteur**
-
-Dans cette expérience, le fonctionnement correct de l’appareil reproducteur peut être visualisé par l’apparition de caractères sexuelles secondaires lors de la puberté.
-
-<table>
-<tbody>
-<tr class="odd">
-<td>Lots</td>
-<td>Lot n° 1</td>
-<td>Lot n° 2</td>
-<td>Lot n° 3</td>
-</tr>
-<tr class="even">
-<td>Protocole</td>
-<td><p>Souris femelles</p>
-<p>(témoins)</p></td>
-<td><p>Souris femelles sans utérus</p></td>
-<td><p>Souris femelles castrées</p>
-<p>Castration : ablation des testicules ou des ovaires avant la puberté
-</p></td>
-</tr>
-<tr class="odd">
-<td>![](Pictures/10000000000000A2000000592BB371477074B54A.png)</td>
-<td>![](Pictures/10000000000000A2000000598C3FBAC4397CEE6D.png)</td>
-<td>![](Pictures/10000000000000A2000000598C3FBAC4397CEE6D.png)</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Résultats</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-Document 2 : Des hormones ovariennes.
-
-Les ovaires sécrètent des hormones sexuelles qui sont les œstrogènes et la progestérone.
-
-Ces deux hormones permettent l’ovulation, c’est-à-dire la libération d’un ovule et l’apparition des caractères sexuels secondaires.
-
-Document 3 : Le contrôle des ovaires.
-
-Des expériences ont permis de conclure que l’hypophyse contrôle le fonctionnement des ovaires.
-
-L’hypophyse libère des hormones, LH et FSH qui agissent sur les ovaires et contrôlent leur fonctionnement.
-
-??? note-prof "Correction"
-
-<table>
-<tbody>
-<tr class="odd">
-<td>Hypothèse :</td>
-<td>Les ovaires permettent l’apparition des caractères sexuels
-secondaires.</td>
-</tr>
-<tr class="even">
-<td>Protocole (comparer le test et le témoin, quel paramètre
-change) :</td>
-<td>Témoin : souris (lot 1)<br />
-Test : Souris castrées (lot 2)</td>
-</tr>
-<tr class="odd">
-<td>Résultats attendus<br />
-<br />
-</td>
-<td>Les souris castrées (lot 2) ne devraient pas avoir de caractères
-sexuels secondaires alors que les souris témoins (lot 1) devraient en
-avoir</td>
-</tr>
-<tr class="even">
-<td>Comparaison des résultats : </td>
-<td>Les souris castrées (lot 2) n’ont pas de caractères sexuels
-secondaires alors que les souris témoins (lot 1) en ont.</td>
-</tr>
-<tr class="odd">
-<td>Interprétation :</td>
-<td>L’hypothèse est validée, les ovaires permettent l’apparition des
-caractères sexuels secondaires.</td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<tbody>
-<tr class="odd">
-<td>Hypothèse :</td>
-<td>Les œstrogènes et la progestérone produites par les ovaires permet
-l’apparition des caractères sexuels secondaires.</td>
-</tr>
-<tr class="even">
-<td>Protocole (comparer le test et le témoin, quel paramètre
-change) :</td>
-<td>Témoin : souris (lot 1)<br />
-Test : Souris castrées avec injection d’œstrogènes et de progestérone (lot 3)</td>
-</tr>
-<tr class="odd">
-<td>Résultats attendus<br />
-<br />
-</td>
-<td>Les souris castrées avec une injection d’œstrogènes et de progestérone (lot 3) devraient avoir une apparition des caractères sexuels secondaires comme les souris témoins (lot 1).</td>
-</tr>
-<tr class="even">
-<td>Comparaison des résultats :</td>
-<td>Les souris castrées avec une injection d’œstrogènes et de progestérone (lot 3) ont eu l’apparition des caractères sexuels secondaires comme les souris témoins (lot 1).</td>
-</tr>
-<tr class="odd">
-<td>Interprétation :</td>
-<td>L’hypothèse est validée, les œstrogènes et la progestérone produites par les ovaires permet l’apparition des caractères sexuels secondaires.</td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<tbody>
-<tr class="odd">
-<td>Hypothèse :</td>
-<td>L’hypophyse contrôle le fonctionnement des ovaires.</td>
-</tr>
-<tr class="even">
-<td>Protocole :</td>
-<td>Témoin : souris (lot 1)<br />
-Test : Souris sans hypophyse (lot 2)</td>
-</tr>
-<tr class="odd">
-<td>Résultats attendus :</td>
-<td>Les souris témoin, avec une hypophyse, devraient avoir un fonctionnement normal des ovaires, alors que les souris test, sans hypophyse, ne devraient pas avoir un fonctionnement normal des ovaires.</td>
-</tr>
-<tr class="even">
-<td>Comparaison des résultats : </td>
-<td>Les souris sans hypophyse (lot 2) n’ont pas d’activité normale des ovaires et ne produisent pas d’œstrogènes et de progestérone alors que les souris témoins (lot 1) ont une activité normale et en produisent.</td>
-</tr>
-<tr class="odd">
-<td>Interprétation :</td>
-<td>L’hypothèse est validée, l’hypophyse contrôle le fonctionnement des ovaires.</td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<tbody>
-<tr class="odd">
-<td>Hypothèse :</td>
-<td>La LH et la FSH produites par l’hypophyse contrôlent le fonctionnement des ovaires.</td>
-</tr>
-<tr class="even">
-<td>Protocole :</td>
-<td>Témoin : souris (lot 1)<br />
-Test : Souris sans hypophyse avec injection de LH et FSH (lot 3)</td>
-</tr>
-<tr class="odd">
-<td>Résultats attendus :</td>
-<td>Les souris témoin, avec une hypophyse, devraient avoir un fonctionnement normal des ovaires, comme les souris test, sans hypophyse et avec une injection de LH et FSH.</td>
-</tr>
-<tr class="even">
-<td>Comparaison des résultats :</td>
-<td>Les souris sans hypophyse avec une injection de LH et de FSH (lot 3) produisent de la progestérone et des œstrogènes et ont une activité normale des ovaires comme les souris témoins (lot 1).</td>
-</tr>
-<tr class="odd">
-<td>Interprétation :</td>
-<td>L’hypothèse est validée, la LH et la FSH contrôlent le fonctionnement des ovaires.</td>
-</tr>
-</tbody>
-</table>
-
-#### Le contrôle de l'apparition des caractères sexuels secondaires de la femme
-
-Document 2 : expérience n° 2
-
-<table>
-<tbody>
-<tr class="odd">
-<td>Lots</td>
-<td>Lot n° 1</td>
-<td>Lot n° 2</td>
-<td>Lot n° 3</td>
-</tr>
-<tr class="even">
-<td>Protocole</td>
-<td><p>Souris femelles</p>
-<p>(témoins)</p></td>
-<td><p>Souris femelles castrées</p>
-<p>Castration : ablation des testicules ou des ovaires avant la puberté
-</p></td>
-<td>Souris femelles castrées avec injection d’œstrogènes et de progestérone produite par les ovaires.</td>
-</tr>
-<tr class="odd">
-<td>![](Pictures/10000000000000A2000000592BB371477074B54A.png)</td>
-<td>![](Pictures/10000000000000A2000000598C3FBAC4397CEE6D.png)</td>
-<td>![](Pictures/1000000000000093000000591140CED142378ABC.png)</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Résultats</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-Document 2 : expérience n° 2
-
-<table>
-<tbody>
-<tr class="odd">
-<td>Lots</td>
-<td>Lot n° 1</td>
-<td>Lot n° 2</td>
-<td>Lot n° 3</td>
-</tr>
-<tr class="even">
-<td>Protocole</td>
-<td><p>Souris femelles</p>
-<p>(témoins)</p></td>
-<td><p>Souris femelles ayant subi une hypophysectomie<em> </em></p>
-<p>Hypophysectomie : ablation de l’hypophyse</p></td>
-<td>Souris femelles ayant subi une hypophysectomieavec
-injection d’hormones produites par l’hypophyse (LH et FSH)</td>
-</tr>
-<tr class="odd">
-<td>![](Pictures/100000000000009C00000059EFCD01243816197D.png)</td>
-<td>![](Pictures/10000000000000A700000059DBF7DF72CCDE1BCB.png)</td>
-<td>![](Pictures/10000000000000A900000059BB8D45DFAF7917AB.png)</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Résultats</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-Ces expériences nous permettent de conclure que l’hypophyse contrôle le
-fonctionnement des ovaires grâce à la production de LH et FSH.
-
- ### 
-
-
-
-### Activité  **Le cycle de l’utérus**
-
-Consigne 1 : Réaliser les 4 expériences du doc 1 et compléter le tableau du document 2. *1 point)
-
-Consigne 2 : À partir des expériences 1 et 2, déduisez le rôle des ovaires dans le cycle de l’utérus. Justifier votre réponse à partir des résultats d’expériences. (1,5 points)
-
-Consigne 3 : À partir des expériences 3 et 4, précisez la nature de la communication entre les ovaires et l’utérus. Justifier votre réponse à partir des résultats d’expériences. (1,5 points)
-
-Consigne 4 : En utilisant le document 4 et vos résultats précédents, proposer une hypothèse permettent d’expliquer les variations d’épaisseur de la paroi de l’utérus au cours du cycle. (1 point)
-
-**Document 1 Protocole expérimental.**
-
-Lancez le logiciel « Cycles.exe ».
-
-Expérience 1 :
-
-Cliquez sur l’icône « Organes en place » (en haut à droite)  
-Cliquez sur le bouton « Résultats » (en bas)
-
-Visionnez le résultat au niveau de la couche superficielle de la paroi de l’utérus et notez vos observations dans le tableau (expérience 1
-
-Expérience 2 :
-
-Cliquez sur l’icône « Ablations » (en haut à droite)  
-Retirez chaque ovaire et déposez-les dans la cuvette se trouvant à droite. Pour cela, au niveau de l’ovaire, cliquez sur le bouton gauche de la souris et tout en maintenant appuyé le bouton, déplacez l’ovaire dans la cuvette.  
-Cliquez sur le bouton « Résultats » (en bas)
-
-Visionnez le résultat au niveau de la couche superficielle de la paroi de l’utérus et notez vos observations dans le tableau (expérience 2
-
-Expérience 3 :
-
-Cliquez sur l’icône « Ablations/greffes » (en haut à droite)  
-Retirez chaque ovaire et déposez les dans la cuvette verte du haut ![](Pictures/iconeCuvette.gif). (Au niveau de l’ovaire, cliquez sur le bouton gauche de la souris et tout en maintenant appuyé le bouton, déplacez l’ovaire dans la cuvette).  
-Prenez les deux ovaires de la cuvette du bas et tout en maintenant appuyé le bouton gauche de la souris, déplacez-les au niveau de l’abdomen (au-dessus de l’utérus) pour pouvoir les greffer.  
-Cliquez sur le bouton « Résultats » (en bas)
-
-Visionnez le résultat au niveau de la couche superficielle de la paroi de l’utérus et notez vos observations dans le tableau (expérience 3)
-
-Expérience 4 :
-
-Cliquez sur l’icône « Ablations/Injections » (en haut à droite)  
-Retirez chaque ovaire et déposez les dans la cuvette verte du haut ![](Pictures/iconeCuvette.gif). (Au niveau de l’ovaire, cliquez sur le bouton gauche de la souris et tout en maintenant appuyé le bouton, déplacez l’ovaire dans la cuvette).  
-Prenez la seringue jaune et tout en maintenant appuyé le bouton gauche de la souris, déplacez-la au niveau d’une cuisse pour injecter les extraits ovariens.  
-Cliquez sur le bouton « Résultats » (en bas)
-
-Visionnez le résultat au niveau de la couche superficielle de la paroi de l’utérus et notez vos observations dans le tableau (expérience 4) 
-
-**Document 2 Tableau des résultats des expériences**
-
-<table>
-<tbody>
-<tr class="odd">
-<td></td>
-<td>Description de l’expérience</td>
-<td>Résultats observés au niveau de la couche superficielle de la paroi
-de l’utérus.</td>
-</tr>
-<tr class="even">
-<td>Expérience 1<br />
-(expérience témoin)</td>
-<td>Guenon pubère témoin.</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Expérience 2</td>
-<td>Guenon ayant subi une ablation des ovaires</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Expérience 3</td>
-<td>Guenon ayant subi une ablation des ovaires.<br />
-Puis greffe d’ovaires reliés à l’organisme par des vaisseaux sanguins.
-Les communications nerveuses ne sont pas rétablies.</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Expérience 4</td>
-<td>Guenon ayant subi une ablation des ovaires. Puis injection
-d’extraits ovariens dans le sang (ces extraits ovariens contiennent deux
-hormones sexuelles : œstrogènes et progestérone.)</td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-**Document 3 La communication entre les organes.**
-
-Nos organes communiquent entre-eux. Il existe deux types de communication.
-
-- Communication nerveuse : La communication nerveuse se manifeste par des signaux électriques constituant des messages. Ces messages sont rapidement conduits dans un seul sens par des chaînes de neurones, les nerfs.
-
-- Communication hormonale : Une hormone est une substance produite par des cellules. Elle est libérée en faible quantité dans le sang qui la véhicule. Elle se fixe sur des récepteurs de certains organes dits organes-cibles, dont elle modifie l’activité.
-
-**Document 4 Le cycle utérin.**
-
-![](Pictures/graphCycleUterin.png)
-
-Le début du cycle féminin est défini par le premier jour des règles et dure en moyenne 28 jours.
-
-Les règles sont constituées de lambeaux de muqueuse utérine (=partie supérieure de la paroi de l’utérus qui se détache) et de sang. Les règles se manifestent par écoulement de sang de 5 à 25 ml sur une durée de 3 à 6 jours.
-
-Au cours du cycle, un ovule sera libéré, c’est l’ovulation.
-
-??? note-prof "Correction :"
-
-    **Document 2 Tableau des résultats des expériences**
-
-    <table>
-    <tbody>
-    <tr class="odd">
-    <td></td>
-    <td>Description de l’expérience</td>
-    <td>Résultats observés au niveau de la couche superficielle de la paroi
-    de l’utérus.</td>
-    </tr>
-    <tr class="even">
-    <td>Expérience 1<br />
-    (expérience témoin)</td>
-    <td>Guenon pubère témoin.</td>
-    <td>La paroi s’épaissit puis elle s’amincit enfin des morceaux se
-    détachent.</td>
-    </tr>
-    <tr class="odd">
-    <td>Expérience 2</td>
-    <td>Guenon ayant subi une ablation des ovaires</td>
-    <td>La paroi ne change pas et reste fine</td>
-    </tr>
-    <tr class="even">
-    <td>Expérience 3</td>
-    <td>Guenon ayant subi une ablation des ovaires.<br />
-    Puis greffe d’ovaires sous la peau, reliés à l’organisme par des
-    vaisseaux sanguins. Les communications nerveuses ne sont pas
-    rétablies.</td>
-    <td>La paroi s’épaissit puis elle s’amincit enfin des morceaux se
-    détachent.</td>
-    </tr>
-    <tr class="odd">
-    <td>Expérience 4</td>
-    <td><p>Guenon ayant subi une ablation des ovaires.<br />
-    Puis injection d’extraits ovariens dans le sang (ces extraits
-    ovariens</p>
-    <p>contiennent deux hormones sexuelles : œstrogènes et
-    progestérone.)</p></td>
-    <td>La paroi s’épaissit, mais elle ne s’amincit pas.</td>
-    </tr>
-    </tbody>
-    </table>
-
-    Consigne 2 :
-
-    On observe que lorsque les ovaires sont présents la paroi de l’utérus
-    change d’épaisseur alors que lorsqu’ils sont absents, la paroi de
-    l’utérus ne change pas d’épaisseur.
-
-    On peut donc conclure que les ovaires contrôlent l’évolution de
-    l’épaisseur de la paroi de l’utérus.
-
-    Consigne 3 :
-
-    On voit que lorsque les ovaires sont enlevés et greffés ailleurs, la
-    paroi de l’utérus change d’épaisseur. On sait que lors d’une greffe les
-    nerfs ne sont pas reliés. Donc la communication ne peut être nerveuse.
-    On sait que les vaisseaux sanguins sont rétablis donc la communication
-    peut-être hormonale. De plus on voit que lorsque l’on injecte des
-    hormones ovariennes l’épaisseur de la paroi utérine augmente.
-
-    Consigne 4 : Lorsque la quantité d’hormones sexuelles augmente, plus
-    précisément de progestérone, l’épaisseur de la muqueuse utérine
-    augmente. Lorsque la quantité d’hormones sexuelles diminue, l’épaisseur
-    de la muqueuse utérine diminue.
-
-
-
-Bilan :
-
-Les règles se caractérisent par un écoulement de sang provenant de l’utérus.
-
-De la puberté à la ménopause, lors de chaque cycle, la muqueuse utérine s’épaissit puis est éliminée.
-
-Les règles sont dues à l’élimination de cette muqueuse.
-
-L’épaisseur de l’utérus est contrôlée par la quantité d’hormones produites par les ovaires. Lorsque la quantité d’hormones diminue, la muqueuse utérine est éliminée et les règles apparaissent.
-
-![](Pictures/schemaCycleMenstruel.png)
+    ![](Pictures/schemaCycleMenstruel.png)
 
  ### Quelles conditions doivent être réunies pour qu’un bébé naisse ?
 

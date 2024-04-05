@@ -61,8 +61,8 @@ En février 2014, une épidémie de fièvre hémorragie due au virus Ebola s’e
 ## Séance 3 : Le SIDA et le système immunitaire
 
 
-![](Pictures/campagneSidaFrance.png)
-![](Pictures/nbCasSida2016.jpg) 
+![](Pictures/campagneSidaFrance.png){: style="width: 600px;"}
+![](Pictures/nbCasSida2016.jpg){: style="width: 600px;"}
 
 !!! question "Problématique"
     Quelles sont les conséquences du VIH ?
@@ -72,7 +72,7 @@ Paul a eu une relation non protégée lors d’une soirée. Il s’inquiète sur
 
 [Activité Le VIH et le SIDA](../sida)
 
-![](Pictures/prenventionVIH.png)
+![](Pictures/prenventionVIH.png){: style="width: 600px;"}
 
 La Prep (pre-exposure prophylaxis) s’adresse aux personnes qui n’ont pas le VIH, et consiste à prendre un médicament afin d’éviter de se contaminer. 93%
 
