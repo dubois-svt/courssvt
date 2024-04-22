@@ -32,3 +32,4 @@
 **Document 2 conversion volume masse de l'eau**
 
 1 L d'eau correspond à 1 kg.
+1 ml d'eau correspond à 1g.
