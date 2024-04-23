@@ -187,6 +187,9 @@ nav :
         - Fabrication du pain : 6e/alimentation/fabricationPain.md
 
         - Fiche Révision : 6e/alimentation/ficheAlim.md
+      - Séquence Reproduction des plantes :
+        - Introduction : 6e/ReproPlantes/IntroReproPlantes.md
+        - Fiche Révision : 6e/ReproPlantes/ficheReproPlantes.md
       #- Séquence Propriété de la matière : 
       #    - Introduction : 6e/ProprietesMatiere/IntroMatiere.md
       #    - Activité Importance du tri des déchets : 6e/ProprietesMatiere/Decomposition.md
@@ -201,7 +204,7 @@ nav :
       #- Séquence Électricité :
       #- Séquence Transmission de l’information :
       #- Séquence Organisation des êtres vivants  :
-      #- Séquence Cycle de vie  :
+      #
       #- Séquence Reproduction et sexualité humaine :
       #- Séquence La Terre, une planète singulière et active :
       #- Séquence Écosystème : 

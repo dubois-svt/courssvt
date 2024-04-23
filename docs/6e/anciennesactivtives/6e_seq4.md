@@ -116,8 +116,8 @@ graines, les pommes. Ce phénomène permet la reproduction des pommiers
   
   
 
-Document 4 : La
-pomme.![](Pictures/1000000000000459000001F243BDB35F0A79CC1A.jpg)
+Document 4 : La pomme.
+![](Pictures/pommeGraine.jpg)
 
 
 La pomme est un fruit qui contient plusieurs pépins, ce sont des graines
@@ -139,7 +139,7 @@ racines et de nouvelles tiges se forment et grandissent.
   
 
   
-![](Pictures/100000000000017900000177E46DC34CF7FA7BCE.png)
+![](Pictures/cycleViePommier.png)
 ![](Pictures/10000000000001D2000002511EAE02D26738EBD4.png)
 
 
@@ -528,12 +528,12 @@ L’âge de la puberté n’est pas le même pour tout le monde.
 
 1.  ### Comment se forment un fruit et des graines ?
 
-![](Pictures/10000000000001FE000000D3724A12DDE82B1785.jpg)
+![](Pictures/transfoFleurFruit.jpg)
 
 
 Transformation de la fleur de prunier en prune
 
-![](Pictures/10000000000004390000023B7D07A2DF3BF3AA4D.jpg)
+![](Pictures/transfoFleurFruit2.jpg)
 
 
 1.  #### La fleur
@@ -623,7 +623,7 @@ Légender les pièces florales.
 
 ***Document 4 :***
 
-![](Pictures/10000001000001C20000014C3950376921D5688B.png)
+![](Pictures/forsythia.png)
 
 
 Bilan :
@@ -636,7 +636,7 @@ Les étamines portent les sacs polliniques contenant le pollen.
 
 Le pistil contient des ovules.
 
-#### ![](Pictures/10000000000001FE000000D3724A12DDE82B1785.jpg)
+#### ![](Pictures/transfoFleurFruit.jpg)
 
 
 1.  #### La formation du fruit et des graines
@@ -720,8 +720,8 @@ et qui a reçu du pollen d’une autre espèce sur son pistil.</td>
 
 Document 2 : de la fleur au fruit
 
-![](Pictures/10000000000001E80000012C465FE966885ED199.png)
-![](Pictures/10000001000002FB0000019DAD890A9B91634148.png)
+![](Pictures/schemaFruit.png)
+![](Pictures/schemaFleur.png)
 
 
 Aides :
@@ -804,339 +804,6 @@ rencontrer et permettre la fécondation.
 La fleur va se transformer. Le pistil va former un fruit et les ovules
 qui sont à l’intérieur du pistil vont donner des graines. Les autres
 éléments meurent.
-
-## Séance 4 : Production et conservation des aliments que nous consommons
-
-1.  ### **Comment la pâte à pain peut-elle gonfler** ?
-
-<table>
-<tbody>
-<tr class="odd">
-<td>Types de pain</td>
-<td>ingrédients</td>
-<td>Étapes</td>
-</tr>
-<tr class="even">
-<td>Pain blanc</td>
-<td>500g de farine<br />
-10g de sel<br />
-3200 ml d’eau<br />
-8g de levure de boulanger</td>
-<td><p>Mélanger les ingrédients</p>
-<p>pétrissage.</p>
-<p>Laisser reposer la pâte</p>
-<p>Façonner la pâte</p>
-<p>Laisser reposer la pâte</p>
-<p>cuisson à 240 °C</p></td>
-</tr>
-<tr class="odd">
-<td>Pain azyme</td>
-<td>500 g de farine<br />
-12,5 de sel<br />
-250 ml d’eau<br />
- </td>
-<td><p>Mélanger les ingrédients</p>
-<p>cuisson à 200 °C</p></td>
-</tr>
-</tbody>
-</table>
-
-Fiche méthode
-
-La démarche scientifique
-
-La démarche expérimentale comporte 6 étapes :
-
-**PROBLÈME – HYPOTHÈSE – EXPÉRIENCES – RÉSULTATS ATTENDUS – RÉSULTATS
-OBSERVES – INTERPRÉTATION. **
-
-Il est important de noter tous les éléments de la démarche scientifique
-et toujours marquer et souligner le nom de l’étape que vous êtes en
-train de rédiger.
-
-Formuler un problème scientifique
-
-En observant les phénomènes qui nous entourent, on peut être amené à
-dégager un problème scientifique c’est-à-dire une question scientifique.
-
-Proposer une ou plusieurs hypothèses
-
-C’est une proposition de réponse au problème. Elle n’est pas forcément
-vraie, mais elle doit être précise et être une réponse scientifique
-testable.
-
-Tester les hypothèses
-
-On peut tester une hypothèse par des expériences, des manipulations ou
-des recherches.
-
-Pour faire une expérience, il est nécessaire de bien réfléchir au
-protocole c’est-à-dire à ce que l’on va faire dans l’expérience.
-
-Si les hypothèses sont testées par des expériences il faut prévoir une
-expérience pour chaque hypothèse et respecter 3 règles pour concevoir un
-protocole :
-
- ne tester que l’effet d’un seul paramètre, soit en le supprimant, soit
-en le faisant varier. Tous les autres paramètres doivent rester
-constants.
-
- Faire en parallèle deux montages un montage test et un montage témoin
-(le montage dans les conditions normales, il permet de comparer les
-résultats), on décrira le protocole en comparant les deux montages et en
-indiquant la différence entre les deux.
-
- Répéter l’expérience plusieurs fois si possible.
-
-Avant de réaliser l’expérience, il faut écrire les résultats attendus.
-C'est-à-dire les résultats que l’on prévoit obtenir si l’hypothèse est
-validée.
-
-Réfléchir aux conséquences vérifiables. Indiquer ce que l’on devrait
-observer comme résultat à la fin de l’expérience.
-
-Observer et exploiter les résultats
-
-On doit absolument noter les résultats et il faut les interpréter,
-c’est-à-dire leur donner un sens. Pour interpréter les résultats, il
-faut les comparer deux à deux. On compare dans ce cas le témoin avec une
-autre expérience ayant une seule différence au départ.
-
-Conclure sur la validité de l’hypothèse et répondre au problème par une
-synthèse.
-
-1.  #### La levure et la pâte à pain.
-
-Consigne 1 : À partir des documents, proposer une expérience permettant
-de vérifier notre hypothèse, appeler le professeur pour vérification.
-
-Consigne 2 : Réaliser l’expérience.
-
-Consigne 3 : Compléter le tableau du document 3 jusqu’aux résultats
-attendus.
-
-Consigne 4 : Observer les deux pains, coupez-les en deux et compléter la
-fin du tableau.
-
-Document 1 : Recette pour fabriquer du pain.
-
-<div markdown="1">
-
-***Ingrédients ***:
-
--   30 g de farine
--   30 ml d’eau tiède
--   1/2 sachet de levure boulangère
--   1/2 pincée de sel
-
-Étapes :
-
-1.  Mélanger l’eau et la levure (cette étape à déjà été faite)
-2.  Mélanger, dans un récipient, la farine, le sel et l’eau
-3.  Pétrir 4 minutes et faire une boule avec la pâte
-4.  Laisser gonfler 5 minutes de chaque côté
-5.  Cuire 1 minute au micro-ondes.
-
-</div>
-
-Document 2 : Analyse de l’expérience.
-
-<table>
-<tbody>
-<tr class="odd">
-<td>Problème = question scientifique</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Hypothèse = proposition de réponse au problème</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Protocole = comparer les deux tests de l’expérience en précisant la
-différence entre les deux</td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Résultats attendus =</p>
-<p>Résultats que l’on devrait avoir si l’hypothèse est vérifiée</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Résultats observés =</p>
-<p>Résultats que l’on observe réellement</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Conclusion = Hypothèse validée ou non et </p>
-<p>reformuler cette hypothèse</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-Bilan :
-
-Pour fabriquer du pain, on utilise des levures. Les levures sont des
-micro-organismes. Ce sont des êtres vivants unicellulaires. Ces levures
-permettent de faire gonfler la pâte à pain.
-
-On utilise d’autres micro-organismes, par exemple des bactéries, pour
-faire le fromage ou des yaourts.
-
-1.  ### ![](Pictures/10000000000002A50000039F50C617EDA0B78DFF.jpg)
-    Comment les levures font-elles gonfler le pain ?
-
-![](Pictures/10000000000002700000039FBD86E3B6CA07B616.jpg)
-
-
-1.  #### Le rôle de la levure dans le gonflement du pain
-
-Consigne : Analyse l’expérience du document 2 en complétant le tableau
-du document 3.
-
-![](Pictures/10000000000001900000012C0FE7F99CA0706A65.jpg)
-Document 1 : Photo de levures
-observées au microscope (x600)
-
-La levure est un champignon microscopique utilisé dans la fabrication de
-divers aliments et boissons : pain, bière, vin, etc.
-
-Pour fabriquer du pain, il faut d’abord faire une pâte avec de la farine
-et de l’eau qu’on laisse reposer avant de la cuire. Pour se nourrir, les
-levures consomment des sucres.
-
-Document 2 : Expérience pour mettre en évidence le rôle des levures.
-
-Les scientifiques ont voulu tester l’hypothèse que les levures
-produisent un gaz.
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>Début de l’expérience<br />
-<br />
-</p></td>
-<td>![](Pictures/2000000A0000098B0000100A36F64010354B8DE5.svm)
-</td>
-<td>![](Pictures/2000000A0000098B0000100A36F64010354B8DE5.svm)
-</td>
-</tr>
-</tbody>
-</table>
-
-Document 3 : Analyse de l’expérience.
-
-<table>
-<tbody>
-<tr class="odd">
-<td>Problème</td>
-<td>Comment expliquer que les levures font gonfler le pain ?</td>
-</tr>
-<tr class="even">
-<td>Hypothèse</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Protocole</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Résultats attendus</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Résultats observés</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Conclusion</td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-#### 
-
-1.  #### Le rôle de la levure dans le gonflement du pain
-
-Consigne : Analyse l’expérience du document 2 en complétant le tableau
-du document 3.
-
-![](Pictures/10000000000001900000012C0FE7F99CA0706A65.jpg)
-Document 1 : Photo de levures
-observées au microscope (x600)
-
-La levure est un champignon microscopique utilisé dans la fabrication de
-divers aliments et boissons : pain, bière, vin, etc.
-
-Pour fabriquer du pain, il faut d’abord faire une pâte avec de la farine
-et de l’eau qu’on laisse reposer avant de la cuire. Pour se nourrir, les
-levures consomment des sucres.
-
-Document 2 : Expérience pour mettre en évidence le rôle des levures.
-
-Les scientifiques ont voulu tester l’hypothèse que les levures
-produisent un gaz.
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>Début de l’expérience<br />
-<br />
-</p></td>
-<td>![](Pictures/2000000A0000098B0000100A36F64010354B8DE5.svm)
-</td>
-<td>![](Pictures/2000000A0000098B0000100A36F64010354B8DE5.svm)
-</td>
-</tr>
-<tr class="even">
-<td>Fin de l’expérience (après quelques heures)</td>
-<td>![](Pictures/2000000A0000098B0000100A36F64010354B8DE5.svm)
-</td>
-<td>![](Pictures/2000000A0000096B0000129181F9042D837D1C23.svm)
-le ballon contient un gaz, le
-dioxyde de carbone.</td>
-</tr>
-</tbody>
-</table>
-
-Document 3 : Analyse de l’expérience.
-
-<table>
-<tbody>
-<tr class="odd">
-<td>Problème</td>
-<td>Comment expliquer que les levures font gonfler le pain ?</td>
-</tr>
-<tr class="even">
-<td>Hypothèse</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Protocole</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Résultats attendus</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Résultats observés</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Conclusion</td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-Bilan :
-
-Les levures vont faire gonfler la pâte à pain en produisant un gaz, le
-dioxyde de carbone.
-
-Ce gaz va créer des petites bulles dans la pâte.
 
 1.  ### Comment conserver les aliments ?
 
