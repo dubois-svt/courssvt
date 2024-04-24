@@ -13,23 +13,22 @@
     
 ### Document d’appel :
 
-![alt text](pictures/cycleViePommier.png)
+<div marckdown style="display: flex; flex-direction:row">
+![](pictures/cycleViePommier.png)
 
-![alt text](pictures/pommeGraine.jpg)
+![](pictures/pommeGraine.jpg){: style="width: 200px;"}
+</div>
 
 ## Séance 1 : Fomration des fruits et des graines
 
 !!! question "Problématique"
     Comment se forment un fruit et des graines ?
 
+
+![Transformation de la fleur de prunier en prune](pictures/transfoFleurFruit.jpg)
+
 [Activité Formation des fruits et des graines](../formationGraines)
 
-![](pictures/transfoFleurFruit.jpg)
-
-
-Transformation de la fleur de prunier en prune
-
-![](pictures/transfoFleurFruit2.jpg)
 
 
 ??? abstract "Bilan"
