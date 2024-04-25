@@ -139,7 +139,8 @@ et qui a reçu du pollen d’une autre espèce sur son pistil.</td>
 </table>
 
 **Document 3 de la fleur au fruit**
-<div marckdown style="display: flex; flex-direction:row">
+
+<div markdown style="display: flex; flex-direction:row">
 ![](pictures/schemaFleur.png){: style="width: 300px;"}
 ![](pictures/schemaFruit.png){: style="width: 300px;"}
 

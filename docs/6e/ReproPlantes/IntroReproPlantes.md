@@ -13,13 +13,13 @@
     
 ### Document d’appel :
 
-<div marckdown style="display: flex; flex-direction:row">
+<div markdown style="display: flex; flex-direction:row">
 ![](pictures/cycleViePommier.png)
 
 ![](pictures/pommeGraine.jpg){: style="width: 200px;"}
 </div>
 
-## Séance 1 : Fomration des fruits et des graines
+## Séance 1 : Formation des fruits et des graines
 
 !!! question "Problématique"
     Comment se forment un fruit et des graines ?
@@ -38,27 +38,30 @@
 
     Les étamines produisent du pollen qui contient les cellules reproductrices mâles et le pistil contient des ovules qui contiennent les cellules reproductrices femelles.
 
-    Si le pollen se dépose sur le pistil d’une fleur de la même espèce, c’est la pollinisation, les cellules mâles et femelles vont se rencontrer et permettre la fécondation.
+    Si le pollen se dépose sur le pistil d’une fleur de la même espèce, les cellules mâles et femelles vont se rencontrer et permettre la fécondation.
 
     La fleur va se transformer. Le pistil va former un fruit et les ovules qui sont à l’intérieur du pistil vont donner des graines. Les autres éléments meurent.
 
-    *Définition reproduction sexuée : *formation d’un nouvel individu issu d’un mélange entre des organes mâles et femelles.
+    Définition reproduction sexuée : formation d’un nouvel individu issu d’un mélange entre des organes mâles et femelles.
 
-    *Définition pollinisation : *Transport du pollen, des étamines jusqu’au pistil.
+
 
 
 ## Séance 2 : La pollinisation
 
+Introduction Chez la plupart des plantes, les grains de pollen d'une fleur doivent être déplacés pour polliniser le pistil d'une autre fleur de la même espèce.
+
 !!! question "Problématique"
-    Quels sont les éléments permettant la pollinisation ?
+    Comment les insectes et les plantes coopèrent-ils au cours de la pollinisation ?
     
-[Activité nom activité](../lien vers l'activité)
+[Activité La pollinisation par les abeilles](../pollinisation)
 
 
 
 
 ??? abstract "Bilan"
-    Bilan
+    
+    Définition pollinisation : Transport du pollen, des étamines jusqu’au pistil.
 
 <div style="page-break-after: always;"></div>
 
