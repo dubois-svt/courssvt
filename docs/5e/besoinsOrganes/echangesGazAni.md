@@ -6,9 +6,9 @@
 
 !!! warning "Consignes"
 
-    Consigne collaborative : indiquer en justifiant les gaz qui sont échangés par l’être vivant de votre document.  
-    Consigne collaborative : retrouver dans quel milieu les échanges se font et les caractéristiques de l’organe respiratoire.   
-    Consigne coopérative : Présentez, sous la forme de votre choix, les gaz échangés par les êtres vivants, les différents organes, leurs caractéristiques qui permettent aux animaux de respirer en les reliant à leur milieu de vie.
+    1. Consigne collaborative : indiquer en justifiant les gaz qui sont échangés par l’être vivant de votre document.  
+    2. Consigne collaborative : retrouver dans quel milieu les échanges se font et comparer la surface de l’organe respiratoire à celle du corps.   
+    3. Consigne coopérative : Présentez, sous la forme de votre choix, les gaz échangés par les êtres vivants, les différents organes, leurs caractéristiques qui permettent aux animaux de respirer en les reliant à leur milieu de vie.
     
 ??? bug "Critères de réussite"
     - identifier les échanges gazeux
@@ -52,6 +52,7 @@ On mesure la teneur en dioxyde de carbone et en dioxygène dans l’air d’un
 
 ![](pictures/poumons.png){: style="width: 300px;"}
 
+Les souris ont des poumons comme les humains.
 Lors de l’inspiration, le diaphragme, situé sous les poumons, se contracte. La cage thoracique s’agrandit et l’air est aspiré dans les voies respiratoires. À l’expiration, ce muscle se relâche et l’air est repoussé vers l’extérieur.
 
 </div>
@@ -62,7 +63,7 @@ Lors de l’inspiration, le diaphragme, situé sous les poumons, se contracte. L
 
 **Document 4 Le détail des alvéoles à l’intérieur des poumons**
 
-Chaque bronchiole débouche sur de minuscules alvéoles dont la fine paroi contient des vaisseaux sanguins. Cette paroi est 300 fois plus fine qu’un cheveu et réalise avec les vaisseaux sanguins une surface de 75 m2, ce qui est plus grand qu’une salle de classe.
+Chaque bronchiole débouche sur de minuscules alvéoles dont la fine paroi contient des vaisseaux sanguins. Cette paroi est 300 fois plus fine qu’un cheveu et réalise avec les vaisseaux sanguins une surface de 75 m2, ce qui est plus grand qu’une salle de classe. La surface de la peau chez un humain est de 2m<sup>2</sup>
 
 ![](pictures/alveolesPulmonaires.png){: style="width: 300px;"}
 
@@ -98,7 +99,7 @@ L’air est un mélange de plusieurs gaz que l’on peut détecter avec différe
 
 ![](pictures/echangesO2Criquet.png)
 
-On mesure, à l’aide d’un oxymètre, la quantité de dioxygène dissous dans l’eau d’une enceinte contenant ou non des poissons.
+On mesure, à l’aide d’un oxymètre, la quantité de dioxygène dissous dans l’air d’une enceinte contenant ou non des criquets.
 
 
 </div>

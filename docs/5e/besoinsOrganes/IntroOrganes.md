@@ -61,27 +61,52 @@ Situation déclenchante : Lors des compétitions de sprint, certains sportifs pa
 [Activité système circulatoire des animaux](../systCircu)
 
 
-
-
-
-
-
-
-
-
 ??? abstract "Bilan"
-    Les nutriments et les gaz sont transportés dans un liquide appelé sang ou hémolymphe.
+    Les nutriments, les déchets et les gaz (dioxygène et dioxyde de carbone) sont transportés dans un liquide appelé sang ou hémolymphe.
     Ce liquide circule dans un système circulatoire qui peut être fermé ou ouvert sur l'intérieur du corps de l'animal.
-    Un appareil circulatoire fermé est composé de vaisseaux : artères, veines et capillaires. Un appareil circulatoire ouvert contient des artères, parfois des capillaires et des veines.
+
+    Le sang circule dans un système fermé, des vaisseaux sanguins. Il y en a 3 types différents :
+    - les artères qui amènent le sang du cœur vers les organes,
+    - les veines qui amènent le sang des organes au cœur
+    - les capillaires qui sont des vaisseaux sanguins fins dans les organes qui permettent les échanges.
+
     Le liquide circulant est mis en mouvement par un muscle creux : le cœur.
     En se relâchant, le cœur se remplit de liquide. En se contractant, le cœur propulse le liquide dans les artères.
 
 <div style="page-break-after: always;"></div>
-Le dioxygène et les nutriments sont amenés aux organes grâce à des systèmes circulatoires.
-Chez les mammifères, le sang est un liquide qui permet de transporter le dioxygène, les nutriments et les déchets.
-Le sang circule dans un système fermé, des vaisseaux sanguins. Il y en a 3 types différents :
-les artères qui amènent le sang du cœur vers les organes,
-les veines qui amènent le sang des organes au cœur
-les capillaires qui sont des vaisseaux sanguins fins dans les organes qui permettent les échanges.
-Ce sont les battements du cœur qui permettent de mettre en mouvement le sang.
-Chez les insectes, un liquide, l’hémolymphe circule dans le corps dans un système ouvert.
+
+
+## Séance 4 : La nutrition des cellules animales
+
+
+Observation d’un muscle avant (à gauche) et après (à droite) un effort physique de quelques minutes au microscope optique.
+Les réserves glucidiques sont marquées en rose, les noyaux en noir. Les muscles sont capables de réaliser des efforts plus longs que quelques minutes grâce à un apport de matière organique.
+
+
+![](pictures/consoGlucCellMuscle.png)
+
+!!! question "Problématique"
+    Comment les cellules peuvent-elles s’approvisionner en gaz et en nutriments, et évacuer leurs déchets ?
+
+
+
+
+[Activité La nutrition des cellules animales](../nutriCellAni)
+
+
+??? abstract "Bilan"
+
+
+    Lors de la respiration cellulaire, les cellules animales consomment du dioxygène et des
+    nutriments pour fonctionner et produire de l'énergie.
+    Ces éléments sont apportés aux cellules par le sang ou l'hémolymphe, qui arrive dans les
+    tissus par les capillaires sanguins.
+    Le fonctionnement de la cellule et la respiration cellulaire produisent des déchets comme le
+    dioxyde de carbone et l'urée. Ceux-ci sont rejetés dans le sang puis éliminés hors de
+    l'organisme par les échanges respiratoires et les reins.
+
+## Séance 5 : Exercices sur l'effort
+
+
+
+[Activité exercices](../exercices)
