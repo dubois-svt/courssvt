@@ -9,10 +9,14 @@
 Le cœur bat périodiquement c’est-à-dire que les battements se répètent dans le temps. On obtient alors une courbe avec des ondulations comme celles des électrocardiogrammes (ECG) pour l’activité électrique du cœur. Un pic est une décharge électrique du cœur qui se contracte.
 
 
-![Exemple d'électrocardiogramme](exempleECG.png)
+![Exemple d'électrocardiogramme](pictures/exempleECG.png)
 
-![Patient 1](pictures/ECGpatient1.png)![Patient 2](pictures/ECGpatient2.png)
 
+<div markdown style="display:flex; flex-direction: row;">
+
+![Patient 1](pictures/ECGpatient1.png) ![Patient 2](pictures/ECGpatient2.png)
+
+</div>
 
 ## Exercice 2 Représenter l’évolution de la fréquence cardiaque 	
 
@@ -25,10 +29,10 @@ Trois élèves font un footing d’échauffement pendant 4 minutes et un capteur
     2. Indiquer par une flèche rouge à quel moment commence l'exercice physique et par une flèche verte à quel moment il termine 
 
 
-
+![](pictures/graphFreqCard.png)
 
 | Minutes |  0 |  2 |  4 |  6  |  8 | 10 | 12 | 14 | 16 |
-|:-------:|:--:|:--:|:--:|:---:|:--:|:--:|:--:|:--:|:--:|
+|---------|----|----|----|-----|----|----|----|----|----|
 |  Pierre | 78 | 78 | 84 | 102 | 92 | 78 | 78 | 76 | 76 |
 |   Ines  | 80 | 82 | 92 | 108 | 98 | 86 | 80 | 82 | 80 |
 |   Nath  | 76 | 76 | 82 |  96 | 86 | 76 | 76 | 76 | 76 |
@@ -46,6 +50,7 @@ Trois élèves font un footing d’échauffement pendant 4 minutes et un capteur
 On mesure la fréquence cardiaque et la fréquence respiratoire de quelques élèves au repos et en activité (15 flexions-extensions des jambes en 30 secondes).
 
 | élèves | Lucas  | Youssra | Julie | 
+|---|---|---|---|
 | fréquence respiratoire au repos  | 15  | 18  | 21 | 
 | fréquence respiratoire pendant une activité physique |  29 | 28 | 34 | 
 | Fréquence respiratoire après  2 minutes de repos | 15 | 18 | 21 | 

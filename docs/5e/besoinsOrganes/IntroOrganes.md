@@ -73,6 +73,9 @@ Situation déclenchante : Lors des compétitions de sprint, certains sportifs pa
     Le liquide circulant est mis en mouvement par un muscle creux : le cœur.
     En se relâchant, le cœur se remplit de liquide. En se contractant, le cœur propulse le liquide dans les artères.
 
+    **Document 5 : Représentation schématique de la circulation sanguine**
+    ![](pictures/schemaDoubleCirculation.png)
+
 <div style="page-break-after: always;"></div>
 
 

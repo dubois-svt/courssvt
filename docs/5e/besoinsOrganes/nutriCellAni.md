@@ -36,7 +36,7 @@ La respiration cellulaire est une réaction chimique qui permet aux cellules d
 
 **Document 3 Une observation au microscope électronique à balayage d’un capillaire sanguin coupé au niveau d’un muscle**
 
-![](pictures/photoCapillaireMEB.png)
+![](pictures/photoCapillaireMEB.png){: style="width: 300px;"}
 
 **Document 4 Le devenir des molécules utilisées par les cellules**
 
