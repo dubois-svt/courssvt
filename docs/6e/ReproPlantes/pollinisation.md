@@ -20,9 +20,11 @@
 
 **Document 1 Attraction des insectes pollinisateurs par les fleurs**
 
+
+<div markdown style="display:flex; flex-direction:row">
 ![Fleur d'orchidée Ophrys apifera](pictures/orchidee.png) 
 ![Fleur de mimule](pictures/mimules.png)
-
+</div>
 Certaines fleurs ont des formes et des couleurs ressemblant à des insectes pour attirer d'autres insectes. 
 Les fleurs peuvent dégagées des odeurs qui vont attirer les insectes. 
 D'autres fleurs produisent du nectar. Le nectar est riche en sucres dont les insectes se nourrissent. 
@@ -31,16 +33,29 @@ D'autres fleurs produisent du nectar. Le nectar est riche en sucres dont les ins
 
 **Document 2 Grains de pollen observés au microscope**
 
+
+<div markdown style="display:flex; flex-direction:row">
+<div markdown style="display:flex; flex-direction:row; flex: 1 1 0;">
+
 ![](pictures/grainPollen.png)
+</div>
+<div markdown style="display:flex; flex-direction:column; flex: 2 1 0;">
 
 Les grains de pollen de différentes espèces de plantes sont observés au microscope à balayage, un outil puissant qui permet d'obtenir des images en relief (de fausses couleurs ont ensuite été ajoutées). L'ornementation de certains grains de pollen leur permet de bien s'accrocher au corps des pollinisateurs.
+</div>
+</div>
 
 **Document 3 Adaptation du corps des insectes à la pollinisation**
+<div markdown style="display:flex; flex-direction:row">
+<div markdown style="display:flex; flex-direction:row; flex: 1 1 0;">
 
 ![](pictures/abeillesPollen.png)
+</div>
+<div markdown style="display:flex; flex-direction:column; flex: 2 1 0;">
 
 La tête de l'abeille porte une langue lui permettant d'aspirer le nectar dont elle se nourrit. Sur ses pattes, des poils rigides permettent la collecte du pollen, une autre ressource alimentaire des abeilles.
-
+</div>
+</div>
 
 **Document 4 Vocabulaire**
 
