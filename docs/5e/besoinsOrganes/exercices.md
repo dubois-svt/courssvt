@@ -31,11 +31,61 @@ Trois élèves font un footing d’échauffement pendant 4 minutes et un capteur
 
 ![](pictures/graphFreqCard.png)
 
-| Minutes |  0 |  2 |  4 |  6  |  8 | 10 | 12 | 14 | 16 |
-|---------|----|----|----|-----|----|----|----|----|----|
-|  Pierre | 78 | 78 | 84 | 102 | 92 | 78 | 78 | 76 | 76 |
-|   Ines  | 80 | 82 | 92 | 108 | 98 | 86 | 80 | 82 | 80 |
-|   Nath  | 76 | 76 | 82 |  96 | 86 | 76 | 76 | 76 | 76 |
+
+<table>
+<thead>
+<tr>
+<th>Minutes</th>
+<th>0</th>
+<th>2</th>
+<th>4</th>
+<th>6</th>
+<th>8</th>
+<th>10</th>
+<th>12</th>
+<th>14</th>
+<th>16</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pierre</td>
+<td>78</td>
+<td>78</td>
+<td>84</td>
+<td>102</td>
+<td>92</td>
+<td>78</td>
+<td>78</td>
+<td>76</td>
+<td>76</td>
+</tr>
+<tr>
+<td>Ines</td>
+<td>80</td>
+<td>82</td>
+<td>92</td>
+<td>108</td>
+<td>98</td>
+<td>86</td>
+<td>80</td>
+<td>82</td>
+<td>80</td>
+</tr>
+<tr>
+<td>Nath</td>
+<td>76</td>
+<td>76</td>
+<td>82</td>
+<td>96</td>
+<td>86</td>
+<td>76</td>
+<td>76</td>
+<td>76</td>
+<td>76</td>
+</tr>
+</tbody>
+</table>
 
 
 ## Exercice 3 . La fréquence respiratoire

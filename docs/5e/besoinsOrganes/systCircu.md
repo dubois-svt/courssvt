@@ -14,13 +14,42 @@
     - 
 
 
-| Fonctions |  Humain    |   crevettes  |
-|---|---|---|
-| transport du sang du coeur aux organes |    |    |   
-| transport du sang des organes aux coeur |    |    |  
-| mise en mouvement du sang |    |    |    
-| echanges entre le sang et les organes |    |    | 
-| liquide  |    |    | 
+<table style="width:100%">
+<thead>
+<tr>
+<th style="width:20%">Fonctions</th>
+<th style="width:40%">Humain</th>
+<th style="width:40%">crevettes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>transport du sang du coeur aux organes</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>transport du sang des organes aux coeur</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>mise en mouvement du sang</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>échanges entre le sang et les organes</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>liquide</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 **Document  1 Le système circulatoire d'un organisme arthropode, comme la crevette**
 La carapace transparente de cette crevette permet de voir l'hémolymphe bleue chez les
@@ -29,10 +58,10 @@ Le système circulatoire est composé d’un vaisseau dorsal constitué de plusi
 Il revient au vaisseau dorsal par des perforations au niveau des cœurs.
 
 <div markdown style="display:flex; flex-direction: row;">
-![](pictures/crevette.png)
+![](pictures/crevette.png){: style="width: 300px;"}
 
 
-![](pictures/systCircuCrevette.png)
+![](pictures/systCircuCrevette.png){: style="width: 300px;"}
 
 </div>
 
@@ -41,7 +70,7 @@ Il revient au vaisseau dorsal par des perforations au niveau des cœurs.
 
 Un appareil circulatoire clos est composé d'un coeur, d'artères, de capillaires et de veines. Le liquide circulant est envoyé dans les vaisseaux sanguins.
 
-![](pictures/systCircuHumain.png)
+![](pictures/systCircuHumain.png){: style="width: 300px;"}
 
 
 
@@ -49,4 +78,4 @@ Un appareil circulatoire clos est composé d'un coeur, d'artères, de capillair
 
 Le cœur est une pompe qui expulse le sang des oreillettes vers les ventricules, puis des ventricules vers les artères. En se relâchant, il se remplit de sang provenant des veines. Le sang se contracte environ 70 fois par minute au repos, en une journée, il propulse près de 8000 litres de sang en se contractant plus de 100 000 fois.
 
-![](pictures/schemaCoeur.png)
+![](pictures/schemaCoeur.png){: style="width: 300px;"}
