@@ -49,7 +49,7 @@
 
 ## Séance 2 : La pollinisation
 
-Introduction Chez la plupart des plantes, les grains de pollen d'une fleur doivent être déplacés pour polliniser le pistil d'une autre fleur de la même espèce.
+Chez la plupart des plantes, les grains de pollen d'une fleur doivent être déplacés pour polliniser le pistil d'une autre fleur de la même espèce.
 
 !!! question "Problématique"
     Comment les insectes et les plantes coopèrent-ils au cours de la pollinisation ?
@@ -63,5 +63,31 @@ Introduction Chez la plupart des plantes, les grains de pollen d'une fleur doive
     
     Définition pollinisation : Transport du pollen, des étamines jusqu’au pistil.
 
+    La pollinistion peut se faire par le vent ou des insectes.
+    Beaucoup de fleurs sont pollinisées grâce à des insectes, qu'elles attirent par différents signaux : pétales grands et colorés, molécules odorantes et nectar.
+    En se posant sur ces fleurs, les insectes récoltent leur nourriture, mais ils se couvrent aussi de pollen. Lors de la visite d'une autre fleur, ils déposent ce pollen sur le pistil.
+
+    On parle de coopération entre plantes et insectes car chaque partenaire en tire des bénéfices.
+
+
+
 <div style="page-break-after: always;"></div>
+
+
+## Séance 3 : Les conséquences des activités humains sur les pollinisateurs
+
+
+!!! question "Problématique"
+    Quelles conséquences pourraient avoir la disparition des insectes pollinisateurs ?
+
+
+[Activité La disparition des abeilles](../dispAbeilles)
+
+
+
+
+??? abstract "Bilan"
+
+    La disparition des pollinisateurs serait une catastrophe pour notre alimentation, car de nombreuses plantes ne pourraient plus produire ni les fruits ni les graines dont nous nous nourrissons.
+    Les insectes pollinisateurs sont pourtant mis en péril par de nombreuses actions humaines, dont l'utilisation des pesticides ou l'introduction d'espèces prédatrices.
 

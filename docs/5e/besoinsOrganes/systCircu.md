@@ -61,7 +61,7 @@ Il revient au vaisseau dorsal par des perforations au niveau des cœurs.
 ![](pictures/crevette.png){: style="width: 300px;"}
 
 
-![](pictures/systCircuCrevette.png){: style="width: 300px;"}
+![](pictures/systCircuCrevette.png){: style="width: 400px;"}
 
 </div>
 
@@ -70,7 +70,7 @@ Il revient au vaisseau dorsal par des perforations au niveau des cœurs.
 
 Un appareil circulatoire clos est composé d'un coeur, d'artères, de capillaires et de veines. Le liquide circulant est envoyé dans les vaisseaux sanguins.
 
-![](pictures/systCircuHumain.png){: style="width: 300px;"}
+![](pictures/systCircuHumain.png){: style="width: 400px;"}
 
 
 
@@ -78,4 +78,4 @@ Un appareil circulatoire clos est composé d'un coeur, d'artères, de capillair
 
 Le cœur est une pompe qui expulse le sang des oreillettes vers les ventricules, puis des ventricules vers les artères. En se relâchant, il se remplit de sang provenant des veines. Le sang se contracte environ 70 fois par minute au repos, en une journée, il propulse près de 8000 litres de sang en se contractant plus de 100 000 fois.
 
-![](pictures/schemaCoeur.png){: style="width: 300px;"}
+![](pictures/schemaCoeur.png){: style="width: 400px;"}
