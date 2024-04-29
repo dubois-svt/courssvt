@@ -15,6 +15,7 @@
 
 
 **Document 1 Insectes pollinisateurs et rendement des cultures de tournesol**
+
 La production de graines a été mesurée sur une culture de tournesol, en fonction de l'accès des fleurs aux insectes pollinisateurs. Certaines fleurs de la culture ont été enfermées dans des sacs en tissu léger (protocole B), empêchant tout passage d'insectes. D'autres sont à l'air libre (protocole A) et les insectes peuvent passer.
 
 <div markdown style="display:flex; flex-direction:row">
