@@ -2,7 +2,7 @@
 
 !!! note "Compétences"
 
-    Analyser des expériences 
+    Trouver et utiliser des informations
 
 !!! warning "Consignes"
 
@@ -41,7 +41,8 @@ Les graines de tournesol sont utilisées majoritairement pour la production d'hu
 
 Si les insectes pollinisateurs disparaissaient, beaucoup de céréales, comme le blé ou le riz, ne seraient pas affectées (elles sont pollinisées grâce au vent). Cependant, la majorité des fruits et des légumes (qui nous fournissent vitamines et sels minéraux) ne pourraient plus être produits.
 
-</div></div>
+</div>
+</div>
 
 **Document 3 Causes de la disparition des abeilles**
 
