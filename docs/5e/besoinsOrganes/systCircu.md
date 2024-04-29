@@ -14,7 +14,7 @@
     - 
 
 
-<table style="width:600px">
+<table style="width:800px">
 <thead>
 <tr>
 <th style="width:20%">Fonctions</th>

@@ -15,7 +15,8 @@ Le cœur bat périodiquement c’est-à-dire que les battements se répètent da
 
 <div markdown style="display:flex; flex-direction: row;">
 
-![Patient 1](pictures/ECGpatient1.png){: style="padding: 5px;"} ![Patient 2](pictures/ECGpatient2.png){: style="padding: 5px;"}
+![Patient 1](pictures/ECGpatient1.png){: style="padding: 5px;"} 
+![Patient 2](pictures/ECGpatient2.png){: style="padding: 5px;"}
 
 </div>
 

@@ -107,22 +107,22 @@ parties :</td>
 <tr class="odd">
 <td><p>• Sépales</p></td>
 <td></td>
-<td></td>
+
 </tr>
 <tr class="even">
 <td><p>• Pétales</p></td>
 <td></td>
-<td></td>
+
 </tr>
 <tr class="odd">
 <td><p>• Étamines</p></td>
 <td></td>
-<td></td>
+
 </tr>
 <tr class="even">
 <td><p>• Pistil</p></td>
 <td></td>
-<td></td>
+
 </tr>
 <tr class="odd">
 <td>4</td>
@@ -141,8 +141,8 @@ et qui a reçu du pollen d’une autre espèce sur son pistil.</td>
 **Document 3 de la fleur au fruit**
 
 <div markdown style="display: flex; flex-direction:row">
-![](pictures/schemaFleur.png){: style="width: 400px;"}
-![](pictures/schemaFruit.png){: style="width: 400px;"}
+![](pictures/schemaFleur.png){: style="width: 500px;"}
+![](pictures/schemaFruit.png){: style="width: 500px;"}
 
 </div>
 

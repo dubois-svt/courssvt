@@ -19,10 +19,10 @@ La production de graines a été mesurée sur une culture de tournesol, en fonct
 
 <div markdown style="display:flex; flex-direction:row">
 
-![Tournesol isolé dans un sac](pictures/tournesolSac.png){: style="width: 300px;"}
+![Tournesol isolé dans un sac](pictures/tournesolSac.png){: style="width: 400px;"}
 
 
-![Infographie du nombre moyen de graines par tournesol en fonction du suivi du protocole A ou B](pictures/graphTournesolAbeilles.png){: style="width: 300px;"}
+![Infographie du nombre moyen de graines par tournesol en fonction du suivi du protocole A ou B](pictures/graphTournesolAbeilles.png){: style="width: 400px;"}
 
 </div>
 
@@ -33,7 +33,7 @@ Les graines de tournesol sont utilisées majoritairement pour la production d'hu
 <div markdown style="display:flex; flex-direction:row">
 <div markdown style="display:flex; flex-direction:column; flex: 1 1 0;">
 
-![](pictures/pollinisationAlimentation.png)
+![](pictures/pollinisationAlimentation.png){: style="width: 400px;"}
 
 </div>
 <div markdown style="display:flex; flex-direction:column; flex: 2 1 0;">
