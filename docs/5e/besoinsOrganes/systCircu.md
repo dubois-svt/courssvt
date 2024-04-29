@@ -14,7 +14,7 @@
     - 
 
 
-<table style="width:100%">
+<table style="width:600px">
 <thead>
 <tr>
 <th style="width:20%">Fonctions</th>
@@ -67,15 +67,34 @@ Il revient au vaisseau dorsal par des perforations au niveau des cœurs.
 
 
 **Document 2 L'appareil circulatoire simplifié d'un organisme vertébré, comme l'humain**
+<div markdown style="display:flex; flex-direction: row;">
+<div markdown style="display:flex; flex: 2 1 0 ;flex-direction: column;">
 
 Un appareil circulatoire clos est composé d'un coeur, d'artères, de capillaires et de veines. Le liquide circulant est envoyé dans les vaisseaux sanguins.
+</div>
+
+<div markdown style="display:flex; flex: 1 1 0 ;flex-direction: column;">
 
 ![](pictures/systCircuHumain.png){: style="width: 400px;"}
 
+</div>
+</div>
 
 
-**Document 4 Schéma du cœur des vertébrés en face ventrale.**
+**Document 3 Schéma du cœur des vertébrés en face ventrale.**
+
+<div markdown style="display:flex; flex-direction: row;">
+<div markdown style="display:flex; flex: 2 1 0 ;flex-direction: column;">
 
 Le cœur est une pompe qui expulse le sang des oreillettes vers les ventricules, puis des ventricules vers les artères. En se relâchant, il se remplit de sang provenant des veines. Le sang se contracte environ 70 fois par minute au repos, en une journée, il propulse près de 8000 litres de sang en se contractant plus de 100 000 fois.
 
+</div>
+
+<div markdown style="display:flex; flex: 1 1 0 ;flex-direction: column;">
+
+
 ![](pictures/schemaCoeur.png){: style="width: 400px;"}
+
+</div>
+</div>
+

@@ -39,8 +39,13 @@
     Des micro-organismes peuvent se développer sur les aliments. Certains de ces micro-organismes sont pathogènes. On prend donc des mesures d’hygiène pour éviter la contamination des aliments. 
     Pour conserver les aliments on peut les stériliser (ce qui tue les micro-organismes) ou les conserver au froid (ce qui évite le développement de micro-organismes).
 
-    Micro-organismes : êtres vivants très petits observables uniquement au microscope.
-    Pathogène : se dit d’un élément qui provoque des maladies chez l’être humain
+    Une autre façon de conserver les aliments est d'utiliser du sel solide ou dans une solution à saturation.
+
+    définitions :
+    
+    - saturation  : limite au-delà de laquelle un liquide ne peut plus dissoudre un solide
+    - Micro-organismes : êtres vivants très petits observables uniquement au microscope.
+    - Pathogène : se dit d’un élément qui provoque des maladies chez l’être humain
 
 
 

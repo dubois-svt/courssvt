@@ -22,8 +22,8 @@
 
 
 <div markdown style="display:flex; flex-direction:row">
-![Fleur d'orchidée Ophrys apifera](pictures/orchidee.png) 
-![Fleur de mimule](pictures/mimules.png)
+![Fleur d'orchidée Ophrys apifera](pictures/orchidee.png){: style="width: 300px;"} 
+![Fleur de mimule](pictures/mimules.png){: style="width: 300px;"}
 </div>
 Certaines fleurs ont des formes et des couleurs ressemblant à des insectes pour attirer d'autres insectes. 
 Les fleurs peuvent dégagées des odeurs qui vont attirer les insectes. 

@@ -46,6 +46,5 @@ Ces résultats montrent par exemple que la cellule transforme le dioxygène en e
 | Atome marqué | Molécules marquées obtenues après quelques minutes | Molécules marquées obtenues après 1h | 
 | --|--|---|
 | Carbone du glucose  | Dioxyde de carbone | Dioxyde de carbone | 
-| Azote de protides | Protéines de la cellule | 
-Urée et protéine de la cellule | 
+| Azote de protides | Protéines de la cellule | Urée et protéine de la cellule | 
 | Oxygène du dioxygène | Eau | Eau | 
