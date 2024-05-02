@@ -272,8 +272,12 @@ nav :
           - Besoins des cellules : 5e/besoinsOrganes/nutriCellAni.md
           - Exercices : 5e/besoinsOrganes/exercices.md
           - Fiche de révision : 5e/besoinsOrganes/Fiche.md
-      
-      #- Séquence Evolution des objets techniques et cycle de vie :
+      - Séquence Evolution des objets techniques et cycle de vie :
+        - Introduction : 5e/evolObjTech/IntroEvolObj.md
+        - Familles d'objets : 5e/evolObjTech/famillesObj.md
+        - Evolution de la photographie : 5e/evolObjTech/evolPhoto.md
+        - Fiche de révision : 5e/evolObjTech/Fiche.md
+
       #- Séquence Optique :
       #- Séquence La nutrition :
       #- Séquence Techno 4 :

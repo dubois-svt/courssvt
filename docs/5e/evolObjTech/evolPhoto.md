@@ -1,0 +1,97 @@
+# Activité : Evolution de la photographie
+
+!!! note "Compétences"
+
+    Trouver et utiliser des informations 
+ 
+
+!!! warning "Consignes"
+
+    1. Lire les documents « Evolution de la photographie ». 
+    2. Peut-on dire que Aristote était un photographe ? Justifier. 
+    3. Parmi les personnages cités, qui est l’inventeur de la photographie ? Justifier. 
+    4. Expliquer pourquoi la fin du XIXème siècle marque une rupture technologique dans l’histoire de l’appareil photo. 
+    5. Comparer l’aspect de l’appareil de Nicéphore Nièpce (1827) au MAVICA (1981). Quels sont ses avantages ? 
+    6. Le MAVICA (1981) de l’entreprise Sony, fait-il partie de la même lignée d’objet que ses prédécesseurs ? 
+    7. Représenter sans soucis d’échelle, une lignée d’objet regroupant 4 appareils photo.
+    
+??? bug "Critères de réussite"
+    - 
+
+
+La photographie, c’est bientôt deux siècles d’inventions et de perfectionnement entre la première image figée, le développement, la première photographie en noir et blanc, et aujourd’hui, avec des photos en couleur prises avec un simple smartphone. Elle regroupe l’ensemble des procédés permettant de figer durablement l’image d’un objet. 
+A ses débuts, elle est mal accueillie, notamment par le monde artistique, car les peintres y voient un danger pour leur art. Mais par la suite, elle deviendra de plus en plus accessible pour le grand public et influencera de nombreux domaines. 
+
+
+
+**Document 1 Définitions.**
+
+L’évolution de la photographie
+Bien avant d’intégrer nos smartphones, l’appareil photographique a une longue histoire derrière lui. Découvrons ensemble l’incroyable évolution de la photographie.
+
+Les principes optiques
+(De – 400 à 1827)
+L’invention du premier appareil photographique repose sur des principes optiques découverts dès l’Antiquité. La chambre noire, le sténopé et la lentille de verre représentent les bases de ce qui deviendra plus tard la photographie.
+
+– 350
+Le sténopé – Aristote
+![alt text](image-12.png)
+
+Dans l’un de ses ouvrages le philosophe grec Aristote (384-322 av. J-C) décrit le principe de la chambre noire et du sténopé. Cela consiste à faire passer de la lumière dans une pièce obscure par un petit trou. L’image extérieure est projetée de manière inversée sur le mur opposé. Aristote se sert de la chambre noire pour observer une éclipse solaire.
+
+1515
+La “camera obscura” – Léonard de Vinci
+![alt text](image-13.png)
+Le célèbre inventeur italien Léonard de Vinci reprend les travaux de ses prédécesseurs en créant une boîte noire appelée “camera obscura” en latin. Léonard de Vinci suggère que cette invention peut aider les artistes à reproduire des paysages.
+
+1540
+L’objectif – Girolamo Cardano
+![alt text](image-14.png)
+Le scientifique italien Jérôme Cardan améliore en 1540 la camera obscura de Léonard de Vinci. Il ajoute au sténopé une lentille de verre. Cette lentille améliore la projection et constitue l’invention du premier objectif. Plus tard, on ajoute des miroirs à 45 degrés pour remettre l’image à l’endroit et la camera obscura devient une innovation répandue chez les peintres pour dessiner durant les 16ème et 17ème siècles.
+
+Les procédés chimiques
+(De 1827 à 1841)
+Au début du XIXème siècle, les techniques optiques sont déjà très avancées mais il n’existe toujours pas de moyen pour fixer les images. C’est à ce moment que la chimie entre en scène.
+1827
+L’appareil de Nicéphore Nièpce
+![alt text](image-15.png)
+
+L’inventeur français Nicéphore Niépce met au point le premier procédé permettant de fixer une image qu’il appelle “héliographie“. Cela signifie : “écriture par le soleil”. Sa technique consiste à employer une chambre noire et une plaque sensible à la lumière. La première image est réalisée en 1827 par lui-même, d’une fenêtre à l’étage de sa maison. L’exposition aurait durée de 12 à 18 heures.
+
+1841
+Le Calotype 
+![alt text](image-16.png)
+En Angleterre, William Henry Fox Talbot invente le négatif, permettant la reproduction des images sur du papier. Il appelle sa technique : “calotype”. On peut ainsi reproduire un grand nombre de tirage sur un support léger : le papier. Le principe du négatif restera la base de la photographie pendant 150 ans.
+
+1900
+Le Brownie
+![alt text](image-17.png)
+Kodak mise sur un appareil simple et très bon marché : le Brownie. Il est constitué d’un boîtier en carton et d’un objectif. Commercialisés au prix de 1 dollar, ces appareils deviennent très populaires auprès du grand public.
+
+Les améliorations électro-mécaniques
+(De 1925 à 1975)
+Après les innovations de Kodak, l’appareil photographique se démocratise progressivement pendant le XXème siècle. Le développement de la presse provoque aussi l’apparition du métier de photoreporter. De nouvelles contraintes poussent alors les fabricants à améliorer l’électronique et la mécanique de leurs appareils.
+
+
+1925
+Leica I
+![alt text](image-18.png)
+L’ingénieur Oskar Barnack construit pour l’entreprise allemande Leitz, un appareil photographique léger et robuste : le Leica I. Cet appareil utilise un nouveau format de film 35 mm plutôt utilisé pour le cinéma mais le principe technique utilisé reste le même. Sa petite taille et sa qualité lui offrent un très grand succès auprès des journalistes reporters. 
+
+La photographie numérique
+(De 1975 à aujourd’hui)
+À la fin du XXème siècle, la photographie se tourne vers les technologies numériques. À mesure que la qualité des photos numériques augmente, la photographie argentique avec ses pellicules est peu à peu abandonnée. De plus, la photographie numérique intègre dès l’an 2000 les téléphones portables et se popularise avec les smartphones.
+
+1981
+MAVICA – Sony
+![alt text](image-19.png)
+Le constructeur japonais Sony sort en 1981 le MAVICA. Cet appareil photo numérique possède un capteur de 279 300 pixels (570 x 490 px). L’enregistrement analogique des photos se fait sur une disquette ayant une capacité de 50 images.
+
+2007
+iPhone – Apple
+![alt text](image-20.png)
+Le constructeur d’ordinateur américain Apple lance en 2007 le premier smartphone avec un écran tactile “multi-touch”. L’important succès de l’iPhone démocratise la photographie sur smartphone.
+
+
+
+

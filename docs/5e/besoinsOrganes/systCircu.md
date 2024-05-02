@@ -25,32 +25,33 @@
 </thead>
 <tbody>
 <tr>
-<td>transport du sang du coeur aux organes</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>transport du sang des organes aux coeur</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>mise en mouvement du sang</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>échanges entre le sang et les organes</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td>liquide</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>système circulatoire ouvert ou fermé</td>
+<td>transport du liquide du coeur aux organes</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>transport du liquide des organes aux coeur</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>mise en mouvement du liquide</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>échanges entre le liquide et les organes</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>système circulatoire (ouvert ou fermé)</td>
 <td></td>
 <td></td>
 </tr>
@@ -58,8 +59,8 @@
 </table>
 
 **Document 2 Le système circulatoire d'un organisme arthropode, comme la crevette**
-La carapace transparente de cette crevette permet de voir l'hémolymphe bleue chez les
-arthropodes.
+
+La carapace transparente de cette crevette permet de voir l'hémolymphe bleue chez les arthropodes. L'hémolymphe est un liquide circulant dans le corps des arthropodes, ce liquide transporte les nutriments, les gaz et les déchets.
 Le système circulatoire est composé d’un vaisseau dorsal constitué de plusieurs cœurs. Le liquide circulant est envoyé dans la cavité de l’insecte et baigne directement les cellules des organes.
 Il revient au vaisseau dorsal par des perforations au niveau des cœurs.
 
@@ -76,7 +77,7 @@ Il revient au vaisseau dorsal par des perforations au niveau des cœurs.
 <div markdown style="display:flex; flex-direction: row;">
 <div markdown style="display:flex; flex: 2 1 0 ;flex-direction: column;">
 
-Un appareil circulatoire clos est composé d'un coeur, d'artères, de capillaires et de veines. Le liquide circulant est envoyé dans les vaisseaux sanguins.
+Un appareil circulatoire clos est composé d'un coeur, d'artères, de capillaires et de veines. Le liquide circulant est envoyé dans les vaisseaux sanguins. Ce liquide transporte les nutriments, les gaz et les déchets. Chez les vertébrés, le liquide est du sang. 
 </div>
 
 <div markdown style="display:flex; flex: 1 1 0 ;flex-direction: column;">
