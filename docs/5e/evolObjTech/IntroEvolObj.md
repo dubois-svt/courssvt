@@ -26,10 +26,10 @@
 
 
 
-## Séance 2 : Evolution de la photographie
+## Séance 2 : Evolution d'une famille d'objets et lignées
 
 !!! question "Problématique"
-    Les appareils photo font-ils tous partie de la même lignée d’objet ? 
+    Comment évolue une famille d'objets avec différentes lignées ? 
     
 [Activité Evolution de la photographie](../evolPhoto)
 

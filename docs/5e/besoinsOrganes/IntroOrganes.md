@@ -66,6 +66,7 @@ Situation déclenchante : Lors des compétitions de sprint, certains sportifs pa
     Ce liquide circule dans un système circulatoire qui peut être fermé ou ouvert sur l'intérieur du corps de l'animal.
 
     Le sang circule dans un système fermé, des vaisseaux sanguins. Il y en a 3 types différents :
+    
     - les artères qui amènent le sang du cœur vers les organes,
     - les veines qui amènent le sang des organes au cœur
     - les capillaires qui sont des vaisseaux sanguins fins dans les organes qui permettent les échanges.
