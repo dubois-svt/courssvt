@@ -33,9 +33,20 @@ L’invention du premier appareil photographique repose sur des principes optiqu
 
 <div markdown style="display:flex; flex-direction:row">
 
+<div markdown style="display:flex; flex: 1 1 0; flex-direction:row">
+
+
 ![](pictures/stenope.png)
 
+
+</div>
+
+<div markdown style="display:flex; flex: 2 1 0; flex-direction:row">
+
+
 Dans l’un de ses ouvrages le philosophe grec Aristote (384-322 av. J-C) décrit le principe de la chambre noire et du sténopé. Cela consiste à faire passer de la lumière dans une pièce obscure par un petit trou. L’image extérieure est projetée de manière inversée sur le mur opposé. Aristote se sert de la chambre noire pour observer une éclipse solaire.
+
+</div>
 
 </div>
 
@@ -44,19 +55,38 @@ Dans l’un de ses ouvrages le philosophe grec Aristote (384-322 av. J-C) décri
 
 <div markdown style="display:flex; flex-direction:row">
 
+
+
+<div markdown style="display:flex; flex: 1 1 0; flex-direction:row">
+
 ![](pictures/cameraOsbcura.png)
 
+</div>
+
+<div markdown style="display:flex; flex: 2 1 0; flex-direction:row">
+
+
 Le célèbre inventeur italien Léonard de Vinci reprend les travaux de ses prédécesseurs en créant une boîte noire appelée “camera obscura” en latin. Léonard de Vinci suggère que cette invention peut aider les artistes à reproduire des paysages.
+
+</div>
 
 </div>
 
 - 1540 : L’objectif – Girolamo Cardano
 
 <div markdown style="display:flex; flex-direction:row">
+<div markdown style="display:flex; flex: 1 1 0; flex-direction:row">
 
 ![](pictures/objectifCardano.png)
 
+
+</div>
+
+<div markdown style="display:flex; flex: 2 1 0; flex-direction:row">
+
 Le scientifique italien Girolamo Cardano (Jérome Cardan) améliore en 1540 la camera obscura de Léonard de Vinci. Il ajoute au sténopé une lentille de verre. Cette lentille améliore la projection et constitue l’invention du premier objectif. Plus tard, on ajoute des miroirs à 45 degrés pour remettre l’image à l’endroit et la camera obscura devient une innovation répandue chez les peintres pour dessiner durant les 16ème et 17ème siècles.
+</div>
+
 </div>
 
 
@@ -68,10 +98,18 @@ Au début du XIXème siècle, les techniques optiques sont déjà très avancée
 
 <div markdown style="display:flex; flex-direction:row">
 
+<div markdown style="display:flex; flex: 1 1 0; flex-direction:row">
 
 ![](pictures/nicephoreNiepce.png)
 
+
+</div>
+
+<div markdown style="display:flex; flex: 2 1 0; flex-direction:row">
+
 L’inventeur français Nicéphore Niépce met au point le premier procédé permettant de fixer une image qu’il appelle “héliographie“. Cela signifie : “écriture par le soleil”. Sa technique consiste à employer une chambre noire et une plaque sensible à la lumière. La première image est réalisée en 1827 par lui-même, d’une fenêtre à l’étage de sa maison. L’exposition aurait durée de 12 à 18 heures.
+
+</div>
 
 </div>
 
@@ -79,11 +117,19 @@ L’inventeur français Nicéphore Niépce met au point le premier procédé per
 - 1841 : Le Calotype 
 
 <div markdown style="display:flex; flex-direction:row">
+<div markdown style="display:flex; flex: 1 1 0; flex-direction:row">
 
 
 ![](pictures/calotype.png)
 
+
+</div>
+
+<div markdown style="display:flex; flex: 2 1 0; flex-direction:row">
+
 En Angleterre, William Henry Fox Talbot invente le négatif, permettant la reproduction des images sur du papier. Il appelle sa technique : “calotype”. On peut ainsi reproduire un grand nombre de tirage sur un support léger : le papier. Le principe du négatif restera la base de la photographie pendant 150 ans.
+
+</div>
 
 </div>
 
@@ -92,10 +138,18 @@ En Angleterre, William Henry Fox Talbot invente le négatif, permettant la repro
 
 <div markdown style="display:flex; flex-direction:row">
 
+<div markdown style="display:flex; flex: 1 1 0; flex-direction:row">
 
 ![](pictures/brownie.png)
 
+
+</div>
+
+<div markdown style="display:flex; flex: 2 1 0; flex-direction:row">
+
 Kodak mise sur un appareil simple et très bon marché : le Brownie. Il est constitué d’un boîtier en carton et d’un objectif. Commercialisés au prix de 1 dollar, ces appareils deviennent très populaires auprès du grand public.
+
+</div>
 
 </div>
 
@@ -109,10 +163,18 @@ Après les innovations de Kodak, l’appareil photographique se démocratise pro
 
 <div markdown style="display:flex; flex-direction:row">
 
+<div markdown style="display:flex; flex: 1 1 0; flex-direction:row">
 
 ![](pictures/leicaI.png)
 
+
+</div>
+
+<div markdown style="display:flex; flex: 2 1 0; flex-direction:row">
+
 L’ingénieur Oskar Barnack construit pour l’entreprise allemande Leitz, un appareil photographique léger et robuste : le Leica I. Cet appareil utilise un nouveau format de film 35 mm plutôt utilisé pour le cinéma mais le principe technique utilisé reste le même. Sa petite taille et sa qualité lui offrent un très grand succès auprès des journalistes reporters. 
+
+</div>
 
 </div>
 
@@ -128,10 +190,17 @@ L’ingénieur Oskar Barnack construit pour l’entreprise allemande Leitz, un a
 
 <div markdown style="display:flex; flex-direction:row">
 
+<div markdown style="display:flex; flex: 1 1 0; flex-direction:row">
 
 ![](pictures/mavicaI.png)
 
+</div>
+
+<div markdown style="display:flex; flex: 2 1 0; flex-direction:row">
+
 Le constructeur japonais Sony sort en 1981 le MAVICA. Cet appareil photo numérique possède un capteur de 279 300 pixels (570 x 490 px). L’enregistrement analogique des photos se fait sur une disquette ayant une capacité de 50 images.
+
+</div>
 
 </div>
 
@@ -139,10 +208,17 @@ Le constructeur japonais Sony sort en 1981 le MAVICA. Cet appareil photo numéri
 
 <div markdown style="display:flex; flex-direction:row">
 
+<div markdown style="display:flex; flex: 1 1 0; flex-direction:row">
 
 ![](pictures/iphone.png)
 
+</div>
+
+<div markdown style="display:flex; flex: 2 1 0; flex-direction:row">
+
 Le constructeur d’ordinateur américain Apple lance en 2007 le premier smartphone avec un écran tactile “multi-touch”. L’important succès de l’iPhone démocratise la photographie sur smartphone.
+
+</div>
 
 </div>
 
