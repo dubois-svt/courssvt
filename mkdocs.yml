@@ -276,6 +276,7 @@ nav :
         - Introduction : 5e/evolObjTech/IntroEvolObj.md
         - Familles d'objets : 5e/evolObjTech/famillesObj.md
         - Evolution de la photographie : 5e/evolObjTech/evolPhoto.md
+        - Cycle de vie des objets : 5e/evolObjTech/cycleVieObj.md
         - Fiche de révision : 5e/evolObjTech/Fiche.md
 
       #- Séquence Optique :
@@ -285,7 +286,6 @@ nav :
       #- Séquence Biodiversité et activités humaines : 
   - 4e :
       - 4e/sommaire4e.md
-
       - Séquence Météo et climat :
             - Introduction : 4e/meteoetclimat/IntroMeteoClimat.md
             - Différence Météo/Climat : 4e/meteoetclimat/diffmeteoclimat.md
@@ -328,8 +328,17 @@ nav :
             - Le sommeil et la mémoire :  4e/systNerveuxModesVie/sommeil.md
             - Le bruit :  4e/systNerveuxModesVie/bruit.md
             - Les addictions :  4e/systNerveuxModesVie/addictions.md
-
             - Fiche de révision : 4e/systNerveuxModesVie/Fiche.md
+
+      - Séquence L'information génétique :
+            - Introduction : 4e/caracteres/IntroInfoGen.md
+            - Origine des caractères : 4e/caracteres/origineCaract.md
+            - Localisation de l'information génétique : 4e/caracteres/localInfoGen.md
+            - Chromosomes et ADN : 4e/caracteres/chromosomesEtADN.md
+            - ADN : 4e/caracteres/adn.md
+            - Chromosomes : 4e/caracteres/chromosomes.md
+            - Fiche de révision : 4e/caracteres/Fiche.md
+
       #- Séquence Exploitations des sols pour produire de la nourriture :
       #- Séquence Reproduction des êtres vivants :
       #- Séquence Génétique : 

@@ -1,4 +1,4 @@
-# Activité : Importance du tri des déchets
+# Activité : Le cycle de l’utérus
 
 !!! note "Compétences"
 
@@ -6,7 +6,13 @@
 
 !!! warning "Consignes"
 
-    Consigne 1 : 
+    1. Réaliser les 4 expériences du doc 1 et compléter le tableau du document 2. *1 point)
+
+    2. À partir des expériences 1 et 2, déduisez le rôle des ovaires dans le cycle de l’utérus. Justifier votre réponse à partir des résultats d’expériences. (1,5 points)
+
+    3. À partir des expériences 3 et 4, précisez la nature de la communication entre les ovaires et l’utérus. Justifier votre réponse à partir des résultats d’expériences. (1,5 points)
+
+    4. En utilisant le document 4 et vos résultats précédents, proposer une hypothèse permettent d’expliquer les variations d’épaisseur de la paroi de l’utérus au cours du cycle. (1 point)
     
 ??? bug "Critères de réussite"
     - 
@@ -17,28 +23,19 @@
 [Activité Le cycle de l’utérus](../cycleUterus)
 
 
-### Activité  **Le cycle de l’utérus**
-
-Consigne 1 : Réaliser les 4 expériences du doc 1 et compléter le tableau du document 2. *1 point)
-
-Consigne 2 : À partir des expériences 1 et 2, déduisez le rôle des ovaires dans le cycle de l’utérus. Justifier votre réponse à partir des résultats d’expériences. (1,5 points)
-
-Consigne 3 : À partir des expériences 3 et 4, précisez la nature de la communication entre les ovaires et l’utérus. Justifier votre réponse à partir des résultats d’expériences. (1,5 points)
-
-Consigne 4 : En utilisant le document 4 et vos résultats précédents, proposer une hypothèse permettent d’expliquer les variations d’épaisseur de la paroi de l’utérus au cours du cycle. (1 point)
 
 **Document 1 Protocole expérimental.**
 
 Lancez le logiciel « Cycles.exe ».
 
-Expérience 1 :
+- Expérience 1 :
 
 Cliquez sur l’icône « Organes en place » (en haut à droite)  
 Cliquez sur le bouton « Résultats » (en bas)
 
 Visionnez le résultat au niveau de la couche superficielle de la paroi de l’utérus et notez vos observations dans le tableau (expérience 1
 
-Expérience 2 :
+- Expérience 2 :
 
 Cliquez sur l’icône « Ablations » (en haut à droite)  
 Retirez chaque ovaire et déposez-les dans la cuvette se trouvant à droite. Pour cela, au niveau de l’ovaire, cliquez sur le bouton gauche de la souris et tout en maintenant appuyé le bouton, déplacez l’ovaire dans la cuvette.  
@@ -46,7 +43,7 @@ Cliquez sur le bouton « Résultats » (en bas)
 
 Visionnez le résultat au niveau de la couche superficielle de la paroi de l’utérus et notez vos observations dans le tableau (expérience 2
 
-Expérience 3 :
+- Expérience 3 :
 
 Cliquez sur l’icône « Ablations/greffes » (en haut à droite)  
 Retirez chaque ovaire et déposez les dans la cuvette verte du haut ![](Pictures/iconeCuvette.gif). (Au niveau de l’ovaire, cliquez sur le bouton gauche de la souris et tout en maintenant appuyé le bouton, déplacez l’ovaire dans la cuvette).  
@@ -55,7 +52,7 @@ Cliquez sur le bouton « Résultats » (en bas)
 
 Visionnez le résultat au niveau de la couche superficielle de la paroi de l’utérus et notez vos observations dans le tableau (expérience 3)
 
-Expérience 4 :
+- Expérience 4 :
 
 Cliquez sur l’icône « Ablations/Injections » (en haut à droite)  
 Retirez chaque ovaire et déposez les dans la cuvette verte du haut ![](Pictures/iconeCuvette.gif). (Au niveau de l’ovaire, cliquez sur le bouton gauche de la souris et tout en maintenant appuyé le bouton, déplacez l’ovaire dans la cuvette).  

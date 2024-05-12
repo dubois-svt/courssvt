@@ -11,8 +11,8 @@
 ??? bug "Critères de réussite"
     - 
 
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](pictures/enfantMines.png)
+![alt text](pictures/mineOr.png)
 ![
     
 ](image-2.png)

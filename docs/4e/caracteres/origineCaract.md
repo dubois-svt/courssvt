@@ -6,8 +6,7 @@
 
 !!! warning "Consignes"
 
-    Retrouve et classe d
-    ans un tableau, l’origine des caractères présentés, comme la couleur de la peau, le groupe sanguin, l’aspect des arbres, la présence de la queue chez les chiens, la quantité d’hémoglobine et la capacité à rouler sa langue en U.
+    Retrouve et classe dans un tableau, l’origine des caractères présentés, comme la couleur de la peau, le groupe sanguin, l’aspect des arbres, la présence de la queue chez les chiens, la quantité d’hémoglobine et la capacité à rouler sa langue en U.
     
 ??? bug "Critères de réussite"
     - 
@@ -48,13 +47,18 @@ Un couple et leur enfant. Les parents ont un groupe sanguin A. C’est aussi cel
 <div markdown style="display:flex;  flex: 1 1 0; flex-direction: row;">
 
 ![](pictures/cheneAvecVent.png)
-![](pictures/cheneSansVent.png)
+
 </div>
 <div markdown style="display:flex; flex: 2 1 0; flex-direction: row;">
 Deux hêtres : le premier est présent dans un milieu avec des vents forts. Le second dans un milieu peu venté. Si l’on récupère des graines des arbres et que l’on sème dans un milieu peu venté alors les arbres obtenus auront des branches droites.
 
 </div>
+<div markdown style="display:flex;  flex: 1 1 0; flex-direction: row;">
+
+![](pictures/cheneSansVent.png)
 </div>
+</div>
+
 
 **Document 5 : Arbre généalogique de la famille d’Arthur**
 
@@ -65,7 +69,7 @@ Deux hêtres : le premier est présent dans un milieu avec des vents forts. Le 
 
 <div markdown style="display:flex;  flex: 1 1 0; flex-direction: row;">
 
-![alt text](pictures/familleBoxers.png)
+![](pictures/familleBoxers.png)
 </div>
 <div markdown style="display:flex; flex: 2 1 0; flex-direction: row;">
 Les deux parents du jeune boxer ont tous les deux eu leur queue coupée lors de leur croissance.

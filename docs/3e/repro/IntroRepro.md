@@ -94,7 +94,7 @@
 
 !!! question "Problématique"
 
-[Activité Le contrôle du fonctionnement de l’appareil reproducteur](../controlAppRepro)
+[Activité Le cycle de l’utérus](../cycleUterus)
 
 
 

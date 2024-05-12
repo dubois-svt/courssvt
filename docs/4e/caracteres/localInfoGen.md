@@ -22,6 +22,7 @@
 **Document 1 Localisation de l'information génétique**
 
 ![](pictures/devCellOeuf.png)
+
 L’information génétique se transmet de génération en génération et permet le développement de notre corps. 
 Une cellule-oeuf d'être humain donnera toujours un individu avec des caractères d'être humain; ene cellule-oeuf de lapin donnera toujours un individu avec des caractères de lapin.
 

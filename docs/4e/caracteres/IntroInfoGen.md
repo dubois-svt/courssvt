@@ -14,13 +14,14 @@
 
 ## Séance 1 : Le phénotype
 
-![alt text](pictures/divLoups.png)
-![alt text](pictures/divHumains.png)
-![alt text](pictures/divTulipes.png)
+![](pictures/divLoups.png)
+![](pictures/divHumains.png)
+![](pictures/divTulipes.png)
+
 !!! question "Problématique"
     Comment est déterminé le phénotype ? 
 
-[Activité L’origine des caractères.](../origineCaract)
+[Activité L’origine des caractères](../origineCaract)
 
 
 ??? abstract "Bilan"
@@ -29,6 +30,7 @@
     Les êtres vivants d’une espèce diffèrent entre eux par des variations de caractères. Ces caractères sont des caractères individuels. 
     L’ensemble des caractères d’un individu détermine son phénotype.
     La diversité de ces caractères individuels correspond à la biodiversité génétique.
+
     Certains caractères sont transmissibles à la descendance, ce sont les caractères héréditaires.
     L’environnement peut modifier certains caractères, ces modifications ne se transmettent pas.
     Le phénotype est donc déterminé par les parents et par l’environnement
@@ -45,7 +47,7 @@
 !!! question "Problématique"
     Où est le support de l’information génétique ?
 
-[Activité La localisation de l'information génétique.](../localInfoGen)
+[Activité La localisation de l'information génétique](../localInfoGen)
 
 
 ??? abstract "Bilan"
@@ -58,7 +60,8 @@
 !!! question "Problématique"
     Quel est le support de l’information génétique ?
 
-[Activité Les chromosomes](../chromosomes)
+[Activité Les chromosomes et l'ADN](../chromosomesEtADN)
+
 [Activité L'ADN](../adn)
 
 
@@ -80,14 +83,18 @@
 !!! question "Problématique"
     Comment l’étude des chromosomes permet-elle de déterminer certains caractères ?
 
-![alt text](image-7.png)
+![](pictures/caryotypesCell.png)
 
-[Activité Les chromosomes](../chromomes)
+[Activité Les chromosomes](../chromosomes)
 
 ??? abstract "Bilan"
+
     Les chromosomes du noyau d’une cellule peuvent être étudiés en réalisant un caryotype (=ensemble des chromosomes d’une cellule en division rangés par paires et classés par taille décroissante).
+    
     Le nombre de chromosomes est variable en fonction de l’espèce. Toutes les cellules d’un individu ont les mêmes chromosomes. 
     Toutes les cellules humaines contiennent les mêmes 46 chromosomes soit 23 paires.
+
     Une paire de chromosomes détermine le sexe de l’individu, ce sont les chromosomes sexuels. (Homme XY et Femme XX) 
     Les autres sont appelés des chromosomes homologues.
+    
     Un nombre anormal de chromosomes peut empêcher le développement de l’embryon ou entraine des caractères différents chez l’individu (trisomie 21). 

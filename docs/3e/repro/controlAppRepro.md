@@ -90,24 +90,20 @@ spermatozoïdes produits</p>
 
 **Document 4 Origine des caractères sexuels secondaires chez le coq.**
 
-Contrairement au coq le chapon adulte n’a pas de crête.
+La crête d'un coq est un caractère sexuel secondaire apparaissant à la puberté du coq.
+Chez les chapons, des coqs castrés à la naissance, il n'y pas de crête.
 
-| Expériences               | Résultats             |
-|-------------------------------------------------------------------------------------------------|-----------------------|
-| ![](Pictures/coqReimplantationTesticule.jpg) Des testicules de coq sont greffés à un chapon (coq castré à la naissance) sous la peau en relation avec la circulation sanguine  | La crête se développe |
-| ![](Pictures/coqReimplantationTesticule1.jpg) Une hormone sexuelle masculine extraite de testicule de coq est injecté dans le sang d’un chapon .                               |                       |
+Une expérience est faite sur des chapons, on leur injecte différentes quantité de testostérone, une hormone sexuelle masculine extraite de testicule de coq est injecté. SI l'injection est régulière une crête apparait.
 
 
-Quantité de testostérone injecté dans le sang (en UA)
-0,45
-1,2
-2,5
-5
-Taille de la crête (en mm)
-5
-10
-15
-20
+| Quantité de testostérone injecté dans le sang (en UA) |Taille de la crête (en mm) |
+|--|--|
+|0,45| 5|
+|1,2|10|
+|2,5|15|
+|5|20|
+
+
 
 **Document 5 Activité hypophysaire sur le fonctionnement des ovaires et de l’utérus**
 
