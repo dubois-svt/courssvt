@@ -6,7 +6,7 @@
 
 !!! warning "Consignes"
 
-    1. Réaliser les 4 expériences du doc 1 et compléter le tableau du document 2. *1 point)
+    1. Réaliser les 4 expériences du doc 1 et compléter le tableau du document 2. (1 point)
 
     2. À partir des expériences 1 et 2, déduisez le rôle des ovaires dans le cycle de l’utérus. Justifier votre réponse à partir des résultats d’expériences. (1,5 points)
 
@@ -16,11 +16,6 @@
     
 ??? bug "Critères de réussite"
     - 
-
-
-
-
-[Activité Le cycle de l’utérus](../cycleUterus)
 
 
 

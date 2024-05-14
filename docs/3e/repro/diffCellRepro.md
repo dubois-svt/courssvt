@@ -20,11 +20,11 @@
 
 **Document 1 Photo légendée d’une coupe de testicules.**
 
-![](Pictures/testicule.jpg)
+![](Pictures/testiculesLegendes.png){: style="width: 200px;"}
 
 **Document 2  Photo de spermatozoïdes de taureau MO x600.**
 
-![](Pictures/spermatozoides.png)
+![](Pictures/spermatozoides.png){: style="width: 200px;"}
 
 **Document 3 Les spermatozoïdes.**
 
