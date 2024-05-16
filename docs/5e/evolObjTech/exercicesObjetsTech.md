@@ -6,9 +6,9 @@
 
 !!! warning "Consignes"
 
-    1. 1. A quelle famille appartiennent ces objets ? 
+    1. A quelle famille appartiennent ces objets ? 
     2. Remplacer tous les objets sur la frise chronologique.
-    3.  Séparer avec deux couleurs différentes deux lignées sur la frise chronologique et indiquer la rupture technologique.
+    3. Séparer avec deux couleurs différentes deux lignées sur la frise chronologique et indiquer la rupture technologique.
     4. Sur quel principe de fonctionnement fonctionne la première lignée ?
     5. Expliquer en quoi les ampoules à incandescence peuvent être qualifiées d’invention. 
     6. Expliquer en quoi les ampoules LED sont une innovation qui répond à un besoin de développement durable.
