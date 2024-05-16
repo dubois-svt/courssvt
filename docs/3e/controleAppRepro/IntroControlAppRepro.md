@@ -1,16 +1,12 @@
-# Séquence : La reproduction chez l'espèce humaine
+# Séquence : Contrôles des appareils reproducteurs
 
 !!! note-prof
     si besoin d'infos
 
 
 !!! question "Problématique"
-    Quels sont les éléments à prendre en compte pour répondre à un besoin ?
-
+    Comment sont contrôlés les appareils reproducteurs ?
     
-### Document d’appel :
-
-
 
 ## Séance 1 : les différences anatomiques
 
@@ -93,6 +89,7 @@
 ## Séance 5 : Le cycle de la femme
 
 !!! question "Problématique"
+    Comment le cycle utérin est-il contrôlé ?
 
 [Activité Le cycle de l’utérus](../cycleUterus)
 

@@ -74,7 +74,3 @@
 
 
 
-??? abstract "Bilan"
-
-    
-

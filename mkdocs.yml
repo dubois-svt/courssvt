@@ -331,13 +331,13 @@ nav :
             - Fiche de révision : 4e/systNerveuxModesVie/Fiche.md
 
       - Séquence L'information génétique :
-            - Introduction : 4e/caracteres/IntroInfoGen.md
-            - Origine des caractères : 4e/caracteres/origineCaract.md
-            - Localisation de l'information génétique : 4e/caracteres/localInfoGen.md
-            - Chromosomes et ADN : 4e/caracteres/chromosomesEtADN.md
-            - ADN : 4e/caracteres/adn.md
-            - Chromosomes : 4e/caracteres/chromosomes.md
-            - Fiche de révision : 4e/caracteres/Fiche.md
+            - Introduction : 4e/infoGen/IntroInfoGen.md
+            - Origine des caractères : 4e/infoGen/origineCaract.md
+            - Localisation de l'information génétique : 4e/infoGen/localInfoGen.md
+            - Chromosomes et ADN : 4e/infoGen/chromosomesEtADN.md
+            - ADN : 4e/infoGen/adn.md
+            - Chromosomes : 4e/infoGen/chromosomes.md
+            - Fiche de révision : 4e/infoGen/Fiche.md
 
       #- Séquence Exploitations des sols pour produire de la nourriture :
       #- Séquence Reproduction des êtres vivants :
@@ -390,19 +390,19 @@ nav :
           - Vaccination : 3e/anticorps/vaccin.md
           - SIDA et VIH : 3e/anticorps/sida.md
           - Fiche Révision : 3e/anticorps/Fiche.md
+
       - Séquence Contrôles hormonaux des appareils reproducteurs :
-          - Introdution : 3e/repro/IntroRepro.md
-          - Différences anatomiques : 3e/repro/diffFemmeHomme.md
-          - Les cellules reproductrices : 3e/repro/diffCellRepro.md
-          - La puberté : 3e/repro/puberte.md
-          - Le contrôle du fonctionnement de l’appareil reproducteur : 3e/repro/controlAppRepro.md
-          - Le cycle de l'utérus : 3e/repro/cycleUterus.md
-          - Fiche Révision : 3e/anticorps/Fiche.md
+          - Introdution : 3e/controleAppRepro/IntroControlAppRepro.md
+          - Différences anatomiques : 3e/controleAppRepro/diffFemmeHomme.md
+          - Les cellules reproductrices : 3e/controleAppRepro/diffCellRepro.md
+          - La puberté : 3e/controleAppRepro/puberte.md
+          - Le contrôle du fonctionnement de l’appareil reproducteur : 3e/controleAppRepro/controlAppRepro.md
+          - Le cycle de l'utérus : 3e/controleAppRepro/cycleUterus.md
+          - Fiche Révision : 3e/controleAppRepro/Fiche.md
+
       #- Séquence Classification des êtres vivants :
       #- Séquence Evolution au cours du temps :
       #- Séquence Mécanismes évolutifs :
-
-      #- Séquence Puberté et fonctionnement des appareils reproducteurs : 
 
       #- Séquence Sexualité : 
           
