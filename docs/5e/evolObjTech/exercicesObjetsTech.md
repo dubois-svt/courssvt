@@ -27,13 +27,17 @@
 <div markdown style="display:flex; flex-direction:column; flex: 1 1 0;">
 
 **Document 1 Chandelle.**
+<div markdown style=" display:flex; flex-direction:row;">
 
 <div markdown style=" display:flex; flex-direction:row; flex : 2 1 0; ">
 La chandelle de graisse animale ou suif éclaire les campagnes tandis que la bougie faite de cire d’abeille est plus coûteuse. Les premières traces de chandelles ont 5000 ans.
 </div>
 
 <div markdown style=" display:flex; flex-direction:row; flex : 1 1 0; ">
+
 ![](pictures/chandelle.png)
+</div>
+
 </div>
 
 </div>
@@ -43,6 +47,7 @@ La chandelle de graisse animale ou suif éclaire les campagnes tandis que la bou
 <div markdown style="display:flex; flex-direction:column; flex: 1 1 0;">
 
 **Document 2 Lampe à pétrole.**
+<div markdown style=" display:flex; flex-direction:row;">
 
 <div markdown style=" display:flex; flex-direction:row; flex : 2 1 0; ">
 À partir de 1853, la lampe à pétrole est constituée d’un réservoir de pétrole qui monte vers le bec grâce à une mèche.
@@ -59,6 +64,8 @@ La chandelle de graisse animale ou suif éclaire les campagnes tandis que la bou
 
 </div>
 
+</div>
+
 
 
 
@@ -67,6 +74,7 @@ La chandelle de graisse animale ou suif éclaire les campagnes tandis que la bou
 <div markdown style="display:flex; flex-direction:column; flex: 1 1 0;">
 
 **Document 3 lampe fluocompacte**
+<div markdown style=" display:flex; flex-direction:row;">
 
 <div markdown style=" display:flex; flex-direction:row; flex : 2 1 0; ">
 
@@ -75,7 +83,10 @@ Par son tube miniaturisé et replié sur lui-même, dès 1970, cette lampe appel
 </div>
 
 <div markdown style=" display:flex; flex-direction:row; flex : 1 1 0; ">
+
 ![](pictures/lampeFluocompacte.png)
+</div>
+
 </div>
 
 </div>
@@ -83,7 +94,10 @@ Par son tube miniaturisé et replié sur lui-même, dès 1970, cette lampe appel
 
 
 <div markdown style="display:flex; flex-direction:column; flex: 1 1 0;">
+
 **Document 4 Lampes à graisse**
+
+<div markdown style=" display:flex; flex-direction:row;">
 
 <div markdown style=" display:flex; flex-direction:row; flex : 2 1 0; ">
 
@@ -93,7 +107,10 @@ Les lampes à huile sont utilisées de l’Antiquité au Moyen Age.
 </div>
 
 <div markdown style=" display:flex; flex-direction:row; flex : 1 1 0; ">
+
 ![](pictures/lampeGraisse.png)
+
+</div>
 
 </div>
 
@@ -110,14 +127,21 @@ Les lampes à huile sont utilisées de l’Antiquité au Moyen Age.
 
 **Document 5 Ampoule à incandescence**
 
+<div markdown style=" display:flex; flex-direction:row;">
+
 <div markdown style=" display:flex; flex-direction:row; flex : 2 1 0; ">
+
 
 En 1879, Edison invente la lampe à incandescence à filament de carbone chauffé dans du vide : l’ampoule électrique. Ce type d’ampoule consomme 60W pour un éclairement de 750 lumens et a une durée de vie de 6 mois.
 
 </div>
 
 <div markdown style=" display:flex; flex-direction:row; flex : 1 1 0; ">
+
 ![](pictures/ampouleIncandescence.png)
+
+</div>
+
 </div>
 
 </div>
@@ -127,6 +151,7 @@ En 1879, Edison invente la lampe à incandescence à filament de carbone chauff�
 <div markdown style="display:flex; flex-direction:column; flex: 1 1 0;">
 
 **Document 6 Lampes à DEL**
+<div markdown style=" display:flex; flex-direction:row;">
 
 <div markdown style=" display:flex; flex-direction:row; flex : 2 1 0; ">
 
@@ -135,7 +160,10 @@ Les lampes à diodes électroluminescentes (DEL) équipent plus souvent les nouv
 </div>
 
 <div markdown style=" display:flex; flex-direction:row; flex : 1 1 0; ">
+
 ![](pictures/lampesDEL.png)
+
+</div>
 
 </div>
 
