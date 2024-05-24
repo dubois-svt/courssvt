@@ -279,8 +279,9 @@ nav :
         - Cycle de vie des objets : 5e/evolObjTech/cycleVieObj.md
         - Exercices : 5e/evolObjTech/exercicesObjetsTech.md
         - Fiche de révision : 5e/evolObjTech/Fiche.md
-
-      #- Séquence Optique :
+      - Séquence Optique :
+        - Introduction : 5e/lumiere/IntroLumiere.md
+        - Sources de lumière : 5e/lumiere/sourcesLumineuses.md
       #- Séquence La nutrition :
       #- Séquence Techno 4 :
       #- Séquence Masse et volume:

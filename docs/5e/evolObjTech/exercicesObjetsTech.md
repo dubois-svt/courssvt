@@ -2,7 +2,7 @@
 
 !!! note "Compétences"
 
-    Interpréter 
+    Trouver et utiliser des informations 
 
 !!! warning "Consignes"
 
