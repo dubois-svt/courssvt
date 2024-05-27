@@ -2,8 +2,8 @@
 
 !!! note "Compétences"
 
-    Trouver et utilsier des informations
-    Proposer un protocole expérimental 
+    - Trouver et utiliser des informations
+    - Proposer un protocole expérimental 
 
 !!! warning "Consignes"
 
@@ -24,15 +24,33 @@
 
 **Document 2 Quelques objets**
 
-![Le Soleil](pictures/soleil.png)
-![Les étoiles](pictures/etoiles.png)
-![La Lune](pictures/lune.png)
-![Un miroir](pictures/miroir.png)
-![Des yeux](pictures/yeux.png)
-![Un laser](pictures/laser.png)
-![Un panneau](pictures/panneau.png)
-![Une ampoule](pictures/ampoule.png)
-![Un livre](pictures/livre.png)
-![La lave](pictures/lave.png)
-![Un écran](pictures/ecran.png)
-![Un gilet jaune](pictures/giletJaune.png)
+<div markdown style=" display: flex; flex-direction: column;">
+<div markdown style=" display: flex; flex-direction: row;">
+
+![Le Soleil](pictures/soleil.png){:style="width:250px; margin:10px;"}
+![Les étoiles](pictures/etoiles.png){:style="width:250px; margin:10px;"}
+![La Lune](pictures/lune.png){:style="width:250px; margin:10px;"}
+
+![Un miroir](pictures/miroir.png){:style="width:250px;margin:10px; "}
+
+</div>
+
+<div markdown style=" display: flex; flex-direction: row;">
+![Des yeux](pictures/yeux.png){:style="width:250px; margin:10px;"}
+![Un laser](pictures/laser.png){:style="width:250px;margin:10px; "}
+
+![Un panneau](pictures/panneau.png){:style="width:250px;margin:10px; "}
+![Une ampoule](pictures/ampoule.png){:style="width:250px; margin:10px;"}
+
+</div>
+
+<div markdown style=" display: flex; flex-direction: row;">
+![Un livre](pictures/livre.png){:style="width:250px;margin:10px; "}
+
+![La lave](pictures/lave.png){:style="width:250px; margin:10px;"}
+![Un écran](pictures/ecran.png){:style="width:250px; margin:10px;"}
+![Un gilet jaune](pictures/giletJaune.png){:style="width:250px;margin:10px; "}
+</div>
+</div>
+
+

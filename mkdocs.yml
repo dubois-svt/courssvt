@@ -282,6 +282,12 @@ nav :
       - Séquence Optique :
         - Introduction : 5e/lumiere/IntroLumiere.md
         - Sources de lumière : 5e/lumiere/sourcesLumineuses.md
+        - Propagation de la lumière : 5e/lumiere/propagLumiere.md
+        - Communiquer en morse : 5e/lumiere/morse.md
+        - Conversion d’énergie et unité : 5e/lumiere/chaineEnergetique.md
+        - Exercices : 5e/lumiere/exercicesOptique.md
+        - Fiche de révision : 5e/lumiere/Fiche.md
+
       #- Séquence La nutrition :
       #- Séquence Techno 4 :
       #- Séquence Masse et volume:
@@ -402,7 +408,15 @@ nav :
           - Le contrôle du fonctionnement de l’appareil reproducteur : 3e/controleAppRepro/controlAppRepro.md
           - Le cycle de l'utérus : 3e/controleAppRepro/cycleUterus.md
           - Fiche Révision : 3e/controleAppRepro/Fiche.md
+      - Séquence Sexualité et reproduction :
+          - Introdution : 3e/reprosexualite/IntroReproSex.md
+          - Grossesse : 3e/reprosexualite/grossesse.md
+          - Nutrition du foetus : 3e/reprosexualite/nutriFoetus.md
+          - Pilule contraceptive : 3e/reprosexualite/piluleContra.md
+          - PMA : 3e/reprosexualite/pma.md
+          - IST : 3e/reprosexualite/ist.md
 
+          - Fiche Révision : 3e/reprosexualite/Fiche.md
       #- Séquence Classification des êtres vivants :
       #- Séquence Evolution au cours du temps :
       #- Séquence Mécanismes évolutifs :
