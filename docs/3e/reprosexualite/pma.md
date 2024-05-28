@@ -22,22 +22,21 @@
 
 **Document 1 : la définition et l’analyse d’un spermocytogramme**
 
-<div markdown style="display:flex; flex-direction: row"; >
-<div markdown style="display:flex; flex-direction: column"; >
 
 Spermocytogramme : dosage permettant de connaître le nombre de forme typique et atypique de spermatozoïde dans un sperme donné.
 Lors de la réalisation d’un spermocytogramme, on considère que le sperme du conjoint a une qualité satisfaisante lorsque plus de 14 % des spermatozoïdes ont une forme typique.
-</div>
 
-<div markdown style="display:flex; flex-direction: column"; >
+<div markdown style="display:flex; flex-direction: row">
 
-![Forme typique](Pictures/spzTypique.png){:style="width:250px;  } 
+<div markdown style="display:flex; flex: 1 1 0; flex-direction: column;padding-right:5px;" >
+
+![Forme typique](Pictures/spzTypique.png)
 Forme typique : se dit d’un spermatozoïde de morphologie normale.
 </div>
 
-<div markdown style="display:flex; flex-direction: column"; >
+<div markdown style="display:flex; flex: 1 1 0;  flex-direction: column; padding-left:5px;" >
 
-![Forme atypique](Pictures/spzAtypique.png){:style="width:250px;  } 
+![Forme atypique](Pictures/spzAtypique.png)
 Forme atypique : se dit d’un spermatozoïde de morphologie anormale. On considéra que les spermatozoïdes atypiques ne se déplacent pas.
 
 </div>
@@ -45,8 +44,8 @@ Forme atypique : se dit d’un spermatozoïde de morphologie anormale. On consi
 
 **Document 2 : la définition et l’analyse d’une hystérographie**
 
-<div markdown style="display:flex; flex-direction: row"; >
-<div markdown style="display:flex; flex-direction: column"; >
+<div markdown style="display:flex; flex-direction: row" >
+<div markdown style="display:flex; flex-direction: column; flex: 1 1 0;" >
 
 
 Hystérographie : examen médical permettant de mettre en évidence des anomalies éventuelles de l’utérus et des trompes en injectant un liquide opaque dans le vagin lors d’une radiographie.
@@ -59,10 +58,10 @@ Obstruction des trompes : altération des trompes suite à une infection microb
 
 </div>
 
-<div markdown style="display:flex; flex-direction: column"; >
+<div markdown style="display:flex; flex-direction: column; flex: 1 1 0;" >
 
 
-![hystérographie normale, 2 ovaires visibles](Pictures/histerioNormal.png){:style="width:250px;  }
+![hystérographie normale, 2 ovaires visibles](Pictures/histerioNormal.png){:style="width:250px;"  }
 </div>
 </div>
 
@@ -106,7 +105,7 @@ Le spermocytogramme réalisé pour le couple B a révélé 18 % de formes typiq
 
 **Document 9 Dosage quotidien de LH de madame B.**
 
-![](Pictures/coupleBdosageLH.jpg)
+![](Pictures/coupleBdosageLH.jpg){:style="width:500px;"  }
 
 </div>
 <div markdown style="page-break-after: always;">
@@ -126,31 +125,52 @@ Le spermocytogramme réalisé pour le couple C a révélé 25 % de formes typiq
 
 **Document 12 Dosage quotidien de LH de madame C.**
 
-![](Pictures/coupleCdosageLH.png){:style="width:500px;  }
+![](Pictures/coupleCdosageLH.png){:style="width:500px;"  }
 
 ## DIFFÉRENTES TECHNIQUES D’AIDE MÉDICALISÉE À LA PROCRÉATION
 
 **Document 13 la stimulation hormonale (SH) – Coût 500 €**
+<div markdown style="display:flex; flex-direction:row;">
 
-![](Pictures/stimOvarienne.png)
+<div markdown style="display:flex;  flex : 1 1 0; flex-direction:row;">
 
+![](Pictures/stimOvarienne.png){:style="width:400px;"  }
+</div>
+<div markdown style="display:flex; flex : 1 1 0;  flex-direction:column;">
 Liste des étapes de la stimulation ovarienne :
 
 - Hyperstimulation ovarienne : une injection d’hormone permettant de stimuler les ovaires afin de déclencher une ovulation.
+</div>
+
+</div>
 
 **Document 14 l’insémination artificielle (IA) – Coût 1 000 €**
 
+<div markdown style="display:flex; flex-direction:row;">
+
+<div markdown style="display:flex;  flex : 1 1 0; flex-direction:row;">
+![](Pictures/insemArtif.png){:style="width:500px;"  }
+</div>
+<div markdown style="display:flex; flex : 1 1 0;  flex-direction:column;">
 Liste des étapes de l’insémination artificielle :
 
- ![](Pictures/insemArtif.png)**
  
 - Hyperstimulation ovarienne : une injection d’hormone permet de stimuler les ovaires afin de déclencher une ovulation.
 - Recueil et préparation du sperme :** le sperme du conjoint est récupéré
 - Dépôt des spermatozoïdes : **les spermatozoïdes sont déposés dans l’utérus.
+</div>
+
+</div>
 
 **Document 15 : la fécondation in vitro (FIV) – Coût 4 100 €**
 
-![](Pictures/schemaFIV.png)
+<div markdown style="display:flex; flex-direction:row;">
+
+<div markdown style="display:flex;  flex : 1 1 0; flex-direction:row;">
+![](Pictures/schemaFIV.png){:style="width:400px;"  }
+
+</div>
+<div markdown style="display:flex; flex : 1 1 0;  flex-direction:column;">
 
 Liste des étapes de la fécondation in vitro :
 
@@ -159,11 +179,20 @@ Liste des étapes de la fécondation in vitro :
 -   Mise en contact des spermatozoïdes et d’un ovule.
 -   Culture de l’embryon.
 -   Transfert de l’embryon dans l’utérus.
+</div>
+
+</div>
+
 
 **Document 16 : la fécondation in vitro avec micro-injection de spermatozoïde (FIV ICSI) – Coût 4300€**
 
-![](Pictures/schemaFIV_ICSI.png)
+<div markdown style="display:flex; flex-direction:row;">
 
+<div markdown style="display:flex;  flex : 1 1 0; flex-direction:row;">
+![](Pictures/schemaFIV_ICSI.png){:style="width:400px;"  }
+
+</div>
+<div markdown style="display:flex; flex : 1 1 0;  flex-direction:column;">
 Liste des étapes de la fécondation in vitro :
 
 - Prélèvement d’ovules dans l’ovaire hyperstimulé.
@@ -171,9 +200,12 @@ Liste des étapes de la fécondation in vitro :
 - Fécondation in vitro avec micro-injection de spermatozoïde.
 - Culture de l’embryon.
 - Transfert de l’embryon dans l’utérus.
+</div>
+
+</div>
 
 
-![](Pictures/microInjecSpz.jpg)
+![](Pictures/microInjecSpz.jpg){:style="width:250px;"  }
 
 </div>
 

@@ -1,4 +1,4 @@
-# Séquence : Origine des caractères individuels
+# Séquence : La génétique
 
 !!! note-prof
     si besoin d'infos
@@ -17,7 +17,7 @@
 !!! question "Problématique"
     Comment l’information est-elle organisée dans les chromosomes ?
 
-[Activité nom activité](../lien vers l'activité)
+[Activité Les gènes](../genes)
 
 
 
@@ -37,19 +37,17 @@
 
 ??? abstract "infos supp"
 
-    ![alt text](image.png)
-    ![alt text](image-1.png)
-    ![alt text](image-2.png)
-    ![alt text](image-3.png)
-    ![](image-4.png)
+    ![](pictures/genesHumains.png)
+    ![](pictures/schemaChromosome.png)
 
 
-## Séance 2 : Nom
+
+
+## Séance 2 : Différentes versions d'un gène
 
 !!! question "Problématique"
     Comment expliquer les différences pour un caractère entre individus ?
     
-[Activité nom activité](../lien vers l'activité)
 
 
 
@@ -69,7 +67,9 @@
     Tous les individus ont les mêmes gènes. La diversité humaine est possible grâce à l’existence de ces allèles. Chaque individu est un assemblage d’allèles différents. Cette diversité est appelée biodiversité allélique.
     L’ensemble des allèles d’un individu est appelé génotype.
 
+[Activité Exercices sur les allèles](../alleles)
 
+[Activité Les groupes sanguins](../grpSang)
 
 <div style="page-break-after: always;"></div>
 

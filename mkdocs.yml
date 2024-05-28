@@ -193,6 +193,14 @@ nav :
         - Pollinisation : 6e/ReproPlantes/pollinisation.md
         - Disparition pollinisateur : 6e/ReproPlantes/dispAbeilles.md
         - Fiche Révision : 6e/ReproPlantes/ficheReproPlantes.md
+      
+      - Séquence Reproduction et sexualité humaine :
+        - Introduction : 6e/ReproHum/IntroReproHum.md
+        - Puberte : 6e/ReproHum/puberte.md
+        - Pollinisation : 6e/ReproHum/pollinisation.md
+        - Disparition pollinisateur : 6e/ReproHum/dispAbeilles.md
+        - Fiche Révision : 6e/ReproHum/ficheReproPlantes.md
+
       #- Séquence Propriété de la matière : 
       #    - Introduction : 6e/ProprietesMatiere/IntroMatiere.md
       #    - Activité Importance du tri des déchets : 6e/ProprietesMatiere/Decomposition.md
@@ -208,7 +216,6 @@ nav :
       #- Séquence Transmission de l’information :
       #- Séquence Organisation des êtres vivants  :
       #
-      #- Séquence Reproduction et sexualité humaine :
       #- Séquence La Terre, une planète singulière et active :
       #- Séquence Écosystème : 
       #- Séquence Place des êtres vivants dans les chaînes alimentaires :
@@ -320,7 +327,7 @@ nav :
             - Microbiote : 4e/mondeMicrobien/microbiote.md
             - Asepsie et antisepsie : 4e/mondeMicrobien/asepsieAntisepsie.md
             - Antibiotiques : 4e/mondeMicrobien/antiobio.md
-            - Combattre une infection : 4e/mondeMicrobien/tpAngine.md
+            - Combattre une infection : 4e/mondeMicrobien/tpAngine.md
             - Fiche de révision : 4e/mondeMicrobien/FicheMicrobes.md
       - Séquence Système nerveux :
             - Introduction : 4e/systNerveux/IntroSystNerveux.md
@@ -347,7 +354,11 @@ nav :
             - ADN : 4e/infoGen/adn.md
             - Chromosomes : 4e/infoGen/chromosomes.md
             - Fiche de révision : 4e/infoGen/Fiche.md
-
+      - Séquence La génétique : 
+            - Introduction : 4e/allele/IntroAllele.md
+            - Les gènes : 4e/allele/genes.md
+            - Exercices sur les allèles : 4e/allele/alleles.md
+            - Fiche de révision : 4e/allele/Fiche.md
       #- Séquence Exploitations des sols pour produire de la nourriture :
       #- Séquence Reproduction des êtres vivants :
       #- Séquence Génétique : 
