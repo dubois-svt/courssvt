@@ -17,10 +17,17 @@
 
 **Document 1 Le cycle féminin théorique.**
 
+<div markdown style="display:flex; flex-direction:row;">
+<div markdown style="display:flex; flex-direction:row; flex: 1 1 0;">
+
 ![](Pictures/schemaCycleMenstruel2.png)
+</div>
+<div markdown style="display:flex; flex-direction:row;flex: 2 1 0;">
 
 Ce cycle dure en moyenne 28 jours.
 D’une femme à une autre et d’un cycle à un autre, le jour de l’ovulation n’est pas forcément identique. Il peut varier pour de nombreuses raisons.
+</div>
+</div>
 
 **Document 2 La durée de vie moyenne des cellules reproductrices dans l’appareil génital féminin.**
 
@@ -34,24 +41,34 @@ D’une femme à une autre et d’un cycle à un autre, le jour de l’ovulation
 
 
 **Document 4 De la fécondation à l’embryon**
+<div markdown style="display:flex; flex-direction:row;">
+
 
 ![](Pictures/photoFecondation.png)
 
+![](Pictures/photoCellOeuf.png)
+
 ![](Pictures/photoEmbryon.png)
+</div>
 
 La fécondation est l’entrée d’un spermatozoïde dans l’ovule, cet
 événement forme une cellule-œuf. Cette cellule va ensuite se diviser à
 de nombreuses reprises ce qui forme l’embryon. Pendant les divisions,
 l’embryon se déplace dans la trompe vers l’utérus.
 
-![](Pictures/photoCellOeuf.png)
-
 
 **Document 5 La nidation**
 
+<div markdown style="display:flex; flex-direction:row;">
+<div markdown style="display:flex; flex-direction:row; flex: 1 1 0;">
+
 ![](Pictures/schemaNidation.png)
+</div>
+<div markdown style="display:flex; flex-direction:row; flex: 2 1 0;">
 
 Au bout de 6 jours, l’embryon est dans l’utérus, il va se fixer sur la muqueuse utérine qui est développée à ce moment. Les règles s’interrompent pendant 9 mois.
+</div>
+</div>
 
 **Document 6 Le développement de l’embryon puis du fœtus.**
 

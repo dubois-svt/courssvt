@@ -2,21 +2,16 @@
 
 !!! note "Compétences"
 
-    Interpréter 
+    Construire un tableau 
 
 !!! warning "Consignes"
 
-    1. 
+    À partir des documents, construire un tableau présentant pour chaque maladie, le type du microbe, le sexe des individus touchés, les symptômes, les moyens de protections.
     
 ??? bug "Critères de réussite"
     - 
 
 
-### Activité  Se protéger des IST
-
-Consigne : À partir des documents, construire un tableau présentant pour chaque maladie, le type du microbe, le sexe des individus touchés, les symptômes, les moyens de protections.
-
-Compétence travaillée : Construire un tableau
 
 **Document 1 Les IST**
 
@@ -34,15 +29,27 @@ Le dépistage et l’usage de préservatif sont les pratiques permettant d’év
 
 **Document 2 Des micro-organismes responsables d’IST**
 
+<div markdown style="display:flex; flex-direction:row;">
 
-![**Photographie au microscope de plusieurs VIH (virus de l’immunodéficience humaine)](Pictures/VIH.png). 
+<div markdown style="display:flex; flex-direction:column;">
+
+![Photographie au microscope de plusieurs VIH (virus de l’immunodéficience humaine)](Pictures/VIH.png). 
 Le VIH est le virus responsable du SIDA.
+</div>
+
+<div markdown style="display:flex; flex-direction:column;">
 
 ![Photographie au microscope d’un Papillomavirus](Pictures/papillomavirus.png)
 Le Papillomavirus est un virus responsable de 99 % des cancers du col de l’utérus chez les femmes.  
+</div>
+<div markdown style="display:flex; flex-direction:column;">
 
 ![Photographie au microscope de Chlamydia trachomatis.](Pictures/chlamydiaTrachomatis.png) 
 Chlamydia trachomatis est la bactérie responsable de la chlamydiose
+
+</div>
+</div>
+
 
 **Document 3 SIDA (6500 nouvelles personnes séropositives au virus par an)**
 

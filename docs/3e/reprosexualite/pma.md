@@ -1,47 +1,79 @@
-# Activité : Importance du tri des déchets
+# Activité : Procréation Médicalement Assistée (PMA)
 
 !!! note "Compétences"
 
-    Interpréter 
+    Trouver et utiliser des informations 
 
 !!! warning "Consignes"
 
-    1. 
+    À partir des informations extraites des différents documents, construisez un tableau dans lequel vous indiquerez pour les différents couples A, B et C :
+
+    - la raison de l’infertilité du couple 
+    - la technique d’aide médicale à la procréation qui pourrait aider le couple à avoir un bébé. Choisir la plus adaptée. 
+    - Justifier votre réponse dans une colonne ou ligne supplémentaire.
+
     
 ??? bug "Critères de réussite"
     - 
 
-
-### Activité   L’aide médicalisée à la procréation (AMP)
-
-Consignes : À partir des informations extraites des différents documents, construisez un tableau dans lequel vous indiquerez pour les différents couples A, B et C :
-
-- la raison de l’infertilité du couple 
-- la technique d’aide médicale à la procréation qui pourrait aider le couple à avoir un bébé. Choisir la plus adaptée. Justifier votre réponse dans une colonne ou ligne supplémentaire.
+<div markdown style="page-break-after: always;">
 
 ## TECHNIQUES DE RECHERCHE DES CAUSES DE L’INFERTILITÉ D’UN COUPLE
 
 **Document 1 : la définition et l’analyse d’un spermocytogramme**
 
+<div markdown style="display:flex; flex-direction: row"; >
+<div markdown style="display:flex; flex-direction: column"; >
+
 Spermocytogramme : dosage permettant de connaître le nombre de forme typique et atypique de spermatozoïde dans un sperme donné.
 Lors de la réalisation d’un spermocytogramme, on considère que le sperme du conjoint a une qualité satisfaisante lorsque plus de 14 % des spermatozoïdes ont une forme typique.
+</div>
 
-![Forme typique ](Pictures/spzTypique.png){:style="width:100px; float:right"  } Forme typique : se dit d’un spermatozoïde de morphologie normale.
-![Forme atypique ](Pictures/spzAtypique.png){:style="width:100px; float:right"  } Forme atypique : se dit d’un spermatozoïde de morphologie anormale. On considéra que les spermatozoïdes atypiques ne se déplacent pas.
+<div markdown style="display:flex; flex-direction: column"; >
+
+![Forme typique](Pictures/spzTypique.png){:style="width:250px;  } 
+Forme typique : se dit d’un spermatozoïde de morphologie normale.
+</div>
+
+<div markdown style="display:flex; flex-direction: column"; >
+
+![Forme atypique](Pictures/spzAtypique.png){:style="width:250px;  } 
+Forme atypique : se dit d’un spermatozoïde de morphologie anormale. On considéra que les spermatozoïdes atypiques ne se déplacent pas.
+
+</div>
+</div>
 
 **Document 2 : la définition et l’analyse d’une hystérographie**
+
+<div markdown style="display:flex; flex-direction: row"; >
+<div markdown style="display:flex; flex-direction: column"; >
+
+
 Hystérographie : examen médical permettant de mettre en évidence des anomalies éventuelles de l’utérus et des trompes en injectant un liquide opaque dans le vagin lors d’une radiographie.
-![hystérographie normale, 2 ovaires visibles](Pictures/histerioNormal.png){:style="width:100px; float:right"  }
+
+
 Lorsque le liquide opaque circule bien dans le vagin, l’utérus et les trompes, on considère que le résultat de l’hystérographie est normal. En revanche, si le liquide ne circule pas dans l’une des deux trompes, on en déduit que la trompe est bouchée (on parle d’obstruction des
 trompes).
 
 Obstruction des trompes : altération des trompes suite à une infection microbienne empêchant la rencontre des cellules reproductrices.
+
+</div>
+
+<div markdown style="display:flex; flex-direction: column"; >
+
+
+![hystérographie normale, 2 ovaires visibles](Pictures/histerioNormal.png){:style="width:250px;  }
+</div>
+</div>
 
 **Document 3 le dosage d’hormone**
 
 L’ovulation est déclenchée par un pic de l’hormone LH. Si ce pic n’est
 pas présent, il n’y a pas d’ovulation. On peut suivre la quantité
 d’hormone LH quotidienne et vérifier les quantités de cette hormone.
+
+</div>
+<div markdown style="page-break-after: always;">
 
 ## RECHERCHE DE LA CAUSE DE L’INFERTILITÉ POUR LE COUPLE A
 
@@ -58,6 +90,10 @@ d’hormone LH quotidienne et vérifier les quantités de cette hormone.
 
 ![](Pictures/coupleAdosageLH.png)
 
+</div>
+<div markdown style="page-break-after: always;">
+
+
 ## RECHERCHE DE LA CAUSE DE L’INFERTILITÉ POUR LE COUPLE B
 
 **Document 7 le spermocytogramme réalisé pour le couple B**
@@ -72,6 +108,10 @@ Le spermocytogramme réalisé pour le couple B a révélé 18 % de formes typiq
 
 ![](Pictures/coupleBdosageLH.jpg)
 
+</div>
+<div markdown style="page-break-after: always;">
+
+
 ## RECHERCHE DE LA CAUSE DE L’INFERTILITÉ POUR LE COUPLE C
 
 **Document 10 le spermocytogramme réalisé pour le couple C**
@@ -79,14 +119,14 @@ Le spermocytogramme réalisé pour le couple B a révélé 18 % de formes typiq
 Le spermocytogramme réalisé pour le couple C a révélé 25 % de formes typiques et 75 % de formes atypiques.
 
 **Document 11 l’hystérographie réalisée pour le couple C**
-<p>
+
 
 ![](Pictures/coupleCHisterio.jpg)
 
 
 **Document 12 Dosage quotidien de LH de madame C.**
 
-![](Pictures/coupleCdosageLH.png)
+![](Pictures/coupleCdosageLH.png){:style="width:500px;  }
 
 ## DIFFÉRENTES TECHNIQUES D’AIDE MÉDICALISÉE À LA PROCRÉATION
 
@@ -134,6 +174,8 @@ Liste des étapes de la fécondation in vitro :
 
 
 ![](Pictures/microInjecSpz.jpg)
+
+</div>
 
 ??? note-prof "Correction"
 
