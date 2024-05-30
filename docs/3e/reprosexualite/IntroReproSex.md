@@ -120,8 +120,12 @@
 !!! question "Problématique"
     Comment expliquer les problèmes d’infertilité des couples et comment la médecine peut-elle les aider à concevoir un enfant ? 
 
+
+
 ![](Pictures/schemaFecNidation.png)
 
+
+[Activité La Procration Médicalement Assistée](../pma)
 
 
 ??? abstract "Bilan"
@@ -145,6 +149,7 @@
 ![](Pictures/campagneIST.png)
 
 
+[Activité IST](../ist)
 
 ??? abstract "Bilan"
 
@@ -165,7 +170,7 @@ L’orientation sexuelle, qui est attirance affective et sexuelle envers une per
 
 ![](Pictures/dimensionSexe.gif)
 
-consentement cup of tea
+[consentement cup of tea](https://www.youtube.com/watch?v=yj5NcMew6qc)
 
 ![](Pictures/sondageBaiserBOuche.png)
 ![](Pictures/sondage1erRapport.png)
