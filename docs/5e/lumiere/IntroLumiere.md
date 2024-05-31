@@ -86,7 +86,8 @@ Afin de revaloriser un terrain de stockage de déchets jusque dans les années 9
 
 ![](pictures/centraleSolaire.png){:style="width:500px;"}
 
-!!! question "Problématique
+!!! question "Problématique"
+
     Comment parvient-on à allumer une ampoule grâce à l’énergie lumineuse émise par le Soleil  ?
 
 [Activité Conversion d’énergie et unité](../chaineEnergetique.md)

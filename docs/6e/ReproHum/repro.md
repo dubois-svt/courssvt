@@ -1,4 +1,4 @@
-# Activité : Importance du tri des déchets
+# Activité : La reproduction des humains
 
 !!! note "Compétences"
 
@@ -18,7 +18,8 @@
 <div markdown style="page-break-after: always;">
 
 **Document 1 Trajet des cellules reproductrices, fécondation et première semaine de l'embryon.**
-![alt text](image-1.png)
+![](image-1.png)
+
 Lors d'un rapport sexuel avec éjaculation, les spermatozoïdes sont déposés dans le vagin. Ils se déplacent à la rencontre d'un éventuel ovule, libéré par un ovaire. Un seul spermatozoïde fusionne avec l'ovule lors de la fécondation a qui forme la cellule-œuf b. Cette cellule se divise de nombreuses fois pour former un embryon c qui migre dans l'utérus et s'y fixe. 
 
 </div>

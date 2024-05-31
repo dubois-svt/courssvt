@@ -1,4 +1,4 @@
-# Activité : Importance du tri des déchets
+# Activité : IST
 
 !!! note "Compétences"
 

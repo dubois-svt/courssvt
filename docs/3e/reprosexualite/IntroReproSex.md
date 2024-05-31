@@ -125,7 +125,7 @@
 ![](Pictures/schemaFecNidation.png)
 
 
-[Activité La Procration Médicalement Assistée](../pma)
+[Activité La Procréation Médicalement Assistée](../pma)
 
 
 ??? abstract "Bilan"
@@ -141,7 +141,7 @@
 
 
 
-## Séance 5 : Les ISTs
+## Séance 5 : Les IST
 
 !!! question "Problématique"
     Comment se protéger des IST ?
