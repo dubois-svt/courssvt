@@ -56,7 +56,7 @@
 
 
 
-## Séance 35 : L'évolution, une théorie
+## Séance 3 : L'évolution, une théorie
 
 !!! question "Problématique"
     En quoi l’évolution est-elle une théorie ?

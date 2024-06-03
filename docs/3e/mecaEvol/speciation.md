@@ -30,9 +30,18 @@ Les différences génétiques entre les deux espèces sont devenues telles que l
 
 C’est ainsi qu’a émergé, à partir de l’espèce d’origine, une autre espèce de moustique : Culex pipiens molestus.
 
+<div markdown style="display:flex;flex-direction:row;">
+<div markdown style="display:flex;flex: 1 1 0; flex-direction:row;">
+
 ![Culex pipiens molestus ](Pictures/culexPipiensMolestus.jpg)
+
+</div>
+<div markdown style="display:flex;flex: 1 1 0; flex-direction:row;">
+
 ![Culex pipiens pipiens](Pictures/culexPipiensPipiens.png)
 
+</div>
+</div>
 
 **Document 2 Comparaison des deux espèces de moustiques.**
 

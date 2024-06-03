@@ -51,12 +51,20 @@ X : absent O : présent
 
 **Document 5  Quelques fossiles de crânes de la lignée humaine et représentation.**
 
-![](Pictures/cranesHominines.png)
+![](pictures/cranesHominines.png)
 
-![australopithecusAfricanus](australopithecusAfricanus.jpg")
-![homo Neandertalis](Pictures/homoNeandertalis.jpg)
+<div markdown style="display:flex;flex-direction:row;">
+<div markdown style="display:flex;flex: 1 1 0; flex-direction:row;">
 
+![Australopithecus africanus](pictures/australopithecusAfricanus.jpg)
+</div>
 
+<div markdown style="display:flex;flex: 1 1 0; flex-direction:row;">
+
+![Homo neandertalis](pictures/homoNeandertalis.jpg)
+</div>
+
+</div>
 ??? note-prof "Correction :"
 
     ![](pictures/correctarbreParentePrimates.png)

@@ -1,4 +1,4 @@
-# Activité : Importance du tri des déchets
+# Activité : Parentés entre les différents êtres vivants
 
 !!! note "Compétences"
 
