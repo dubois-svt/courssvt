@@ -16,16 +16,11 @@
 
 
 
-<div markdown style="page-break-after: always;">
 
 
 
-![Culex pipiens molestus ](Pictures/culexPipiensMolestus.jpg)
-![Culex pipiens pipiens](Pictures/culexPipiensPipiens.png)
 
-
-
-Document 1 : l’histoire des moustiques du métro londonien
+**Document 1 : l’histoire des moustiques du métro londonien**
 
 À l’origine, une seule espèce de moustique existait dans la ville de Londres : Culex pipiens pipiens.
 
@@ -35,25 +30,30 @@ Les différences génétiques entre les deux espèces sont devenues telles que l
 
 C’est ainsi qu’a émergé, à partir de l’espèce d’origine, une autre espèce de moustique : Culex pipiens molestus.
 
-Document 2 Comparaison des deux espèces de moustiques. Les
-caractéristiques en gras sont déterminées par l’information génétique.
+![Culex pipiens molestus ](Pictures/culexPipiensMolestus.jpg)
+![Culex pipiens pipiens](Pictures/culexPipiensPipiens.png)
+
+
+**Document 2 Comparaison des deux espèces de moustiques.**
+
+Les caractéristiques en gras sont déterminées par l’information génétique.
 
 | | Culex pipiens molestus | Culex pipiens pipiens  |
-|----------------------------|----------------------------|----------------------------|
+|-------|-----------------|----------------------------|
 | Localisation | Dans le métro | En surface |
 | Conditions environnementales   | Températures chaudes et stables toute l’année, flaques d’eau et nourriture abondante | Hivers rigoureux, alternance des saisons |
 | Cible piquée préférentiellement | Mammifères (rat, humain)    | oiseaux   |
 | Cycle avec période de vie ralentie en hiver | non  | oui  |
 | Reproduction dans des espaces fermés        | oui  | non  |
 
-Document 3 : Distances génétiques de dix populations de moustiques.
+**Document 3 Distances génétiques de dix populations de moustiques.**
 
 La distance génétique permet d’évaluer des différences entre des groupes d’allèles dans différentes populations de moustiques.
 
-![alt text](image.png)
+![](pictures/grapDistGenCulex.png)
 
 
-Document 4 : Apparition d’un nouvel allèle par mutation.
+**Document 4 Apparition d’un nouvel allèle par mutation.**
 
 Il arrive que l’ADN subisse des modifications naturelles de ses gènes, appelées mutations, qui se produisent par hasard et permettent l’apparition de nouveaux allèles. Si elles interviennent dans des cellules reproductrices, elles peuvent être transmises aux descendants qui porteront alors dans toutes leurs cellules le nouvel allèle.
 

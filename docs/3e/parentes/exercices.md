@@ -20,7 +20,7 @@ Les mammifères sont un groupe dont les espèces possèdent des mamelles.
 Les tétrapodes sont un groupe dont les espèces possèdent 4 membres.
 
 
-![](Pictures/arbreparenteIchtyosaurus.png)
+![](pictures/arbreparenteIchtyosaurus.png)
 
 
 !!! warning "Consignes"
@@ -71,3 +71,4 @@ Actuellement ce groupe n’existe pas dans la classification évolutive. En reva
 ??? note-prof "correction"
     exercice 2
     ![](pictures/correctarbreReptiles.png)
+

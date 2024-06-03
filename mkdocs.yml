@@ -202,8 +202,8 @@ nav :
 
       - Séquence Propriété de la matière : 
           - Introduction : 6e/ProprietesMatiere/IntroMatiere.md
-          - Activité Importance du tri des déchets : 6e/ProprietesMatiere/Decomposition.md
-          - Activité Les propriétés des matériaux : 6e/ProprietesMatiere/Proprietes.md
+          - Importance du tri des déchets : 6e/ProprietesMatiere/Decomposition.md
+          - Les propriétés des matériaux : 6e/ProprietesMatiere/Proprietes.md
           - Fiche révision : 6e/ProprietesMatiere/FicheMatiere.md
       #- Séquence Masse et volume :
       #- Séquence Mélanges :
@@ -429,11 +429,23 @@ nav :
           - IST : 3e/reprosexualite/ist.md
 
           - Fiche Révision : 3e/reprosexualite/Fiche.md
-      #- Séquence Classification des êtres vivants :
-      #- Séquence Evolution au cours du temps :
-      #- Séquence Mécanismes évolutifs :
+      
+      - Séquence Parentés des êtres vivants:
+          - Introdution : 3e/parentes/IntroParentes.md
+          - Parentés des êtres vivants : 3e/parentes/liensParente.md
+          - Etres humains dans l'évolution : 3e/parentes/evolHum.md
+          - Exercices : 3e/parentes/exercices.md
+          - Fiche Révision : 3e/parentes/Fiche.md
 
-      #- Séquence Sexualité : 
+        - Séquence Parentés des êtres vivants:
+          - Introdution : 3e/mecaEvol/IntroEvol.md
+          - Nouvelles espèces : 3e/mecaEvol/speciation.md
+          - Mécanismes évolutifs : 3e/mecaEvol/mecaEvol.md
+          - Théorie de l'évolution: 3e/mecaEvol/theorieEvol.md
+          - Exercices : 3e/mecaEvol/exercices.md
+
+          - Fiche Révision : 3e/mecaEvol/Fiche.md
+
           
   - about.md
 
