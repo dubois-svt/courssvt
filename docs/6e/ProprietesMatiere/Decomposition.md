@@ -11,17 +11,23 @@
     Consigne 3 : À partir de vos deux réponses précédentes, expliquer pourquoi il est important de trier ces déchets correctement.  
     Consigne 4 : Expliquer pourquoi on retrouve peu de restes d’êtres vivants ou d’aliments dans les paysages.
 
+??? bug "Critères de réussite"
+    - avoir pesé le sac non trié puis le sac trié
+    - avoir écrit une phrase comparant les deux masses.
+    - avoir comparé les temps de décomposition des différents déchets
+    - avoir expliqué le problème lors de la dégradation de certains objets.
+**Document 1 Consigne de tri.**
 
 <div markdown style="display: flex; flex-direction:row" >
-
+<div markdown style="display: flex; flex : 1 1 0; flex-direction:column" >
 
 <figure markdown style=" float: left; margin-right:5px; margin-top:0px">
-  ![Consigne de tri](Pictures/consigneTri.png){: style="width:300px" }
+  ![Consigne de tri](Pictures/consigneTri.png){: style="width:500px" }
 </figure>
+</div>
 
-<div markdown style="display: flex; flex-direction:column" >
+<div markdown style="display: flex; flex : 1 1 0; flex-direction:column" >
 
-**Document 1 Consigne de tri.**
 
 
 Beaucoup d’objets ne vont pas à la poubelle, mais doivent être rapportés dans des bacs spéciaux pour être traités et recyclés.
@@ -52,11 +58,7 @@ C’est le cas des piles qui peuvent libérer des liquides extrêmement nocifs, 
 </div>
 
 
-!!! bug "Critères de réussite"
-    - avoir pesé le sac non trié puis le sac trié
-    - avoir écrit une phrase comparant les deux masses.
-    - avoir comparé les temps de décomposition des différents déchets
-    - avoir expliqué le problème lors de la dégradation de certains objets.
+
 
 </div>
 

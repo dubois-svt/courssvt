@@ -63,12 +63,10 @@
 
 ## Séance 3 : Sexualité
 
-!!! question "Problématique"
-    Quels sont les éléments à prendre en compte pour répondre à un besoin ?
-    
-[Activité nom activité](../lien vers l'activité)
 
-![alt text](image.png)
+    
+
+![](pictures/sexualite.png)
 
 
 ??? abstract "Bilan"

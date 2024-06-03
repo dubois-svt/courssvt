@@ -197,16 +197,14 @@ nav :
       - Séquence Reproduction et sexualité humaine :
         - Introduction : 6e/ReproHum/IntroReproHum.md
         - Puberte : 6e/ReproHum/puberte.md
-        - Pollinisation : 6e/ReproHum/pollinisation.md
-        - Disparition pollinisateur : 6e/ReproHum/dispAbeilles.md
-        - Fiche Révision : 6e/ReproHum/ficheReproPlantes.md
+        - La reproduction des humains : 6e/ReproHum/repro.md
+        - Fiche Révision : 6e/ReproHum/ficheReproHum.md
 
-      #- Séquence Propriété de la matière : 
-      #    - Introduction : 6e/ProprietesMatiere/IntroMatiere.md
-      #    - Activité Importance du tri des déchets : 6e/ProprietesMatiere/Decomposition.md
-      #    - Activité Les propriétés des matériaux : 6e/ProprietesMatiere/Proprietes.md
-      #    - Activité 3 : 6e/ProprietesMatiere/6e_seq1_3.md
-      #    - Fiche révision : 6e/ProprietesMatiere/FicheMatiere.md
+      - Séquence Propriété de la matière : 
+          - Introduction : 6e/ProprietesMatiere/IntroMatiere.md
+          - Activité Importance du tri des déchets : 6e/ProprietesMatiere/Decomposition.md
+          - Activité Les propriétés des matériaux : 6e/ProprietesMatiere/Proprietes.md
+          - Fiche révision : 6e/ProprietesMatiere/FicheMatiere.md
       #- Séquence Masse et volume :
       #- Séquence Mélanges :
       #- Séquence Mouvements :
@@ -358,6 +356,9 @@ nav :
             - Introduction : 4e/allele/IntroAllele.md
             - Les gènes : 4e/allele/genes.md
             - Exercices sur les allèles : 4e/allele/alleles.md
+            - Groupes sanguins : 4e/allele/grpSang.md
+            - Nouveaux allèles : 4e/allele/mutations.md
+
             - Fiche de révision : 4e/allele/Fiche.md
       #- Séquence Exploitations des sols pour produire de la nourriture :
       #- Séquence Reproduction des êtres vivants :

@@ -50,8 +50,6 @@
     
 
 
-
-
 ??? abstract "Bilan"
     
     Chaque version différente d’un même gène est appelée un allèle. Il détermine une version différente du caractère.
@@ -73,3 +71,30 @@
 
 <div style="page-break-after: always;"></div>
 
+## Séance 3 : Des nouveaux allèles
+
+![](pictures/drosoMutations.png)
+
+![](pictures/diversiteEscargots.png)
+
+**Document 1 Apparition d’un nouveau caractère.**
+
+Dans des élevages de drosophiles aux yeux rouges, on peut voir apparaître des individus « mutants » aux yeux blancs.
+![](pictures/drosoMutations2.png)
+
+!!! question "Problématique"
+    Comment expliquer l’apparition de nouveaux allèles ?
+
+[Activité Les nouveaux allèles](../mutations)
+
+
+??? abstract "Bilan"
+
+    L’apparition de nouveaux caractères, et donc de nouveaux allèles, au cours des générations se fait grâce à des modifications de l’information génétique. Ces modifications se nomment mutations. Elles peuvent arriver naturellement ou être provoquées par des agents mutagènes (UV, virus …) Ces mutations se font au hasard et donc le nouveau caractère peut être bénéfique, sans conséquence ou létal.
+    Les mutations ne peuvent être transmises à la descendance uniquement lorsqu’elles se font dans les cellules reproductrices.
+
+    Définitions.
+
+    - Mutation : Modification de l’information génétique portée par l’ADN, à l’origine de nouveaux allèles.
+    - Cellule somatique : Cellule ne donnant pas de cellules reproductrices
+    - Cellule germinale : Cellule donnant des cellules reproductrices.

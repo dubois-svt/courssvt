@@ -1,19 +1,14 @@
-# Thème 3 : Le vivant et son évolution
-
 ## Chapitre 1 : Classification des **êtres vivants**
 
 1.  ### Comment sont établis les liens de parentés entre les espèces actuelles et les espèces fossiles ?
 
-#### 
+ 
 
-1.  #### Parentés entre les différents ***êtres vivants***
+1.   Parentés entre les différents êtres vivants
 
-Consigne 1 : À partir des documents, montrer que tous les différents
-êtres vivants présentés ont un lien de parenté, vous justifierez votre
-réponse en écrivant l’arbre de parenté.
+Consigne 1 : À partir des documents, montrer que tous les différents êtres vivants présentés ont un lien de parenté, vous justifierez votre réponse en écrivant l’arbre de parenté.
 
-Consigne 2 : Montrer ensuite que tous les êtres vivants ont un lien de
-parenté.
+Consigne 2 : Montrer ensuite que tous les êtres vivants ont un lien de parenté.
 
 Document 1 : Construire un arbre de parenté.
 
@@ -28,21 +23,15 @@ Document 1 : Construire un arbre de parenté.
 5.  Cliquer sur l’icône « afficher les boites » et sélectionner les caractères qui nous intéressent.
 
 6.  En cliquant sur chaque nœud (ancêtre commun), nommer les différents groupes selon leurs caractéristiques.
-<img src="Pictures/100000000000023D000000A5B1435F65C0EA6A6B.png" />
+![alt text](Pictures/menuPhylogene.png)
 
 Document 2 : Un arbre de parenté.
 
-Pour tracer les relations de parentés, les scientifiques posent
-l’hypothèse que toutes les espèces partageant un caractère font partie
-‘un même groupe et sont issus d’un ancêtre commun.
+Pour tracer les relations de parentés, les scientifiques posent l’hypothèse que toutes les espèces partageant un caractère font partie ‘un même groupe et sont issus d’un ancêtre commun.
 
-Un arbre de parenté est constitué de branches et de nœuds (points de
-jonction entre deux branches). Une espèce est placée au bout d’une
-branche. Un caractère est placé sur une branche. Un nœud représente de
-façon symbolique un ancêtre commun.
+Un arbre de parenté est constitué de branches et de nœuds (points de jonction entre deux branches). Une espèce est placée au bout d’une branche. Un caractère est placé sur une branche. Un nœud représente de façon symbolique un ancêtre commun.
 
-Les scientifiques pour former un groupe, dans un arbre de parenté,
-regroupe un ancêtre et tous ses descendants.
+Les scientifiques pour former un groupe, dans un arbre de parenté, regroupe un ancêtre et tous ses descendants.
 
 Document 3 : Définition
 
@@ -51,7 +40,7 @@ groupe.
 
 Doc caractères commun
 
-tableau cellule, noyau, Adn chez différents etres vivatn ????
+tableau cellule, noyau, Adn chez différents êtres vivants ????
 
 <https://vimeopro.com/user36345481/svt-cycle-4/video/218456791>
 
@@ -61,8 +50,7 @@ Les mammifères sont un groupe dont les espèces possèdent des mamelles.
 
 Les tétrapodes sont un groupe dont les espèces possèdent 4 membres.
 
-<img src="Pictures/10000000000002C70000013A6A286AAC4B99A8D8.png"
-style="width:16.87cm;height:7.452cm" />
+![](Pictures/arbreparenteIchtyosaurus.png)
 
 Consigne 1 : Citer au moins un caractère commun au thon et au dauphin.
 
@@ -70,25 +58,19 @@ Consigne 2 : Citer un caractère présent chez le dauphin, mais absent chez l�
 
 Consigne 3 : Entourer en vert le groupe des mammifères et en bleu le groupe des tétrapodes.
 
-Consigne 4 : Citer un animal qui est le plus proche parent de
-l’Ichtyosaurus que du thon.
+Consigne 4 : Citer un animal qui est le plus proche parent de l’Ichtyosaurus que du thon.
 
 Consigne 5 : Expliquer pourquoi on peut dire que le chat est plus proche du dauphin que l’Ichtyosaurus.
 
-<img src="Pictures/10000000000003E20000027A3A4FA51E4FF45F76.png"
+<img src="Pictures/groupesEmboites.png"
 style="width:8.996cm;height:7.318cm" />
-<img src="Pictures/100000000000040A000002771D8902CAA19E3055.png"
+<img src="Pictures/arbrePhyloGroupe.png"
 style="width:10.287cm;height:6.276cm" />
 
 Bilan :
 
-La classification des êtres vivants et fondée sur des liens de
-parentés entre les êtres vivants. Les caractéristiques communes sont transmises de façon héréditaire par un ancêtre commun à tous ses descendants.
-
-Ils sont regroupés en fonction des caractères qu’ils partagent.
-
-Plus deux espèces partagent des caractéristiques communes donc
-d’ancêtres en commun, plus elles sont apparentées (proches).
+La classification des êtres vivants et fondée sur des liens de parentés entre les êtres vivants. Les caractéristiques communes sont transmises de façon héréditaire par un ancêtre commun à tous ses descendants.
+textont apparentées (proches).
 
 Les degrés de parenté sont représentés par un arbre de parenté.
 
@@ -132,12 +114,11 @@ Document 3 : Tableau de caractères.
 
 Document 4 : Arbre de parenté de quelques espèces.
 
-<img src="Pictures/buissonVivant.png"
-style="width:18.72cm;height:10.76cm" />
+<img src="Pictures/buissonVivant.png" style="width:18.72cm;height:10.76cm" />
 
-1.  ### Quelle est la place de l’être humain parmi les autres êtres vivants ?
+ Quelle est la place de l’être humain parmi les autres êtres vivants ?
 
-2.  #### La place de l’***être humain***
+1.   La place de l’être humain
 
 Consigne 1 : Complétez l’arbre de parenté du document 3 à l’aide des informations du document 2, entourer le groupe des primates.
 
@@ -161,9 +142,8 @@ Document 2 : tableau des caractères de quelques primates.
 
 X : absent O : présent
 
-|                            |                        |                 |                             |                    |                   |        |
-|----------------------------|------------------------|-----------------|-----------------------------|--------------------|-------------------|--------|
 |                            | Bassin élargi et court | Orbites fermées | Coccyx (= Absence de queue) | Bipédie permanente | Pouces opposables | Ongles |
+|----------------------------|------------------------|-----------------|-----------------------------|--------------------|-------------------|--------|
 | Tarsier                    | X                      | X               | x                           | X                  | O                 | o      |
 | Macaque                    | X                      | O               | O                           | X                  | O                 | O      |
 | Chimpanzé                  | X                      | O               | O                           | X                  | O                 | O      |
@@ -190,19 +170,15 @@ représentation.
 ![australopithecusAfricanus](australopithecusAfricanus.jpg")
 ![homo Neandertalis](Pictures/homoNeandertalis.jpg)
 
-<img src="Pictures/cranesHominines.png"
-style="width:16.452cm;height:5.853cm" />
+<img src="Pictures/cranesHominines.png" style="width:16.452cm;height:5.853cm" />
 
 Correction :
 
-<img src="Pictures/friseChonoHominines.png"
-style="width:18.461cm;height:9.814cm" />
+<img src="Pictures/friseChonoHominines.png" style="width:18.461cm;height:9.814cm" />
 
-<img src="Pictures/arbrePhyloHominides.png"
-style="width:18.461cm;height:13.898cm" />
+<img src="Pictures/arbrePhyloHominides.png" style="width:18.461cm;height:13.898cm" />
 
-<img src="Pictures/marcheEvol.png"
-style="width:12.903cm;height:4.581cm" />
+<img src="Pictures/marcheEvol.png" style="width:12.903cm;height:4.581cm" />
 
 Bilan : L’espèce humaine (Homo sapiens) est un vertébré (présence de
 vertèbres), un mammifère (présence de poils et de mamelles) et un
@@ -218,7 +194,7 @@ coexisté à certaines périodes (évolution buissonnante). Le plus vieux
 fossile d’Homo sapiens date de 200000 ans.
 
 
-1.  #### Evolution et nouvelles espèces
+1.   Evolution et nouvelles espèces
 
 Consigne : Construire un schéma fonctionnel qui montre comment à partir d’une population une nouvelle espèce peut apparaître.
 
@@ -279,25 +255,20 @@ Expliquer pourquoi on peut dire que les deux populations de moustiques appartien
 
 Représenter les différents évènements qui ont eu lieu
 
-Bilan : L’apparition d’une forme nouvelle d’un caractère au cours de
-l’évolution peut s’expliquer p10000000000004470000032A58FBDDC2684B317Aar une modification au hasard du matériel
-génétique (génome) comme les mutations.
+Bilan : L’apparition d’une forme nouvelle d’un caractère au cours de l’évolution peut s’expliquer p10000000000004470000032A58FBDDC2684B317Aar une modification au hasard du matériel génétique (génome) comme les mutations.
 
-Des espèces apparaissent quand 2 populations évoluent séparément et que
-la reproduction entre elles devient impossible.
+Des espèces apparaissent quand 2 populations évoluent séparément et que la reproduction entre elles devient impossible.
 
 1.  ### Comment expliquer l’évolution des populations ?
 
-#### <img src="Pictures/photoPhalenes.png"/>
+ <img src="Pictures/photoPhalenes.png"/>
 
 <img src="Pictures/cartePopPhalenes.png"
 style="width:9.643cm;height:7.133cm" />
 
-1.  #### Evolution des populations et sélection naturelle
+1.   Evolution des populations et sélection naturelle
 
-Consigne 1 : A l’aide du site internet,
-[https://www.pedagogie.ac-nice.fr/wp-content/uploads/sites/5/productions/phalenes/](https://www.pedagogie.ac-nice.fr/wp-content/uploads/sites/5/productions/phalenes/),
-simuler ce qui s’est passée dans la région de Manchester de 1800 à 1950. Pour cela, il faudra :
+Consigne 1 : A l’aide du site internet, [https://www.pedagogie.ac-nice.fr/wp-content/uploads/sites/5/productions/phalenes/](https://www.pedagogie.ac-nice.fr/wp-content/uploads/sites/5/productions/phalenes/), simuler ce qui s’est passée dans la région de Manchester de 1800 à 1950. Pour cela, il faudra :
 
 Choisir la population initiale parmi les 3 proposées grâce aux informations des documents.
 
@@ -313,79 +284,54 @@ Faire la simulation pendant 10 ans
 
 Afficher les graphiques et appeler le professeur.
 
-Consigne 2 : A l’aide de la simulation, des documents et des graphiques
-obtenus, expliquer l’évolution de la population de phalènes dans la
+Consigne 2 : A l’aide de la simulation, des documents et des graphiques obtenus, expliquer l’évolution de la population de phalènes dans la
 région de Manchester.
 
 <img src="Pictures/10000000000002F10000022D4F7679927076A99C.png"
 style="width:8.696cm;height:6.435cm" />Document 1 : Les phalènes du
 bouleau.
 
-La phalène du bouleau est un papillon de nuit. La journée, ces papillons
-restent immobiles sur le tronc de bouleaux. Ces papillons sont la proie
-des oiseaux qui les chassent principalement la journée quand ils sont
-posés sur les troncs.
+La phalène du bouleau est un papillon de nuit. La journée, ces papillons restent immobiles sur le tronc de bouleaux. Ces papillons sont la proie des oiseaux qui les chassent principalement la journée quand ils sont posés sur les troncs.
 
-Au début du XIXe siècle, en Grande-Bretagne, les phalènes étaient
-majoritairement claires. En 1848, les phalènes noires ont commencé à
-être de plus en plus observées dans la région de Manchester. En 1950, la
-majorité des phalènes de cette région étaient noires.
+Au début du XIXe siècle, en Grande-Bretagne, les phalènes étaient majoritairement claires. En 1848, les phalènes noires ont commencé à être de plus en plus observées dans la région de Manchester. En 1950, la majorité des phalènes de cette région étaient noires.
 
-<img src="Pictures/10000001000002F0000000CEE3E4B0AA731A8609.png"
-style="width:8.678cm;height:2.372cm" />
+<img src="Pictures/10000001000002F0000000CEE3E4B0AA731A8609.png" style="width:8.678cm;height:2.372cm" />
 
 Document 2 : Le gène couleur chez la phalène.
 
-Le gène qui détermine la couleur de la phalène est présent sur le
-chromosome 17.
+Le gène qui détermine la couleur de la phalène est présent sur le chromosome 17.
 
-Il existe sous deux allèles : l’allèle c (clair) et l’allèle F dominant
-(foncé).
+Il existe sous deux allèles : l’allèle c (clair) et l’allèle F dominant (foncé).
 
-L’ADN peut subir des mutations ce qui peut entraîner l’apparition de
-nouveaux allèles.
+L’ADN peut subir des mutations ce qui peut entraîner l’apparition de nouveaux allèles.
 
 Document 3 : La région de Manchester.
 
-En Grande-Bretagne, à partir de la moitié du XIXe siècle, la
-consommation de charbon a énormément augmenté à cause de
-l’industrialisation de la région. Cette consommation de charbon a
-entraîné une pollution atmosphérique.
+En Grande-Bretagne, à partir de la moitié du XIXe siècle, la consommation de charbon a énormément augmenté à cause de l’industrialisation de la région. Cette consommation de charbon a entraîné une pollution atmosphérique.
 
-Le bouleau est un arbre avec un tronc blanc, car il est recouvert de
-lichens clairs. Les troncs des bouleaux dans les régions industrialisées
-sont plus sombres, car les lichens clairs qui les recouvrent sont tués
-par la pollution atmosphérique liée au charbon.
+Le bouleau est un arbre avec un tronc blanc, car il est recouvert de lichens clairs. Les troncs des bouleaux dans les régions industrialisées sont plus sombres, car les lichens clairs qui les recouvrent sont tués par la pollution atmosphérique liée au charbon.
 
-1.  #### Évolution et sélection naturelle
+1.   Évolution et sélection naturelle
 
-Consigne1 : Proposer une explication aux différences entre les deux
-populations de souris
+Consigne1 : Proposer une explication aux différences entre les deux populations de souris
 
-Consigne 2 : Justifier le terme de « sélection naturelle » pour
-expliquer l’évolution des populations de souris.
+Consigne 2 : Justifier le terme de « sélection naturelle » pour expliquer l’évolution des populations de souris.
 
-<img src="Pictures/100000000000055F00000407241DAC1083A71B8B.jpg"
-style="width:5.011cm;height:5.63cm" />
+
+![](Pictures/sourisETgrandHibou.jpg)
 
 Document 1 : Grand hibou à cornes (Bubo virginianus).
 
-Installé dans les régions boisées d’Amérique du Nord et d’Amérique du
-Sud, il se nourrit de petits mammifères comme les souris à abajoues
-qu’il chasse à la tombée de la nuit en distinguant la couleur de leur
-pelage sur le sol.
+Installé dans les régions boisées d’Amérique du Nord et d’Amérique du Sud, il se nourrit de petits mammifères comme les souris à abajoues qu’il chasse à la tombée de la nuit en distinguant la couleur de leur pelage sur le sol.
 
-<img src="Pictures/10000000000004E0000003A845FD054726425A03.jpg"
-style="width:9.335cm;height:5.385cm" />***Document 2 : Souris à abajoues
-(Perognathus parvus) dans différents milieux de vie***
+![](Pictures/sourisETgrandHibou.jpg)
 
-Elle vit dans le sud-ouest des États-Unis. La couleur de son pelage est
-contrôlée par de nombreux gènes, dont le gène MRC1, qui existe en deux
-versions : l’allèle D (couleur du pelage sombre) (photo a et d) et
-l’allèle d (couleur du pelage clair) (photo b et c).
 
-Document 3 : Relevés de captures de souris à abajoues dans deux milieux
-différents.
+Document 2 : Souris à abajoues (Perognathus parvus) dans différents milieux de vie
+
+Elle vit dans le sud-ouest des États-Unis. La couleur de son pelage est contrôlée par de nombreux gènes, dont le gène MRC1, qui existe en deux versions : l’allèle D (couleur du pelage sombre) (photo a et d) et l’allèle d (couleur du pelage clair) (photo b et c).
+ 
+Document 3 : Relevés de captures de souris à abajoues dans deux milieux différents.
 
 <table>
 <tbody>
@@ -431,12 +377,12 @@ Au cours des générations, les populations évoluent sous l’effet des forces 
 -   dérive génétique (hasard)
 -   sélection naturelle
 
-<img src="Pictures/schBilanEvol.png"
-style="width:16.822cm;height:22.749cm" />
+
+![](Pictures/schBilanEvol.png)
 
 ### En quoi l’évolution est-elle une théorie ?
 
-#### La théorie de l’évolution, un fait scientifique.
+ La théorie de l’évolution, un fait scientifique.
 
 Consigne : À partir des documents, expliquer en quoi la théorie de l’évolution est une théorie et pourquoi la question de « croire ou pas » en l’évolution biologique n’a pas de sens en cours de sciences.
 
@@ -466,7 +412,8 @@ Enseigner la classification et l’évolution, Monique Dupuis et Jean-Claude Her
 
 Document 4 Relations simplifiées entre savoir, opinion, croyance.
 
-<img src="Pictures/diffSavoirOpinionCroyance.png"/>
+![](Pictures/diffSavoirOpinionCroyance.png)
+
 
 Document 5 : L’évolution
 
@@ -531,7 +478,8 @@ dés</td>
 </tbody>
 </table>
 
-Bilan : L’espèce humaine (Homo sapiens) est un vertébré (présence de vertèbres), un mammifère (présence de poils et de mamelles) et un primate (pouce opposable et ongles) classé dans le groupe des grands singes (coccyx). L’être humain résulte, comme les autres espèces, d’une série d’innovations évolutives à partir d’un ancêtre commun partagé avec les chimpanzés. Cet ancêtre commun vivait, il y a plus de 7 Ma.
+Bilan : 
+L’espèce humaine (Homo sapiens) est un vertébré (présence de vertèbres), un mammifère (présence de poils et de mamelles) et un primate (pouce opposable et ongles) classé dans le groupe des grands singes (coccyx). L’être humain résulte, comme les autres espèces, d’une série d’innovations évolutives à partir d’un ancêtre commun partagé avec les chimpanzés. Cet ancêtre commun vivait, il y a plus de 7 Ma.
 
 Le groupe des humains réunit l’Homo sapiens et tous les fossiles apparentés. L’évolution de ce groupe montre que les espèces fossiles ne se sont pas succédé de manière linéaire, mais que plusieurs espèces ont coexisté à certaines périodes (évolution buissonnante). Le plus vieux fossile d’Homo sapiens date de 200 000 ans.
 

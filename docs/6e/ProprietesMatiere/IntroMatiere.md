@@ -1,23 +1,18 @@
 # Séquence : Propriété de la matière.
 
 !!! note-prof
-    Propriétés de la matière
-    - Rechercher des informations relatives à la durée de décomposition dans la nature de quelques matériaux usuels (objets métalliques, papiers et cartons, plastiques, verres) pour connaître leurs conséquences éventuelles sur l’environnement.
-    - Réaliser des expériences ou exploiter des documents pour comparer et trier différents matériaux sur la base de leurs propriétés physiques (conductivité thermique ou électrique, capacité à interagir avec un aimant).
-    - Mesurer des températures de changement d’état.
-    - Relever l’évolution de la température au cours du temps lors du refroidissement ou de l’échauffement d’un corps et identifier les éventuels paliers de température lors des changements d’état.
 
-## Séance 1 : Décompotition de la matière
-!!! note "Compétences"
-    - Interpréter des résultats de façon raisonnée et en tirer des conclusions en mobilisant des arguments scientifiques.  
-    - Relier des connaissances acquises en sciences et technologie à des questions de santé, de sécurité et d’environnement.
+
+## Séance 1 : Décomposition de la matière
+
     
 ### Document d’appel :
 
-![Photo d’une décharge](Pictures/decharge.png){: style="width:300px"}
-![Graphique de la masse des poubelles au cours du temps](Pictures/graph-quantite-dechets.svg){: style="width:300px"}
-![Alt text](Pictures/graph-quantite-dechets2.png){: style="width:300px"}
-![Alt text](Pictures/tempsDecomposition.png){: style="width:300px"}
+![Photo d’une décharge](Pictures/decharge.png){: style="width:600px"}
+![Graphique de la masse des poubelles au cours du temps](Pictures/graph-quantite-dechets.svg){: style="width:900px"}
+![](Pictures/graph-quantite-dechets2.png){: style="width:600px"}
+
+![](Pictures/tempsDecomposition.png){: style="width:600px"}
 
 
 !!! question Problématique
@@ -41,9 +36,6 @@
     - piles
     - jeu électronique
 
-<div style="page-break-after: always;"></div>
-
-<div markdown class="printme"> 
 
 ??? abstract "Bilan"
     La matière se décompose avec le temps.
@@ -54,7 +46,7 @@
 
 
 
-## Séance 2 : Modélisation 3D d'une salle de classe
+## Séance 2 : Propriétés de la matière
 
 !!! note "Compétences"
     - Interpréter des résultats de façon raisonnée et en tirer des conclusions en mobilisant des arguments scientifiques.  
@@ -64,8 +56,10 @@
 Sarah et Sofiane préparent un gâteau au
 caramel.
 
-Ils ont deux cuillères, une en métal et l'autre en bois, Sofiane indique que celle en bois est moins dangereuse.    
-![](Pictures/gateauCaramel1.png)   
+Ils ont deux cuillères, une en métal et l'autre en bois, Sofiane indique que celle en bois est moins dangereuse.  
+
+![](Pictures/gateauCaramel1.png) 
+
 Quelle cuillère utiliser pour ne pas se brûler ?
 
 !!! question "Problématique"
@@ -75,13 +69,10 @@ Quelle cuillère utiliser pour ne pas se brûler ?
 
 
 
-<div style="page-break-after: always;"></div>
 
 ??? abstract "Bilan"
-    Les matériaux peuvent être caractérisés par leurs propriétés : _conductivité thermique_, _conductivité électrique, _magnétisme_, etc.
+    Les matériaux peuvent être caractérisés par leurs propriétés : conductivité thermique, conductivité électrique, magnétisme, etc.
 
-    On observe que chaque échantillon de matière n’aura *pas les mêmes propriétés*, cela montre une **grande diversité de la matière**.
+    On observe que chaque échantillon de matière n’aura pas les mêmes propriétés, cela montre une **grande diversité de la matière.
 
-## Séance 3 : Température et changements d'états
 
-### Document d’appel :
