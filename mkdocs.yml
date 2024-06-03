@@ -427,17 +427,14 @@ nav :
           - Pilule contraceptive : 3e/reprosexualite/piluleContra.md
           - PMA : 3e/reprosexualite/pma.md
           - IST : 3e/reprosexualite/ist.md
-
           - Fiche Révision : 3e/reprosexualite/Fiche.md
-      
-      - Séquence Parentés des êtres vivants:
+      - Séquence Parentés des êtres vivants :
           - Introdution : 3e/parentes/IntroParentes.md
           - Parentés des êtres vivants : 3e/parentes/liensParente.md
           - Etres humains dans l'évolution : 3e/parentes/evolHum.md
           - Exercices : 3e/parentes/exercices.md
           - Fiche Révision : 3e/parentes/Fiche.md
-
-        - Séquence Parentés des êtres vivants:
+      - Séquence Evolution :
           - Introdution : 3e/mecaEvol/IntroEvol.md
           - Nouvelles espèces : 3e/mecaEvol/speciation.md
           - Mécanismes évolutifs : 3e/mecaEvol/mecaEvol.md
@@ -446,7 +443,7 @@ nav :
 
           - Fiche Révision : 3e/mecaEvol/Fiche.md
 
-          
+
   - about.md
 
 plugins:
