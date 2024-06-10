@@ -1,95 +1,220 @@
-# Séquence : Nom de la séquence
+# Séquence : Les besoins de végétaux
 
 !!! note-prof
     si besoin d'infos
 
 
 !!! question "Problématique"
-    Quels sont les éléments à prendre en compte pour répondre à un besoin ?
-
+    Quels sont les besoins des végétaux ?
     
 ### Document d’appel :
 
 
 
-## Séance 1 : Les modifications de l'organisme lors d’un effort
+## Séance 1 : Les échanges des végétaux avec leur milieu.
 
-Situation déclenchante : Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100m en 10sec. Après ces 10 secondes, les athlètes sont épuisés et s’allongent sur le sol.
+**La serre de Mark Watney dans le film Seul sur Mars (2015)**
+![](image.png)
+
+L'astronaute Mark Watney cultive des pommes de terre pour survivre sur Mars. Très vite, l'atmosphère confinée de sa serre est modifiée par les plantes. Ainsi, une simple étincelle dans les réseaux électriques va suffire pour provoquer une violente explosion détruisant toute la serre.
+
+Votre mission : En décrivant le fonctionnement d'un organisme végétal, expliquez l'origine de l'explosion de la serre de Mark.
 
 !!! question "Problématique"
     Quelles sont les modifications de l’organisme lors d’un effort ?
 
-[Activité Notre corps lors d'un effort](../effortsPhysiques)
+[Activité Une agriculture explosive](../effortsPhysiques)
 
 
 
 
 ??? abstract "Bilan"
-    Lors d’un effort physique, les besoins des muscles en nutriments et en dioxygène augmentent.
+    Les végétaux prélèvent uniquement de la matière minérale.
+
+    - Les plantes prélèvent de l'eau et des sels minéraux au niveau des racines et du dioxyde de carbone au niveau des feuilles. Cette matière minérale est transformée en matière organique grâce à l'énergie lumineuse captée. Elles rejettent alors du dioxygène.
+    - Tous les organes d'un végétale respirent, seules les feuilles éclairées réalisent en plus la photosynthèse.
 
 
-    Pour cela :
-    - La fréquence respiratoire augmente, permettant d’enrichir le sang en dioxygène.
-    - La fréquence cardiaque augmente, afin de faire davantage circuler ce sang oxygéné dans le corps
-    - Les modifications du débit sanguin permettent d’orienter davantage ce sang vers les muscles qui en ont besoin en plus grande quantité.
 
 
-## Séance 2 : Nom
+
+    A. Les échanges gazeux des organes des plantes
+
+Doc. 2 : Des mesures des échanges gazeux de différents organes végétaux à la lumière ou à l'obscurité
+![alt text](image-1.png)
+![alt text](image-2.png)
+
+
+Le dioxygène est un gaz pouvant provoquer des explosions ou incendies en présence d'un combustible.
+
+
+    B. Une transformation chimique dans les feuilles
+
+Doc. 3 Des résultats d'une expérience sur la production de matière à la lumière et à l'obscurité
+![alt text](image-3.png)
+
+L'eau iodée est un liquide brun orangé qui permet de détecter une substance organique : l'amidon. En présence d'amidon, une coloration bleu sombre apparaît.
+
+
+
+
+
+
+
+
+
+Doc. 4 : Qu'est-ce que la photosynthèse ?
+Contrairement aux animaux qui se nourrissent directement de matière organique, les végétaux ne prélèvent que de la matière minérale pour vivre. Une transformation se déroule au niveau des feuilles : c'est la photosynthèse. L'eau puisée dans le sol et le dioxyde de carbone de l'atmosphère sont transformés sous l'action de la lumière et forment des sucres (matière organique). Cette réaction produit un déchet que les plantes évacuent dans l'atmosphère : le dioxygène.
+
+    C. Les zones d'échange
+
+Doc. 5 : Un épiderme de feuille observé au microscope optique
+Les stomates permettent de réaliser des échanges gazeux avec l'atmosphère et d'y rejeter de la vapeur d'eau. Ils peuvent se refermer en cas de forte chaleur et de sécheresse.
+
+
+
+![alt text](image-4.png)
+
+
+
+
+Doc. 6 : Une observation d'une racine de chou commun
+Si on enlève les poils absorbants d'un végétal, celui-ci prélève très mal l'eau et les sels minéraux présents dans le sol et meurt.
+
+
+
+
+![alt text](image-5.png)
+
+
+
+
+
+
+
+
+Vocabulaire
+    • L'amidon : matière organique de la catégorie des glucides. 
+    • La photosynthèse : fabrication de matière organique par une feuille verte éclairée.
+
+
+## Séance 2 : L’approvisionnement des organes des végétaux.
+
+
+Situation déclenchante : Produire des fruits plus gros
+Doc. 1 : Une astuce de jardinier
+![alt text](image-6.png)
+Les végétaux absorbent l'eau et les sels minéraux par leurs racines et du dioxyde de carbone par les feuilles, mais ne prélèvent pas de matière organique qui se retrouve pourtant dans les organes comme les pommes.
+
+Votre mission
+L'objectif est d'aider Maëlle à gagner le concours de la plus belle pomme. À partir des documents et de vos connaissances, expliquez-lui, sous la forme de votre choix, comment sont approvisionnés les organes des végétaux.
+
 
 !!! question "Problématique"
-    Quels sont les éléments à prendre en compte pour répondre à un besoin ?
-    
-[Activité nom activité](../lien vers l'activité)
+    Quelles sont les modifications de l’organisme lors d’un effort ?
+
+[Activité Une agriculture explosive](../effortsPhysiques)
 
 
 
 
 ??? abstract "Bilan"
-    Bilan
-
-<div style="page-break-after: always;"></div>
 
 
+    D. Une circulation dans la plante
+
+Doc. 2 : Suivi de la circulation d'une eau colorée dans une feuille de chou
 
 
-
-## Activité SVT 3.1 : Les échanges gazeux lors de la respiration.
-La respiration est un échange gazeux avec le milieu
-Les organismes prélèvent du dioxygène dans leur milieu (aérien ou aquatique) et rejettent du dioxyde de carbone : c'est la respiration.
-
-Des organes sont spécialisés dans les échanges gazeux
-La respiration est possible dans l'eau grâce à des branchies. Les animaux respirent dans l'air grâce à des poumons ou à des trachées.
-Les trachées amènent directement l'air jusqu'aux organes, tandis que les poumons et les branchies sont des surfaces d'échange des gaz entre l'extérieur et le sang.
+L'eau colorée suit le même trajet que la sève brute.
 
 
 
 
-## Activité SVT 3.4 : L’approvisionnement des organes des animaux. 
-Les nutriments et les gaz sont transportés dans un liquide appelé sang ou hémolymphe.
-Ce liquide circule dans un système circulatoire qui peut être fermé ou ouvert sur l'intérieur du corps de l'animal.
-Un appareil circulatoire fermé est composé de vaisseaux : artères, veines et capillaires. Un appareil circulatoire ouvert contient des artères, parfois des capillaires et des veines.
-Le liquide circulant est mis en mouvement par un muscle creux : le cœur.
-En se relâchant, le cœur se remplit de liquide. En se contractant, le cœur propulse le liquide dans les artères.
+
+
+    E. Des vaisseaux conducteurs dans la plante
+Doc. 3 : Une coupe longitudinale de tige montrant des vaisseaux conducteurs des sèves observée au microscope optique
+
+
+Cette coupe est observée après coloration en rose ou en bleu des substances des parois qui entourent les cellules végétales.
 
 
 
-# Séquence 3 partie SVT : Les besoins des cellules des organismes
 
-Situation déclenchante : Depuis la sixième, nous connaissons l’unité du vivant : la cellule. En effet, tous les êtres vivants en sont constitués. Les cellules qui composent notre corps sont nombreuses et ont des besoins bien spécifiques…
-Rappel définition cellule : Unité de base de la vie qui constitue tout organisme, animal ou végétal. Le corps humain est composé de plusieurs milliards de cellules. 
 
-## Activité SVT 3.3 : Les échanges des végétaux avec leur milieu.
-Les végétaux prélèvent uniquement de la matière minérale
-Les plantes prélèvent de l'eau et des sels minéraux au niveau des racines et du dioxyde de carbone au niveau des feuilles. Cette matière minérale est transformée en matière organique grâce à l'énergie lumineuse captée. Elles rejettent alors du dioxygène.
-Tous les organes d'un végétale respirent, seules les feuilles éclairées réalisent en plus la photosynthèse.
 
-## Activité SVT 3.6 : L’approvisionnement des organes des végétaux.
-La sève brute contient de l'eau et des sels minéraux. Elle est fabriquée dans les racines et circule des racines vers les autres organes.
-La sève élaborée contient les glucides (sucres). Elle est fabriquée dans les feuilles et circule des feuilles vers les organes qui stockent (racine, fruit) ou qui utilisent (fleur, jeune feuille) ces glucides.
-Les sèves circulent dans différents vaisseaux conducteurs.
 
-## Activité SVT 3.7 : La nutrition des cellules animales
-Lors de la respiration cellulaire, les cellules animales consomment du dioxygène et des nutriments pour fonctionner et produire de l'énergie.
-Ces éléments sont apportés aux cellules par le sang ou l'hémolymphe, qui arrive dans les tissus par les capillaires sanguins.
-Le fonctionnement de la cellule et la respiration cellulaire produisent des déchets comme le dioxyde de carbone et l'urée. Ceux-ci sont rejetés dans le sang puis éliminés hors de l'organisme par les échanges respiratoires et les reins.
+
+
+
+
+Doc. 4 : Une coupe transversale des vaisseaux conducteurs des sèves observée au microscope optique
+
+
+Les sèves jouent les mêmes rôles que le sang ou l'hémolymphe.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    F. La composition des sèves et l'origine de la matière
+Doc. 5 : Une manipulation permettant de suivre le devenir du dioxyde de carbone absorbé
+
+
+On fournit du dioxyde de carbone dont le carbone est radioactif à quelques feuilles de la plante, puis on suit la localisation de ce carbone radioactif dans la plante grâce à une autoradiographie : le carbone radioactif apparait en noir. Dans la plante, le carbone est sous forme de glucides.
+
+Doc. 6 : La composition des sèves d'un végétal
+La sève élaborée circule des feuilles jusqu'aux organes qui stockent la matière organique ou qui l'utilisent.
+Type de sève
+Composition
+Sève brute
+99 % eau
+1 % sels minéraux
+Sève élaborée
+80 % eau
+19 % matière organique (sucre essentiellement)
+1 % sels minéraux
+
+Vocabulaire
+    • La sève : liquide qui circule dans des vaisseaux entre les différents organes de la plante.
+
+Activité SVT 3.6 : L’approvisionnement des organes des végétaux.
+• La sève brute contient de l'eau et des sels minéraux. Elle est fabriquée dans les racines et
+circule des racines vers les autres organes.
+• La sève élaborée contient les glucides (sucres). Elle est fabriquée dans les feuilles et
+circule des feuilles vers les organes qui stockent (racine, fruit) ou qui utilisent (fleur, jeune
+feuille) ces glucides.
+• Les sèves circulent dans différents vaisseaux conducteurs.
 
