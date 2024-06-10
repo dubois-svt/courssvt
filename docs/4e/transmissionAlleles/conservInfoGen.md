@@ -71,11 +71,7 @@ La mitose permet de conserver le nombre de chromosomes et donc le génotype dans
     former toutes les cellules du corps et de renouveler ces cellules.
 
     Consigne 2 :
-    ![alt text](pictures/image.png)
-    []{.image .placeholder
-    original-image-src="./ObjectReplacements/Object 1"
-    original-image-title="" width="18.173cm" height="6.472cm"}
-
+    ![](pictures/correcGraphQteADN.png)
     Ce graphique représente la quantité d'ADN dans une cellule en fonction
     du temps.
 
