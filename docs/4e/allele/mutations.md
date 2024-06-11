@@ -51,6 +51,7 @@ Le chat possède cinq doigts à ses pattes antérieures, mais seuls quatre doigt
 Ce caractère est dû à la mutation d’un gène contrôlant l’organisation de la patte.
 
 **Document 5 La résistance aux insecticides.**
+
 Certains moustiques transmettent des maladies comme le chikungunya ou le Zika. Les insecticides utilisés contre ces insectes les tuent en agissant sur leur système nerveux.
 Les moustiques produisent naturellement, mais en petite quantité, une molécule appelée estérase, qui est capable de détruire ces insecticides. L’information génétique pour produire l’estérase est déterminée par deux gènes. Certains moustiques ont une mutation de leur information génétique qui leur permet de produire beaucoup d’estérase, ils sont donc plus résistants aux insecticides.
 

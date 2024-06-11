@@ -34,11 +34,9 @@
 
 ![](pictures/graphQteADNMeiose.png)
 
-La méiose est une succession de deux divisions
-cellulaires qui permet la formation de cellules reproductrices.
+La méiose est une succession de deux divisions cellulaires qui permet la formation de cellules reproductrices.
 
 - Au cours de la première division A, les deux chromosomes de chaque paire se séparent.
-
 - Au cours de la division B, chaque chromosome double se sépare en deux chromosomes simples.
 
 **Document 5 Représentation des chromosomes d'un homme de groupe  sanguin AB-**
