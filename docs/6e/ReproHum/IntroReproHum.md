@@ -71,3 +71,8 @@
 
 ??? abstract "Bilan"
     Chez les êtres humains, la sexualité n'est pas qu'une affaire de reproduction : elle prend en compte les aspects biologiques, mais aussi les aspects émotionnels, juridiques et sociaux
+
+
+## Séance 4 : Exercices
+
+[Activité Exercice la puberté](../exoPuberte)
