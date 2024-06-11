@@ -25,7 +25,7 @@ Que se passe-t-il dans le corps entre 11 et 15 ans ?
 
 **Document 2 Schéma des changements à la puberté**
 
-![](pictures/schemaPuberteEscape.png)
+![](pictures/schemaPuberteEscape.png){: style="width:800px" }
 
 
 
