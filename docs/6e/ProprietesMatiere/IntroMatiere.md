@@ -1,4 +1,4 @@
-# Séquence : Propriété de la matière.
+# Séquence : La matière.
 
 !!! note-prof
 

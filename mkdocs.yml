@@ -206,10 +206,15 @@ nav :
           - Importance du tri des déchets : 6e/ProprietesMatiere/Decomposition.md
           - Les propriétés des matériaux : 6e/ProprietesMatiere/Proprietes.md
           - Fiche révision : 6e/ProprietesMatiere/FicheMatiere.md
+
+      - Séquence Conversions d’énergie :
+          - Introduction : 6e/energie/IntroMatiere.md
+          - Les formes d'énergie : 6e/energie/formesEnergies.md
+          - Fiche révision : 6e/energie/FicheEnergie.md
+
       #- Séquence Masse et volume :
       #- Séquence Mélanges :
       #- Séquence Mouvements :
-      #- Séquence Conversions d’énergie :
       #- Séquence Lumière : 
       #- Séquence Électricité :
       #- Séquence Transmission de l’information :
