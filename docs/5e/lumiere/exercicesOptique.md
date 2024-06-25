@@ -1,4 +1,4 @@
-# Activité : Importance du tri des déchets
+# Activité : Exercices optique
 
 !!! note "Compétences"
 
@@ -95,5 +95,5 @@ Une nuit de pleine lune, Charlotte remarque qu’elle peut voir un arbre planté
 !!! warning "Consignes"
     1. De quelle source primaire provient la lumière qui éclaire le paysage la nuit ?
     2. Trouver le chemin de la lumière qui permet à Charlotte de voir l’arbre la nuit.
-    3. 
+
 ![](pictures/exoCharlotteNuit.png)

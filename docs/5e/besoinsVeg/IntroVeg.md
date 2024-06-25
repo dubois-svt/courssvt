@@ -7,8 +7,6 @@
 !!! question "Problématique"
     Quels sont les besoins des végétaux ?
     
-### Document d’appel :
-
 
 
 ## Séance 1 : Les échanges des végétaux avec leur milieu.

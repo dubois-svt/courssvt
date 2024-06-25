@@ -208,15 +208,19 @@ nav :
           - Fiche révision : 6e/ProprietesMatiere/FicheMatiere.md
 
       - Séquence Conversions d’énergie :
-          - Introduction : 6e/energie/IntroMatiere.md
+          - Introduction : 6e/energie/IntroEnergie.md
           - Les formes d'énergie : 6e/energie/formesEnergies.md
           - Fiche révision : 6e/energie/FicheEnergie.md
-
+    
+      - Séquence Électricité :
+          - Introduction : 6e/elec/IntroElec.md
+          - Circuit électrique : 6e/elec/circuitElec.md
+          - Fiche révision : 6e/elec/FicheElec.md
       #- Séquence Masse et volume :
       #- Séquence Mélanges :
       #- Séquence Mouvements :
       #- Séquence Lumière : 
-      #- Séquence Électricité :
+      #
       #- Séquence Transmission de l’information :
       #- Séquence Organisation des êtres vivants  :
       #
