@@ -58,29 +58,29 @@ Ne pas représenter de dipôle dans les angles du rectangle
 <tr markdown>
 <td colspan="2">Pile</td>
 <td markdown >
-![](Pictures/pile.png) {: style="width:100px" }
+![](pictures/pile.png) {: style="width:100px" }
 </td>
-<td markdown >![](Pictures/schemaPile.png) {: style="width:100px" }</td>
+<td markdown >![](pictures/schemaPile.png) {: style="width:100px" }</td>
 <tr markdown>
 <td colspan="2">Ampoule</td>
 <td markdown >
-![](Pictures/ampoule.png) {: style="width:100px" }
+![](pictures/ampoule.png) {: style="width:100px" }
 </td>
-<td markdown >![](Pictures/schemaAmpoule.png) {: style="width:100px" }</td>
+<td markdown >![](pictures/schemaAmpoule.png) {: style="width:100px" }</td>
   </tr>
 <tr markdown>
 <td  colspan="2">Moteur</td>
 <td markdown >
-![](Pictures/moteur.png) {: style="width:100px" }
+![](pictures/moteur.png) {: style="width:100px" }
 </td>
-<td markdown >![](Pictures/schemaMoteur.png) {: style="width:100px" }</td>
+<td markdown >![](pictures/schemaMoteur.png) {: style="width:100px" }</td>
   </tr>
 <tr markdown>
 <td  colspan="2">Fil électrique</td>
 <td markdown >
-![](Pictures/fil.png) {: style="width:100px" }
+![](pictures/fil.png) {: style="width:100px" }
 </td>
-<td markdown >![](Pictures/schemaFil.png) {: style="width:100px" }</td>
+<td markdown >![](pictures/schemaFil.png) {: style="width:100px" }</td>
   </tr>
 </tbody>
 </table>

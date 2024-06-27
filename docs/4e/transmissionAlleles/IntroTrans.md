@@ -5,7 +5,7 @@
 
 
 !!! question "Problématique"
-    COmment se transmet l'information génétique entre cellules ? Entre individus ?
+    COomment se transmet l'information génétique entre cellules ? Entre individus ?
     
 ### Document d’appel :
 
@@ -62,7 +62,7 @@
 
     Les chromosomes étant génétiquement différents (ils possèdent les mêmes gènes, mais pas les mêmes allèles), la répartition au hasard des chromosomes fait qu'un individu peut fabriquer de très nombreux gamètes génétiquement différents.
 
-    En théorie, avec 23 paires de chromosomes, il y a 8,3 millions de spermatozoïdes différents et 8,3 millions d'ovules différents.
+    En théorie, avec 23 paires de chromosomes, il y a 8,3 millions de gamètes différents pour un individu.
 
 ## Séance 3 : La reproduction sexuée permet la diversité
 
