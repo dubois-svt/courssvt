@@ -38,7 +38,7 @@
 
 **Attention !**
 Utiliser une règle et un crayon à papier
-Ne pas représenter de dipôle dans les angles du rectangle
+Ne pas représenter de dipôle dans les angles du rectangle.
 
 
 
