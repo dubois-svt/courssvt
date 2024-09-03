@@ -1,12 +1,9 @@
-# Séquence : Les phénomènes météorologiques et climatiques
+# Séquence : La météorologie et la climatologie, deux sciences
 
 !!! note-prof
     si besoin d'infos
 
 
-!!! question "Problématique"
-
-    Comment expliquer les phénomènes météorologiques ?
 
     
 ### Document d’appel :
@@ -25,24 +22,49 @@
 
 
 ??? abstract "Bilan"
-    La météo décrit les températures qu’il fait à un instant donné et prévoit les températures qu’il fera dans les prochains jours.  
-    Et le climat décrit la moyenne des températures mesurées pendant 30 ans.  
+    === "De quoi parler dans le bilan ? Quels mots clés ?"
 
-    Définitions :  
+    === "Bilan à trous"
 
-    En météorologie :
+        La ______________________ décrit les températures qu’il fait à un instant donné et prévoit les températures qu’il fera dans les prochains jours.  
+        Et le ___________________ décrit la moyenne des températures mesurées pendant 30 ans.  
 
-    - On décrit les paramètres météo (températures, précipitations, vents…) qu’il fait à un instant donné.
-  
-    - Et l’on prévoit comment les paramètres météo évolueront dans les prochains jours.
-  
-    En climatologie :  
+        Définitions :  
 
-    - On définit les climats avec la moyenne des paramètres météo mesurés sur des périodes de 30 ans.
-  
-    - On décrit l’évolution des climats dans le passé.
-  
-    - Et l’on prévoit l’évolution des climats dans le futur.
+        En météorologie :
+
+        - On décrit les paramètres météo (______________________, ______________________, ______________________) qu’il fait à un instant donné.
+    
+        - On peut étudier la météo du  ______________________  et du ______________________
+    
+        En climatologie :  
+
+        - On définit les climats avec la moyenne des paramètres météo mesurés sur des périodes de ______________________ ans.
+    
+        - On peut étudier le climat du  ______________________, du  ______________________ et du ______________________
+
+        
+
+    === "Bilan"
+
+        La météo décrit les températures qu’il fait à un instant donné et prévoit les températures qu’il fera dans les prochains jours.  
+        Et le climat décrit la moyenne des températures mesurées pendant 30 ans.  
+
+        Définitions :  
+
+        En météorologie :
+
+        - On décrit les paramètres météo (températures, précipitations, vents…) qu’il fait à un instant donné.
+    
+        - On peut étudier la météo du  présent  et du futur proche.
+
+    
+        En climatologie :  
+
+        - On définit les climats avec la moyenne des paramètres météo mesurés sur des périodes de 30 ans.
+    
+        - On peut étudier le climat du  passé, du  présent et du futur
+
 
 <div style="page-break-after: always;"></div>
 
