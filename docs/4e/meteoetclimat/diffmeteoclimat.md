@@ -2,11 +2,11 @@
 
 
 !!! note "Compétences"
-    Trouver et exploiter des informations
+    - Trouver et exploiter des informations
  
 
 !!! warning "Consignes"
-     En utilisant les documents ci-dessous, expliquer la différence entre « météo » et « climat ».
+    En utilisant les documents ci-dessous, expliquer la différence entre « météo » et « climat ».
     
 ??? bug "Critères de réussite"
     - comparer les deux documents climat et trouver un point commun et une différence

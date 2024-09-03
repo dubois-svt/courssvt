@@ -8,7 +8,7 @@
 
 !!! warning "Consignes"
 
-    Consigne : À partir de la manipulation et des documents, proposer une explication à la répartition des climats sur Terre.
+    À partir de la manipulation et des documents, proposer une explication à la répartition des climats sur Terre.
 
     
 ??? bug "Critères de réussite"

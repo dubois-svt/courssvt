@@ -3,16 +3,10 @@
 
 ## Compétences travaillées dans la séquence
 - Retenir des idées essentielles d’une leçon
-- Formuler une problématique
-- Argumenter
+- Faire des recherches 
 - Trouver et exploiter des informations
-- Proposer une démarche expérimentale
-- Utiliser des outils mathématiques
 - Manipuler, expérimenter
-- Analyser des résultats
-- Organiser un travail en groupe
-- Réaliser un schéma, un graphique
-- Utiliser l'outil numérique
+- Argumenter
 
 ## Site internet
 
@@ -32,5 +26,8 @@
 3. 
     - Expliquer le lien entre la sphéricité de la Terre et la présence de différents climats
     - Le fait que la Terre soit rond entraîne une arrivée des rayons solaires avec des angles différents, plus on est proche de l'équateur et plus les rayons arrivent avec un angle important. Dans ce cas, il y a beaucoup d'énergie qui arrive et le climat va être plus chaud.
+4. 
+   - Comment définit-on les climats en climatologie ?
+   - On définit les climats avec la moyenne des paramètres météo mesurés sur des périodes de 30 ans.
 
 </div>

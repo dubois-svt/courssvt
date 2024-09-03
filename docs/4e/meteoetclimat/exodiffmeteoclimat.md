@@ -7,13 +7,13 @@ lang: FRENCH
 
 !!! note "Compétences"
 
-    Argumenter 
+    - Argumenter 
 
 !!! waring "Consignes"
 
-    Consigne : À partir de vos connaissances, vous argumenterez pour expliquer l’erreur commise par l'ancien président des États-Unis d’Amérique.
+    À partir de vos connaissances, vous argumenterez pour expliquer l’erreur commise par l'ancien président des États-Unis d’Amérique.
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - avoir identifié les durées des phénomènes dont parle le tweet
     - avoir utilisé les définitions de météo et climat
 
