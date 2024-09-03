@@ -28,7 +28,7 @@
     
 
 
-**Document 1 : Contraintes pour l'installation électrique de la salle**
+**Document 1 Contraintes pour l'installation électrique de la salle**
 
 Vous vous lancez dans la réalisation des plans électriques de votre salle de classe. Plusieurs contraintes sont à respecter : Il doit y avoir un seul générateur. Il doit y avoir deux lampes. Si une des ampoules grille, l’autre doit continuer à briller quand même. Il doit y avoir un interrupteur pour allumer et éteindre les deux ampoules en même temps.
 
@@ -40,11 +40,11 @@ Vous vous lancez dans la réalisation des plans électriques de votre salle de c
 
 
 
-**Document 2 : Circuit en dérivation**
+**Document 2 Circuit en dérivation**
 
 ![](Pictures/circuitDerivationPiece.png)
 
-**Document 3 : Circuit avec une erreur d'installation**
+**Document 3 Circuit avec une erreur d'installation**
 
 
 ![](Pictures/circuitDerivationIncomplet.png)

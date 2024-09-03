@@ -1,13 +1,13 @@
 # Activité : La dynamique des masses d'air
 
 !!! note "compétences"
-    trouver et extraire des informations
-    Manipuler
+    - Manipuler
+    - Interpréter des résultats
 
 
 !!! warning "Consignes"
-    - faire un schéma des mouvements d'air dans la modélisation.
-    - expliquer dans quel direction va aller le vent sur le document 1.
+    1. faire un schéma des mouvements d'air dans la modélisation.
+    2. expliquer dans quel direction va aller le vent sur le document 1.
 
 ??? bug "critères de réussite"
     - indiquer les mouvements verticaux dans le modèle

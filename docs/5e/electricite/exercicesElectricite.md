@@ -6,7 +6,7 @@
     - Trouver et utiliser des informations
     - Faire un schéma électrique
     
-**Exercice 1 :** 
+**Exercice 1** 
 !!! warning "Consignes"
 	1. Schématiser les circuits électriques suivants. 
 	2. Ajouter le sens de parcours du courant sur les schémas ci-dessus
@@ -30,7 +30,7 @@
 
 
 
-**Exercice 2 :**
+**Exercice 2**
 
 <div markdown style="display: flex; flex-direction:row" > 
 
@@ -44,7 +44,7 @@
 
 
 
-**Exercice 3 : Répondre aux questions suivantes.** 
+**Exercice 3 Répondre aux questions suivantes.** 
 
 <div markdown style="display: flex; flex-direction:row" > 
 
@@ -60,7 +60,7 @@
 </div>
 
 
-**Exercice 4 :** 
+**Exercice 4** 
 
 <div markdown style="display: flex; flex-direction:row" > 
 
@@ -116,7 +116,7 @@
 
 
 
-**Exercice 5 :**
+**Exercice 5**
 
 !!! warning "Consignes"
 	Indiquer si les phrases suivantes sont vraies ou fausses.

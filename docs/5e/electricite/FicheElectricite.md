@@ -5,7 +5,6 @@
 - Retenir des idées essentielles d’une leçon
 - Trouver et exploiter des informations
 - Manipuler, expérimenter
-- Organiser un travail en groupe
 - Réaliser un schéma, un graphique
 
 

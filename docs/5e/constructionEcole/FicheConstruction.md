@@ -1,9 +1,9 @@
 # Fiche de revision pour séquence construire une école
 
 ## Compétences travaillées
+
 - Retenir des idées essentielles d’une leçon
-- Trouver et exploiter des informations
-- Organiser un travail en groupe
+- Trouver et utiliser des informations
 - Utiliser l'outil numérique
 
 ## Flashcards

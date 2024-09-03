@@ -4,7 +4,7 @@
     - argumenter
 
 !!! warning "Consignes"
-    Consigne 1 : A partir des documents, donner des arguments montrant le réchauffement climatique actuel.
+    A partir des documents, donner des arguments montrant le réchauffement climatique actuel.
 
 ??? bug "Critères de réussite"
     - avoir montré avec le document le changement climatique actuel.
@@ -15,23 +15,23 @@
 
 
 
-**Document 1 : estimation de l’anomalie de la température moyenne de surface (écart de température moyenne par rapport à la période 1961 – 1990) dans l’hémisphère nord**  
+**Document 1 Estimation de l’anomalie de la température moyenne de surface (écart de température moyenne par rapport à la période 1961 – 1990) dans l’hémisphère nord**  
 
 ![](Pictures/graphTempMoyenne1860-2010.png){: style="height:400px;"}
 
 
-**Document 2 : évolution de glaciers dans le massif de Vignemale.**
+**Document 2 Evolution de glaciers dans le massif de Vignemale.**
 
 ![L'évolution du glacier d'Ossoue (massif de Vignemale) sur ces dernières années. © Pierre René](Pictures/evolGlacier.png)
 
 
 
-**Document 3 : évolution de la date des vendanges en France depuis 1974.**
+**Document 3 Evolution de la date des vendanges en France depuis 1974.**
 
 ![](Pictures/graphDateVendanges.png){: style="height:300px;"}
 
 
-**Document 4 : maturité du vin et date des vendanges.**
+**Document 4 Maturité du vin et date des vendanges.**
 
 <div markdown style="display:flex; flex-direction:row; ">
 <div markdown style="display:flex; flex-direction:column; width: 20%;">

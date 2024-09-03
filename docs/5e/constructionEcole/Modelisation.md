@@ -1,15 +1,15 @@
 # Activité : T1.2 Modélisation 3D de la salle de classe
 
 !!! note "Compétences"
-    - Exploiter des documents  
+    - Trouver et utiliser des informations
     - Utiliser des outils numériques
 
 !!! warning "Consignes"
-    Consigne : Réaliser une modélisation 3D de votre salle de classe répondant au cahier des charges de l'activité précédente en suivant la fiche du logiciel SweetHome3D
+    Réaliser une modélisation 3D de votre salle de classe répondant au cahier des charges de l'activité précédente en suivant la fiche du logiciel SweetHome3D
 
 !!! bug "Critères de réussite"
-    avoir respecter le cahier des charges  
-    avoir respecter les différentes étapes de la fiche logiciel
+    - avoir respecter le cahier des charges  
+    - avoir respecter les différentes étapes de la fiche logiciel
  
 <div markdown class="printable">
 

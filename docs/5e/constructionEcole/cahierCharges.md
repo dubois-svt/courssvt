@@ -1,14 +1,15 @@
 # Activité : T1.1 Cahier des charges
 
 !!! note "Compétences"
-    - Exploiter des documents  
+    - Trouver et utiliser des informations
+
 
 Vous êtes responsable du projet de rénovation d’une salle de sciences. Vous allez devoir compléter votre cahier des charges d'après les textes de recommandations et proposer un croquis d'une salle de classe.
 
 !!! warning "Consignes"
-    Consigne 1 : Compléter le titre du document 4 et les titres des colonnes, en vous aidant du document 1.  
-    Consigne 2 : Compléter le cahier des charges en retrouvant les  éléments manquants.  
-    Consigne 3 : Réaliser un croquis rapide de la salle de classe.
+    1. Compléter le titre du document 4 et les titres des colonnes, en vous aidant du document 1.  
+    2. Compléter le cahier des charges en retrouvant les  éléments manquants.  
+    3. Réaliser un croquis rapide de la salle de classe.
 
 ??? bug "Critères de réussite"
     - avoir complété le tableau du document 4

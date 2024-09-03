@@ -2,7 +2,7 @@
 
 
 !!! note "Compétences"
-    - Trouver et exploiter des informations
+    - Trouver et utiliser des informations
  
 
 !!! warning "Consignes"

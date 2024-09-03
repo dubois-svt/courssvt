@@ -2,21 +2,21 @@
 
 
 !!! note "Compétences"
-    Extraire des informations
+    - Trouver et utiliser des informations
 
 !!! warning "Consignes"
-    Consigne 1 : Indiquer une utilité pour chaque composant de la lampe du document 1 
+    1. Indiquer une utilité pour chaque composant de la lampe du document 1 
 
-    Consigne 2 : Dans la liste suivante, indiquer pour chaque composants s'il s'agit de récepteurs ou de générateurs:
+    2. Dans la liste suivante, indiquer pour chaque composants s'il s'agit de récepteurs ou de générateurs:
     Interrupteur, ampoule, verre, miroir, piles, ressort.
 
-    Consigne 3 : À partir des réponses précédentes, quels sont les éléments électriques de la lampe de poche qui sont indispensables pour produire de la lumière ? 
+    3. À partir des réponses précédentes, quels sont les éléments électriques de la lampe de poche qui sont indispensables pour produire de la lumière ? 
 
-    Consigne 4 : À l’aide du matériel sur la paillasse, modéliser une lampe de poche en n’utilisant que les éléments  essentiels à son fonctionnement.
+    4. À l’aide du matériel sur la paillasse, modéliser une lampe de poche en n’utilisant que les éléments  essentiels à son fonctionnement.
 
-    Consigne 5 : réaliser le schéma d'une lampe de poche
+    5. Réaliser le schéma d'une lampe de poche
 
-    Consigne 6 : Complète le tableau en fonction de ce qu’il manque
+    6. Complète le tableau en fonction de ce qu’il manque
 
 ??? bug Critères de réussite
     - avoir répondu aux questions
@@ -27,7 +27,7 @@
 
 
 
-**Document n°1 : Vue en coupe d’une lampe de poche**
+**Document n°1 Vue en coupe d’une lampe de poche**
 
   ![](Pictures/dessinLampe.png)
   {: style="width:300px" }
@@ -36,7 +36,7 @@
 
 ## II. Récepteur et générateur
 
-**Document 2 : Définitions**  
+**Document 2 Définitions**  
 Générateur : objet fournisseur d’énergie électrique.  
 Récepteur : objet receveur d’énergie électrique.
 
@@ -44,7 +44,7 @@ Récepteur : objet receveur d’énergie électrique.
 
 ## III. Le circuit électrique, manipulation
 
-**Document 3 : Définitions**
+**Document 3 Définitions**
 Circuit électrique : chaîne d’objet électrique composé de générateur et de récepteurs
 
 
@@ -56,14 +56,14 @@ Circuit électrique : chaîne d’objet électrique composé de générateur et 
 
 
 
-**Document 4 : Les dipôles**  
+**Document 4 Les dipôles**  
 di… = deux
 …pôle = extrémité		
 Élément d’un circuit électrique qui possède deux extrémités pour être branché.
 
 
 
-**Document 5 : Méthode de schématisation électrique**  
+**Document 5 Méthode de schématisation électrique**  
 1. Représenter un grand rectangle (il symbolise le circuit, les traits symbolisent les fils)  
 2. Gommer, sur les traits du rectangles, l’emplacement des dipôles  
 3. Ajouter dans les espaces gommés, le symbole des dipôles du circuit en respectant l’ordre
@@ -75,7 +75,7 @@ Ne pas représenter de dipôle dans les angles du rectangle
 
 <div markdown style="page-break-after: always;">
 
-**Document 6 : Symboles normalisés des dipôles.**
+**Document 6 Symboles normalisés des dipôles.**
 
 <table markdown class="tg">
 <thead>
@@ -136,14 +136,14 @@ Ne pas représenter de dipôle dans les angles du rectangle
 
 </div>
 
-**Document 7 : Schéma d'une lampe de poche**
+**Document 7 Schéma d'une lampe de poche**
 ![](Pictures/schemaLampe.png)
 
 
 
 <div markdown style="page-break-after: always;">
 
-**Document 8: Quelques schémas électriques**
+**Document 8 Quelques schémas électriques**
 
 <table markdown>
 <thead>

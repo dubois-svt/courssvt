@@ -1,15 +1,12 @@
 # Fiche de révision
 
-| Connaissances   | Compétence   |
-| --- | ---- |
-|   Je connais quelques dates importantes de l'histoire de La Terre     |      Je sais réaliser une frise chronologique     |
-|   Je sais avec quels indices on peut connaître ce qui c'est passé dans le passé  | Je sais faire une conversion avec une échelle |
-|   |   Je sais trouver et utiliser des informations  |
 
 ## Compétences travaillées dans la séquence
+
 - Retenir des idées essentielles d’une leçon
-- Trouver et exploiter des informations
+- Trouver et utiliser des informations
 - Réaliser une frise chronologique
+- Argumenter
 
 
 ## Flashcards

@@ -1,8 +1,8 @@
 # Activité : La dynamique des masses d'eau
 
 !!! note "Compétences"
-    Manipuler
-    Interpréter des résultats 
+    - Manipuler
+    - Interpréter des résultats 
 
 !!! warning "Consignes"
     Réaliser chaque modélisation et valider les différentes hypothèses

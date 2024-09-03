@@ -3,7 +3,7 @@
 
 ## Compétences travaillées dans la séquence
 - Retenir des idées essentielles d’une leçon
-- Trouver et exploiter des informations
+- Trouver et utiliser des informations
 - Réaliser un schéma fonctionnel
 
 
