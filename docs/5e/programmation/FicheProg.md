@@ -3,16 +3,9 @@
 
 ## Compétences travaillées dans la séquence
 - Retenir des idées essentielles d’une leçon
-- Formuler une problématique
-- Argumenter
-- Trouver et exploiter des informations
-- Proposer une démarche expérimentale
-- Utiliser des outils mathématiques
-- Manipuler, expérimenter
-- Analyser des résultats
-- Organiser un travail en groupe
-- Réaliser un schéma, un graphique
 - Utiliser l'outil numérique
+- Passer d'un langage à un autre
+- Trouver et utiliser des informations
 
 ## Site internet
 
@@ -24,13 +17,22 @@
 <div markdown class="flashcard">
 
 1. 
-    - question
-    - Une ampoule
+    - Qui est considérée comme la première programmeuse informatique ?
+    - Ada Lovelace
 2. 
-    - Lorem ipsum ?
-    - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam non diam ut quam vehicula efficitur sit amet vitae nisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed at rutrum dui.
+    - Qu'est-ce qu'un programme informatique ?
+    - Un programme informatique est composé d’une ou plusieurs séquences d’instructions ayant un but défini.
 3. 
-    - Question
-    - Réponse
+    - Qu'est-ce qu'un  algorithme ?
+    - Un algorithme est une suite d’étapes dans un ordre précis permettant de terminer une tâche.
+4. 
+    - Qu'est-ce qu'une boucle ?
+    - Une boucle est une structure qui permet d’exécuter la même séquence d’instructions plusieurs fois.
+5.  
+    - Quel est le rôle d'une interface dans un système programmable ?
+    - Une interface établit la communication entre tous les composants du système programmable.
+6.  
+    - Qu'est-ce qu'un algorigramme ?
+    - C'est un schéma traduisant un algorithme littéral.
 
 </div>

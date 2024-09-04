@@ -231,6 +231,29 @@ nav :
           
   - 5e :
       - 5e/sommaire5e.md
+      - Séquence La programmation :
+          - Introduction : 5e/programmation/IntroProg.md
+          - Initiation à la programmation : 5e/programmation/initProg.md
+          - Drone pour l'agriculture :  5e/programmation/etudesObjets1.md
+          - Robot aspirateur : 5e/programmation/etudesObjets2.md
+          - Programmation d'un robot : 5e/programmation/progmBot.md
+          - Exercices sur la programmation : 5e/programmation/exosProg.md
+          - Fiche de révision : 5e/programmation/FicheProg.md
+      - Séquence mécanique :
+          - Introduction : 5e/mouvements/IntroMeca.md
+          - Trajectoire et mouvement : 5e/mouvements/trajectoire.md
+          - Vitesse et mouvement :  5e/mouvements/vitesse.md
+          - Référentiel :  5e/mouvements/referentiel.md
+          - Exercices sur la mécanique: 5e/mouvements/exercices.md
+          - Fiche de révision : 5e/mouvements/FicheMeca.md
+      - Séquence Les besoins de nos organes :
+          - Introduction : 5e/besoinsOrganes/IntroOrganes.md
+          - Notre corps lors d'un effort : 5e/besoinsOrganes/effortsPhysiques.md
+          - Echanges Gazeux : 5e/besoinsOrganes/echangesGazAni.md
+          - Système circulatoire des animaux : 5e/besoinsOrganes/systCircu.md
+          - Besoins des cellules : 5e/besoinsOrganes/nutriCellAni.md
+          - Exercices : 5e/besoinsOrganes/exercices.md
+          - Fiche de révision : 5e/besoinsOrganes/Fiche.md
       - Séquence Construire une école :
           - Introduction : 5e/constructionEcole/Intro_Construire_Ecole.md
           - Cahier des charges d'une salle de classe: 5e/constructionEcole/cahierCharges.md
@@ -257,21 +280,6 @@ nav :
           - Modélisation d'une éruption :  5e/volcans/eruption.md
           - Gestion du risque volcanique : 5e/volcans/risquesVolcans.md
           - Fiche de révision : 5e/volcans/FicheVolcans.md
-      - Séquence La programmation :
-          - Introduction : 5e/programmation/IntroProg.md
-          - Initiation à la programmation : 5e/programmation/initProg.md
-          - Drone pour l'agriculture :  5e/programmation/etudesObjets1.md
-          - Robot aspirateur : 5e/programmation/etudesObjets2.md
-          - Programmation d'un robot : 5e/programmation/progmBot.md
-          - Exercices sur la programmation : 5e/programmation/exosProg.md
-          - Fiche de révision : 5e/programmation/FicheProg.md
-      - Séquence mécanique :
-          - Introduction : 5e/mouvements/IntroMeca.md
-          - Trajectoire et mouvement : 5e/mouvements/trajectoire.md
-          - Vitesse et mouvement :  5e/mouvements/vitesse.md
-          - Référentiel :  5e/mouvements/referentiel.md
-          - Exercices sur la mécanique: 5e/mouvements/exercices.md
-          - Fiche de révision : 5e/mouvements/FicheMeca.md
       - Séquence Le système digestif :
           - Introduction : 5e/systDigestif/IntroDigestion.md
           - Etude de la digestion : 5e/systDigestif/etudeDigestion.md
@@ -279,14 +287,6 @@ nav :
           - Absorption intestinale :  5e/systDigestif/absorptionIntestinale.md
           - Maladies et nutrition : 5e/systDigestif/actionContreFaim.md
           - Fiche de révision : 5e/systDigestif/Fiche.md
-      - Séquence Les besoins de nos organes :
-          - Introduction : 5e/besoinsOrganes/IntroOrganes.md
-          - Notre corps lors d'un effort : 5e/besoinsOrganes/effortsPhysiques.md
-          - Echanges Gazeux : 5e/besoinsOrganes/echangesGazAni.md
-          - Système circulatoire des animaux : 5e/besoinsOrganes/systCircu.md
-          - Besoins des cellules : 5e/besoinsOrganes/nutriCellAni.md
-          - Exercices : 5e/besoinsOrganes/exercices.md
-          - Fiche de révision : 5e/besoinsOrganes/Fiche.md
       - Séquence Evolution des objets techniques et cycle de vie :
         - Introduction : 5e/evolObjTech/IntroEvolObj.md
         - Familles d'objets : 5e/evolObjTech/famillesObj.md
