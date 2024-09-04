@@ -27,9 +27,12 @@
     - Une zone de haute pression
 4. 
     - Qu'est-ce qui crée des différences de pressions ?
-    - Les vents
+    - L’inégale répartition de l’énergie solaire
 5. 
     - Qu'est-ce qui permet d'équilibrer l'excès d'énergie reçue à l'équateur ?
     - Les mouvements d'eau et d'air.
-
+6. 
+    - Qu'est-ce qui est crée par des différences de pressions ?
+    - Les vents
+  
 </div>
