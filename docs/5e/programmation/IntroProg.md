@@ -18,7 +18,12 @@ On doit le tout premier programme informatique à l’anglaise Ada Lovelace au X
 
 
 
+
 ??? abstract "Bilan"
+    === "De quoi parler dans le bilan ? Quels mots clés ?"
+
+    === "Bilan"
+
     Un programme est composé d’une ou plusieurs séquences d’instructions ayant un but défini. Il est écrit à l’aide d’un langage de programmation. Ce programme traduit un algorithme.
 
     - Algorithme : suite d’étapes dans un ordre précis permettant de terminer une tâche. Par exemple, une recette de cuisine est un algorithme permettant d’obtenir un plat à partir de ses ingrédients.

@@ -20,18 +20,31 @@
 [Activité L'histoire de la Terre](../HistoireTerre)
 
 
-
-
 ??? abstract "Bilan"
-    La Terre s’est formée il y a 4,6 milliards d’années (Ga). Les premières traces d’êtres vivants sont datées de 3,5 Ga.
+    === "De quoi parler dans le bilan ? Quels mots clés ?"
 
-    Des évènements géologiques et biologiques ont affecté la surface de la Terre en modifiant les milieux et les conditions de vie.
+    === "Bilan à trous"
 
-    L’analyse des fossiles contenus dans les roches montre que de nombreuses espèces sont apparues et ont disparu au cours de l’histoire de la Terre.
+        La Terre s’est formée il y a ____________________________. Les ____________________________ sont datées de 3,5 Ga.
 
-    L’espèce humaine (Homo sapiens) est apparue très récemment il y a environ **200 000 ans**.
+        Des évènements géologiques et biologiques ont affecté la surface de la Terre en modifiant les milieux et les conditions de vie.
 
-    Définition fossile : Reste ou trace d’êtres vivants (animaux, végétaux, bactéries**…**) conservés dans la roche.
+        L’analyse des ____________________________ contenus dans les roches montre que de nombreuses ____________________________ sont ____________________________ et ont ____________________________ au cours de l’histoire de la Terre.
+
+        L’espèce humaine (Homo sapiens) est apparue très récemment il y a environ ____________________________.
+
+        Définition fossile : Reste ou trace ____________________________ (animaux, végétaux, bactéries**…**) conservés dans la ____________________________.
+
+    === "Bilan"
+        La Terre s’est formée il y a 4,6 milliards d’années (Ga). Les premières traces d’êtres vivants sont datées de 3,5 Ga.
+
+        Des évènements géologiques et biologiques ont affecté la surface de la Terre en modifiant les milieux et les conditions de vie.
+
+        L’analyse des fossiles contenus dans les roches montre que de nombreuses espèces sont apparues et ont disparu au cours de l’histoire de la Terre.
+
+        L’espèce humaine (Homo sapiens) est apparue très récemment il y a environ **200 000 ans**.
+
+        Définition fossile : Reste ou trace d’êtres vivants (animaux, végétaux, bactéries**…**) conservés dans la roche.
 
 
 ??? abstract "Notes Supplémentaires"
@@ -104,7 +117,7 @@ Le phénomène actuel est un consensus scientifique. Les scientifiques ont tous 
 [Activité Changement climatique actuel](../chgtClimatActuel)
 
 
-![Alt text](Pictures/graphTempMoyenne.png)
+![](Pictures/graphTempMoyenne.png)
 
 ??? abstract "Bilan"
 

@@ -9,8 +9,8 @@
     En utilisant les documents ci-dessous, expliquer la différence entre « météo » et « climat ».
     
 ??? bug "Critères de réussite"
-    - comparer les deux documents climat et trouver un point commun et une différence
-    - comparer les deux documents météo et trouver un point commun et une différence
+    - comparer les deux documents climat et trouver des points communs
+    - comparer les deux documents météo et trouver des points communs
     - comparer les documents climat et météo et trouver une différence
 
 <div markdown style="display: flex; flex-direction:row" > 
@@ -18,7 +18,7 @@
 <div markdown style="margin-right: 10px; display: flex; flex-direction:column" > 
 
 
-**Document 1 Carte du climat en France présentant les températures moyennes sur une période de 30 ans (moyenne des températures annuelles mesurées entre 1985 et 2014).**
+**Document 1 Carte du climat en France présentant les températures moyennes mesurées sur une période de 30 ans (moyenne des températures annuelles mesurées entre 1985 et 2014).**
 
 ![](Pictures/climatFrance.png){: style="width:300px";}
 </div>
