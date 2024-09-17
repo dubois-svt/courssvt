@@ -42,7 +42,7 @@
 
         L’analyse des fossiles contenus dans les roches montre que de nombreuses espèces sont apparues et ont disparu au cours de l’histoire de la Terre.
 
-        L’espèce humaine (Homo sapiens) est apparue très récemment il y a environ **200 000 ans**.
+        L’espèce humaine (Homo sapiens) est apparue très récemment il y a environ **300 000 ans**.
 
         Définition fossile : Reste ou trace d’êtres vivants (animaux, végétaux, bactéries**…**) conservés dans la roche.
 

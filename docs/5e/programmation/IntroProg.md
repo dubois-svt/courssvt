@@ -32,7 +32,6 @@ On doit le tout premier programme informatique à l’anglaise Ada Lovelace au X
     - Boucle : structure qui permet d’exécuter la même séquence d’instructions plusieurs fois.
     - Instruction : commande pour l’ordinateur. Assembler plusieurs commandes forme des algorithmes et des programmes informatiques
     - Instruction conditionnelle : instruction qui s’exécute uniquement sous certaines conditions.
-    - Variable : elle sert à stocker une donnée (nombre, caractère, liste). Elle est désignée par un nom.
 
 
 

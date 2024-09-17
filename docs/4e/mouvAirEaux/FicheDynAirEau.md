@@ -7,8 +7,6 @@
 - Manipuler
 - Interpréter des résultats
 
-## Site internet
-
 
 
 ## Flashcards
