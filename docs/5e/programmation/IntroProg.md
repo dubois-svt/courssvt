@@ -49,7 +49,11 @@ On doit le tout premier programme informatique à l’anglaise Ada Lovelace au X
 
 
 ??? abstract "Bilan"
-    Pour programmer un système, il faut donner des instructions à ce système. Plusieurs étapes sont nécessaires : on rédige un algorithme, que l’on traduit dans un langage de programmation et on vérifie le comportement attendu du système.
+    Pour programmer un système, il faut donner des instructions à ce système. Plusieurs étapes sont nécessaires : 
+    
+    - on rédige un algorithme, 
+    - que l’on traduit dans un langage de programmation 
+    - et on vérifie le comportement attendu du système.
 
     Un système embarqué est un système électronique et informatique autonome capable de réagir en temps réel et de réaliser des tâches précises (déplacements, préhension…).
 

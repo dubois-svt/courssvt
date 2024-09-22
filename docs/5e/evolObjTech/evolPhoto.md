@@ -9,11 +9,10 @@
 
     1. Peut-on dire qu'Aristote était un photographe ? Justifier. 
     2. Parmi les personnages cités, qui est l’inventeur de la photographie ? Justifier. 
-    3. Quelle innovation a permis la photographie papier ? 
-    4. Expliquer pourquoi le XIXème siècle marque une rupture technologique dans l’histoire de l’appareil photo. 
-    5. Comparer l’aspect de l’appareil de Nicéphore Nièpce (1827) au MAVICA (1981). Quels sont ses avantages de l'appareil de Sony? 
-    6. Le MAVICA (1981) de l’entreprise Sony, fait-il partie de la même lignée d’objet que ses prédécesseurs ? 
-    7. Représenter sans soucis d’échelle, une lignée d’objet regroupant 4 appareils photo.
+    3. Quelle invention a permis la photographie papier ? 
+    4. Comparer l’aspect de l’appareil de Nicéphore Nièpce (1827) au MAVICA (1981). Quels sont ses avantages de l'appareil de Sony? 
+    5. Le MAVICA (1981) de l’entreprise Sony, fait-il partie de la même lignée d’objet que ses prédécesseurs ? 
+    6. Représenter sans soucis d’échelle, une lignée d’objet regroupant 4 appareils photo.
     
 ??? bug "Critères de réussite"
     - 
@@ -25,7 +24,8 @@
 - Une lignée d’objets est une suite chronologique d’objets techniques répondant à un même besoin et mettant en œuvre (ou en évidence ) le même principe technique (ou principe de fonctionnement).
 - L’invention est une création comme un nouvel objet, un nouveau procédé ou un nouveau système d'exploitation. L'invention fait suite à tout un processus de recherche, de travail et la fabrication de prototypes. 
 - L’innovation est l'amélioration d'une invention existante à laquelle on apporte un progrès technique ou technologique.
-- Les découvertes, les inventions et les innovations permettent les évolutions technologiques. Elles marquent de nettes améliorations dans de nombreux domaines, on appelle cela des ruptures technologiques. 
+
+Les découvertes, les inventions et les innovations permettent les évolutions technologiques. Elles marquent de nettes améliorations dans de nombreux domaines, on appelle cela des ruptures technologiques. 
 
 
 

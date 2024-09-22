@@ -89,6 +89,19 @@ Pour étudier le climat actuel, il faut étudier la météo
 
 
 ??? abstract "Bilan"
+
+??? abstract "Bilan"
+    ??? abstract "Bilan"
+    === "De quoi parler dans le bilan ? Quels mots clés ?"
+
+    === "Bilan à trous"
+
+    Pour décrire le temps qu’il fait à un instant donné, on peut utiliser des __________________. Ces instruments mesurent des paramètres météorologiques indispensables pour décrire le temps (ex: ).
+
+    Pour prévoir le temps qu’il fera dans les prochains jours, les météorologues utilisent des modèles de prévision numérique du temps. Ce sont des logiciels complexes qui simulent comment le temps va évoluer, à partir des données enregistrées.
+
+    === "Bilan"
+    
     Pour décrire le temps qu’il fait à un instant donné, on peut utiliser des stations météorologiques. Ces instruments mesurent des paramètres météorologiques indispensables pour décrire le temps (température, pression, précipitation, direction, vitesse du vent…).
 
     Pour prévoir le temps qu’il fera dans les prochains jours, les météorologues utilisent des modèles de prévision numérique du temps. Ce sont des logiciels complexes qui simulent comment le temps va évoluer, à partir des données enregistrées.
@@ -114,7 +127,26 @@ Pour étudier le climat actuel, il faut étudier la météo
 
 
 ??? abstract "Bilan"
-    La Terre est une sphère. Les rayons solaires n’arrivent donc pas avec le même angle partout. À l’équateur, l’angle entre les rayons solaires et le sol est perpendiculaire et donc les rayons se concentrent sur une petite surface, il y a plus d’énergie, il fait donc plus chaud. Tandis qu’aux pôles, l’angle entre les rayons solaires et le sol est plus faible, donc les rayons s’étalent sur une grande surface, il y a moins d’énergie, il fait donc plus froid. L’énergie solaire est inégalement répartie à la surface du globe ce qui explique les différents climats.
+    ??? abstract "Bilan"
+    === "De quoi parler dans le bilan ? Quels mots clés ?"
+
+    === "Bilan à trous"
+    La Terre est une ________________. Les rayons solaires n’arrivent donc pas avec le même ________ partout. 
+    
+    À l’équateur, l’angle entre les rayons solaires et le sol est ____________ et donc les rayons se concentrent sur une __________ surface, il y a plus ___________, il fait donc plus __________. 
+    
+    Tandis qu’aux pôles, l’angle entre les rayons solaires et le sol est plus __________________, donc les rayons s’étalent sur une ______________________ surface, il y a ____________ d’énergie, il fait donc plus _____________. 
+    L’énergie solaire est inégalement répartie à la surface du globe ce qui explique les différents climats.
+
+
+    === "Bilan"
+    La Terre est une sphère. Les rayons solaires n’arrivent donc pas avec le même angle partout. 
+    
+    À l’équateur, l’angle entre les rayons solaires et le sol est perpendiculaire et donc les rayons se concentrent sur une petite surface, il y a plus d’énergie, il fait donc plus chaud. 
+    
+    Tandis qu’aux pôles, l’angle entre les rayons solaires et le sol est plus faible, donc les rayons s’étalent sur une grande surface, il y a moins d’énergie, il fait donc plus froid. 
+    
+    L’énergie solaire est inégalement répartie à la surface du globe ce qui explique les différents climats.
 
 ??? note
     Un petit mot sur les saisons Différence d’énergie reçue au sol en France (43 ° N), en été et en hiver. Notez l’angle d’incidence en fonction de la saison.

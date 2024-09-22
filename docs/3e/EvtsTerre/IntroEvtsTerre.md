@@ -95,7 +95,19 @@ Différence météo et climat
 
 
 ??? abstract "Bilan"
-    
+    ??? abstract "Bilan"
+    === "De quoi parler dans le bilan ? Quels mots clés ?"
+
+    === "Bilan à trous"
+
+    À l’échelle des temps géologiques, le climat change, selon la position de la Terre dans l’espace et son inclinaison.
+
+    Les changements climatiques peuvent être montrés grâce aux ____________________________ ou ________________________________.
+
+    Ces changements climatiques passés ont provoqué des variations de la répartition des êtres vivants.
+
+    === "Bilan"
+
     À l’échelle des temps géologiques, le climat change, selon la position de la Terre dans l’espace et son inclinaison.
 
     Les changements climatiques peuvent être montrés grâce aux fossiles que l’on retrouve ou aux traces laissées par nos ancêtres.
@@ -121,6 +133,17 @@ Le phénomène actuel est un consensus scientifique. Les scientifiques ont tous 
 
 ??? abstract "Bilan"
 
+??? abstract "Bilan"
+    ??? abstract "Bilan"
+    === "De quoi parler dans le bilan ? Quels mots clés ?"
+
+    === "Bilan à trous"
+    
+    Depuis la ____________________, on observe une __________________ plus rapide de la température moyenne à la surface de la Terre que celles constatées durant ces 500 000 dernières années
+
+    De nombreux indices montrent que jamais dans l’histoire du climat, la température n’a augmenté aussi rapidement qu’actuellement. (ex: )
+
+    === "Bilan"
 
     Depuis la deuxième moitié du 19e siècle, on observe une augmentation plus rapide de la température moyenne à la surface de la Terre que celles constatées durant ces 500 000 dernières années
     De nombreux indices montrent que jamais dans l’histoire du climat, la température n’a augmenté aussi rapidement qu’actuellement. (enregistrement températures, date des vendanges, fonte des glaces...)
