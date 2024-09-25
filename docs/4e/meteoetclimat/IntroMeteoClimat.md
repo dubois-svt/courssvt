@@ -88,10 +88,8 @@ Pour étudier le climat actuel, il faut étudier la météo
 
 
 
-??? abstract "Bilan"
 
 ??? abstract "Bilan"
-    ??? abstract "Bilan"
     === "De quoi parler dans le bilan ? Quels mots clés ?"
 
     === "Bilan à trous"
@@ -127,7 +125,6 @@ Pour étudier le climat actuel, il faut étudier la météo
 
 
 ??? abstract "Bilan"
-    ??? abstract "Bilan"
     === "De quoi parler dans le bilan ? Quels mots clés ?"
 
     === "Bilan à trous"
@@ -136,6 +133,7 @@ Pour étudier le climat actuel, il faut étudier la météo
     À l’équateur, l’angle entre les rayons solaires et le sol est ____________ et donc les rayons se concentrent sur une __________ surface, il y a plus ___________, il fait donc plus __________. 
     
     Tandis qu’aux pôles, l’angle entre les rayons solaires et le sol est plus __________________, donc les rayons s’étalent sur une ______________________ surface, il y a ____________ d’énergie, il fait donc plus _____________. 
+    
     L’énergie solaire est inégalement répartie à la surface du globe ce qui explique les différents climats.
 
 

@@ -95,7 +95,6 @@ Différence météo et climat
 
 
 ??? abstract "Bilan"
-    ??? abstract "Bilan"
     === "De quoi parler dans le bilan ? Quels mots clés ?"
 
     === "Bilan à trous"
@@ -131,10 +130,8 @@ Le phénomène actuel est un consensus scientifique. Les scientifiques ont tous 
 
 ![](Pictures/graphTempMoyenne.png)
 
-??? abstract "Bilan"
 
 ??? abstract "Bilan"
-    ??? abstract "Bilan"
     === "De quoi parler dans le bilan ? Quels mots clés ?"
 
     === "Bilan à trous"
