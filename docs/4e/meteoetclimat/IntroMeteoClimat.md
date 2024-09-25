@@ -128,16 +128,18 @@ Pour étudier le climat actuel, il faut étudier la météo
     === "De quoi parler dans le bilan ? Quels mots clés ?"
 
     === "Bilan à trous"
+    
     La Terre est une ________________. Les rayons solaires n’arrivent donc pas avec le même ________ partout. 
     
     À l’équateur, l’angle entre les rayons solaires et le sol est ____________ et donc les rayons se concentrent sur une __________ surface, il y a plus ___________, il fait donc plus __________. 
     
     Tandis qu’aux pôles, l’angle entre les rayons solaires et le sol est plus __________________, donc les rayons s’étalent sur une ______________________ surface, il y a ____________ d’énergie, il fait donc plus _____________. 
-    
+
     L’énergie solaire est inégalement répartie à la surface du globe ce qui explique les différents climats.
 
 
     === "Bilan"
+
     La Terre est une sphère. Les rayons solaires n’arrivent donc pas avec le même angle partout. 
     
     À l’équateur, l’angle entre les rayons solaires et le sol est perpendiculaire et donc les rayons se concentrent sur une petite surface, il y a plus d’énergie, il fait donc plus chaud. 
