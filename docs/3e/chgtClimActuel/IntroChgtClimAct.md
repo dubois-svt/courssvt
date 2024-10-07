@@ -52,6 +52,7 @@
 
 
 ??? abstract "Bilan"
+
     === "De quoi parler dans le bilan ? Quels mots clés ?"
 
     === "Bilan à trous"
@@ -63,11 +64,11 @@
 
     === "Bilan"
 
-    Au cours du temps, les activités humaines ont enrichi l’atmosphère en gaz à effet de serre (ex : dioxyde de carbone CO<sub>2</sub>). Ceci a entraîné une amplification de l’effet de serre, et donc une augmentation plus rapide de la température moyenne à la surface de la Terre.
+        Au cours du temps, les activités humaines ont enrichi l’atmosphère en gaz à effet de serre (ex : dioxyde de carbone CO<sub>2</sub>). Ceci a entraîné une amplification de l’effet de serre, et donc une augmentation plus rapide de la température moyenne à la surface de la Terre.
 
-    L’effet de serre est un phénomène d’échauffement de la surface de la Terre, dû au fait que certains gaz de l’atmosphère, les gaz à effet de serre absorbent une partie du rayonnement infrarouge émis par la Terre et ce qui réchauffe la planète.
+        L’effet de serre est un phénomène d’échauffement de la surface de la Terre, dû au fait que certains gaz de l’atmosphère, les gaz à effet de serre absorbent une partie du rayonnement infrarouge émis par la Terre et ce qui réchauffe la planète.
 
-    D’après les prévisions des climatologues, le réchauffement climatique devrait se poursuivre et la température devrait augmenter de 0,5 °C à 4 °C.
+        D’après les prévisions des climatologues, le réchauffement climatique devrait se poursuivre et la température devrait augmenter de 0,5 °C à 4 °C.
 
 ![](Pictures/graphTempGeol.png)
 
