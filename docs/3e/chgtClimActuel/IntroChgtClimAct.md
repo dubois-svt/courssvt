@@ -52,8 +52,17 @@
 
 
 ??? abstract "Bilan"
+    === "De quoi parler dans le bilan ? Quels mots clés ?"
 
-    Depuis la deuxième moitié du 19e siècle, on observe une augmentation rapide de la température moyenne à la surface de la Terre.
+    === "Bilan à trous"
+        Au cours du temps, les activités humaines ont enrichi l’atmosphère en ................ (ex : ....................). Ceci a entraîné une amplification de l’effet de serre, et donc une .............. plus rapide de la température moyenne à la surface de la Terre.
+
+        L’effet de serre est un phénomène d’échauffement de la surface de la Terre, dû au fait que certains gaz de l’atmosphère, les gaz à effet de serre absorbent une partie du .................... émis par la Terre et ce qui ............... la planète.
+
+        D’après les prévisions des climatologues, le réchauffement climatique devrait se poursuivre et la température devrait augmenter de 0,5 °C à 4 °C.
+
+    === "Bilan"
+
     Au cours du temps, les activités humaines ont enrichi l’atmosphère en gaz à effet de serre (ex : dioxyde de carbone CO<sub>2</sub>). Ceci a entraîné une amplification de l’effet de serre, et donc une augmentation plus rapide de la température moyenne à la surface de la Terre.
 
     L’effet de serre est un phénomène d’échauffement de la surface de la Terre, dû au fait que certains gaz de l’atmosphère, les gaz à effet de serre absorbent une partie du rayonnement infrarouge émis par la Terre et ce qui réchauffe la planète.
@@ -75,12 +84,24 @@
 
 
 
+
 ??? abstract "Bilan"
 
-    Un écosystème est un système formé par un environnement et toutes les espèces qui y vivent, s’y nourrissent et s’y reproduisent.
+    === "De quoi parler dans le bilan ? Quels mots clés ?"
 
-    La biodiversité (=diversité des êtres vivants) au sein des
-    écosystèmes se modifie actuellement sous l’effet des activités humaines, comme le réchauffement climatique.
+    === "Bilan à trous"
+
+        Un écosystème est un système formé par un ............ et toutes les ............ qui y vivent, s’y nourrissent et s’y reproduisent.
+
+        La biodiversité (=diversité des êtres vivants) au sein des
+        écosystèmes se modifie actuellement sous l’effet des activités humaines, comme le réchauffement climatique.
+
+    === "Bilan"
+
+        Un écosystème est un système formé par un environnement et toutes les espèces qui y vivent, s’y nourrissent et s’y reproduisent.
+
+        La biodiversité (=diversité des êtres vivants) au sein des
+        écosystèmes se modifie actuellement sous l’effet des activités humaines, comme le réchauffement climatique.
 
 
 
