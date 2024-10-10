@@ -12,11 +12,11 @@
 
     
 ??? bug "Critères de réussite"
-    - Compléter le document 3 et document 4
-    - Comparer la température au pôle et à l'équateur
-    - Faire le lien entre surface éclairée et intensité lumineuse
-    - faire le lien entre intensité lumineuse et température.
-    - Lier les différents éléments de réponse.
+    - Compléter le document 3 et document 4 (1.5 point)
+    - Comparer la température au pôle et à l'équateur (1 point)
+    - Faire le lien entre surface éclairée et intensité lumineuse (0.75 point)
+    - faire le lien entre intensité lumineuse et température.(0.75 point)
+    - Lier les différents éléments de réponse. (1 point)
 
 <div markdown style="display:flex; flex-direction:row;">
 
