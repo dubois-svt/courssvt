@@ -12,7 +12,7 @@
     2. À partir des données de la station météorologique, compléter la dernière ligne pour indiquer le temps qu’il faisait à Paris le 14 et le 15 septembre 2016.
     
 ??? bug "Critères de réussite"
-    - Avoir identifier les paramètres permettant de savoir la quantité de nuages et la quantité de pluie.
+    - Avoir identifié les paramètres permettant de savoir la quantité de nuages et la quantité de pluie.
 
 
 

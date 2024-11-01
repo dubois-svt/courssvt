@@ -13,7 +13,7 @@
 ??? bug "Critères de réussite"
     - Trouver une différence entre les différents astres en dehors de la température.
     - avoir montré que l'être humain a un impact sur la concentration de CO₂
-    - Le schéma fonctionnel doit contenir les idées essentiels de chaque réponse précédente.
+    - Le schéma fonctionnel doit contenir les idées essentielles de chaque réponse précédente.
 
 
 
@@ -39,8 +39,8 @@
 ![](Pictures/schemaEffetSerre.png){: style="max-width:500px"}
 
 
-Plus un objet absorbe de rayonnements plus il va chauffer.
-Plus un objet est chaud plus il émet de rayonnements infrarouges.
+Plus un objet absorbe de rayonnements plus, il va chauffer.
+Plus un objet est chaud plus, il émet de rayonnements infrarouges.
 
 **Document 4 : Les gaz à effet de serre**
 

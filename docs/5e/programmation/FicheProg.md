@@ -23,7 +23,7 @@
     - Qu'est-ce qu'un programme informatique ?
     - Un programme informatique est composé d’une ou plusieurs séquences d’instructions ayant un but défini.
 3. 
-    - Qu'est-ce qu'un  algorithme ?
+    - Qu'est-ce qu'un algorithme ?
     - Un algorithme est une suite d’étapes dans un ordre précis permettant de terminer une tâche.
 4. 
     - Qu'est-ce qu'une boucle ?

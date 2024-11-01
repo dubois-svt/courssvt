@@ -116,7 +116,7 @@ Une fois arrivées, les matières premières sont travaillées, fabriquant ainsi
 
 Une fois le produit conçu et fabriqué, il est acheminé dans les différentes parties du monde à des fins commerciales.  
 
-Dans les rayons des magasins, on retrouve énormément de modèles différents, répondant à des fonctions d’usage et d’estime toutes aussi variées. Le marketing et la vente de ces appareils prennent aussi place dans le processus (publicité, service après vente, etc.) 
+Dans les rayons des magasins, on retrouve énormément de modèles différents, répondant à des fonctions d’usage et d’estime toutes aussi variées. Le marketing et la vente de ces appareils prennent aussi place dans le processus (publicité, service après-vente, etc.) 
 
 Une des fonctions d’estime des nouveaux smartphones est la qualité des photographies. En Europe, un téléphone portable est changé tous les 18 mois. Chez les 12-17 ans, ce changement passe à 9 mois. Près de 2 milliards de téléphones portables ont été fabriqués en 2018, soit 61 appareils chaque seconde.
 

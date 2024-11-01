@@ -3,16 +3,11 @@
 
 ## Compétences travaillées dans la séquence
 - Retenir des idées essentielles d’une leçon
-- Formuler une problématique
 - Argumenter
-- Trouver et exploiter des informations
-- Proposer une démarche expérimentale
 - Utiliser des outils mathématiques
-- Manipuler, expérimenter
-- Analyser des résultats
-- Organiser un travail en groupe
-- Réaliser un schéma, un graphique
-- Utiliser l'outil numérique
+- Trouver et exploiter des informations
+
+
 
 ## Site internet
 
@@ -24,13 +19,18 @@
 <div markdown class="flashcard">
 
 1. 
-    - question
-    - Une ampoule
+    - Comment décrire le mouvement d'un objet ?
+    - Pour décrire le mouvement d'un objet, il faut connaître sa trajectoire et l'évolution de sa vitesse.
 2. 
-    - Lorem ipsum ?
-    - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam non diam ut quam vehicula efficitur sit amet vitae nisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed at rutrum dui.
+    - Qu'est-ce qu'une trajectoire ?
+    - La trajectoire correspond à l'ensemble des positions prises au cours du temps par l'objet en mouvement.
 3. 
-    - Question
-    - Réponse
-
+    - Quel outil permet d'étudier le mouvement d'un objet ?
+    - On étudie le mouvement d'un objet grâce à une chronophotographie.
+4.  
+    - Comment calcule-t-on la vitesse ?
+    - La vitesse se calcule avec la formule : v = distance / variation temps (v = d / Δt).
+5.
+    - Qu'est-ce qu'un référentiel ?
+    - Un référentiel est l'endroit d'où l'on observe un mouvement, ce qui peut influencer la perception de ce mouvement.
 </div>

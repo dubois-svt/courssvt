@@ -4,7 +4,7 @@
     - trouver et utiliser des informations
 
 !!! warning "Consignes"
-    1. À l’aide des documents, montrer que le climat à Vallon-Pont-d’Arc le climat a changé entre aujourd'hui et il y a 30000 ans et expliquer comment les scientifiques ont pu le savoir.
+    1. À l’aide des documents, montrer que le climat à Vallon-Pont-d’Arc le climat a changé entre aujourd'hui et il y a 30 000 ans et expliquer comment les scientifiques ont pu le savoir.
 
     2. À l’aide des documents, montrer que le climat à Blaye le climat a changé entre aujourd'hui et il y a 40 Ma et expliquer comment les scientifiques ont pu le savoir.
 

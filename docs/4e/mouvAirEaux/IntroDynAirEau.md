@@ -12,7 +12,7 @@
 
 
 !!! question "Problématique"
-    comment expliquer les déplacements de l'eau et de l'air?
+    comment expliquer les déplacements de l'eau et de l'air ?
 
 ## Séance 1 : Les courants océaniques
 
@@ -53,8 +53,11 @@
 
 ??? abstract "Bilan"
     L’inégale répartition de l’énergie solaire fait que certaines zones sont plus chaudes que d’autres.
-    L’air froid est plus dense que l’air chaud, il va donc descendre vers la surface, la pression va augmenter. L’air chaud est moins dense et va donc monter en altitude. Une dépression est une zone de basse pression, un anticyclone, une zone de haute pression.  Des mouvements d’air latéraux se mettent en place des anticyclones vers les dépressions, ce sont les vents. 
-    Ces mouvements créent des différences de pressions qui vont entraîner des mouvements d’air latéraux, les vents.
+
+    L’air froid est plus dense que l’air chaud, il va donc descendre vers la surface, la pression va augmenter. L’air chaud est moins dense et va donc monter en altitude. Une dépression est une zone de basse pression, un anticyclone, une zone de haute pression. *
+    
+    Des mouvements d’air latéraux se mettent en place des anticyclones vers les dépressions, ce sont les vents. 
+    
     Ils sont d'autant plus fort que la différence de pression est importante.
 
 ![](Pictures/celluleCOnvection.png)

@@ -101,8 +101,8 @@ Par son tube miniaturisé et replié sur lui-même, dès 1970, cette lampe appel
 
 <div markdown style=" display:flex; flex-direction:row; flex : 2 1 0; ">
 
-Les lampes à graisses utilisent toutes sortes de graisses d'abord animales, puis des huiles végétales, plus fines et plus liquides mais également plus rares.  Les premières traces de lampes à graisse ont 27000 ans environ.
-Les lampes à huile sont utilisées de l’Antiquité au Moyen Age. 
+Les lampes à graisses utilisent toutes sortes de graisses d'abord animales, puis des huiles végétales, plus fines et plus liquides, mais également plus rares. Les premières traces de lampes à graisse ont 27 000 ans environ.
+Les lampes à huile sont utilisées de l’Antiquité au Moyen Âge. 
 
 </div>
 

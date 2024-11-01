@@ -5,11 +5,11 @@
     - Représenter des données sous différentes formes
 
 !!! warning "Consignes"
-    A partir des informations des différents documents, réaliser une frise chronologique montrant les évènements ayant eu lieu dans l’histoire de la vie et de la Terre. (1 cm = 200Ma)
+    À partir des informations des différents documents, réaliser une frise chronologique montrant les évènements ayant eu lieu dans l’histoire de la vie et de la Terre. (1 cm = 200 Ma)
     
 ??? bug "Critères de réussite"
     - Avoir tracé la frise (un trait avec une flèche)
-    - Avoir gradué la frise tous les 500Ma
+    - Avoir gradué la frise tous les 500 Ma
     - Avoir placé 8 événements
     - avoir mis un titre
 
@@ -44,7 +44,7 @@ Les premières cellules s’apparentent à des cyanobactéries, organismes unice
 Les océans se sont formés il y a 4,4 Ga. Pendant la majorité de
 l’histoire de notre planète, les êtres vivants étaient uniquement
 aquatiques. Mais, les premiers êtres vivants, des végétaux, à
-sortir de l’eau  datent de 470 Ma.
+sortir de l’eau datent de 470 Ma.
 
 
 <div markdown style="display: flex; flex-direction:row" > 
@@ -55,15 +55,8 @@ sortir de l’eau  datent de 470 Ma.
 
 
 «Eh bien l’homme, il prend son temps… et les premiers hominidés ne datent que de 7 millions d’années… 
-Le titre de plus ancien hominidé est actuellement détenu par
-Sahelanthropus tchadensis, qui vivait dans ce qui est l’actuel Tchad.
-Toumaï : son surnom est bien trouvé, car il veut dire « Espoir de vie »
-dans un dialecte tchadien. Pour l’instant, une quinzaine d’espèces
-d’hominidés ont été décrites. Quant à Homo sapiens, c’est-à-dire vous et
-moi… ses premiers pas sur Terre ont dû avoir lieu il y a environ
-300 000 ans. Depuis cette époque, des espèces d’hominidés ont disparu,
-comme Néandertal, Homo floresiensis, ou l’homme de Dénisova. Nous sommes
-maintenant sur Terre les seuls représentants de l’espèce humaine… » 
+Le titre de plus ancien hominidé est actuellement détenu par Sahelanthropus tchadensis, qui vivait dans ce qui est l’actuel Tchad.
+Toumaï : son surnom est bien trouvé, car il veut dire « Espoir de vie » dans un dialecte tchadien. Pour l’instant, une quinzaine d’espèces d’hominidés ont été décrites. Quant à Homo sapiens, c’est-à-dire vous et moi… ses premiers pas sur Terre ont dû avoir lieu il y a environ 300 000 ans. Depuis cette époque, des espèces d’hominidés ont disparu, comme Néandertal, Homo floresiensis, ou l’homme de Dénisova. Nous sommes maintenant sur Terre les seuls représentants de l’espèce humaine… » 
 </div>
 ![Crâne de Sahelanthropus tchandensis](Pictures/CraneSahelanthropustchandensis.jpg){: style="width:300px; float:left" }
 </div>
@@ -83,3 +76,4 @@ deux causes envisagées à cette extinction sont un impact météoritique et une
 
 
 
+65 Ma

@@ -52,7 +52,7 @@ Le mouvement d’un objet correspond à sa trajectoire et sa vitesse. On peut su
 
 ## Séance 2 : Vitesse et mouvement
 
-Un mouvement s'étudie pleinement grâce à une chronophotographie. Cette dernière nous donne non seulement une information sur la position de l'objet dont on étudie le mouvement mais aussi une information sur le temps de parcours. En effet, chaque image, chaque position, est représentée à intervalle de temps réguliers. Autrement dit, on peut connaître le temps qui sépare deux positions. Si on connaît la distance séparant deux points et la durée du parcours entre ces deux points, on peut déterminer une vitesse.
+Un mouvement s'étudie pleinement grâce à une chronophotographie. Cette dernière nous donne non seulement une information sur la position de l'objet dont on étudie le mouvement, mais aussi une information sur le temps de parcours. En effet, chaque image, chaque position, est représentée à intervalle de temps réguliers. Autrement dit, on peut connaître le temps qui sépare deux positions. Si on connaît la distance séparant deux points et la durée du parcours entre ces deux points, on peut déterminer une vitesse.
 
 !!! question "Problématique"
     Comment analyser le mouvement d'un objet grâce à une chronophotographie ?
@@ -116,7 +116,7 @@ Un mouvement s'étudie pleinement grâce à une chronophotographie. Cette derni�
 
 ## Séance 3 : Le référentiel
 
-Un phénomène que nous pouvons voir tous les jours, c'est le lever et le coucher du Soleil. De fait, on observe le Soleil se déplacer dans le ciel se levant à l'Est et se couchant à l'Ouest. On observe donc le Soleil en mouvement.
+Un phénomène que nous pouvons voir tous les jours, c'est le lever et le coucher du Soleil. De fait, on observe le Soleil se déplacer dans le ciel se levant à l'est et se couchant à l'ouest. On observe donc le Soleil en mouvement.
 
 !!! question "Problématique"
     Pourquoi dit-on alors que c'est la Terre qui tourne autour du Soleil ?

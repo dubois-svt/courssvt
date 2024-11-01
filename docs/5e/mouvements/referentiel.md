@@ -12,8 +12,8 @@
 
 
 ??? bug "Critères de réussite"
-    -   Avoir décrit le mouvement des astres depuis deux points.
-    -   Avoir fait le lien avec le terme de référentiel
+    - Avoir décrit le mouvement des astres depuis deux points.
+    - Avoir fait le lien avec le terme de référentiel
 
 
 
@@ -52,7 +52,7 @@ Ces observations cycliques sont considérées alors comme élégantes, jolies. C
 
 <div markdown style="flex : 2 1 0; flex-direction: column";>
 
-En observant les autres astres, les astronomes se sont rendu compte qu’ils ne bougeaient pas les uns par rapport aux autres… sauf certains. Semblant dériver dans le ciel, ces astres ont été nommés « étoiles errante » qui, en grec, est la traduction de “πλανήτης”, planêtês. Les Grecs de l’époque dénombrent 5 de ces planètes qu’ils ont nommées en référence à leurs dieux : Mercure, Vénus, Mars, Jupiter et Saturne.
+En observant les autres astres, les astronomes se sont rendu compte qu’ils ne bougeaient pas les uns par rapport aux autres… sauf certains. Semblant dériver dans le ciel, ces astres ont été nommés « étoiles errantes » qui, en grec, est la traduction de “πλανήτης”, planêtês. Les Grecs de l’époque dénombrent 5 de ces planètes qu’ils ont nommées en référence à leurs dieux : Mercure, Vénus, Mars, Jupiter et Saturne.
 
 </div>
 <div markdown style="flex : 1 1 0; flex-direction: column";>
@@ -92,7 +92,7 @@ En étudiant le mouvement de ces planètes, les astronomes se sont rendu compte 
 
 <div markdown style="flex : 3 1 0; flex-direction: column";>
 
-Nicolas Copernic propose de changer de point de vue. En effet, en reprenant les études sur le mouvement de ces 5 planètes, il imagine un système dans lequel ce ne serait pas la Terre au centre mais le Soleil. Il se rend alors compte que toutes les planètes tournent bien en mouvement circulaire.
+Nicolas Copernic propose de changer de point de vue. En effet, en reprenant les études sur le mouvement de ces 5 planètes, il imagine un système dans lequel ce ne serait pas la Terre au centre, mais le Soleil. Il se rend alors compte que toutes les planètes tournent bien en mouvement circulaire.
 Mais il ne publiera ses travaux que lors de ces derniers instants de vie.
 </div>
 <div markdown style="flex : 3 1 0; flex-direction: column";>
@@ -132,7 +132,7 @@ Au XXe siècle, Einstein commence à parler de relativité et affirme que : pou
 ![](Pictures/photoEinstein.jpg){: style="width: 100px"}
 </div></div>
 
-**Document 6  le référentiel**
+**Document 6 le référentiel**
 
 Le mouvement d’un objet n’est pas perçu de la même façon selon les observateurs. La vitesse et la trajectoire sont perçues différemment. Le mouvement d’un objet dépend de l’objet de référence qui est appelé référentiel.
 

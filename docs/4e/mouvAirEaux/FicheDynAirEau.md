@@ -30,7 +30,7 @@
     - Qu'est-ce qui permet d'équilibrer l'excès d'énergie reçue à l'équateur ?
     - Les mouvements d'eau et d'air.
 6. 
-    - Qu'est-ce qui est crée par des différences de pressions ?
+    - Qu'est-ce qui est créé par des différences de pressions ?
     - Les vents
   
 </div>

@@ -10,9 +10,8 @@
     1. Peut-on dire qu'Aristote était un photographe ? Justifier. 
     2. Parmi les personnages cités, qui est l’inventeur de la photographie ? Justifier. 
     3. Quelle invention a permis la photographie papier ? 
-    4. Comparer l’aspect de l’appareil de Nicéphore Nièpce (1827) au MAVICA (1981). Quels sont ses avantages de l'appareil de Sony? 
-    5. Le MAVICA (1981) de l’entreprise Sony, fait-il partie de la même lignée d’objet que ses prédécesseurs ? 
-    6. Représenter sans soucis d’échelle, une lignée d’objet regroupant 4 appareils photo.
+    4. Comparer l’aspect de l’appareil de Nicéphore Nièpce (1827) au MAVICA (1981). Quels sont les innovations de l'appareil de Sony? 
+    5. Représenter sans soucis d’échelle, une lignée d’objet regroupant 4 appareils photo.
     
 ??? bug "Critères de réussite"
     - 
@@ -21,7 +20,7 @@
 
 **Document 1 Définitions.**
 
-- Une lignée d’objets est une suite chronologique d’objets techniques répondant à un même besoin et mettant en œuvre (ou en évidence ) le même principe technique (ou principe de fonctionnement).
+- Une lignée d’objets est une suite chronologique d’objets techniques répondant à un même besoin et mettant en œuvre (ou en évidence) le même principe technique (ou principe de fonctionnement).
 - L’invention est une création comme un nouvel objet, un nouveau procédé ou un nouveau système d'exploitation. L'invention fait suite à tout un processus de recherche, de travail et la fabrication de prototypes. 
 - L’innovation est l'amélioration d'une invention existante à laquelle on apporte un progrès technique ou technologique.
 
@@ -82,7 +81,7 @@ Dans l’un de ses ouvrages le philosophe grec Aristote (384-322 av. J-C) décri
 <div markdown style="display:flex; flex: 2 1 0; flex-direction:row">
 
 
-Le célèbre inventeur italien Léonard de Vinci reprend les travaux de ses prédécesseurs en créant une boîte noire appelée “camera obscura” en latin. Léonard de Vinci suggère que cette invention peut aider les artistes à reproduire des paysages.
+Le célèbre inventeur italien Léonard de Vinci reprend les travaux de ses prédécesseurs en créant une boîte noire appelée “camera obscura” en latin. Léonard de Vinci suggère que cette invention pourrait aider les artistes à reproduire des paysages.
 
 </div>
 
@@ -100,7 +99,7 @@ Le célèbre inventeur italien Léonard de Vinci reprend les travaux de ses pré
 
 <div markdown style="display:flex; flex: 2 1 0; flex-direction:row">
 
-Le scientifique italien Girolamo Cardano (Jérome Cardan) améliore en 1540 la camera obscura de Léonard de Vinci. Il ajoute au sténopé une lentille de verre. Cette lentille améliore la projection et constitue l’invention du premier objectif. Plus tard, on ajoute des miroirs à 45 degrés pour remettre l’image à l’endroit et la camera obscura devient une innovation répandue chez les peintres pour dessiner durant les 16ème et 17ème siècles.
+Le scientifique italien Girolamo Cardano (Jérome Cardan) améliore en 1540 la camera obscura de Léonard de Vinci. Il ajoute au sténopé une lentille de verre. Cette lentille améliore la projection et constitue l’invention du premier objectif. Plus tard, on ajoute des miroirs à 45 degrés pour remettre l’image à l’endroit et la camera obscura devient une innovation répandue chez les peintres pour dessiner durant les 16ᵉ et 17ᵉiècles.
 </div>
 
 </div>
@@ -108,7 +107,7 @@ Le scientifique italien Girolamo Cardano (Jérome Cardan) améliore en 1540 la c
 
 **Document 4 Les procédés chimiques (De 1827 à 1841)**
 
-Au début du XIXème siècle, les techniques optiques sont déjà très avancées mais il n’existe toujours pas de moyen pour fixer les images. C’est à ce moment que la chimie entre en scène.
+Au début du XIXème siècle, les techniques optiques sont déjà très avancées, mais il n’existe toujours pas de moyen pour fixer les images. C’est à ce moment que la chimie entre en scène.
 
 - 1827 : L’appareil de Nicéphore Nièpce
 
@@ -143,7 +142,7 @@ L’inventeur français Nicéphore Niépce met au point le premier procédé per
 
 <div markdown style="display:flex; flex: 2 1 0; flex-direction:row">
 
-En Angleterre, William Henry Fox Talbot invente le négatif, permettant la reproduction des images sur du papier. Il appelle sa technique : “calotype”. On peut ainsi reproduire un grand nombre de tirage sur un support léger : le papier. Le principe du négatif restera la base de la photographie pendant 150 ans.
+En Angleterre, William Henry Fox Talbot invente le négatif, permettant la reproduction des images sur du papier. Il appelle sa technique : “calotype”. On peut ainsi reproduire un grand nombre de tirages sur un support léger : le papier. Le principe du négatif restera la base de la photographie pendant 150 ans.
 
 </div>
 
@@ -172,7 +171,7 @@ Kodak mise sur un appareil simple et très bon marché : le Brownie. Il est cons
 
 **Document 5 Les améliorations électro-mécaniques (De 1925 à 1975)**
 
-Après les innovations de Kodak, l’appareil photographique se démocratise progressivement pendant le XXème siècle. Le développement de la presse provoque aussi l’apparition du métier de photoreporter. De nouvelles contraintes poussent alors les fabricants à améliorer l’électronique et la mécanique de leurs appareils.
+Après les innovations de Kodak, l’appareil photographique se démocratise progressivement pendant le XXᵉ siècle. Le développement de la presse provoque aussi l’apparition du métier de photoreporter. De nouvelles contraintes poussent alors les fabricants à améliorer l’électronique et la mécanique de leurs appareils.
 
 
 - 1925 : Leica I
@@ -188,7 +187,7 @@ Après les innovations de Kodak, l’appareil photographique se démocratise pro
 
 <div markdown style="display:flex; flex: 2 1 0; flex-direction:row">
 
-L’ingénieur Oskar Barnack construit pour l’entreprise allemande Leitz, un appareil photographique léger et robuste : le Leica I. Cet appareil utilise un nouveau format de film 35 mm plutôt utilisé pour le cinéma mais le principe technique utilisé reste le même. Sa petite taille et sa qualité lui offrent un très grand succès auprès des journalistes reporters. 
+L’ingénieur Oskar Barnack construit pour l’entreprise allemande Leitz, un appareil photographique léger et robuste : le Leica I. Cet appareil utilise un nouveau format de film 35 mm plutôt utilisé pour le cinéma, mais le principe technique utilisé reste le même. Sa petite taille et sa qualité lui offrent un très grand succès auprès des journalistes reporters. 
 
 </div>
 
@@ -198,7 +197,7 @@ L’ingénieur Oskar Barnack construit pour l’entreprise allemande Leitz, un a
 **Document 6 La photographie numérique (De 1975 à aujourd’hui)**
 
 
-À la fin du XXème siècle, la photographie se tourne vers les technologies numériques. À mesure que la qualité des photos numériques augmente, la photographie argentique avec ses pellicules est peu à peu abandonnée. De plus, la photographie numérique intègre dès l’an 2000 les téléphones portables et se popularise avec les smartphones.
+À la fin du XXᵉ siècle, la photographie se tourne vers les technologies numériques. À mesure que la qualité des photos numériques augmente, la photographie argentique avec ses pellicules est peu à peu abandonnée. De plus, la photographie numérique intègre dès l’an 2000 les téléphones portables et se popularise avec les smartphones.
 
 
 

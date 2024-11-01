@@ -15,7 +15,7 @@
     - avoir trouvé la vitesse maximale autorisée
     - avoir calculé la vitesse de l’automobiliste en m/s
     - avoir converti la vitesse en km/s puis en km/h
-    - avoir indiquer si l’automobiliste allait avoir une contravention et si oui laquelle
+    - avoir indiqué si l’automobiliste allait avoir une contravention et si oui laquelle
 
 **Document 1 Les types de trajectoire et les types de mouvement**
 
@@ -33,7 +33,7 @@ On dira alors que :
 
 <div style="display:flex; flex-direction:column;">
 
-Définition : méthode d’analyse d’un mouvement qui est décomposé par une succession de photographie prises à échelle de temps régulier. La distance entre deux positions consécutives dépend de la vitesse de l’objet. Dans le cas d’un mouvement uniforme (c’est-à-dire avec une vitesse constante), la distance est constante. Si la distance augmente, c’est que la vitesse augmente et si la distance diminue c’est que la vitesse diminue.
+Définition : méthode d’analyse d’un mouvement qui est décomposé par une succession de photographies prises à échelle de temps régulier. La distance entre deux positions consécutives dépend de la vitesse de l’objet. Dans le cas d’un mouvement uniforme (c’est-à-dire avec une vitesse constante), la distance est constante. Si la distance augmente, c’est que la vitesse augmente et si la distance diminue, c’est que la vitesse diminue.
 
 </div>
 ![](Pictures/chronophotographieBalle2.png){: style="width:300px;"}
@@ -61,9 +61,9 @@ $v= d \div Δt$
 
 avec :
 
-- d la distance du parcours en mètre (m)
-- Δt la durée du trajet en seconde (s)
-- v la vitesse en mètre par seconde (m/s)
+- d : la distance du parcours en mètre (m)
+- Δt : la durée du trajet en seconde (s)
+- v : la vitesse en mètre par seconde (m/s)
 
 C’est le principe utilisé pour les radars “tronçons”.
 
@@ -89,8 +89,7 @@ La vitesse instantanée est la vitesse d’un objet à un instant donné. La dur
 Un automobiliste circule sur la route N274 aux abords de Dijon. Cette route possède un radar tronçon.
 
 
-
-Il rencontre un premier radar à 8h05min53 s, roule pendant 1,5 km et arrive devant le second radar à 8h06min58 s.
+Il rencontre un premier radar à 8h05min53s, roule pendant 1,5 km et arrive devant le second radar à 8h06min58s.
 Comme pour les radars classiques, les radars tronçon bénéficient d’une marge d’erreur technique de 5 km/h en dessous de 100 km/h sur la vitesse moyenne.
 
 </div>

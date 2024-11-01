@@ -4,11 +4,11 @@
     - argumenter
 
 !!! warning "Consignes"
-    A partir des documents, donner des arguments montrant le réchauffement climatique actuel.
+    À partir des documents, donner des arguments montrant le réchauffement climatique actuel.
 
 ??? bug "Critères de réussite"
     - avoir montré avec le document le changement climatique actuel.
-    - expliquer ce l'on observe sur les photos du documents 2. 
+    - expliquer ce l'on observe sur les photos du document 2. 
     - expliquer le lien avec le réchauffement climatique.
     - expliquer ce l'on observe sur les photos du document 3. 
     - expliquer le lien avec le réchauffement climatique en vous aidant du document 4.

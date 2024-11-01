@@ -37,7 +37,7 @@ On doit le tout premier programme informatique à l’anglaise Ada Lovelace au X
 
 
 
-## Séance 2 : Etudes d’objets programmés
+## Séance 2 : Études d’objets programmés
 
 !!! question "Problématique"
     Comment créer le programme d'un robot ?
@@ -77,7 +77,7 @@ Pour préparer ces missions, des études sont menées en laboratoire. Le robot m
     Comment programmer un tel robot ?
 
 
-[Activité  Programmer un robot](../progmBot)
+[Activité Programmer un robot](../progmBot)
 
 
 

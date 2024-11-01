@@ -65,7 +65,7 @@ Algorithme : Le feu vert reste tout le temps allumé, si un piéton appuie sur u
 !!! warning "Consignes"
     1. Compléter l’algorigramme
     2. Compléter la programmation en blocs à l’aide de l'algorithme littéral.
-    Utiliser les termes suivant : Éclairer, éteindre le garage, 10s, Capteur de porte, Mouvement, Ouverte, Capteur de mouvement, 10 s
+    Utiliser les termes suivants : Éclairer, éteindre le garage, 10s, Capteur de porte, Mouvement, Ouverte, Capteur de mouvement, 10 s
 
 
 ![](pictures/algorigrammeExo4.png)
@@ -74,9 +74,9 @@ Algorithme : Le feu vert reste tout le temps allumé, si un piéton appuie sur u
 
 <div markdown style="display:flex; flex: 1 1 0;flex-direction: column;">
 
-Algorithme littéral:
+Algorithme littéral :
 Si la porte du garage est ouverte, éclairer le garage pendant 10s. 
-S’il y a du mouvement à l’intérieur du garage, éclairer le garage pendant 10s. 
+S’il y a du mouvement à l’intérieur du garage, éclairer le garage durant 10s. 
 Le reste du temps, la lumière du garage est éteinte.
 
 </div>

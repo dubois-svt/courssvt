@@ -9,7 +9,7 @@
     
 ??? bug "Critères de réussite"
     - indiquer pour chaque modélisation l'hypothèse testée.
-    - indiquer pour chaque modélisation le type de mouvement vertical ou horizontale et sens du mouvement
+    - indiquer pour chaque modélisation le type de mouvement vertical ou horizontal et sens du mouvement
     - indiquer pour chaque modélisation la validité de l'hypothèse
 
 
@@ -36,7 +36,7 @@ La densité de l'eau varie en fonction de sa température et de sa
 composition.
 
 Le mouvement de convection est un mouvement de matière qui se produit
-lorsque l' on a une différence de densité (du matériel dense en haut et peu dense en bas). Dans cette situation, le matériel dense du haut a tendance à descendre, et le peu dense du bas a tendance à monter. On
+lorsque l'on a une différence de densité (du matériel dense en haut et peu dense en bas). Dans cette situation, le matériel dense du haut a tendance à descendre, et le peu dense du bas a tendance à monter. On
 parle alors de convection.
 
 <table>

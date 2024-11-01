@@ -54,7 +54,7 @@
     Le document 1 concerne le climat, il représente les prévisions des températures moyennes prévues pour les années 2035 à 2065.
     Le document 3 concerne la météo, il représente les températures mesurées à 11 h le jeudi 15 septembre 2016.
     Le document 4 concerne la météo, il représente les températures prévues pour jeudi après-midi prochain.
-    les documents 1et 2 sur le climat présente la moyenne des températures sur une période de 30 ans en France. L'un des documents présente le climat passé, l'autre le climat futur.
+    Les documents 1 et 2 sur le climat présentent la moyenne des températures sur une période de 30 ans en France. L'un des documents présente le climat passé, l'autre le climat futur.
 
     les documents 3 et 4 sur la météo présente les températures sur une journée en France. L'un des documents présente la météo dans une journée passée, l'autre la météo prévue dans une journée future.
 

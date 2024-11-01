@@ -115,13 +115,13 @@ Différence météo et climat
 
 ## Séance 3 : Le changement climatique actuel
 
-Le phénomène actuel est un consensus scientifique. Les scientifiques ont tous montrés que ce réchauffement existait depuis des dizaines d'années. Pourtant certains doutaient encore il y a quelques années.
+Le phénomène actuel est un consensus scientifique. Les scientifiques ont tous montrés que ce réchauffement existait depuis des dizaines d'années. Pourtant, certains doutaient encor, ill y a quelques années.
 
 
 ![© NAWAK - Licence : Tous droits réservés](Pictures/caricatureTrumClimat.png)
 
 !!! question Problématique 
-    Quels sont les arguments pour montrer que le réchauffement existe?
+    Quels sont les arguments pour montrer que le réchauffement existe ?
 
 [Activité Changement climatique actuel](../chgtClimatActuel)
 

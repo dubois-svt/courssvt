@@ -6,13 +6,13 @@
 
 
 !!! warning "Consignes"
-    1. faire un schéma des mouvements d'air dans la modélisation.
-    2. expliquer dans quel direction va aller le vent sur le document 1.
+    1. Faire un schéma des mouvements d'air dans la modélisation.
+    2. Expliquer dans quelle direction va aller le vent sur le document 1.
 
 ??? bug "critères de réussite"
     - indiquer les mouvements verticaux dans le modèle
-    - dans le modèle indiquer ou est la dépression et où est l'anticyclone
-    - indiquer dans quel direction se déplace les vents dans le modèle
+    - dans le modèle indiquer où est la dépression et où est l'anticyclone
+    - indiquer dans quelle direction se déplace les vents dans le modèle.
     - indiquer comment se déplace les vents sur la carte des pressions.
 
 
@@ -32,7 +32,7 @@ L'air froid, plus dense, est plus lourd que l'air chaud. L'air froid descend et 
 
 ![](Pictures/montageDynAir.png)
 
-1. Remplir d'eau chaude un des goulot et d'eau froide le second.
+1. Remplir d'eau chaude un des goulots et d'eau froide le second.
 
 2. Allumer le cône d'encens.
 

@@ -40,15 +40,15 @@ Le climat chaud ou intertropical correspond à des températures moyennes annuel
 </div>
 
 **Document 2 : Modélisation de la répartition de l'énergie solaire sur Terre**
-L'énergie solaire est une source d'énergie importantes. Plus les rayons solaires sont concentrés plus il fera chaud.
+L'énergie solaire est une source d'énergie importante. Plus les rayons solaires sont concentrés plus, il fera chaud.
 
 Matériel :
 - lampe;
 - ballon;
 - carton percé;
-- feuille petit carreaux.
+- feuille à petits carreaux.
 
-1. Placer la lampe sur le plateau élévateur et un ballon à un vingtaine de cm ;  
+1. Placer la lampe sur le plateau élévateur et un ballon à une vingtaine de cm ;  
 2. Placer le carton percé entre la lampe et le ballon de façon avoir une tache lumineuse nette sur le ballon ;   
 3. Régler la hauteur de la lampe afin de placer la tache lumineuse dans la zone 1 (voir doc. 1);
 4. Placer une feuille sur la zone éclairée et tracer le contour de la tâche lumineuse

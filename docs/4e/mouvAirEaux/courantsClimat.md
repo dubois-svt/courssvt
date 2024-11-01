@@ -23,7 +23,7 @@
 **Document 2 : Un couplage entre les vents et les courants océaniques dans l'Atlantique Nord**
 
 Dans l'Atlantique Nord, les vents d'ouest dominent au niveau du tropique du Cancer alors que les vents d'est dominent au niveau du cercle polaire.
-Deux types de courants océaniques se distinguent dans l'Atlantique Nord:
+Deux types de courants océaniques se distinguent dans l'Atlantique Nord :
 - un courant froid le long des côtes canadiennes, le courant du Labrador
 - un courant chaud le long des côtes françaises, le Gulf Stream.
 ![](Pictures/carteGulfStream.png)

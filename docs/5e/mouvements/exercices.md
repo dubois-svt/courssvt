@@ -77,7 +77,7 @@ La vitesse moyenne du conducteur sur le trajet est de 88 km/h
 <div markdown style="flex: 1 1 0; flex-direction:column";>
 
 
-Felix Baumgartner a effectué un saut historique en parachute d’une altitude de 39 km contre 3 km pour un saut normal. On considérera Felix Baumgartner comme l’objet d’étude. La chronophotographie ci-contre représente l’objet toutes les 10sec. Le saut a duré environ 4min19 s
+Felix Baumgartner a effectué un saut historique en parachute d’une altitude de 39 km contre 3 km pour un saut normal. On considérera Felix Baumgartner comme l’objet d’étude. La chronophotographie ci-contre représente l’objet toutes les 10 secondes. Le saut a duré environ 4min19.
 
 </div>
 </div>
@@ -86,10 +86,10 @@ Felix Baumgartner a effectué un saut historique en parachute d’une altitude d
 ## Exercice 4
 
 !!! warning "Consignes"
-    1.  Charles est-il immobile ou en mouvement par rapport à Ahmed ? Justifie.
-    2.  Charles est-il immobile ou en mouvement par rapport à Boris ? Justifie.
-    3.  Complète le tableau en indiquant « en mouvement » ou « immobile »
-    4.  Pour pouvoir décider du caractère immobile ou en mouvement d'un objet ou d'un personnage, quelle précision est nécessaire ?
+    1. Charles est-il immobile ou en mouvement par rapport à Ahmed ? Justifie.
+    2. Charles est-il immobile ou en mouvement par rapport à Boris ? Justifie.
+    3. Complète le tableau en indiquant « en mouvement » ou « immobile »
+    4. Pour pouvoir décider du caractère immobile ou en mouvement d'un objet ou d'un personnage, quelle précision est nécessaire ?
 
 Ahmed et Charles prennent place dans un TGV. Leur ami Boris les a accompagnés jusqu'au quai. Ahmed s'assoit à sa place. Lorsque le train démarre, Charles encore debout, veut voir le plus longtemps possible Boris, qui est immobile par rapport au quai. Charles se déplace alors vers Ahmed en restant dans le même alignement que Boris et son sac.
 

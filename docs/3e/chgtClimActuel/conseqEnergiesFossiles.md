@@ -176,8 +176,8 @@ d’électricité</th>
 
 ![Graphique de l'esmtimation de l'élévation du niveau de la mer](Pictures/graphElevationNiveauMer.png){:style="width:500px; flex-shrink: 0;  " }
 
-À cause du réchauffement climatique, les glaciers continentaux fondent et surtout l’eau liquide se dilate (elle prend plus de place), celle entraîne une élévation du niveau de la mer. Entre 1900 et aujourd’hui, le niveau des océans a augmenté de 17 cm.
-La courbe basse est basé sur le scénario de réchauffement climatique le plus optimiste et celle haute est basée sur le scénario de réchauffement climatique le plus pessimiste.
+À cause du réchauffement climatique, les glaciers continentaux fondent et surtout l’eau liquide se dilate (elle prend plus de place), cela entraîne une élévation du niveau de la mer. Entre 1900 et aujourd’hui, le niveau des océans a augmenté de 17 cm.
+La courbe basse est basée sur le scénario de réchauffement climatique le plus optimiste et celle haute est basée sur le scénario de réchauffement climatique le plus pessimiste.
 
 </div>
 
