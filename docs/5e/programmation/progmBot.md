@@ -57,7 +57,7 @@ Il peut se déplacer grâce à six roues (à une vitesse moyenne de l’ordre de
 1. Au démarrage du robot, faire clignoter 5 fois en rouge puis vert les LED RGB du robot à gauche et à droite. (laisser chaque lumière allumée une seconde)
 2. Faire avancer un robot à 50% de sa vitesse
 3. Faire avancer un robot et s'arrêter devant un obstacle, lorsque la distance est plus petite que 10 cm.
-4. Créer un programme infini qui fait avancer un robot puis tourner à droite quand il rencontre un obstacle (attention , ilfaudra le laisser tourner pendant 1 seconde, donc attendre une seconde avant de faire autre chose)
+4. Créer un programme infini qui fait avancer un robot puis tourner à droite quand il rencontre un obstacle (attention, il faudra le laisser tourner pendant 1 seconde, donc attendre une seconde avant de faire autre chose)
 5. Créer un programme infini qui fait suivre une ligne au robot.
 
 

@@ -1,4 +1,4 @@
-# Activité : T1.2 Modélisation 3D de la salle de classe
+# Activité : Modélisation 3D de la salle de classe
 
 !!! note "Compétences"
     - Trouver et utiliser des informations
@@ -22,9 +22,9 @@ On souhaite réaliser la maquette numérique de votre salle de classe à l’aid
       - Dans le menu Fichier/Préférence, choisir l’unité mètre  
       - Dans le menu Meubles/Importer bibliothèque de meubles, choisir le fichier [MeublesClasse.sh3f](Files/MeublesClasse.sh3f)
 2. Création de la dalle en béton  
-      - Cliquer sur l’outil “Créer les pièces”  ![](Pictures/iconePieceSweetHome.png)(attention à bien lire les conseils du logiciel) et tracer un rectangle de 12,5 m sur 6,5 m.  
-      - A chaque angle, faire un clic gauche. 
-      - Appuyer sur la touche   “Echap” pour arrêter le dessin  
+      - Cliquer sur l’outil “Créer les pièces” ![](Pictures/iconePieceSweetHome.png)(attention à bien lire les conseils du logiciel) et tracer un rectangle de 12,5 m sur 6,5 m.  
+      - À chaque angle, faire un clic gauche. 
+      - Appuyer sur la touche “Echap” pour arrêter le dessin  
 
 3. Création des murs  
       - Cliquer sur l’outil “créer les murs" ![](Pictures/iconeMurSweethome.png) (attention à bien lire les conseils du logiciel) et tracer des murs autour de la pièce.  
@@ -37,7 +37,7 @@ On souhaite réaliser la maquette numérique de votre salle de classe à l’aid
   
 5. Insertion du mobilier  
       - Dans le menu de gauche, choisir dans les différents dossiers les éléments à installer pour répondre à nos besoins et les placer sur le plan.
-      - Il est possible de faire tourner les objets sur eux-même, en cliquant dessus puis en cliquant sur la flèche en arc de cercle.
+      - Il est possible de faire tourner les objets sur eux-mêmes, en cliquant dessus puis en cliquant sur la flèche en arc de cercle.
   
 6. Finition et textures
       - Faire un clic droit sur la pièce, choisir le menu “Modifier les pièces”
@@ -46,10 +46,10 @@ On souhaite réaliser la maquette numérique de votre salle de classe à l’aid
 
 
 7. Rendu final
-      - Ajouter un texte (dans le menu plan) sur votre plan avec le nom des deux élèves et le groupe d’EIST.
+      - Ajouter un texte (dans le menu plan) sur votre plan avec le nom des deux élèves et le groupe de sciences.
       - Dans la partie 3D, choisir le meilleur angle de vue, puis dans le menu Fichier / imprimer en PDF, faire un fichier contenant le plan et la vue 3D de votre salle de classe.
 
-      **Attention nommer le fichier avec le nom des deux élèves et le groupe d’EIST.**
+      **Attention nommer le fichier avec le nom des deux élèves et le groupe de sciences.**
 
 </div>
 

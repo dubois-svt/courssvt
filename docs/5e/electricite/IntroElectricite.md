@@ -1,13 +1,13 @@
-# Séquence : Electricité 
+# Séquence : Électricité 
 
-L'électricité est une  énergie que l'on utilise tous les jours. Une de ces utilisations est l'éclairage. 
+L'électricité est une énergie que l'on utilise tous les jours. Une de ces utilisations est l'éclairage. 
 
 !!! question "Problématique"
     De quoi a-t-on besoin pour assurer l’éclairage électrique d’une pièce ?    
 
 ## Séance 1 : Modélisation d'une lampe de poche
 
-C’est en 1879 que l’américain Thomas Edison provoque une révolution dans le quotidien des gens. Grâce à lui, les bougies et les lampes à pétrole qui provoquaient de nombreux incendies dans les foyers ont été remplacées par les premières ampoules électriques. Aujourd’hui, une simple pression sur un bouton et nous pouvons avoir de la lumière.
+C’est en 1879 que l’Américain Thomas Edison provoque une révolution dans le quotidien des gens. Grâce à lui, les bougies et les lampes à pétrole qui provoquaient de nombreux incendies dans les foyers ont été remplacées par les premières ampoules électriques. Aujourd’hui, une simple pression sur un bouton et nous pouvons avoir de la lumière.
 
 !!! question "Problématique"
     Quels sont les composants électriques constituant la lampe aujourd'hui ?  
@@ -73,7 +73,7 @@ C’est en 1879 que l’américain Thomas Edison provoque une révolution dans l
 ## Séance 2 : Intensité du courant électrique
 
 
-En 1820, André-Marie Ampère, physicien français, théorise ce que l’on appelle aujourd’hui : le courant électrique. Jusqu’au début du XIXe siècle, les physiciens pensaient que de l’électricité était un fluide qui circulait dans un circuit. Aujourd’hui, nous savons que l’électricité est dû au déplacement de charges électriques appelées électrons.
+En 1820, André-Marie Ampère, physicien français, théorise ce que l’on appelle aujourd’hui : le courant électrique. Jusqu’au début du XIXe siècle, les physiciens pensaient que de l’électricité était un fluide qui circulait dans un circuit. Aujourd’hui, nous savons que l’électricité est due au déplacement de charges électriques appelées électrons.
 
 !!! question "Problématique"
     Comment mesurer l’intensité du courant électrique présent dans un circuit ?
@@ -102,7 +102,7 @@ Il doit y avoir deux lampes. Si une des ampoules grille, l’autre doit continue
 Il doit y avoir un interrupteur pour allumer et éteindre les deux ampoules en même temps.
 
 !!! question "Problématique :"
-    Comment réaliser un circuit électrique répondant à toutes ces contraintes  ?
+    Comment réaliser un circuit électrique répondant à toutes ces contraintes ?
 
 
 

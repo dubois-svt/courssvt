@@ -99,7 +99,7 @@ Le célèbre inventeur italien Léonard de Vinci reprend les travaux de ses pré
 
 <div markdown style="display:flex; flex: 2 1 0; flex-direction:row">
 
-Le scientifique italien Girolamo Cardano (Jérome Cardan) améliore en 1540 la camera obscura de Léonard de Vinci. Il ajoute au sténopé une lentille de verre. Cette lentille améliore la projection et constitue l’invention du premier objectif. Plus tard, on ajoute des miroirs à 45 degrés pour remettre l’image à l’endroit et la camera obscura devient une innovation répandue chez les peintres pour dessiner durant les 16ᵉ et 17ᵉiècles.
+Le scientifique italien Girolamo Cardano (Jérome Cardan) améliore en 1540 la camera obscura de Léonard de Vinci. Il ajoute au sténopé une lentille de verre. Cette lentille améliore la projection et constitue l’invention du premier objectif. Plus tard, on ajoute des miroirs à 45 degrés pour remettre l’image à l’endroit et la camera obscura devient une innovation répandue chez les peintres pour dessiner durant les 16ᵉ et 17ᵉ siècles.
 </div>
 
 </div>
@@ -107,7 +107,7 @@ Le scientifique italien Girolamo Cardano (Jérome Cardan) améliore en 1540 la c
 
 **Document 4 Les procédés chimiques (De 1827 à 1841)**
 
-Au début du XIXème siècle, les techniques optiques sont déjà très avancées, mais il n’existe toujours pas de moyen pour fixer les images. C’est à ce moment que la chimie entre en scène.
+Au début du XIXᵉ siècle, les techniques optiques sont déjà très avancées, mais il n’existe toujours pas de moyen pour fixer les images. C’est à ce moment que la chimie entre en scène.
 
 - 1827 : L’appareil de Nicéphore Nièpce
 

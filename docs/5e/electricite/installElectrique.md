@@ -1,4 +1,4 @@
-# Activité PC1.3 : Circuit électrique d’une salle de classe
+# Activité : Circuit électrique d’une salle de classe
 
 
 !!! note "Compétences"

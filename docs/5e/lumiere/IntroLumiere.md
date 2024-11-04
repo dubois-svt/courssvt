@@ -62,7 +62,7 @@ Créé dans les années 1840 par Samuel F.B. Morse, le code Morse est un mode de
 ![](pictures/ponyo.png){:style="width:250px;"}
 
 !!! question "Problématique"
-    Comment communiquer en Morse  ?
+    Comment communiquer en Morse ?
 
 ![](pictures/codeMorse.png){:style="width:300px;"}
 
@@ -112,3 +112,5 @@ Afin de revaloriser un terrain de stockage de déchets jusque dans les années 9
 
 
 ## Séance 5 : Exercices
+
+[Activité Exercices sur l'optique](../exercicesOptique)

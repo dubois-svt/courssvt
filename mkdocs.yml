@@ -41,14 +41,12 @@ theme:
             name: Passer au mode jour
     features:
         - navigation.instant
-        - navigation.tabs
-        - navigation.top
+        - navigation.path
         - toc.integrate
         - header.autohide
         - navigation.indexes 
-        - navigation.footer
         - content.action.edit
-    
+
 
 #extra:
 #  analytics:
@@ -130,7 +128,6 @@ markdown_extensions:
 nav :
   - index.md
   - 6e :
-      - 6e/sommaire6e.md
       - Séquence Mouvement de la Terre :
           - Introduction : 6e/MouvementTerre/IntroMvtTerre.md
           - Révolution et rotation : 6e/MouvementTerre/RevolRotation.md
@@ -230,7 +227,6 @@ nav :
       #- Séquence Conséquences des actions humaines sur l’environnement :
           
   - 5e :
-      - 5e/sommaire5e.md
       - Séquence La programmation :
           - Introduction : 5e/programmation/IntroProg.md
           - Initiation à la programmation : 5e/programmation/initProg.md
@@ -313,7 +309,6 @@ nav :
       #- Séquence Biodiversité et activités humaines : 
 
   - 4e :
-      - 4e/sommaire4e.md
       - Séquence Météo et climat :
             - Introduction : 4e/meteoetclimat/IntroMeteoClimat.md
             - Différence Météo/Climat : 4e/meteoetclimat/diffmeteoclimat.md
@@ -392,8 +387,6 @@ nav :
 
           
   - 3e :
-      - 3e/sommaire3e.md
-
       - Séquence Histoire de la Terre :
           - Introduction : 3e/EvtsTerre/IntroEvtsTerre.md
           - Événements dans l'histoire de la Terre : 3e/EvtsTerre/HistoireTerre.md

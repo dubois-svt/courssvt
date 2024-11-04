@@ -33,7 +33,7 @@
 
 <div markdown style="flex: 2 1 0; flex-direction : column;">
 
-Les pâtes sont composées d’amidon. Il est considéré comme un sucre complexe car il est composé d’une série de glucose reliés les uns aux autres. 
+Les pâtes sont composées d’amidon. Il est considéré comme un sucre complexe, car il est composé d’une série de glucoses reliés les uns aux autres. 
 
 Lors de la digestion, l’amidon est découpé en glucose.
 </div>
@@ -53,4 +53,4 @@ Lors de la digestion, l’amidon est découpé en glucose.
 - Deux tubes en verre
 - De l’amylase (enzyme présente dans la salive)
 - Un bain-marie à 37 °C
-- De l’eau
+- De l’eau.

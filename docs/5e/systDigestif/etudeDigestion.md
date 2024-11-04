@@ -37,7 +37,7 @@ Voici le récit d’une de ses expériences :
 « Je plaçai dans un gros tube en fer blanc ouvert aux deux bouts un morceau de viande. Le tube ainsi garni fut donné à une buse pour son premier déjeuner.
 Ce ne fut que le lendemain que je trouvai le tube qu’elle venait de rendre : il avait toute sa rondeur, on ne découvrait sur sa surface extérieure aucune trace de frottements. Le morceau de viande avait été réduit peut-être au quart de son premier volume ; ce qui en restait était couvert par une espèce de bouillie venue probablement de celles de ses parties qui avaient été dissoutes. » 
 
-Extrait de  Observations sur la digestion des oiseaux , René Antoine Ferchault de Réaumur (1752).
+Extrait de Observations sur la digestion des oiseaux, René Antoine Ferchault de Réaumur (1752).
 
 
 **Document 3 : Observation sur les rapaces**

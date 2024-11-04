@@ -1,4 +1,4 @@
-# Activité : Absoprtion intestinale
+# Activité : Absorption intestinale
 
 !!! note "Compétences"
 
@@ -70,7 +70,7 @@ On donne à un individu un plat de pâtes à manger. Puis l’on suit la quantit
 
 
 **Document 4 L’intestin grêle**
-Les villosités intestinales sont des structures de la paroi intestinale dont la surface est estimé à 250m². Elles multiplient par 20 la surface de contact entre le contenu de l'intestin grêle et le sang.
+Les villosités intestinales sont des structures de la paroi intestinale dont la surface est estimée à 250m². Elles multiplient par 20 la surface de contact entre le contenu de l'intestin grêle et le sang.
 
 ![](pictures/schemaParoiIntestin.png){: style="width:600px;"}
 

@@ -11,14 +11,14 @@
 ??? bug "Critères de réussite"
     - 
 
-climat senegal
+climat Sénégal
 
-Le climat est de type désertique dans le Nord, et de type tropical de savane dans le Sud, avec :
+Le climat est de type désertique dans le nord, et de type tropical de savane dans le sud, avec :
 
     une saison des pluies de juin à octobre avec un pic en août, septembre est variable selon la latitude (moins de précipitations dans le Nord que dans le Sud). C'est la période des moussons. On ne peut parler de vraie saison des pluies que dans la Casamance, seule région où il y a aussi des forêts dignes de ce nom ;
     une saison sèche de novembre à juin avec des alizés continentaux, avec des températures comprises entre 22 °C et 30 °C, comportant des variations importantes entre le littoral et l'intérieur13,14.
 
-climat mexique
+climat Mexique
 Le Tropique du Cancer divise le pays en deux zones, l'une tempérée (climat subtropical humide) et l'autre au climat tropical. Le climat varie avec l’altitude. Les tierras calientes (terres chaudes), comprenant les plaines côtières, s’élèvent jusqu’à environ 915 mètres. Au nord du 24e parallèle, les températures sont plus froides pendant les mois d’hiver, tandis qu’au sud, elles restent constantes le long de l’année. Elles varient néanmoins en fonction de l’altitude. 
 
 **Document 1 Mil, une céréale**
@@ -27,7 +27,7 @@ Le mil est une céréale qui est cultivée depuis des siècles dans de nombreuse
 
 La culture du mil se fait dans un climat chaud et sec. 
 
-Les agriculteurs utilisent souvent des méthodes de culture traditionnelles  et durables pour garantir que cette culture reste prospère pour les générations à venir : la terre battue et l'irrigation à partir de puits d'eau. 
+Les agriculteurs utilisent souvent des méthodes de culture traditionnelles et durables pour garantir que cette culture reste prospère pour les générations à venir : la terre battue et l'irrigation à partir de puits d'eau. 
 
 Cette céréale est souvent utilisée pour faire du couscous, du pain et des bouillies. 
 Elle est également utilisée pour nourrir les animaux. 

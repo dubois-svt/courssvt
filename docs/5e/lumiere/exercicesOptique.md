@@ -1,4 +1,4 @@
-# Activité : Exercices optique
+# Activité : Exercices sur l'optique
 
 !!! note "Compétences"
 
@@ -42,7 +42,7 @@ Voici une liste d’objets : Flamme, écran de télévision, écran de cinéma, 
 ## Exercice 4
 
 !!! warning "Consignes"
-    Indiquer si l’œil peut-il voir le point lumineux S. Justifier sa réponse.
+    Indiquer si l’œil peut voir le point lumineux S. Justifier sa réponse.
  
 ![](pictures/exoEcranOeil.png)
 

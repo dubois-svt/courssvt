@@ -5,7 +5,7 @@
 
 
 !!! question "Problématique"
-    A quoi sont dus les volcans ? 
+    À quoi sont dus les volcans ? 
     Comment s’en protéger ?
 
 
@@ -32,10 +32,10 @@
 
 
 
-## Séance 2: Modéliser une éruption volcanique
+## Séance 2 Modéliser une éruption volcanique
 
 !!! question "Problématique"
-    Comment est déclenché une éruption volcanique ?
+    Comment est déclenchée une éruption volcanique ?
 
 [Activité Modélisation de l'éruption volcanique](../eruption)
 
@@ -49,7 +49,7 @@
     Selon la viscosité du magma, le type de volcanisme sera différent. 
 
 
-## Séance 3: Le risque volcanique
+## Séance 3 Le risque volcanique
 
 !!! question "Problématique"
     Comment gérer le risque volcanique ?

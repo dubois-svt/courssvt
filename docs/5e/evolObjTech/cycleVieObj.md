@@ -78,7 +78,7 @@ Le transport des métaux, des carrières aux usines de raffinage, se réalise pa
 
 <div markdown style="display:flex; flex-direction: column; flex: 2 1 0;">
 
-Le projet EACOP est un projet d'oléduc d'une longueur de 1443 km. Il traverse deux pays Ouganda et la Tanzanie.
+Le projet EACOP est un projet d'oléoduc d'une longueur de 1443 km. Il traverse deux pays Ouganda et la Tanzanie.
 
 100000 personnes ont été expropriées et le projet met en danger de nombreux écosystèmes.
 
@@ -116,7 +116,7 @@ Une fois arrivées, les matières premières sont travaillées, fabriquant ainsi
 
 Une fois le produit conçu et fabriqué, il est acheminé dans les différentes parties du monde à des fins commerciales.  
 
-Dans les rayons des magasins, on retrouve énormément de modèles différents, répondant à des fonctions d’usage et d’estime toutes aussi variées. Le marketing et la vente de ces appareils prennent aussi place dans le processus (publicité, service après-vente, etc.) 
+Dans les rayons des magasins, on retrouve énormément de différents modèles, répondant à des fonctions d’usage et d’estime toutes aussi variées. Le marketing et la vente de ces appareils prennent aussi place dans le processus (publicité, service après-vente, etc.) 
 
 Une des fonctions d’estime des nouveaux smartphones est la qualité des photographies. En Europe, un téléphone portable est changé tous les 18 mois. Chez les 12-17 ans, ce changement passe à 9 mois. Près de 2 milliards de téléphones portables ont été fabriqués en 2018, soit 61 appareils chaque seconde.
 
@@ -133,7 +133,7 @@ En suisse, on estime à près de 8 millions de vieux téléphones inutilisés et
 Puisque les réserves de certaines matières premières seront bientôt épuisées, le recyclage permet d’en valoriser une partie pour construire de nouveaux équipements.
 Cependant, le recyclage à un coût économique et tous les équipements ne peuvent pas être recyclés. Des appareils en provenance d’Europe s’entassent donc dans des décharges en Afrique (photo ci-contre).
 
-Sur place, beaucoup de gens essaient de gagner de l’argent en brûlant les plastiques pour récupérer les métaux précieux comme le cuivre, l’argent ou l’or produisant par la même occasion des gaz toxiques qui s’échappent des pièces en plastique lorsqu’elles sont incinérées. 
+Sur place, beaucoup de gens essaient de gagner de l’argent en brûlant les plastiques pour récupérer les métaux précieux comme le cuivre, l’argent ou l’or. Lorsque les plastiques sont incinérées cela produit des gaz toxiques. 
 
 </div>
 

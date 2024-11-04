@@ -12,7 +12,7 @@
     
 ??? bug "Critères de réussite"
     1. À partir des documents, indique de quoi sont composés les aliments.
-    2. Explique pour chaque éléments contenu
+    2. Explique pour chaque élément le rôle
     3. Explique la nécessité d’avoir une alimentation variée et équilibrée.
     4. Expliquer à quoi servent les recommandations
 
@@ -21,7 +21,7 @@
 
 ![](pictures/compoAlim.png)
 
-Les étiquettes des produits alimentaires donnent la composition des aliments. Il existe 7 grandes familles de constituants alimentaires:
+Les étiquettes des produits alimentaires donnent la composition des aliments. Il existe 7 grandes familles de constituants alimentaires :
 
 <table>
 <thead>
@@ -45,15 +45,15 @@ Les étiquettes des produits alimentaires donnent la composition des aliments. I
 </thead>
 </table>
 
-Les glucides et les lipides sont les principales source d’énergie pour le corps. 
+Les glucides et les lipides sont les principales sources d’énergie pour le corps. 
 Dans la famille des glucides, on distingue les sucres rapides, faciles à digérer, des sucres lents, qui permettent un apport plus régulier de sucre dans l’organisme.
 Les lipides (ou matières grasses) sont aussi un des composants des cellules.
 Les fibres facilitent la digestion des aliments et régulent l'appétit.
 
-Les vitamines sont indispensables au fonctionnement de notre organisme. Ce sont des substances que notre corps ne peut pas fabriquer et que nous devons trouver dans nos aliments.Par exemple, la vitamine D permet la fixation du calcium sur les os pour les rendre plus résistants.
+Les vitamines sont indispensables au fonctionnement de notre organisme. Ce sont des substances que notre corps ne peut pas fabriquer et que nous devons trouver dans nos aliments. Par exemple, la vitamine D permet la fixation du calcium sur les os pour les rendre plus résistants.
 La vitamine A favorise la croissance et permet de mieux voir dans l’obscurité.
 
-Les sels minéraux sont des substances qui se trouvent dans les liquides. Chacun joue un rôle important dans le corps.Le calcium, par exemple, permet la croissance des os, alors que le fer permet le bon fonctionnement des globules rouges présents dans le sang.
+Les sels minéraux sont des substances qui se trouvent dans les liquides. Chacun joue un rôle important dans le corps. Le calcium, par exemple, permet la croissance des os, alors que le fer permet le bon fonctionnement des globules rouges présents dans le sang.
 
 
 
@@ -76,13 +76,13 @@ Les fruits à coque non salés (et non sucrés et sans chocolat) sont riches en 
 
 Faire de l’activité physique permet d’améliorer votre qualité de vie et votre bien-être et, à plus long terme, vous aide à prévenir certaines maladies et votre forme.
 
-Les féculents (pâtes, pain, riz, semoule, pommes de terre…) peuvent être consommés tous les jours. Il est recommandé de les consommer complets ou semi-complets quand ils sont à base de céréales car ils sont naturellement riches en fibres. Les féculents nous apportent ce qu’on appelle des « glucides complexes » 
+Les féculents (pâtes, pain, riz, semoule, pommes de terre…) peuvent être consommés tous les jours. Il est recommandé de les consommer complets ou semi-complets quand ils sont à base de céréales, car ils sont naturellement riches en fibres. Les féculents nous apportent ce qu’on appelle des « glucides complexes .» 
 
 Le poisson apporte des protéines ainsi que du fer. De plus, les poissons gras sont riches en Oméga-3. 
 
 Les produits laitiers nous apportent du calcium.
 
-Il est recommandé de ne pas consommer plus de 5g de sel par jour pour un adulte. Une consommation excessive de sel favorise l’hypertension, elle-même à l’origine de maladies cardio-vasculaires.
+Il est recommandé de ne pas consommer plus de 5 g de sel par jour pour un adulte. Une consommation excessive de sel favorise l’hypertension, elle-même à l’origine de maladies cardio-vasculaires.
 
 </div>
 </div>

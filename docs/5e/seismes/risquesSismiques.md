@@ -28,7 +28,7 @@ Le risque dépend de l'aléa et de la vulnérabilité des enjeux exposés
 
 L’aléa est la probabilité qu’un phénomène de nature et d’intensité donnée survienne. 
 
-La vulnérabilité des enjeux est les conséquences du phénomène  sur les enjeux présents (ensemble des personnes, des biens). La vulnérabilité de l'enjeu dépend donc de ce qui est présent et de la fragilité de ces éléments.
+La vulnérabilité des enjeux est les conséquences du phénomène sur les enjeux présents (ensemble des personnes, des biens). La vulnérabilité de l'enjeu dépend donc de ce qui est présent et de la fragilité de ces éléments.
 
 Pour réduire le risque 3 approches sont possibles :
 
@@ -39,7 +39,7 @@ Pour réduire le risque 3 approches sont possibles :
 - La prévention d’un risque est l’ensemble des mesures visant à anticiper les aléas et leurs impacts par divers moyens (apprentissage de gestes ou consignes à suivre en cas de problème, mise en place et respect de règles ou protocoles d’action…) afin de diminuer le risque global.
 
 
-**Document 2  la répartition des séismes sur Terre entre 1977 et 1992.**
+**Document 2 la répartition des séismes sur Terre entre 1977 et 1992.**
 
 ![](pictures/carteSeismes.png)
 
@@ -49,9 +49,9 @@ Localisation approximative des zones étudiées : 1 — Alaska ; 2 — Haïti
 **Document 3 la construction parasismique**
 
 La construction parasismique consiste à concevoir des bâtiments capables de résister aux séismes. Le Japon est incontestablement le pays le plus à la pointe sur la question de la construction parasismique. Lors du séisme du 11 mars 2011, le génie parasismique japonais fait ses preuves, aucun bâtiment ne s’est effondré alors même que la magnitude était de 9.
-En revanche, dans les pays pauvres, comme Haïti par exemple, les constructions parasismiques sont très peu développées. Rappel, un indicateur de richesse des pays est le PIB (Produit Intérieur Brut)
+En revanche, dans les pays pauvres, comme Haïti, les constructions parasismiques sont très peu développées. Rappel, un indicateur de richesse des pays est le PIB (Produit Intérieur Brut)
 
-**Document 4  tableau des caractéristiques des quatre zones étudiées**
+**Document 4 Tableau des caractéristiques des quatre zones étudiées**
 
 <table>
 <thead>

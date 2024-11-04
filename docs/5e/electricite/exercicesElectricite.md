@@ -1,4 +1,4 @@
-# Activité PC1.4 : Exercices d’entraînement
+# Activité : Exercices d’entraînement
 
 
 

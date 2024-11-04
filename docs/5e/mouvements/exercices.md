@@ -42,7 +42,7 @@
 
 <div markdown style="display:flex; flex-direction:column";>
 
-La réglementation peut varier en fonction du type de véhicule. Ici on ne parlera que des véhicules légers (voiture)
+La réglementation peut varier en fonction du type de véhicule. Ici, on ne parlera que des véhicules légers (voiture).
 </div>
 </div>
 </div>
@@ -59,8 +59,8 @@ La vitesse moyenne du conducteur sur le trajet est de 88 km/h
 
 !!! warning "Consignes"
     1. Déterminer le type de mouvement entre les positions :
-        a) A et G
-        b) G et I
+        - A et G
+        - G et I
     2. Dans cette situation, on considérera la vitesse instantanée comme étant la vitesse entre deux positions successives. Justifier que la vitesse instantanée maximale de l’objet est de 0.37 km/s.
     3. L’ouverture du parachute entraîne le freinage de la chute. À quelle position le parachute a-t-il été ouvert ? Justifier.
     4. Calculer la vitesse moyenne en km/s sur la totalité de la chute.
@@ -77,7 +77,7 @@ La vitesse moyenne du conducteur sur le trajet est de 88 km/h
 <div markdown style="flex: 1 1 0; flex-direction:column";>
 
 
-Felix Baumgartner a effectué un saut historique en parachute d’une altitude de 39 km contre 3 km pour un saut normal. On considérera Felix Baumgartner comme l’objet d’étude. La chronophotographie ci-contre représente l’objet toutes les 10 secondes. Le saut a duré environ 4min19.
+Felix Baumgartner a effectué un saut historique en parachute d’une altitude de 39 km contre 3 km pour un saut normal. On considérera Felix Baumgartner comme l’objet d’étude. La chronophotographie ci-contre représente l’objet toutes les 10 secondes. Le saut a duré environ 4 min 19 sec.
 
 </div>
 </div>
@@ -96,8 +96,8 @@ Ahmed et Charles prennent place dans un TGV. Leur ami Boris les a accompagnés j
 ![](Pictures/dessinreferentielTrain.png)
 
 
- | ↗ Voit → |   Boris |  Ahmed  |Charles|
+ | ↗ Voit → | Boris | Ahmed |Charles|
  | -----------| -------| -------| ---------|
-  |Boris    |          |         | |
- |  Ahmed         |          |         | |               
- |  Charles        |          |         | |              
+  |Boris | | | |
+ | Ahmed | | | |               
+ | Charles | | | |              

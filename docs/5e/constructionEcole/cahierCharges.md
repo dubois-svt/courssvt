@@ -1,4 +1,4 @@
-# Activité : T1.1 Cahier des charges
+# Activité : Cahier des charges
 
 !!! note "Compétences"
     - Trouver et utiliser des informations
@@ -8,7 +8,7 @@ Vous êtes responsable du projet de rénovation d’une salle de sciences. Vous 
 
 !!! warning "Consignes"
     1. Compléter le titre du document 4 et les titres des colonnes, en vous aidant du document 1.  
-    2. Compléter le cahier des charges en retrouvant les  éléments manquants.  
+    2. Compléter le cahier des charges en retrouvant les éléments manquants.  
     3. Réaliser un croquis rapide de la salle de classe.
 
 ??? bug "Critères de réussite"
@@ -36,7 +36,7 @@ personnels des enseignants et des élèves.
 - Prévoir un coin de repli pour l’élève qui ressent le besoin de s’extraire temporairement du groupe. Les élèves qui y sont sensibles à la sur-stimulation sensorielle pourront disposer d’un bureau en accès libre face à un mur vierge, par exemple.
 
 **Document 3 : Des normes dans la construction des bâtiments publiques**  
-Pour la sécurité des usagers, une salle de classe et plus particulièrement une salle de sciences , doit respecter quelques normes.
+Pour la sécurité des usagers, une salle de classe et plus particulièrement une salle de sciences, doit respecter quelques normes.
 
 - Il doit y avoir deux sorties d'urgence clairement indiquées dans la salle de classe. Ces sorties doivent être facilement accessibles et dégagées en tout temps.
 - Un extincteur doit être présent en permanence et facilement accessible.

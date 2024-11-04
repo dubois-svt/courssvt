@@ -16,7 +16,7 @@
 
 **Document 1 Les principaux composants des aliments**
 
-Les étiquettes des produits alimentaires donnent la composition des aliments. Il existe 7 grandes familles de constituants alimentaires:
+Les étiquettes des produits alimentaires donnent la composition des aliments. Il existe 7 grandes familles de constituants alimentaires :
 
 ![](pictures/compoAlim.png)
 

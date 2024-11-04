@@ -38,7 +38,7 @@ Les séismes ou tremblements de terre sont des vibrations soudaines et fréquent
 
 Lorsque l’on décrit un séisme, on parle soit de magnitude, soit d’intensité.
 
-• La magnitude  est donnée par l’échelle de Richter. 
+• La magnitude est donnée par l’échelle de Richter. 
 C'est une mesure de la “force”, de l’énergie libérée lors d’un séisme. Elle va de 1 à 9.
 • L’intensité sismique est une estimation des effets en surface du séisme. Elle est basée sur les dégâts observés. Elle va de I à XII.
 
@@ -57,9 +57,9 @@ Sur le croquis ci-dessous, on voit qu’un séisme de forte magnitude (à gauche
 <div markdown style="display:flex; flex-direction:row;">
 
 
-![séisme du 21/09/1999 à Taïwan (Magnitude : 7,7)](pictures/photoSeismeTaiwan.png){:style="width:400px; flex-shrink: 0;  " }
+![séisme du 21/09/1999 à Taïwan (Magnitude : 7,7)](pictures/photoSeismeTaiwan.png){:style="width:400px; flex-shrink: 0; "}
 
-![séisme de 1992 en Californie (USA) (Magnitude : 7,3)](pictures/photoSeismeCalifornie.png){:style="width:400px; flex-shrink: 0;  " }
+![séisme de 1992 en Californie (USA) (Magnitude : 7,3)](pictures/photoSeismeCalifornie.png){:style="width:400px; flex-shrink: 0; "}
 
 </div>
 

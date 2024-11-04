@@ -20,7 +20,7 @@ Pour s'entrainer un site à construire des circuits électriques :
 <div markdown class="flashcard">
 
 1. 
-    - A quelle composant correspond cette image ? ![](Pictures/schemaAmpoule.png)
+    - À quel composant correspond cette image ? ![](Pictures/schemaAmpoule.png)
     - Une ampoule
 2. 
     - Dans un circuit quel élément reçoit de l'énergie ?

@@ -17,7 +17,7 @@
 
 
 
-**Document 1 Histoire des sciences sur la compéhension de la lumière.**
+**Document 1 Histoire des sciences sur la compréhension de la lumière.**
 
 ![](pictures/histoireLumiere.png)
 

@@ -27,7 +27,7 @@
 
 **Document 2 : Le moteur des éruptions volcaniques.**
 
-Le magma provient de la fusion d’une roche entre 50 et 150 km de profondeur. Le magma est un mélange de liquide et de gaz provenant de la fusion des roches. Le magma s’accumule dans le réservoir magmatique où Il va se refroidir très lentement, pendant plusieurs siècles.
+Le magma provient de la fusion d’une roche entre 50 et 150 km de profondeur. Le magma est un mélange de liquide et de gaz provenant de la fusion des roches. Le magma s’accumule dans le réservoir magmatique où il va se refroidir très lentement, pendant plusieurs siècles.
 En se refroidissant, une partie du magma se solidifie, ce qui enrichit la partie liquide restante en gaz : les gaz mettent le magma sous pression, des bulles de gaz se forment, le volume du magma augmente et il pousse fortement sur les roches qui l’environnent. Ces roches finissent par se briser, et le magma s’insinue dans les fissures ainsi créées, il se dirige vers la surface. C’est la présence de ces gaz qui va causer son ascension finale vers la surface.
 
 
@@ -45,8 +45,8 @@ Le modèle réduit la complexité du réel, afin de le comprendre ou le faire co
 
 Pour réaliser un modèle de volcan, on peut utiliser :
 
-- un tube en U (attention le tube est en verre et donc très fragile),
-- 5g de purée, la quantité d’eau utilisée pour faire la purée fera varier la viscosité de celle-ci, avec 40 ml d’eau la purée sera peu visqueuse alors qu’avec 20 ml d’eau la purée sera très visqueuse.
+- Un tube en U (attention le tube est en verre et donc très fragile),
+- 5 g de purée, la quantité d’eau utilisée pour faire la purée fera varier la viscosité de celle-ci, avec 40 ml d’eau la purée sera peu visqueuse alors qu’avec 20 ml d’eau la purée sera très visqueuse.
 - Un demi cachet effervescent et de l’eau, le cachet en se dissolvant dans l’eau va libérer du gaz.
 - Une cuvette en plastique au-dessus de laquelle, les expériences seront faites pour éviter de salir la paillasse.
 
@@ -77,9 +77,9 @@ Protocole :
 
 **Document 5 : Présentation du modèle.**
 
-| Élément du modèle  |  Élément·s dans la réalité |
+| Élément du modèle | Élément·s dans la réalité |
 |--|--|
 | Tube en U | |
-| Purée |   |
-| Cachet effervescent et eau  |   |
+| Purée | |
+| Cachet effervescent et eau | |
 

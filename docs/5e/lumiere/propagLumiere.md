@@ -14,7 +14,7 @@ Le 26 décembre 2019 en Asie s’est produit un phénomène rare que l’on appe
 ![](pictures/eclipseAlHufuf.png)
 
 !!! question "Problématique"
-    Comment peut-on en obtenir une telle photographie  ?
+    Comment peut-on en obtenir une telle photographie ?
 
 
 ## Partie 1 : Chemin suivi par la lumière
@@ -58,7 +58,7 @@ Le 26 décembre 2019 en Asie s’est produit un phénomène rare que l’on appe
 
 Un rayon lumineux est la modélisation (représentation) du trajet de la lumière lors de sa propagation. 
 On le représente par une droite, et on précise le sens de propagation par une flèche.
-La quasi-totalité des sources de lumière n’ont pas qu’un seul rayon mais une multitude de rayons lumineux. C’est ce qu’on appelle un faisceau de lumière. 
+La quasi-totalité des sources de lumière n’ont pas qu’un seul rayon, mais une multitude de rayons lumineux. C’est ce qu’on appelle un faisceau de lumière. 
 </div>
 <div markdown style="display:flex; flex: 1 1 0; flex-direction:row;">
 
@@ -80,13 +80,13 @@ Dans cette situation, représenter un des rayons lumineux permettant à l'œil d
 
 ![Situation 2](pictures/situation2.png)
 
-**Document 4 Rayons lumineux et objts diffusants**
+**Document 4 Rayons lumineux et objets diffusants**
 
 <div markdown style="display:flex; flex-direction:row;">
 <div markdown style="display:flex; flex: 2 1 0; flex-direction:row;">
 
 Les objets diffusants reçoivent la lumière d’une source et nous renvoient une partie des rayons lumineux qu’ils ont reçus. 
-Dans cette situation, la source primaire envoie des rayons à la fois à l'œil (qui nous permet de le voir) et à la fleur. Celle-ci va ensuite diffuser une partie des rayons qu’elle aura reçue et notre œil pourra les capter. 
+Dans cette situation, la source primaire envoie des rayons à la fois à l'œil (qui nous permet de le voir) et à la fleur. Celle-ci va ensuite diffuser une partie des rayons que la fleur aura reçus et notre œil pourra les capter. 
 
 </div>
 <div markdown style="display:flex; flex: 1 1 0; flex-direction:row;">
@@ -109,7 +109,7 @@ Dans cette situation, tracer un rayon de lumière modélisant la propagation de 
 
 
 !!! warning "Consignes"
-    1. Compléter le schéma en traçant deux rayons de lumineux émis par le Soleil. L’un issu de S1 et passant par N; et L’autre issu de S2 et passant par S. 
+    1. Compléter le schéma en traçant deux rayons de lumineux émis par le Soleil. Un rayon issu de S1 et passant par N ; et un autre issu de S2 et passant par S. 
     2. Quelle est la source lumineuse ?
     3. Fait-il jour ou nuit aux points A, B et C ? Justifier. 
     4. En s’inspirant du schéma de l'éclipse de Lune, réaliser un schéma permettant d’expliquer la situation décrite en introduction de l’activité (cercle de feu à Al-Hufuf).
@@ -125,18 +125,18 @@ Dans cette situation, tracer un rayon de lumière modélisant la propagation de 
 <div markdown style="display:flex; flex: 2 1 0; flex-direction:row;">
 
 La lumière ne se propage que dans les milieux transparents. Autrement dit, la lumière ne traverse pas les objets opaques. 
-Ici, la lumière traverse le verre de la fenêtre mais ne traverse pas les murs. On observe alors des zones d’ombre.
+Ici, la lumière traverse le verre de la fenêtre, mais ne traverse pas les murs. On observe alors des zones d’ombre.
 
 </div>
 </div>
 
 
-**Document 2  Ombre et dessin**
+**Document 2 Ombre et dessin**
 
 <div markdown style="display:flex; flex-direction:row;">
 <div markdown style="display:flex; flex: 2 1 0; flex-direction:row;">
 
-Pour connaître la position de l’ombre du cube par rapport à la source de lumière, on trace les rayons lumineux partant de la source jusqu’aux extrémités (sommets) du cube jusque sur le sol puis on les relie  à la base du cube. 
+Pour connaître la position de l’ombre du cube par rapport à la source de lumière, on trace les rayons lumineux partant de la source jusqu’aux extrémités (sommets) du cube jusque sur le sol puis on les relie à la base du cube. 
 
 </div>
 <div markdown style="display:flex; flex: 1 1 0; flex-direction:row;">
@@ -152,7 +152,7 @@ Pour connaître la position de l’ombre du cube par rapport à la source de lum
 <div markdown style="display:flex; flex-direction:row;">
 <div markdown style="display:flex; flex: 2 1 0; flex-direction:row;">
 
-En sciences, on peut utiliser les ombres pour obtenir des informations que l'on ne voit pas directement (position de la source de lumière, présence d’un objet, etc.) C’est le cas de cette photographie de Jupiter. On observe trois ombres mais seulement deux objets (satellites naturels de Jupiter).
+En sciences, on peut utiliser les ombres pour obtenir des informations que l'on ne voit pas directement (position de la source de lumière, présence d’un objet, etc.) C’est le cas de cette photographie de Jupiter. On observe trois ombres, mais seulement deux objets (satellites naturels de Jupiter).
 
 
 </div>
@@ -163,7 +163,7 @@ En sciences, on peut utiliser les ombres pour obtenir des informations que l'on 
 </div>
 </div>
 
-**Document 4 Représentation eclipse de Lune**
+**Document 4 Représentation d'une éclipse de Lune**
 
 Lors d’une éclipse de Lune, cette dernière passe dans une zone que la lumière du Soleil ne peut pas atteindre, la Terre faisant obstacle.
 

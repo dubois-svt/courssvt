@@ -1,4 +1,4 @@
-# Activité PC1.1 : Modélisation d'une lampe de poche
+# Activité : Modélisation d'une lampe de poche
 
 
 !!! note "Compétences"
@@ -29,8 +29,7 @@
 
 **Document n°1 Vue en coupe d’une lampe de poche**
 
-  ![](Pictures/dessinLampe.png)
-  {: style="width:300px" }
+  ![](Pictures/dessinLampe.png){: style="width:300px" }
 
 
 
@@ -65,7 +64,7 @@ di… = deux
 
 **Document 5 Méthode de schématisation électrique**  
 1. Représenter un grand rectangle (il symbolise le circuit, les traits symbolisent les fils)  
-2. Gommer, sur les traits du rectangles, l’emplacement des dipôles  
+2. Gommer, sur les traits du rectangle, l’emplacement des dipôles  
 3. Ajouter dans les espaces gommés, le symbole des dipôles du circuit en respectant l’ordre
 
 **Attention !**

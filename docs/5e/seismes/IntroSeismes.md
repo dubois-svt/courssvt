@@ -10,7 +10,7 @@ Le danger du séisme vient essentiellement des effondrements des bâtiments ne r
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vL1nw8buVoU?si=dLN69eeGJ2j9pwam" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 !!! question "Problématique"
-    A quoi sont dus les séismes ? 
+    À quoi sont dus les séismes ? 
     Comment s’en protéger ?
 
     

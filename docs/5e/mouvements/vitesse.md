@@ -102,11 +102,11 @@ Comme pour les radars classiques, les radars tronçon bénéficient d’une marg
 **Document 6 Barème et sanctions en cas d’excès de vitesse (en km/h)**
 
 
-| v	< 20 |  20 ≤ v < 30 | 30 ≤ v < 40 |  40 ≤ v < 50 |  v ≤ 50 |
+| v	< 20 | 20 ≤ v < 30 | 30 ≤ v < 40 | 40 ≤ v < 50 | v ≤ 50 |
 |-----------|---------------|---------------------------------|---------------------------------|---------------------------------|
-|  135 €  |  135 € |  135 €  |  135 €  |  1 500 €     |
-|  1 point |  2 points   |  3 points    |  4 points    |  6 points    |
-|    |   |  Suspension de 3 ans du permis |  Suspension de 3 ans du permis |  Suspension de 3 ans du permis |
-|    |   |    |    |  confiscation du véhicule |
+| 135 € | 135 € | 135 € | 135 € | 1 500 € |
+| 1 point | 2 points | 3 points | 4 points | 6 points |
+| | | Suspension de 3 ans du permis | Suspension de 3 ans du permis | Suspension de 3 ans du permis |
+| | | | | confiscation du véhicule |
 
 
