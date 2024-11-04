@@ -32,17 +32,17 @@ Aire 10 : Aire préfrontale
 Aires 17, 18 et 19 : Aires visuelles
 
 
-**Document 2 : Activité du cerveau lorsqu'Antoine Griezmann frappe dans la balle.**
+**Document 2 : Activité du cerveau lorsque Antoine Griezmann frappe dans la balle.**
 
 ![](Pictures/cerveauFrappe.png)
 
 
-**Document 3 : Activité du cerveau lorsqu'Antoine Griezmann voit le ballon.**
+**Document 3 : Activité du cerveau lorsque Antoine Griezmann voit le ballon.**
 
 ![](Pictures/cerveauVoir.png)
 
 
-**Document 4 : Activité du cerveau lorsqu'Antoine Griezmann pense au mouvement qu'il va réaliser pour frapper la balle.**
+**Document 4 : Activité du cerveau lorsque Antoine Griezmann pense au mouvement qu'il va réaliser pour frapper la balle.**
 
 ![](Pictures/cerveauPense.png)
 
@@ -51,7 +51,7 @@ Aires 17, 18 et 19 : Aires visuelles
 
 
 
-???note-prof "Correction"
+??? note-prof "Correction"
 
     ![](Pictures/100000010000030C000002814267D334E29BB2BB.png){width="18.461cm"
     height="15.171cm"}

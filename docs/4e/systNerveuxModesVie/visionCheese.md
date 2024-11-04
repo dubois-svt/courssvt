@@ -1,6 +1,6 @@
 # Activité : Chez Miss Cheese à l'heure du thé
 
-Miss Cheese, gauchère, a été victime d'un accident vasculaire cérébral (AVC). Depuis son accident, à chaque tea time il se passe la même chose : le thé qu'elle est en train de servir se répand sur le napperon brodé. Dans son entourage, d'aucuns supposent que Miss Cheese a un problème de motricité consécutif à l'AVC. D'autres pensent que le problème de Miss Cheese est dû à l'absence de perception visuelle du remplissage (mouvement) de la tasse lorsqu'elle verse le thé, en relation avec son AVC.
+Miss Cheese, gauchère, a été victime d'un accident vasculaire cérébral (AVC). Depuis son accident, à chaque tea time, il se passe la même chose : le thé qu'elle est en train de servir se répand sur le napperon brodé. Dans son entourage, d'aucuns supposent que Miss Cheese a un problème de motricité consécutif à l'AVC. D'autres pensent que le problème de Miss Cheese est dû à l'absence de perception visuelle du remplissage (mouvement) de la tasse lorsqu'elle verse le thé, en relation avec son AVC.
 
 **Problématique : On veut déterminer, par une étude d'images d'IRM, si la maladresse de Miss Cheese est due à une atteinte d'une aire motrice ou d'une aire visuelle.**
 
@@ -12,14 +12,14 @@ Miss Cheese, gauchère, a été victime d'un accident vasculaire cérébral (AVC
 !!! warning "Consignes"
 
     1. Ouvrir, le fichier de l'IRM de Miss Cheese à droite et l'IRM de l'individu sain à gauche. Repérer quelle zone du cerveau a été touchée (gauche/droite, avant/arrière, haut/bas) justifier votre réponse. (1 point)
-    2. Ajouter les différents fichiers IRMf sur l'IRM de l'individu sain en pensant à bien régler le seuil(document 3). Indiquer pour chaque fonction quelle zone du cerveau est activée. (1,5 points)
+    2. Ajouter les différents fichiers IRMf sur l'IRM de l'individu sain en pensant à bien régler le seuil (document 3). Indiquer pour chaque fonction quelle zone du cerveau est activée. (1,5 points)
     3. Répondre à la problématique en expliquant votre raisonnement. (2,5 points)
 
     
 ??? bug "Critères de réussite"
     - 
 
-**Document 1 Les accidents vasculaires cérébraux ( AVC).**
+**Document 1 Les accidents vasculaires cérébraux (AVC).**
 
 Un AVC est lié à une perturbation de l'irrigation de certaines cellules du cerveau ce qui conduit à un déficit neurologique localisé. Les cellules nerveuses de la zone sont endommagées et périssent. Les fonctions corporelles liées aux zones dont les cellules sont endommagées sont perturbées après une attaque cérébrale et la sévérité des séquelles dépendent de l'étendue et de la situation de la région touchée.
 

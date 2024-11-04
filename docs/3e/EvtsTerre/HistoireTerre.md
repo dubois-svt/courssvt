@@ -21,7 +21,7 @@
 **Document 1 La formation de la Terre**  
 
 
-La Terre s’est formée il y a 4,6 Ga (milliards d’années). Elle s’est  formée en même temps que le reste du système solaire, c’est-à-dire le Soleil et les autres planètes.
+La Terre s’est formée il y a 4,6 Ga (milliards d’années). Elle s’est formée en même temps que le reste du système solaire, c’est-à-dire le Soleil et les autres planètes.
 </div>
 ![Formation du système solaire](Pictures/FormationSystSolaire.png){: style="width:300px; float:right" }
 </div>
@@ -41,10 +41,7 @@ Les premières cellules s’apparentent à des cyanobactéries, organismes unice
 
 
 **Document 3 Sortie des eaux**  
-Les océans se sont formés il y a 4,4 Ga. Pendant la majorité de
-l’histoire de notre planète, les êtres vivants étaient uniquement
-aquatiques. Mais, les premiers êtres vivants, des végétaux, à
-sortir de l’eau datent de 470 Ma.
+Les océans se sont formés il y a 4,4 Ga. Pendant la majorité de l’histoire de notre planète, les êtres vivants étaient uniquement aquatiques. Mais, les premiers êtres vivants, des végétaux, à sortir de l’eau datent de 470 Ma.
 
 
 <div markdown style="display: flex; flex-direction:row" > 
@@ -69,11 +66,8 @@ Toumaï : son surnom est bien trouvé, car il veut dire « Espoir de vie » d
 
 
 **Document 5 Apparition et disparition des dinosaures**  
-Le groupe des dinosaures est apparu il y a environ 250 Ma et ce groupe
-(à l’exception des oiseaux) a disparu il y a 65Ma. Actuellement, les
-deux causes envisagées à cette extinction sont un impact météoritique et une activité volcanique très importante.
+
+Le groupe des dinosaures est apparu il y a environ 250 Ma et ce groupe (à l’exception des oiseaux) a disparu il y a 65 Ma. Actuellement, les deux causes envisagées à cette extinction sont un impact météoritique et une activité volcanique très importante.
 
 
 
-
-65 Ma

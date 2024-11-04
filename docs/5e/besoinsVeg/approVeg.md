@@ -9,13 +9,13 @@
     Expliquer, sous la forme de votre choix, comment sont approvisionnés les organes des végétaux.
 
 ??? bug "Critères de réussite"
-    - identifier les gaz échangés par les feuilles à la lumières
+    - identifier les gaz échangés par les feuilles à la lumière
     - identifier les gaz échangés par les feuilles à l'obscurité
     - identifier les gaz échangés par les autres organes
     - indiquer la caractéristique du dioxygène
     - que fabrique une plante à la lumière 
     - Indiquer comment sont absorbés les gaz
-    - Indiquer comment sont absorbés l'eau
+    - Indiquer comment est absorbée l'eau
 
 
 

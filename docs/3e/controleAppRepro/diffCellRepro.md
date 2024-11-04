@@ -22,7 +22,7 @@
 
 ![](Pictures/testiculesLegendes.png){: style="width: 200px;"}
 
-**Document 2  Photo de spermatozoïdes de taureau MO x600.**
+**Document 2 Photo de spermatozoïdes de taureau MO x600.**
 
 ![](Pictures/spermatozoides.png){: style="width: 200px;"}
 

@@ -11,7 +11,6 @@
 
     2. Expliquer comment notre corps lutte contre les micro-organismes au début de l’infection.
 
-     
     3. Calculer et comparer les tailles d’un phagocyte et d’une bactérie.
     
 ??? bug "Critères de réussite"

@@ -30,7 +30,7 @@
 
 
 
-**Document 1 Etude de la variation de la fréquence cardiaque**
+**Document 1 Étude de la variation de la fréquence cardiaque**
 <div markdown style="display: flex; flex-direction: row">
 
 <div markdown style="display: flex; flex: 2 1 0; flex-direction: column">
@@ -38,12 +38,12 @@ La fréquence cardiaque est le nombre de battements du cœur par minute.
 Il est possible d’estimer sa fréquence cardiaque en comptant le nombre de battements que fait son cœur en une minute. Pour cela il faut : savoir prendre son pouls et utiliser un chronomètre.
 Avant de faire l’expérience, il faut bien vous entraîner à prendre le pouls rapidement pour que cela puisse être représentatif.
 
-Protocole expérimental pour l'étude de l'impact de l'activité physique sur la fréquence cardiaque:
+Protocole expérimental pour l'étude de l'impact de l'activité physique sur la fréquence cardiaque :
 
 - Prendre le pouls au niveau du poignet ou du cou : compter le nombre de battements de cœur pendant 20 secondes précisément
-- Faire 15 flexions-extensions des jambes en 30 secondes (= une flexion en 2sec).
+- Faire 15 flexions-extensions des jambes en 30 secondes (= une flexion en 2 sec).
 - Dès la fin des flexions, reprendre le pouls pendant 20 secondes
-- Attendre 2minutes et prendre de nouveau le pouls pendant 20 secondes.
+- Attendre 2 minutes et prendre de nouveau le pouls pendant 20 secondes.
 
 </div>
 <div markdown style="display: flex; flex: 1 1 0; flex-direction: column">
@@ -54,18 +54,18 @@ Protocole expérimental pour l'étude de l'impact de l'activité physique sur la
 
 | | Élève 1 | Élève 2 |
 |--|--|--|
-| Nombre de battements au repos en 20 secondes |   |    |
-| Fréquence cardiaque au repos |   |    |
-| Nombre de battements en 20sec en fin d’activité physique |   |    |
-| Fréquence cardiaque en fin d’activité physique |   |    |
-| Nombre de battements en 20 sec après 2 minutes de repos |   |    |
-| Fréquence cardiaque après 2 minutes de repos |   |    |
+| Nombre de battements au repos en 20 secondes | | |
+| Fréquence cardiaque au repos | | |
+| Nombre de battements en 20 sec en fin d’activité physique | | |
+| Fréquence cardiaque en fin d’activité physique | | |
+| Nombre de battements en 20 sec après 2 minutes de repos | | |
+| Fréquence cardiaque après 2 minutes de repos | | |
 
 
 **Document 3 Étude de la variation de la fréquence respiratoire**
 
 La fréquence respiratoire est le nombre de mouvements respiratoires par minute.
-Un mouvement respiratoire est constitué par une inspiration (air entrant) suivie d’une expiration  (air sortant)
+Un mouvement respiratoire est constitué par une inspiration (air entrant) suivie d’une expiration (air sortant).
 <div markdown style="display: flex; flex-direction: row">
 
 <div markdown style="display: flex; flex: 2 1 0; flex-direction: column">

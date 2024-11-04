@@ -1,25 +1,21 @@
 # Activité : Acteurs de la défense 
 
 
-!!! note “Compétences”
+!!! note "Compétences"
 
     - Interpréter 
     - Utiliser des outils d'observation
 
-!!! warning “Consignes”
+!!! warning "Consignes"
 
-    1. À partir des documents, proposer une hypothèse répondant au
-    problème. Rédiger une réponse argumentée à partir des informations
-    disponibles dans les documents.
+    1. À partir des documents, proposer une hypothèse répondant au problème. Rédiger une réponse argumentée à partir des informations disponibles dans les documents.
 
-    2. Faire un dessin d’un frottis sanguin observé au microscope.
-    Choisir une zone montrant les différentes cellules sanguines.
+    2. Faire un dessin d’un frottis sanguin observé au microscope. Choisir une zone montrant les différentes cellules sanguines.
 
-    3. Indiquer la différence observable grâce à la coloration
-    entre les leucocytes et les hématies. 
+    3. Indiquer la différence observable grâce à la coloration entre les leucocytes et les hématies. 
 
     
-??? bug “Critères de réussite”
+??? bug "Critères de réussite"
     - 
 
 
@@ -42,7 +38,7 @@ Le colorant violet colore le noyau.
 </div>
 </div>
 
-**Document 2 : Analyse sanguine.**
+**Document 2 Analyse sanguine.**
 
 On a fait des prises de sang à des personnes saines et des personnes
 malades pour doser leurs cellules sanguines.

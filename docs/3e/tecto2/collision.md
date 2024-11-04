@@ -34,7 +34,7 @@ Protocole :
 <div markdown style="display:flex; flex-direction;column; flex: 2 1 0;">
 
 1. Insérer la feuille avec l’Inde dans la fente de la feuille avec l’Asie et aligner cette feuille sur la flèche
-2. Avancer la feuille jusqu’à la date de 75Ma.
+2. Avancer la feuille jusqu’à la date de 75 Ma.
 3. Déposer les feuilles dans la cuvette en plastique.
 
 4.  Déposer du sable sur le continent Indien et le continent asiatique (laisser une marge de 1 mm).

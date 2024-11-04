@@ -115,7 +115,7 @@ Différence météo et climat
 
 ## Séance 3 : Le changement climatique actuel
 
-Le phénomène actuel est un consensus scientifique. Les scientifiques ont tous montrés que ce réchauffement existait depuis des dizaines d'années. Pourtant, certains doutaient encor, ill y a quelques années.
+Le phénomène actuel est un consensus scientifique. Les scientifiques ont tous montrés que ce réchauffement existait depuis des dizaines d'années. Pourtant, certains doutaient encor, il y a quelques années.
 
 
 ![© NAWAK - Licence : Tous droits réservés](Pictures/caricatureTrumClimat.png)

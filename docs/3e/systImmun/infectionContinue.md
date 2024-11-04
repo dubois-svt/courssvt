@@ -47,7 +47,7 @@ Lymphocytes T activateurs : activés par les cellules sentinelles, ils activent
 
 </div>
 
-**Document 3 Evolution du nombre de lymphocytes T et B dans un ganglion suite à une infection.**
+**Document 3 Évolution du nombre de lymphocytes T et B dans un ganglion suite à une infection.**
 
 ![](Pictures/graphNbLymphocyte.png)
 
@@ -81,7 +81,7 @@ Les cellules infectées par un virus possèdent à leur surface des antigènes d
 </div>
 </div>
 
-Tout micro-organisme possède à sa surface des éléments qui lui sont propres (les antigènes). Les lymphocytes possèdent naturellement à leur surface des récepteurs qui s’adaptent à la structure de tout type d’antigènes, ce qui leur permet de reconnaître ou non l’antigène (mécanisme clé – serrure). À chaque antigène correspond un récepteur d’un lymphocyte (un lymphocyte ne reconnaît qu’un seul type d’ antigène) : c’est une réaction spécifique.
+Tout micro-organisme possède à sa surface des éléments qui lui sont propres (les antigènes). Les lymphocytes possèdent naturellement à leur surface des récepteurs qui s’adaptent à la structure de tout type d’antigènes, ce qui leur permet de reconnaître ou non l’antigène (mécanisme clé – serrure). À chaque antigène correspond un récepteur d’un lymphocyte (un lymphocyte ne reconnaît qu’un seul type d’antigène) : c’est une réaction spécifique.
 
 ??? note-prof "Correction"
 

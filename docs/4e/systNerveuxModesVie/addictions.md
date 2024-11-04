@@ -10,7 +10,7 @@
 
 ??? bug "Critères de réussite"
 
-**Document 1 L'expérience d'Olds et Mlner.**
+**Document 1 L'expérience d'Olds et Milner.**
 
 <div markdown style="display:flex; flex-direction: row;">
 <div markdown style="display:flex; flex: 1 1 0; flex-direction: column;">

@@ -7,7 +7,7 @@
 
 !!! warning "Consignes"
 
-    1. Expliquer **les risques liés à une exposition importante au bruit**. 
+    1. Expliquer les risques liés à une exposition importante au bruit. 
     2. Expliquer les conseils donnés par la campagne de sensibilisation du document 4.
 
 ??? bug "Critères de réussite"
@@ -44,7 +44,7 @@ Le son correspond à des vibrations de l'air, conduites jusqu'au tympan qui entr
 
 Pour préserver au mieux les capacités d'audition, l'OMS préconise de ne pas dépasser un niveau d'écoute de 75 dB sur 8 heures.
 
-Une différence de +10 dB correspond à un niveau sonore 1à fois plus fort.
+Une différence de +10 dB correspond à un niveau sonore 10 fois plus fort.
 
 </div>
 </div>

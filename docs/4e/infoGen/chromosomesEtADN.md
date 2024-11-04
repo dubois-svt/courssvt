@@ -22,7 +22,7 @@
 ![](pictures/chromosomeDecondense.png)
 
 Une technique particulière permet de décondenser (=dérouler) un long filament d’ADN, ce filament est le constituant d’un chromosome. 
-Le diamètre du filament d’ADN  2 nm. (nanomètre ou milliardième de mètre).
+Le diamètre du filament d’ADN 2 nm. (nanomètre ou milliardième de mètre).
 
 
 
@@ -32,7 +32,7 @@ Une molécule d’ADN se présente sous la forme d’un long filament capable de
 
 ![](pictures/modeleAdnChromosome.png)
 
-A gauche on voit de l'ADN décondensé et à droite de l'ADN condensé.
+À gauche, on voit de l'ADN décondensé et à droite de l'ADN condensé.
 
 
 ![Chironome](pictures/chromosomeChironome.png)

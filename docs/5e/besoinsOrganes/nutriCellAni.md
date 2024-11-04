@@ -23,10 +23,10 @@ Les échanges entre le sang et les cellules sont possibles, car les capillaires 
 
 | Molécules mesurées dans le sang d’un capillaire | Sang entrant dans le tissu (pour 1 L de sang) | Sang sortant dans le tissu (pour 1 L de sang) |
 | --|--|---|
-| Dioxygène (mL)  | 200 | 150  |
+| Dioxygène (mL) | 200 | 150 |
 | Dioxyde de carbone (mL) | 490 | 560 |
-|Glucose (g)  |  900 | 800 |
-| Urée (g) | 0  | 4,5 |
+|Glucose (g) | 900 | 800 |
+| Urée (g) | 0 | 4,5 |
 
 
 **Document 2 Le devenir des nutriments absorbés par les cellules**
@@ -45,6 +45,6 @@ Ces résultats montrent par exemple que la cellule transforme le dioxygène en e
 
 | Atome marqué | Molécules marquées obtenues après quelques minutes | Molécules marquées obtenues après 1h | 
 | --|--|---|
-| Carbone du glucose  | Dioxyde de carbone | Dioxyde de carbone | 
+| Carbone du glucose | Dioxyde de carbone | Dioxyde de carbone | 
 | Azote de protides | Protéines de la cellule | Urée et protéine de la cellule | 
 | Oxygène du dioxygène | Eau | Eau | 

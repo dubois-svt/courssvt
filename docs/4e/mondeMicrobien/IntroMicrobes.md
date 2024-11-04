@@ -12,7 +12,7 @@ Le combiné contiendrait cinq cents fois plus de bactéries qu’un siège de to
 Par Laura Thouny, L’express, publié le 16/07/2010 
 
 !!! question "Problématique"
-    Quel est l'impact des micro-organismes sur notre vie?
+    Quel est l'impact des micro-organismes sur notre vie ?
     
 
 
@@ -42,7 +42,7 @@ Par Laura Thouny, L’express, publié le 16/07/2010
 
 
 
-## Séance 2 : Le  microbiote.
+## Séance 2 Le microbiote.
 
 !!! question "Problématique"
     Quel est l’impact du microbiote sur notre santé ?

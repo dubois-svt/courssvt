@@ -32,7 +32,7 @@
 
 <div markdown style="display: flex; flex: 1 1 0; flex-direction:column;">
 
-L’air est un mélange de plusieurs gaz que l’on peut détecter avec différents appareils de mesure. Dans l’eau, ces gaz existent à l’état dissous mais en quantité beaucoup plus faible.
+L’air est un mélange de plusieurs gaz que l’on peut détecter avec différents appareils de mesure. Dans l’eau, ces gaz existent à l’état dissous, mais en quantité beaucoup plus faible.
 
 </div>
 
@@ -63,7 +63,7 @@ Lors de l’inspiration, le diaphragme, situé sous les poumons, se contracte. L
 
 **Document 4 Le détail des alvéoles à l’intérieur des poumons**
 
-Chaque bronchiole débouche sur de minuscules alvéoles dont la fine paroi contient des vaisseaux sanguins. Cette paroi est 300 fois plus fine qu’un cheveu et réalise avec les vaisseaux sanguins une surface de 75 m2, ce qui est plus grand qu’une salle de classe. La surface de la peau chez un humain est de 2m<sup>2</sup>
+Chaque bronchiole débouche sur de minuscules alvéoles dont la fine paroi contient des vaisseaux sanguins. Cette paroi est 300 fois plus fine qu’un cheveu et réalise avec les vaisseaux sanguins une surface de 75 m², ce qui est plus grand qu’une salle de classe. La surface de la peau chez un humain est de 2 m².
 
 ![](pictures/alveolesPulmonaires.png){: style="width: 300px;"}
 
@@ -86,7 +86,7 @@ Chaque bronchiole débouche sur de minuscules alvéoles dont la fine paroi con
 
 <div markdown style="display: flex; flex: 1 1 0; flex-direction:column;">
 
-L’air est un mélange de plusieurs gaz que l’on peut détecter avec différents appareils de mesure. Dans l’eau, ces gaz existent à l’état dissous mais en quantité beaucoup plus faible.
+L’air est un mélange de plusieurs gaz que l’on peut détecter avec différents appareils de mesure. Dans l’eau, ces gaz existent à l’état dissous, mais en quantité beaucoup plus faible.
 
 </div>
 
@@ -113,7 +113,7 @@ On mesure, à l’aide d’un oxymètre, la quantité de dioxygène dissous dan
 ![](pictures/echangesCO2Criquet.png)
 
 L’eau de chaux, un liquide incolore, se trouble et devient blanchâtre en présence de dioxyde de carbone.
-L’eau de chaux dans les deux enceintes est incolore au début de l’expérience et la photo ci-contre représente les résultats au bout de 30 minutes
+L’eau de chaux dans les deux enceintes est incolore au début de l’expérience et la photo ci-contre représente les résultats au bout de 30 minutes.
 
 
 
@@ -146,7 +146,7 @@ Le réseau de trachée peut représenter un volume d’air égale à la moitié 
 
 <div markdown style="display: flex; flex: 1 1 0; flex-direction:column;">
 
-L’air est un mélange de plusieurs gaz que l’on peut détecter avec différents appareils de mesure. Dans l’eau, ces gaz existent à l’état dissous mais en quantité beaucoup plus faible.
+L’air est un mélange de plusieurs gaz que l’on peut détecter avec différents appareils de mesure. Dans l’eau, ces gaz existent à l’état dissous, mais en quantité beaucoup plus faible.
 
 </div>
 
@@ -177,8 +177,8 @@ Le bleu de méthylène devient incolore lorsque le milieu est dépourvu de dioxy
 
 **Document 4 Une observation de branchies de truite**
 
-La surface des branchies est de 200cm².
-La surface du corps d’une truite est de 200cm².
+La surface des branchies est de 200 cm².
+La surface du corps d’une truite est de 200 cm².
 Chaque filament branchial est couvert de fines lamelles contenant des petits vaisseaux sanguins. Les branchies récupèrent 70 à 90 % d’un gaz dissous dans l’eau. L’eau circule entre les lamelles branchiales.
 
 <div markdown style="display: flex; flex-direction:row;">

@@ -43,7 +43,7 @@
 
 <div markdown style="display:flex; flex-direction:column; flex: 2 1 0;">
 
-La méduse d'ADN obtenue n'est bien sûr pas qu'une seule molécule d'ADN, mais un grand nombre de molécules d'ADN, car au départ on utilise un grand nombre de cellules. De plus, comme il y a plusieurs paires de chromosomes dans le noyau de chaque cellule, il y aura donc plusieurs molécules d'ADN par noyau. D'autre part, des bactéries peuvent aussi être présentes et elles ont aussi leur molécule d’ADN.
+La méduse d'ADN obtenue n'est bien sûr pas qu'une seule molécule d'ADN, mais un grand nombre de molécules d'ADN, car au départ, on utilise un grand nombre de cellules. De plus, comme il y a plusieurs paires de chromosomes dans le noyau de chaque cellule, il y aura donc plusieurs molécules d'ADN par noyau. D'autre part, des bactéries peuvent aussi être présentes et elles ont aussi leur molécule d’ADN.
 
 </div>
 
@@ -62,12 +62,12 @@ La méduse d'ADN obtenue n'est bien sûr pas qu'une seule molécule d'ADN, mais 
 
 **Document 6 Des échelles de tailles.**
 
-À l’œil nu, nous pouvons observer des objets d’une taille minimum de 200µm (= 0,2 mm). Grâce au microscope optique, on peut observer des objets d’une taille minimum de 200 nm (0,2µm = 0,0002 mm).
+À l’œil nu, nous pouvons observer des objets d’une taille minimum de 200 µm (= 0,2 mm). Grâce au microscope optique, on peut observer des objets d’une taille minimum de 200 nm (0,2 µm = 0,0002 mm).
 Le diamètre de l’ADN est de 2 nm (=0,002 µm = 0,000002 mm)
 Pour une cellule humaine, la longueur de l’ADN d’une cellule est d’environ 1m, soit autant que l’ADN d’une cellule de souris, le double de l’ADN du peuplier, mais la moitié de celui du maïs.
 
 
 
-???note-prof "Correction :"
+??? note-prof "Correction :"
 
     Consigne 2 : La méduse que l’on voit est composée de très nombreux morceaux d’ADN, car lors du broyat toutes les molécules d’ADN de toutes les cellules broyées ont été mélangées. De plus, ce ne peut pas être une molécule d’ADN, car la méduse est visible à l’œil ; or la molécule d’ADN a un diamètre de 2nm ce qui est beaucoup trop petit pour être vu à l’œil nu.

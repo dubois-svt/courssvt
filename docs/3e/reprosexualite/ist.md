@@ -40,7 +40,7 @@ Le VIH est le virus responsable du SIDA.
 <div markdown style="display:flex; flex-direction:column;">
 
 ![Photographie au microscope d’un Papillomavirus (HPV)](Pictures/papillomavirus.png)
-Le Papillomavirus est un virus responsable de 99 % des cancers du col de l’utérus chez les femmes, il est aussi resposanble de cancer du pénis et de l'anus chez l'homme. Un vaccin existe contre le HPV. Le préservatif n'est pas complétement efficace contre ce virus car il ne recouvre pas entièrement les parties génitales.
+Le Papillomavirus est un virus responsable de 99 % des cancers du col de l’utérus chez les femmes, il est aussi responsable de cancer du pénis et de l'anus chez l'homme. Un vaccin existe contre le HPV. Le préservatif n'est pas complétement efficace contre ce virus, car il ne recouvre pas entièrement les parties génitales.
   
 </div>
 <div markdown style="display:flex; flex-direction:column;">
@@ -58,7 +58,7 @@ Le SIDA (syndrome de l’immunodéficience acquise) est un ensemble de symptôme
 
 **Document 4 Cancer du col de l’utérus (3000 cas de cancer de l’utérus par an)**
 
-Le cancer du col de l’utérus est le 2e cancer le plus fréquent chez les femmes. Il touche les femmes relativement jeunes. Le cancer du col de l’utérus est la 1re cause de mortalité par cancer chez la femme dans de nombreux pays du tiers monde contre 4 à 6 % des cancers féminins en Amérique du Nord et Europe. L’amélioration des traitements  médicaux anticancéreux a permis une diminution de la mortalité, notamment dans les pays riches.
+Le cancer du col de l’utérus est le 2e cancer le plus fréquent chez les femmes. Il touche les femmes relativement jeunes. Le cancer du col de l’utérus est la 1re cause de mortalité par cancer chez la femme dans de nombreux pays du tiers monde contre 4 à 6 % des cancers féminins en Amérique du Nord et Europe. L’amélioration des traitements médicaux anticancéreux a permis une diminution de la mortalité, notamment dans les pays riches.
 
 
 **Document 5 Chlamydiose (77 000 nouveaux cas par an en France)**
@@ -67,7 +67,7 @@ Cette infection est la plus courante des IST en Europe. Elle touche principaleme
 
 Les symptômes chez les femmes sont :
 
-- de la fièvre et des douleurs au bas-ventre.
+- De la fièvre et des douleurs au bas-ventre.
 - Si la maladie n’est pas traitée, des risques d’infertilité.
 
 Chez les hommes, les symptômes sont :

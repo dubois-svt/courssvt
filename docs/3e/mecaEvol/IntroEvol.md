@@ -16,13 +16,13 @@
 !!! question "Problématique"
     Comment les changements d’une population peuvent-ils conduire à l’apparition d’une nouvelle espèce ?
 
-[Activité Evolution et nouvelles espèces](../speciation)
+[Activité Évolution et nouvelles espèces](../speciation)
 
 
 
 
 ??? abstract "Bilan"
-    L’apparition d’une forme nouvelle d’un caractère au cours de l’évolution peut s’expliquer par une modification au hasard du matériel génétique (génome) comme les mutations.
+    L’apparition d’une nouvelle forme d’un caractère au cours de l’évolution peut s’expliquer par une modification au hasard du matériel génétique (génome) comme les mutations.
     
     Des espèces apparaissent quand 2 populations évoluent séparément et que la reproduction entre elles devient impossible.
 
@@ -38,7 +38,7 @@
 
 
 ??? abstract "Bilan"
-    L’apparition d’une forme nouvelle d’un caractère au cours de l’évolution peut s’expliquer par une modification au hasard du matériel génétique (génome) comme les mutations.
+    L’apparition d’une nouvelle forme d’un caractère au cours de l’évolution peut s’expliquer par une modification au hasard du matériel génétique (génome) comme les mutations.
 
     Sous l’effet de l’environnement qui sélectionne les caractères avantageux. Si la nouvelle caractéristique apporte un avantage de survie ou de reproduction, elle va être transmise plus facilement à la descendance : c’est la sélection naturelle. (= Sélection par l’environnement des individus les mieux adaptés à leur environnement).
 

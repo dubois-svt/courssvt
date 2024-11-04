@@ -130,12 +130,12 @@
 
 
 
-**Document 1 Les utilisation quotidiennes de l'eau d'un burkinabé et d'un français.**
+**Document 1 Les utilisations quotidiennes de l'eau d'un burkinabé et d'un français.**
 
 ![](pictures/graphConsoEau.png){:style="height:250px;"}
 
 
-Pour vivre décemment,l'OMS(Organisation mondiale de la Santé) préconise 50 litres d'eau par jour et par personne. Un confort réel est toutefois atteint à partir de 100 litres par personne et par jour
+Pour vivre décemment, l'OMS (Organisation mondiale de la Santé) préconise 50 litres d'eau par jour et par personne. Un confort réel est toutefois atteint à partir de 100 litres par personne et par jour
 
 
 **Document 2 Carte de la disponibilité des ressources en eau douce dans le monde (en m3 d’eau douce par personne et par an).**
@@ -147,7 +147,7 @@ Pour vivre décemment,l'OMS(Organisation mondiale de la Santé) préconise 50 li
 
 ![](pictures/graphEauTerre.png){:style="height:400px;"}
 
-Pour ses usages, l'être humain n'utilise que les eaux douces issues des eaux de surface et des nappes phréatiques. A l'échelle mondiale, l'obtention d'eau douce à partir du dessalement d'eau de mer reste marginale car les techniques utilisées sont onéreuses et consommatrices de grandes quantités d'énergie.
+Pour ses usages, l'être humain n'utilise que les eaux douces issues des eaux de surface et des nappes phréatiques. A l'échelle mondiale, l'obtention d'eau douce à partir du dessalement d'eau de mer reste marginale, car les techniques utilisées sont onéreuses et consommatrices de grandes quantités d'énergie.
 
 **Document 4 Irrigation**
 

@@ -66,7 +66,7 @@ Suite à une contamination, trois phases se succèdent.
 
 La primo-infection est la période pendant laquelle le virus infecte les lymphocytes T activateurs pour se multiplier. Les symptômes sont limités à ceux d’une maladie bénigne, ce qui les rend impossibles à identifier.
 
-Pendant la deuxième période, la phase asymptomatique, de durée variable, on détecte facilement la séropositivité au VIH, car les anticorps anti-VIH sont fabriqués par l’organisme. En revanche, on n’observe en général aucun symptôme chez le malade. C’est pendant cette période qu’une personne peut se faire dépister. Le dépistage consiste à détecter la présence ou l’absence d’anticorps anti-VIH.
+Durant la deuxième période, la phase asymptomatique, de durée variable, on détecte facilement la séropositivité au VIH, car les anticorps anti-VIH sont fabriqués par l’organisme. En revanche, on n’observe en général aucun symptôme chez le malade. C’est durant cette période qu’une personne peut se faire dépister. Le dépistage consiste à détecter la présence ou l’absence d’anticorps anti-VIH.
 
 La troisième période est celle du SIDA, c’est-à-dire celle de l’immunodéficience. Le corps n’a plus de défense immunitaire. Il y a donc un développement de nombreuses maladies opportunistes qui profitent de l’immunodéficience et qui vont provoquer la mort du malade.
 

@@ -1,4 +1,4 @@
-# Activité : Reservoirs et utilisation de l'eau
+# Activité : Réservoirs et utilisation de l'eau
 
 !!! note "Compétences"
 
@@ -42,11 +42,11 @@ Par exemple dans le document 2, si on veut la quantité d’eau utilisée par la
 
 Le pourcentage correspondant est 10 %.
 
-Le total est de 137L
+Le total est de 137 L
 
-Donc la quantité = 10 * 137 / 100 = 13,7L
+Donc la quantité = 10 * 137 / 100 = 13,7 L
 
-On utilise donc 13,7L par jour pour la vaisselle.
+On utilise donc 13,7 L par jour pour la vaisselle.
 
 
 
@@ -54,7 +54,7 @@ On utilise donc 13,7L par jour pour la vaisselle.
 
 Un robinet avec un économiseur d'eau a un débit de 3L/min 
 
-Le brossage de dents doit durer 2 min, pendant ce brossage on a besoin d'eau pendant au maximum 30 secondes. 
+Le brossage de dents doit durer 2 min, pendant ce brossage, on a besoin d'eau durant au maximum 30 secondes. 
 
 
 **Document 4 l’eau à la surface de la Terre**
@@ -97,7 +97,7 @@ $proportion de filles = \frac{12}{30}$
 
 
 
-La proportion de fille est de $\frac{12}{30}$  On peut exprimer cette proportion en pourcentage. On exprime alors le quotient, en choisissant comme dénominateur 100.
+La proportion de fille est de $\frac{12}{30}$ On peut exprimer cette proportion en pourcentage. On exprime alors le quotient, en choisissant comme dénominateur 100.
 
 $proportion de filles = \frac{12}{30} = \frac{40}{100} = 40%$
 
@@ -112,7 +112,7 @@ $proportion de filles = 12/30 = 0,40 = 40%$
 
 ??? note-prof "correction"
         Consigne 1 : Indiquer dans quels réservoirs l’être humain peut récupérer dont il a besoin. Justifier
-    L’être humain ne peut utiliser que l’eau douce liquide, il ne peut donc utiliser que les certaines eaux souterraines, certaines eaux des lacs et l’eau des rivières.
+    L’être humain ne peut utiliser que l’eau douce liquide, il ne peut donc utiliser que certaines eaux souterraines, certaines eaux des lacs et l’eau des rivières.
 
         Consigne 2 : Calculer le volume d’eau douce disponible pour l’être humain.
         L’eau douce liquide constitue un volume de 10530000 + 91000 + 2120 = 10623120km3

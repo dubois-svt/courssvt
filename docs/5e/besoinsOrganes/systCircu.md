@@ -77,7 +77,7 @@ Il revient au vaisseau dorsal par des perforations au niveau des cœurs.
 <div markdown style="display:flex; flex-direction: row;">
 <div markdown style="display:flex; flex: 2 1 0 ;flex-direction: column;">
 
-Un appareil circulatoire clos est composé d'un coeur, d'artères, de capillaires et de veines. Le liquide circulant est envoyé dans les vaisseaux sanguins. Ce liquide transporte les nutriments, les gaz et les déchets. Chez les vertébrés, le liquide est du sang. 
+Un appareil circulatoire clos est composé d'un cœur, d'artères, de capillaires et de veines. Le liquide circulant est envoyé dans les vaisseaux sanguins. Ce liquide transporte les nutriments, les gaz et les déchets. Chez les vertébrés, le liquide est du sang. 
 </div>
 
 <div markdown style="display:flex; flex: 1 1 0 ;flex-direction: column;">
@@ -93,7 +93,7 @@ Un appareil circulatoire clos est composé d'un coeur, d'artères, de capillair
 <div markdown style="display:flex; flex-direction: row;">
 <div markdown style="display:flex; flex: 2 1 0 ;flex-direction: column;">
 
-Le cœur est une pompe qui expulse le sang des oreillettes vers les ventricules, puis des ventricules vers les artères. En se relâchant, il se remplit de sang provenant des veines. Le sang se contracte environ 70 fois par minute au repos, en une journée, il propulse près de 8000 litres de sang en se contractant plus de 100 000 fois.
+Le cœur est une pompe qui expulse le sang des oreillettes vers les ventricules, puis des ventricules vers les artères. En se relâchant, il se remplit de sang provenant des veines. Le sang se contracte environ 70 fois par minute au repos, en une journée, il propulse près de 8 000 litres de sang en se contractant plus de 100 000 fois.
 
 </div>
 

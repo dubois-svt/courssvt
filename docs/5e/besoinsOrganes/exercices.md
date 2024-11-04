@@ -1,12 +1,12 @@
 # Activité : Exercices sur l'effort physique
 
 
-## Exercice  calculer une fréquence cardiaque à partir d'un électrocardiogramme
+## Exercice calculer une fréquence cardiaque à partir d'un électrocardiogramme
 
 !!! warning "Consignes"
     Calculer les fréquences cardiaques des deux patients.
    
-Le cœur bat périodiquement c’est-à-dire que les battements se répètent dans le temps. On obtient alors une courbe avec des ondulations comme celles des électrocardiogrammes (ECG) pour l’activité électrique du cœur. Un pic est une décharge électrique du cœur qui se contracte.
+Le cœur bat périodiquement, c'est-à-dire que les battements se répètent dans le temps. On obtient alors une courbe avec des ondulations comme celles des électrocardiogrammes (ECG) pour l’activité électrique du cœur. Un pic est une décharge électrique du cœur qui se contracte.
 
 
 ![Exemple d'électrocardiogramme](pictures/exempleECG.png){: style="width: 400px;"}
@@ -25,8 +25,8 @@ Le cœur bat périodiquement c’est-à-dire que les battements se répètent da
 Trois élèves font un footing d’échauffement pendant 4 minutes et un capteur enregistre les battements cardiaques ramenés à une valeur par minute. (unité bat./min)
 
 !!! warning "Consignes"
-    1. en utilisant les données ci-dessous, sur votre cahier, tracez les 3 courbes représentant l’évolution de la fréquence cardiaque chez ces trois élèves au cours du temps.
-    Les 3 courbes sont à réaliser sur le même graphique. Pour les différencier, vous repasserez la courbe de Pierre en bleu, celle de Ines en vert et celle de Nath en rouge.
+    1. En utilisant les données ci-dessous, sur votre cahier, tracez les 3 courbes représentant l’évolution de la fréquence cardiaque chez ces trois élèves au cours du temps.
+    Les 3 courbes sont à réaliser sur le même graphique. Pour les différencier, vous repasserez la courbe de Pierre en bleu, celle d'Inès en vert et celle de Nath en rouge.
 
     2. Indiquer par une flèche rouge à quel moment commence l'exercice physique et par une flèche verte à quel moment il termine 
 
@@ -63,7 +63,7 @@ Trois élèves font un footing d’échauffement pendant 4 minutes et un capteur
 <td>76</td>
 </tr>
 <tr>
-<td>Ines</td>
+<td>Inès</td>
 <td>80</td>
 <td>82</td>
 <td>92</td>
@@ -90,7 +90,7 @@ Trois élèves font un footing d’échauffement pendant 4 minutes et un capteur
 </table>
 
 
-## Exercice 3 . La fréquence respiratoire
+## Exercice 3 La fréquence respiratoire
 
 !!! warning "Consignes"
     1. Comment évolue la fréquence respiratoire au cours d’un effort ? 
@@ -101,9 +101,9 @@ Trois élèves font un footing d’échauffement pendant 4 minutes et un capteur
 
 On mesure la fréquence cardiaque et la fréquence respiratoire de quelques élèves au repos et en activité (15 flexions-extensions des jambes en 30 secondes).
 
-| élèves | Lucas  | Youssra | Julie | 
+| élèves | Lucas | Youssra | Julie | 
 |---|---|---|---|
-| fréquence respiratoire au repos  | 15  | 18  | 21 | 
-| fréquence respiratoire pendant une activité physique |  29 | 28 | 34 | 
-| Fréquence respiratoire après  2 minutes de repos | 15 | 18 | 21 | 
+| fréquence respiratoire au repos | 15 | 18 | 21 | 
+| fréquence respiratoire pendant une activité physique | 29 | 28 | 34 | 
+| Fréquence respiratoire après 2 minutes de repos | 15 | 18 | 21 | 
 

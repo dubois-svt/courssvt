@@ -57,7 +57,7 @@
 
 
 
-???note-prof "correction"
+??? note-prof "correction"
     Correction :
 
     … Un courant électrique (message nerveux électrique) circule dans le neurone 1.

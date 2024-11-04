@@ -32,7 +32,7 @@
     surface.
 4.  Observer pendant 30 secondes
 5.  Allumer la bougie en dessous.
-6.  Observer pendant quelques minutes
+6.  Observer durant quelques minutes
 
 **Document 2 : Présentation du modèle.**
 
@@ -68,7 +68,7 @@
 
 **Document 3 : La densité.**
 
-La densité d’un objet permet de savoir s’il coule ou s’il flotte dans par rapport dans un fluide. Un échantillon dont la densité est supérieure à celle du fluide coule. Un échantillon dont la densité est inférieure à celle du fluide flotte. La densité peut varier en fonction de différents paramètres.
+La densité d’un objet permet de savoir s’il coule ou s’il flotte dans un fluide. Un échantillon dont la densité est supérieure à celle du fluide coule. Un échantillon dont la densité est inférieure à celle du fluide flotte. La densité peut varier en fonction de différents paramètres.
 
 **Document 4 : La radioactivité est une source de chaleur.**
 
@@ -85,7 +85,7 @@ Le flux thermique est la quantité d’énergie libérée sous forme de chaleur 
 ![](Pictures/schemaDynIntVide.png)
 
 
-???note-prof "docs supplémentaires"
+??? note-prof "docs supplémentaires"
 
     **Document 7 : Carte du flux géothermique mondiale.**
 

@@ -19,9 +19,9 @@
     - 
 
 
-**Document 1  La composition d’un vaccin.**
+**Document 1 La composition d’un vaccin.**
 
-Un vaccin contient des antigènes de l’agent infectieux contre lequel on souhaite se protéger. On peut soit injectés des microbes atténués (inoffensifs), de microbes tués ou des fragments du microbe. Des adjuvants sont aussi présents ce qui permet une meilleure activation du système immunitaire et une meilleure efficacité des vaccins.
+Un vaccin contient des antigènes de l’agent infectieux contre lequel on souhaite se protéger. On peut soit injecter des microbes atténués (inoffensifs), de microbes tués ou des fragments du microbe. Des adjuvants sont aussi présents ce qui permet une meilleure activation du système immunitaire et une meilleure efficacité des vaccins.
 
 **Document 2 : Comparaison de la production d’anticorps lors de la première et de la seconde rencontre avec un même agent infectieux.**
 
@@ -29,7 +29,7 @@ Un vaccin contient des antigènes de l’agent infectieux contre lequel on souha
 
 **Document 3 La mémoire immunitaire.**
 
-Lors du premier contact entre un antigène et l’organisme, certains lymphocytes se multiplient lorsque notre système immunitaire : ce sont les lymphocytes mémoire qui peuvent être présents plusieurs années.
+Lors du premier contact entre un antigène et l’organisme, certains lymphocytes se multiplient lorsque notre système immunitaire : ce sont les lymphocytes mémoires qui peuvent être présents plusieurs années.
 Lorsque l’antigène se trouve à nouveau dans le sang, les lymphocytes mémoire sont activés et se différencient en lymphocytes T ou B actifs. C’est ce qu’on appelle la mémoire immunitaire.
 
 **Document 4 Une campagne d’information sur la vaccination.**
@@ -38,13 +38,13 @@ Infographie extraite d’un document de l’Agence régionale de santé Languedo
 
 ![](Pictures/effetPopVaccination.png)
 
-Après vaccination, une partie de la population est immunisée directement par l’effet du vaccin. Ces individus protègent indirectement l’ensemble du groupe en stoppant la transmission au plus grand nombre, c’est l’effet de groupe
+Après vaccination, une partie de la population est immunisée directement par l’effet du vaccin. Ces individus protègent indirectement l’ensemble du groupe en stoppant la transmission au plus grand nombre, c’est l’effet de groupe.
 
 **Document 5 Des contre-indications à la vaccination.**
 
 Certaines personnes ne peuvent pas se faire vacciner pour des raisons de santé. En effet, dans certains l’administration d’un vaccin pourrait mettre en danger la personne, c’est le cas des personnes ayant certaines allergies aux composés des vaccins, des personnes souffrant de maladies causant un affaiblissement du système immunitaire ou bien des femmes enceintes.
 
-**Document 6 : Evolution du nombre de cas de rougeole de 1950 à 2001 aux États-Unis.**
+**Document 6 : Évolution du nombre de cas de rougeole de 1950 à 2001 aux États-Unis.**
 
 <div markdown style="display:flex; flex-direction:row;">
 <div markdown style="display:flex; flex: 1 1 0; flex-direction:column;">

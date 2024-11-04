@@ -8,9 +8,9 @@
 
 ??? bug "Critères de réussite"
     - avoir montré avec le document le changement climatique actuel.
-    - expliquer ce l'on observe sur les photos du document 2. 
+    - expliquer ce que l'on observe sur les photos du document 2. 
     - expliquer le lien avec le réchauffement climatique.
-    - expliquer ce l'on observe sur les photos du document 3. 
+    - expliquer ce que l'on observe sur les photos du document 3. 
     - expliquer le lien avec le réchauffement climatique en vous aidant du document 4.
 
 
@@ -20,13 +20,13 @@
 ![](Pictures/graphTempMoyenne1860-2010.png){: style="height:400px;"}
 
 
-**Document 2 Evolution de glaciers dans le massif de Vignemale.**
+**Document 2 Évolution de glaciers dans le massif de Vignemale.**
 
 ![L'évolution du glacier d'Ossoue (massif de Vignemale) sur ces dernières années. © Pierre René](Pictures/evolGlacier.png)
 
 
 
-**Document 3 Evolution de la date des vendanges en France depuis 1974.**
+**Document 3 Évolution de la date des vendanges en France depuis 1974.**
 
 ![](Pictures/graphDateVendanges.png){: style="height:300px;"}
 

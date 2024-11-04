@@ -9,13 +9,13 @@
     En décrivant les échanges d'un organisme végétal, expliquez l'origine de l'explosion de la serre de Mark.
 
 ??? bug "Critères de réussite"
-    - identifier les gaz échangés par les feuilles à la lumières
+    - identifier les gaz échangés par les feuilles à la lumière
     - identifier les gaz échangés par les feuilles à l'obscurité
     - identifier les gaz échangés par les autres organes
     - indiquer la caractéristique du dioxygène
     - que fabrique une plante à la lumière 
     - Indiquer comment sont absorbés les gaz
-    - Indiquer comment sont absorbés l'eau
+    - Indiquer comment est absorbée l'eau
 
 **Document 1 La serre de Mark Watney dans le film Seul sur Mars (2015)**
 ![](pictures/serreMars.png)

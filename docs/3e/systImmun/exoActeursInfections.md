@@ -10,7 +10,9 @@
 
     
 ??? bug "Critères de réussite"
-    - 
+
+
+
 Jules, qui se sent très fatigué, se rend chez son médecin pour connaître l’origine de cette fatigue. Le médecin lui prescrit une analyse de sang.
 Les photographies des deux frottis sont représentatives de l’ensemble des cellules présentes dans les sangs étudiés.
 

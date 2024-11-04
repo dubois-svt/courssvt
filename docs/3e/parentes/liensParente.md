@@ -35,7 +35,7 @@ Les scientifiques pour former un groupe, dans un arbre de parenté, regroupe un 
 
 **Document 3 Cellules et ADN**
 
-Tous les êtres vivants sont composés de cellules, certains n'en ont qu'une, les unicellulaires; d'autres en ont plusieurs, les pluricellulaires. 
+Tous les êtres vivants sont composés de cellules, certains n'en ont qu'une, les unicellulaires ; d'autres en ont plusieurs, les pluricellulaires. 
 
 A l'intérieur de ces cellules, on retrouve des molécules d'ADN qui contiennent l'information génétique. 
 Ces molécules sont semblables chez tous les êtres vivants.

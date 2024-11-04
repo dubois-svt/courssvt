@@ -40,7 +40,7 @@ Enseigner la classification et l’évolution, Monique Dupuis et Jean-Claude Her
 ![](pictures/diffSavoirOpinionCroyance.png)
 
 
-**Document 5  L’évolution**
+**Document 5 L’évolution**
 
 L’évolution biologique est un fait scientifique prouvé par deux types de preuves :
 

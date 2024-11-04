@@ -66,7 +66,7 @@ Avant 1953, le patient H. M. souffrait régulièrement de crises d'épilepsie.
 
 Malgré plusieurs tentatives de traitements médicamenteux, le patient H. M. continuait d'avoir des crises d'épilepsie.
 
-En 1953, les médecins ont décidé de retirer la zone du cerveau  responsable de ses crises d'épilepsie. Une partie des lobes temporaux du patient H. M. a donc été retirée lors d'une opération chirurgicale.
+En 1953, les médecins ont décidé de retirer la zone du cerveau responsable de ses crises d'épilepsie. Une partie des lobes temporaux du patient H. M. a donc été retirée lors d'une opération chirurgicale.
 
 Après cette opération, le patient H. M. ne souffrait plus de crises d'épilepsie, mais était devenu incapable d'enregistrer de nouveaux souvenirs.
 
@@ -100,10 +100,10 @@ On dispose d'un groupe de rats ayant eu un sommeil normal (groupe témoin) et d'
 
 Résultats de l'expérience
 
-|   | Nombre de nouveaux neurones dans l'hippocampe  |
+| | Nombre de nouveaux neurones dans l'hippocampe |
 |-----|-----------|               
-|  Groupe témoin        |                  4000|
-|  Groupe test (rats privés de sommeil) | 2200|
+| Groupe témoin | 4000|
+| Groupe test (rats privés de sommeil) | 2200|
 
 **Document 2 : MÉTHODE POUR INTERPRÉTER UNE EXPÉRIENCE**
 
@@ -112,7 +112,7 @@ Résultats de l'expérience
 - Interpréter les résultats de l'expérience
 
 ??? note-prof "Correction "
-    Document 1 :Le groupe témoin a dormi normalement alors que le groupe test a été privé de sieste. Le paramètre qui change     est la sieste.
+    Document 1 : Le groupe témoin a dormi normalement alors que le groupe test a été privé de sieste. Le paramètre qui change est la sieste.
 
     Immédiatement après avoir présenté les images, les enfants     faisant plus de 4 siestes par semaine et les enfants ne faisant pas de siestes se souviennent aussi bien des images qui leur ont été montrées.
 

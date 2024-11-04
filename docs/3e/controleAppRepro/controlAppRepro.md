@@ -19,7 +19,7 @@
 À l’hôpital, des patients sont suivis pour des troubles du fonctionnement de l’appareil reproducteur.
 
 -   Cas n°1 : homme qui a eu une puberté tardive et qui a des caractères
-    sexuels secondaires peu développés (faibles pilosité, testicules de
+    sexuels secondaires peu développés (faible pilosité, testicules de
     petite taille). Sa maladie est due à un dysfonctionnement d’une zone
     du cerveau reliée à l’hypophyse.
 -   Cas n°2 : homme souffrant de maux de tête et de troubles de
@@ -27,7 +27,7 @@
     que ses spermatozoïdes sont peu fécondants. Une IRM de son cerveau
     révèle une tumeur bénigne à l’hypophyse.
 -   Cas n°3 : femme atteinte d’une tumeur à l’hypophyse. Sa maladie a
-    notamment provoqué l’arrêt de des ovulations et de ses règles, alors
+    notamment provoqué l’arrêt des ovulations et de ses règles, alors
     qu’elle n’est pas en période de ménopause.
 
 
@@ -93,7 +93,7 @@ spermatozoïdes produits</p>
 La crête d'un coq est un caractère sexuel secondaire apparaissant à la puberté du coq.
 Chez les chapons, des coqs castrés à la naissance, il n'y pas de crête.
 
-Une expérience est faite sur des chapons, on leur injecte différentes quantité de testostérone, une hormone sexuelle masculine extraite de testicule de coq est injecté. SI l'injection est régulière une crête apparait.
+Une expérience est faite sur des chapons, on leur injecte différentes quantités de testostérone, une hormone sexuelle masculine extraite de testicule de coq. Si l'injection est régulière une crête apparait.
 
 
 | Quantité de testostérone injecté dans le sang (en UA) |Taille de la crête (en mm) |

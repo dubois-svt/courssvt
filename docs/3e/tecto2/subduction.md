@@ -26,6 +26,6 @@
 
 **Document 3 : Séismes et lithosphère.**
 
-Les séismes se produisent dans la lithosphère qui est la couche la plus cassante.l’asthénosphère est plus ductile, les roches ne peuvent pas casser et donc les séismes ne peuvent pas y avoir d’origine.
+Les séismes se produisent dans la lithosphère qui est la couche la plus cassante. L'asthénosphère est plus ductile, les roches ne peuvent pas casser et donc les séismes ne peuvent pas y avoir d’origine.
 
-La lithosphère est une couche qui fait environ 150 km d’épaisseur pour la lithosphère continentale et 100 km d’épaisseur pour la lithosphère océanique
+La lithosphère est une couche qui fait environ 150 km d’épaisseur pour la lithosphère continentale et 100 km d’épaisseur pour la lithosphère océanique.

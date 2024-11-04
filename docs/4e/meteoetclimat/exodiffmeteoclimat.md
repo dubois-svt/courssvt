@@ -32,7 +32,7 @@ Traduction :
 
 </div>
 
-**Document 2 Température à New-York (source : le parisien**
+**Document 2 Température à New-York (source : le parisien)**
 Météo Contact explique que ce phénomène de grand froid est dû « à une dorsale anticyclonique qui s'est installée du Pacifique à l'ouest du Canada, permettant à de l'air très froid de plonger sur l'Amérique du Nord. »
 
 Celui-ci devrait encore perdurer quelques jours. Le service national de météorologie a ainsi averti d'un « risque de froid excessif » jusqu'au réveillon. Selon France Info, jusqu'à -40 degrés sont attendus à Québec (Canada) et dans le nord des États-Unis.

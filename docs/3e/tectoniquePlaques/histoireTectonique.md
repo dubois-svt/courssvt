@@ -34,7 +34,7 @@ Les plaques recouvrent toutes la surface de la Terre, les parties avec des conti
 ![](Pictures/schemaDynInterne.png)
 
 
-**Document 2  Les modèles fixistes**
+**Document 2 Les modèles fixistes**
 
 ![](Pictures/imageModeleFixiste.png){:style="width:500px; float:left;"  }
 
@@ -45,7 +45,7 @@ Avant le XXe siècle, la majorité des scientifiques pensent qu’il existe uniq
 Pour expliquer la formation des reliefs terrestres, les géologues comparent la Terre à une pomme. Selon leur théorie, au cours des temps géologiques la Terre, comme la pomme, a eu sa surface qui s’est ridée et des reliefs sont apparus.
 
 **Document 3 La théorie de la dérive des continents par Wegener.**
-Le météorologue allemand Alfred Wegener a émis l’idée que les continents terrestres bougeaient. Wegener propose que les continents reposent sur une couche plus dense. Et une force permettrait aux continents de se déplacer sur la couche plus dense, comme un glaçon sur l’eau. Il propose que les continents étaient autrefois tous réunis en un seul super continent, la Pangée, il y a environ 225 millions d’années. Puis la Pangée s’est disloquée pour former les continents actuels. Il publie sa théorie en 1915. Sa théorie sera rejetée par une grande partie de la communauté scientifique, car aucun mécanisme connu ne permet d’expliquer ce qui a permis aux continents de se déplacer.
+Le météorologue allemand Alfred Wegener a émis l’idée que les continents terrestres bougeaient. Wegener propose que les continents reposent sur une couche plus dense. Et une force permettrait aux continents de se déplacer sur la couche plus dense, comme un glaçon sur l’eau. Il propose que les continents étaient autrefois tous réunis en un seul supercontinent, la Pangée, il y a environ 225 millions d’années. Puis la Pangée s’est disloquée pour former les continents actuels. Il publie sa théorie en 1915. Sa théorie sera rejetée par une grande partie de la communauté scientifique, car aucun mécanisme connu ne permet d’expliquer ce qui a permis aux continents de se déplacer.
 
 ![](Pictures/schemaComparatifFixisteWegener.png){:style="width:600px;"}
 
@@ -74,7 +74,7 @@ Wegener a émis son hypothèse parce qu’il avait constaté que les côtes de l
 
 Suite à l’amélioration du sonar pendant la seconde guerre mondiale, les navires océanographiques réalisent une cartographie précise des fonds océaniques. En 1952, Mary Tharp et Bruce C. Heezen, ont réalisé une carte des fonds marins. Sur ces cartes apparaît une chaîne de montagnes sous-marines : la dorsale ou ride médio-atlantique.
 
-Grâce à l’étude des dorsales, Harry Hess, en 1962, a pu voir que les océans sont en expansion, c’est-à-dire qu’ils s’agrandissent grâce au plancher océanique qui lui même s’agrandit : il y avait une fabrication de lithosphère. On constate qu’on a le même âge du plancher océanique de chaque côté de la dorsale et il est de plus en plus vieux lorsqu’on s’éloigne de la dorsale : c’est la preuve que de la lithosphère se fabrique de chaque côté de la dorsale et que ça s’écarte au fur et à mesure.
+Grâce à l’étude des dorsales, Harry Hess, en 1962, a pu voir que les océans sont en expansion, c’est-à-dire qu’ils s’agrandissent grâce au plancher océanique qui lui-même s’agrandit : il y avait une fabrication de lithosphère. On constate qu’on a le même âge du plancher océanique de chaque côté de la dorsale et il est de plus en plus vieux lorsqu’on s’éloigne de la dorsale : c’est la preuve que de la lithosphère se fabrique de chaque côté de la dorsale et que ça s’écarte au fur et à mesure.
 
 </div>
 </div>
@@ -85,7 +85,7 @@ On a découvert que l’intérieur de la Terre est fait de roches qui libèrent 
 
 **Document 7 Répartition des séismes**
 
-En 1954, Beno Gutenberg et Charles Francis Richter, deux sismologues réalisent la carte mondiale de la répartition des séismes et montrent que leur répartition n’est pas aléatoire. Ce qui va montrer avec la répartition des volcans qu’on a une lithosphère découpée en plaques lithosphériques.
+En 1954, Beno Gutenberg et Charles Francis Richter, deux sismologues réalisent la carte mondiale de la répartition des séismes et montrent que leur répartition n’est pas aléatoire. La répartition des volcans montre que l'on a une lithosphère découpée en plaques lithosphériques.
 
 **Document 8 Disparition de la lithosphère**
 

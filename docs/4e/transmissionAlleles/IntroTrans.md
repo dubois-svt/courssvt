@@ -5,7 +5,7 @@
 
 
 !!! question "Problématique"
-    COomment se transmet l'information génétique entre cellules ? Entre individus ?
+    Comment se transmet l'information génétique entre cellules ? Entre individus ?
     
 ### Document d’appel :
 
@@ -45,7 +45,7 @@
 ## Séance 2 : La formation des cellules reproductrices.
 
 !!! question "Problématique"
-    Comment la formation des cellules reproductrices participe-t- à la diversité génétique ?
+    Comment la formation des cellules reproductrices participe-t-elle à la diversité génétique ?
     
 [Activité La formation des cellules reproductrices.](../meiose)
 
@@ -85,33 +85,31 @@
 
     ![](pictures/schemaMeioseFacondation.jpg)
 
+## Séance 4 La reproduction sexuée permet la diversité
 
+!!! question "Problématique"
 
+    Comment certains caractères non génétiques peuvent-ils être transmis ou modifiés ?
 
-I.  ### []{#anchor-23}[]{#anchor-24}Comment certains caractères non génétiques peuvent-ils être transmis ou modifiés ? 
+![](pictures/caractNonGen.png)
+![](pictures/caractNonGen2.png)
+![](pictures/caractNonGen3.png)
 
-![](./pictures/Pictures/10000000000003120000036A31399D8E85108312.png){width="16.371cm"
-height="18.203cm"}
-![](./pictures/Pictures/10000000000002EA00000116C172542981003522.png){width="15.332cm"
-height="5.713cm"}
+**Document 5 Des baleines à bosse.**
 
-![](./pictures/Pictures/10000000000002DF00000203D401C38A2B7812E0.png){width="15.482cm"
-height="10.846cm"}
-
-Document 5 : Des baleines à bosse.
-
-L'étude du chant des cétacés et de certains oiseaux e relevé l'existence de langages qui se modifient au cours des générations.
+L'étude du chant des cétacés et de certains oiseaux a relevé l'existence de langages qui se modifient au cours des générations.
 
 Ainsi, sur la côte est de l'Australie, le chant des groupes de baleines à bosse a subi des modifications. Suite à la migration de quelques individus, toutes les baleines de la côte est ont adopté le chant des baleines de la côte ouest. Ce chant s'est transmis aux générations suivantes.
 
-Document 6 : Transmissions culturelles chez les macaques. Japonais
+**Document 6 Transmissions culturelles chez les macaques Japonais**
 
 <https://www.youtube.com/watch?v=0Lk8Ra7PWdw>
 
-Bilan :
+??? abstract "Bilan"
 
-Des éléments de l'environnement, tels que la température, le vent, les UV, la teneur en dioxygène du milieu influent sur le phénotype des individus qui y sont exposés et le modifient.
 
-Ces modifications ne sont pas transmises à la descendance. Le phénotype d'un individu est donc le résultat de l'interaction entre son génotype et l'action de l'environnement.
+    Des éléments de l'environnement, tels que la température, le vent, les UV, la teneur en dioxygène du milieu influent sur le phénotype des individus qui y sont exposés et le modifient.
 
-Certains caractères ne sont pas inscrits dans le patrimoine génétique et sont transmis entre générations via l'apprentissage (chants des baleines, comportements nouveaux ...)
+    Ces modifications ne sont pas transmises à la descendance. Le phénotype d'un individu est donc le résultat de l'interaction entre son génotype et l'action de l'environnement.
+
+    Certains caractères ne sont pas inscrits dans le patrimoine génétique et sont transmis entre générations via l'apprentissage (chants des baleines, comportements nouveaux ...)

@@ -13,7 +13,7 @@
     3. Expliquer pourquoi les antigènes sont disposés au centre. (0,5 point)
 
     4. Schématiser la boite obtenue avec les résultats et répondre au roblème posé. (1,75 points)
-p
+
     5. Expliquer la réaction ou son absence pour l’individu séropositif au virus de la grippe (0,75 point)
     
 ??? bug "Critères de réussite"
@@ -231,7 +231,7 @@ les produits utilisés (soude notamment) sont des produits de substitution perme
 
 1. Préparation de la boîte :
 
-    - À l’aide de l’emporte-pièce et du gabarit de perçage, creuser,dans la gélose de la boîte de Pétri un puits central, puis 4     autres puits, uniformément répartis et disposés à égale distance du puits central.
+    - À l’aide de l’emporte-pièce et du gabarit de perçage, creuser, dans la gélose de la boîte de Pétri un puits central, puis 4 autres puits, uniformément répartis et disposés à égale distance du puits central.
     - Utiliser le cure-dent (ou l’aiguille lancéolée) pour éliminer les disques de gélose si nécessaire.
 
 2. Repérage :

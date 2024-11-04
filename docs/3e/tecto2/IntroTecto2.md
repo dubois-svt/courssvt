@@ -1,11 +1,11 @@
-# Séquence : Les mouvements de la tectoniques des plaques
+# Séquence : Les mouvements de la tectonique des plaques
 
 !!! note-prof
     si besoin d'infos
 
 
 !!! question "Problématique"
-    Quelles sont les conséquences des mouvements de la tectonique des plaques?
+    Quelles sont les conséquences des mouvements de la tectonique des plaques ?
 
     Quel est le moteur de la tectonique des plaques?
     

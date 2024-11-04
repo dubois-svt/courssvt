@@ -13,7 +13,7 @@
 
 
 
-**Document 1  Relation entre un caractère (ici le sexe de l’individu) et une portion de chromosome.**
+**Document 1 Relation entre un caractère (ici le sexe de l’individu) et une portion de chromosome.**
 
 On sait depuis 1960 que le chromosome Y est impliqué dans la détermination du sexe masculin chez les mammifères. La comparaison des chromosomes sexuels de nombreux individus a permis de localiser sur le chromosome Y une portion qui détermine la mise en place du sexe masculin. Cette portion est appelée gène SRY.
 

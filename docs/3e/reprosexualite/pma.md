@@ -23,7 +23,7 @@
 **Document 1 : la définition et l’analyse d’un spermocytogramme**
 
 
-Spermocytogramme : dosage permettant de connaître le nombre de forme typique et atypique de spermatozoïde dans un sperme donné.
+Spermocytogramme : dosage permettant de connaître le nombre de formes typiques et atypiques de spermatozoïde dans un sperme donné.
 Lors de la réalisation d’un spermocytogramme, on considère que le sperme du conjoint a une qualité satisfaisante lorsque plus de 14 % des spermatozoïdes ont une forme typique.
 
 <div markdown style="display:flex; flex-direction: row">
@@ -155,7 +155,7 @@ Liste des étapes de la stimulation ovarienne :
 Liste des étapes de l’insémination artificielle :
 
  
-- Hyperstimulation ovarienne : une injection d’hormone permet de stimuler les ovaires afin de déclencher une ovulation.
+- Hyperstimulation ovarienne : une injection d’hormone permet de stimuler les ovaires dans le but de déclencher une ovulation.
 - Recueil et préparation du sperme :** le sperme du conjoint est récupéré
 - Dépôt des spermatozoïdes : **les spermatozoïdes sont déposés dans l’utérus.
 </div>

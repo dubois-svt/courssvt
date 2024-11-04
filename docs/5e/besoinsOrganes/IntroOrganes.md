@@ -13,7 +13,9 @@
 
 ## Séance 1 : Les modifications de l'organisme lors d’un effort
 
-Situation déclenchante : Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100m en 10sec. Après ces 10 secondes, les athlètes sont épuisés et s’allongent sur le sol.
+Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100m en 10 sec. Après ces 10 secondes, les athlètes sont épuisés et s’allongent sur le sol.
+![Final 100m Hommes JO 2024 (FranceTV))](pictures/fin100m.png)
+
 
 !!! question "Problématique"
     Quelles sont les modifications de l’organisme lors d’un effort ?

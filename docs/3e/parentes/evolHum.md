@@ -35,21 +35,21 @@ X : absent O : présent
 | Homo neanderthalensis | O | O | O | O | O | O |
 | Australopithecus africanus | O | o | O | x | O | O |
 
-**Document 3  Arbre de parenté des primates**
+**Document 3 Arbre de parenté des primates**
 
 ![](pictures/arbreParentePrimates.png)
 
-**Document 4  Période d’existence de quelques espèces de la lignée humaine.**
+**Document 4 Période d’existence de quelques espèces de la lignée humaine.**
 
-| Espèce    | Période d’existence  |
+| Espèce | Période d’existence |
 |----------------------------|---------------------------|
-| Australopithecus africanus | -3,5 à -2,5 Ma  |
+| Australopithecus africanus | -3,5 à -2,5 Ma |
 | Homo habilis | -2,6 à -1,65 Ma |
 | Homo erectus | -1,9 Ma à -100000 ans |
 | Homo neanderthalensis | -450000 à – 30000 ans |
 | Homo sapiens | -300000 ans à aujourd’hui |
 
-**Document 5  Quelques fossiles de crânes de la lignée humaine et représentation.**
+**Document 5 Quelques fossiles de crânes de la lignée humaine et représentation.**
 
 ![](pictures/cranesHominines.png)
 

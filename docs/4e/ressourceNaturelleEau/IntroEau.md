@@ -13,7 +13,7 @@
 
 ![](pictures/graphConsoeauFrance19002010.png)
 
-[lien video Arthus Bertrand](https://www.youtube.com/watch?v=JjPsNoCWSLE&ab_channel=YannARTHUS-BERTRAND)
+[lien vidéo Arthus Bertrand](https://www.youtube.com/watch?v=JjPsNoCWSLE&ab_channel=YannARTHUS-BERTRAND)
 
 
 ## Séance 1 : l'eau une ressource rare sur la planète bleue
@@ -21,7 +21,7 @@
 !!! question "Problématique"
     Quelle est l'eau que nous consommons ?
 
-[Activité Reservoirs et utilisation de l'eau](../reservoiretutilisationEau)
+[Activité Réservoirs et utilisation de l'eau](../reservoiretutilisationEau)
 
 ## Séance 2 : Une ressource naturelle indispensable, l'eau
 

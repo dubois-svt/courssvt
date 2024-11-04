@@ -28,15 +28,15 @@ Les antibiotiques vont tuer les bactéries
 
 **Document 3 : La résistance aux antibiotiques**
 
-Dans une population de bactéries, en présence d’antibiotique, seules les bactéries ayant un mécanisme de résistance se reproduisent. Les autres meurent (bactéries sensibles). Ce faisant, la totalité de la population bactérienne devient résistante. En Europe, on estime que 25 000 décès par an sont liés à des infections dues à des résistances bactériennes et que 1,5 milliards d’euros sont dépensés à cause d’infections par des bactéries multirésistantes.
+Dans une population de bactéries, en présence d’antibiotique, seules les bactéries ayant un mécanisme de résistance se reproduisent. Les autres meurent (bactéries sensibles). Ce faisant, la totalité de la population bactérienne devient résistante. En Europe, on estime que 25 000 décès par an sont liés à des infections dues à des résistances bactériennes et que 1,5 milliard d’euros sont dépensés à cause d’infections par des bactéries multirésistantes.
 
 Par ailleurs, un antibiotique peut tuer des bactéries constituant le microbiote digestif qui nous protège de certaines contaminations et qui participe à une bonne digestion.
 
 **Document 4 : Entretien avec Nadia Baron, médecin généraliste**
 
-Entant que médecin, quel message souhaitez-vous faire passer ?
+En tant que médecin, quel message souhaitez-vous faire passer ?
 
-Les antibiotiques sont efficaces contre les bactéries, mais pas contre les virus. Le problème aujourd’hui, c’est le développement des résistances bactériennes. Il y a 15 ans, pour guérir une otite, on prescrivait une dose d’antibiotiques de 60 à 70 mg/kg/jour, aujourd’hui la dose est de 90. les bactéries résistantes nous obligent à augmenter des doses, on se rapproche des limites où apparaissent des effets secondaires. A plus long terme, c’est la menace de pandémies.
+Les antibiotiques sont efficaces contre les bactéries, mais pas contre les virus. Le problème aujourd’hui, c’est le développement des résistances bactériennes. Il y a 15 ans, pour guérir une otite, on prescrivait une dose d’antibiotiques de 60 à 70 mg/kg/jour, aujourd’hui la dose est de 90. Les bactéries résistantes nous obligent à augmenter des doses, on se rapproche des limites dans lesquelles apparaissent des effets secondaires. À plus long terme, c’est la menace de pandémies.
 
 
 **Document 5 : Deux campagnes de sensibilisation à l’usage des antibiotiques.**
@@ -63,8 +63,8 @@ L’efficacité de l’antibiotique est révélée par la réaction de la popula
 
 <div markdown style="display:flex; flex-direction:column;">
 
-- si la population ne se développe pas autour de la pastille d’antibiotique, cela signifie que l’antibiotique est efficace ;
-- si la population se développe autour de la pastille d’antibiotique, cela signifie que l’antibiotique est inefficace.
+- Si la population ne se développe pas autour de la pastille d’antibiotique, cela signifie que l’antibiotique est efficace ;
+- Si la population se développe autour de la pastille d’antibiotique, cela signifie que l’antibiotique est inefficace.
 
 </div></div>
 

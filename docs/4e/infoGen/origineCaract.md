@@ -41,7 +41,7 @@ Un couple et leur enfant. Les parents ont un groupe sanguin A. C’est aussi cel
 
 ![](pictures/bronzage.png)
 
-**Document 4 :  le port des arbres.**
+**Document 4  le port des arbres.**
 <div markdown style="display:flex; flex-direction: row;">
 
 <div markdown style="display:flex;  flex: 1 1 0; flex-direction: row;">
@@ -60,11 +60,11 @@ Deux hêtres : le premier est présent dans un milieu avec des vents forts. Le 
 </div>
 
 
-**Document 5 : Arbre généalogique de la famille d’Arthur**
+**Document 5 Arbre généalogique de la famille d’Arthur**
 
 ![](pictures/arbreFamilleLangueU.png)
 
-**Document 6 :  Les boxers**
+**Document 6  Les boxers**
 <div markdown style="display:flex; flex-direction: row;">
 
 <div markdown style="display:flex;  flex: 1 1 0; flex-direction: row;">

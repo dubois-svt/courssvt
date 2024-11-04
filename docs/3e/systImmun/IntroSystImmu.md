@@ -13,7 +13,7 @@ Par Laura Thouny, L’express, publié le 16/07/2010
 
 
 !!! question "Problématique"
-    Comment notre corps se défend-t-il contre les micro-organismes ?
+    Comment notre corps se défend-il contre les micro-organismes ?
 
     
 
@@ -23,7 +23,7 @@ Par Laura Thouny, L’express, publié le 16/07/2010
     Quels sont les acteurs de la défense de l’organisme ?
 
 ??? question "Les acteurs du système immunitaire doivent pouvoir voyager dans tout le corps"
-    Les acteurs du système immunitaire doivent pouvoir voyager dans tout le corps ils doivent donc être dans le sang.
+    Les acteurs du système immunitaire doivent pouvoir voyager dans tout le corps, ils doivent donc être dans le sang.
 
 [Activité Acteurs de la défense](../acteursSystImmu)
 
@@ -31,7 +31,7 @@ Par Laura Thouny, L’express, publié le 16/07/2010
 
 
 ??? abstract "Bilan"
-    Les leucocytes, ou globules blancs, sont des cellules sanguines intervenant dans la réponse de l’organisme face aux infections, la réponse immunitaire. Ils font partie du système immunitaire.
+    Les leucocytes ou globules blancs, sont des cellules sanguines intervenant dans la réponse de l’organisme face aux infections, la réponse immunitaire. Ils font partie du système immunitaire.
 
     Il existe deux types de leucocytes :
 
@@ -55,7 +55,7 @@ Une fois entrés dans l’organisme, les micro-organismes vont donc se multiplie
 
 Les bactéries vont se multiplier. Elles vont ensuite envahir notre corps et/ou produire des toxines qui exerceront un effet pathogène.
 
-Les virus ont besoin de nos cellules pour se multiplier. Ils vont entrer à l’intérieur de la cellule, se multiplier et la cellule sera détruite à la sortie des nouveaux virus. Plus les virus se multiplient et plus il y aura de cellules détruites.
+Les virus ont besoin de nos cellules pour se multiplier. Ils vont entrer à l’intérieur de la cellule, se multiplier et la cellule sera détruite à la sortie des nouveaux virus. Plus les virus se multiplient et plus, il y aura de cellules détruites.
 
 [Activité La réaction inflammatoire](../inflammation)
 
@@ -73,13 +73,13 @@ Les virus ont besoin de nos cellules pour se multiplier. Ils vont entrer à l’
 
 
 
-## Séance 3  : Réaction de notre corps à une infection prolongée.
+## Séance 3 : Réaction de notre corps à une infection prolongée.
 
 
 !!! question "Problématique"
     Comment notre corps réagit si l’infection continue ?
 
-[Activité  Réaction de notre corps à une infection prolongée](../infectionContinue)
+[Activité Réaction de notre corps à une infection prolongée](../infectionContinue)
 
 
 
@@ -102,7 +102,7 @@ Les virus ont besoin de nos cellules pour se multiplier. Ils vont entrer à l’
     ![](Pictures/toucherGanglions.png)
     ![](Pictures/graphTempCroissanceBAct.png)
 
-## Séance 4  : Exercice
+## Séance 4 Exercice
 
 
-[Activité  Exercice](../exoActeursInfections)
+[Activité Exercice](../exoActeursInfections)

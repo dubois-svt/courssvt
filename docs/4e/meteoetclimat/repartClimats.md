@@ -43,9 +43,9 @@ Le climat chaud ou intertropical correspond à des températures moyennes annuel
 L'énergie solaire est une source d'énergie importante. Plus les rayons solaires sont concentrés plus, il fera chaud.
 
 Matériel :
-- lampe;
-- ballon;
-- carton percé;
+- lampe ;
+- ballon ;
+- carton percé ;
 - feuille à petits carreaux.
 
 1. Placer la lampe sur le plateau élévateur et un ballon à une vingtaine de cm ;  

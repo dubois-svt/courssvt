@@ -58,7 +58,7 @@ plusieurs stimuli.
 Stimulus (des stimuli) : signal qui peut provoquer une réponse de
 l'organisme.
 
-???note-prof "correction"
+??? note-prof "correction"
 
     Schéma fonctionnel de la commande du mouvement
 

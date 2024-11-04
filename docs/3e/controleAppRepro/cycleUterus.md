@@ -41,7 +41,7 @@ Visionnez le résultat au niveau de la couche superficielle de la paroi de l’u
 - Expérience 3 :
 
 Cliquez sur l’icône « Ablations/greffes » (en haut à droite)  
-Retirez chaque ovaire et déposez les dans la cuvette verte du haut ![](Pictures/iconeCuvette.gif). (Au niveau de l’ovaire, cliquez sur le bouton gauche de la souris et tout en maintenant appuyé le bouton, déplacez l’ovaire dans la cuvette).  
+Retirez chaque ovaire et déposez-les dans la cuvette verte du haut ![](Pictures/iconeCuvette.gif). (Au niveau de l’ovaire, cliquez sur le bouton gauche de la souris et tout en maintenant appuyé le bouton, déplacez l’ovaire dans la cuvette).  
 Prenez les deux ovaires de la cuvette du bas et tout en maintenant appuyé le bouton gauche de la souris, déplacez-les au niveau de l’abdomen (au-dessus de l’utérus) pour pouvoir les greffer.  
 Cliquez sur le bouton « Résultats » (en bas)
 
@@ -50,7 +50,7 @@ Visionnez le résultat au niveau de la couche superficielle de la paroi de l’u
 - Expérience 4 :
 
 Cliquez sur l’icône « Ablations/Injections » (en haut à droite)  
-Retirez chaque ovaire et déposez les dans la cuvette verte du haut ![](Pictures/iconeCuvette.gif). (Au niveau de l’ovaire, cliquez sur le bouton gauche de la souris et tout en maintenant appuyé le bouton, déplacez l’ovaire dans la cuvette).  
+Retirez chaque ovaire et déposez-les dans la cuvette verte du haut ![](Pictures/iconeCuvette.gif). (Au niveau de l’ovaire, cliquez sur le bouton gauche de la souris et tout en maintenant appuyé le bouton, déplacez l’ovaire dans la cuvette).  
 Prenez la seringue jaune et tout en maintenant appuyé le bouton gauche de la souris, déplacez-la au niveau d’une cuisse pour injecter les extraits ovariens.  
 Cliquez sur le bouton « Résultats » (en bas)
 
@@ -96,11 +96,11 @@ hormones sexuelles : œstrogènes et progestérone.)</td>
 
 **Document 3 La communication entre les organes.**
 
-Nos organes communiquent entre-eux. Il existe deux types de communication.
+Nos organes communiquent entre eux. Il existe deux types de communication.
 
 - Communication nerveuse : La communication nerveuse se manifeste par des signaux électriques constituant des messages. Ces messages sont rapidement conduits dans un seul sens par des chaînes de neurones, les nerfs.
 
-- Communication hormonale : Une hormone est une substance produite par des cellules. Elle est libérée en faible quantité dans le sang qui la véhicule. Elle se fixe sur des récepteurs de certains organes dits organes-cibles, dont elle modifie l’activité.
+- Communication hormonale : Une hormone est une substance produite par des cellules. Elle est libérée en faible quantité dans le sang qui la véhicule. Elle se fixe sur des récepteurs de certains organes dits organes cibles, dont elle modifie l’activité.
 
 **Document 4 Le cycle utérin.**
 

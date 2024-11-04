@@ -11,8 +11,8 @@
 
 ??? bug "critères de réussite"
     - indiquer les mouvements verticaux dans le modèle
-    - dans le modèle indiquer où est la dépression et où est l'anticyclone
-    - indiquer dans quelle direction se déplace les vents dans le modèle.
+    - dans le modèle, indiquer où est la dépression et où est l'anticyclone
+    - indiquer dans quelle direction se déplacent les vents dans le modèle.
     - indiquer comment se déplace les vents sur la carte des pressions.
 
 

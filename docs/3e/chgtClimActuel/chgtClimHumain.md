@@ -12,7 +12,7 @@
    
 ??? bug "Critères de réussite"
     - Trouver une différence entre les différents astres en dehors de la température.
-    - avoir montré que l'être humain a un impact sur la concentration de CO₂
+    - Avoir montré que l'être humain a un impact sur la concentration de CO₂
     - Le schéma fonctionnel doit contenir les idées essentielles de chaque réponse précédente.
 
 

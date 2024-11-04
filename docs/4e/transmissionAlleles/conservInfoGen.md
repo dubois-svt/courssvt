@@ -32,25 +32,25 @@ Un des points fondamentaux en biologie est qu'une cellule provient toujours d'un
 
 ![](pictures/renouveCellPeau.png)
 
-**Document 4 Tableau du nombre de chromosomes et de la quantité d'ADN au cours du temps dans une cellule qui se divise. (ici 1 UA = 6,6pg d'ADN)**
+**Document 4 Tableau du nombre de chromosomes et de la quantité d'ADN au cours du temps dans une cellule qui se divise. (ici 1 UA = 6,6 pg d'ADN)**
 
-  |Temps (h) |0    |4    |8    |10  | 12    |14    |16   |20   |21   |21   |22  | 24|
+  |Temps (h) |0 |4 |8 |10 | 12 |14 |16 |20 |21 |21 |22 | 24|
 |------------------------------------ |---- |---- |----| ----| -----| -----| ---- |----| ----| ----| ---- |----|
-  |Nombre de chromosomes par cellule    |46 |  46|   46  | 46 |  46|    46|    46|   46|   46|   46|   46  | 46|
-  |Quantité d'ADN par cellule (en UA)  | 1  |  1   | 1   | 1   | 1,3  | 1,6  | 2   | 2   | 2   | 1   | 1  |  1|
+  |Nombre de chromosomes par cellule |46 | 46| 46 | 46 | 46| 46| 46| 46| 46| 46| 46 | 46|
+  |Quantité d'ADN par cellule (en UA) | 1 | 1 | 1 | 1 | 1,3 | 1,6 | 2 | 2 | 2 | 1 | 1 | 1|
   ------------------------------------ ---- ---- ---- ---- ----- ----- ---- ---- ---- ---- ---- ----
 
-**Document 5 Aspect d'un  chromosome au cours de la vie  d'une cellule.**
+**Document 5 Aspect d'un chromosome au cours de la vie d'une cellule.**
 
-Un chromosome à une molécule d'ADN est appelé chromosome  simple et un chromosome à deux  molécules d'ADN est appelé chromosome double.         
+Un chromosome à une molécule d'ADN est appelé chromosome simple et un chromosome à deux molécules d'ADN est appelé chromosome double.         
 
 
 ![](./pictures/chromCycleCell.png)
 
 
-**Document 6 Le déroulement de la mitose dans une racine  d'oignon.**
+**Document 6 Le déroulement de la mitose dans une racine d'oignon.**
 
-La mitose permet de conserver le nombre de chromosomes et donc le génotype dans les cellules nouvellement formées. Elle assure ainsi la stabilité  génétique des cellules d'un individu     
+La mitose permet de conserver le nombre de chromosomes et donc le génotype dans les cellules nouvellement formées. Elle assure ainsi la stabilité génétique des cellules d'un individu     
 
 ![](pictures/mitoseOignon.png)
 

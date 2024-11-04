@@ -35,7 +35,7 @@
     Chaque chromosome est présent en 2 exemplaires (= paire). Chaque chromosome de la paire comporte les mêmes gènes. Donc chaque gène est présent 2 fois dans une cellule.
 
 
-??? abstract "infos supp"
+??? abstract "infos supplémentaires"
 
     ![](pictures/genesHumains.png)
     ![](pictures/schemaChromosome.png)

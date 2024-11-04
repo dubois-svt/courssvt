@@ -20,7 +20,7 @@
 ??? bug "Critères de réussite"
     | Niveau I : Maîtrise insuffisante | Niveau F : Maîtrise fragile | Niveau S : Maîtrise satisfaisante | Niveau TB : Très bonne maîtrise |
     |----------|--------|-----------------|-----------------|
-    |  | 2 documents sont analysés, la réponse indique le rôle de l’aire concerné. | 3 documents sont analysés, la réponse indique le rôle de l’aire concerné en justifiant la réponse. | 3 documents sont analysés, la réponse indique le rôle de l’aire concerné en justifiant la réponse.  Un texte indique répond au problème.  Autonomie du travail |
+    | | 2 documents sont analysés, la réponse indique le rôle de l’aire concerné. | 3 documents sont analysés, la réponse indique le rôle de l’aire concerné en justifiant la réponse. | 3 documents sont analysés, la réponse indique le rôle de l’aire concerné en justifiant la réponse. Un texte répond au problème. Autonomie du travail |
 
 
 ## Groupe 1
@@ -96,7 +96,7 @@ Il est aujourd'hui admis que plusieurs aires cérébrales, notées V1 à V5, sit
 
 Suite à un AVC (accident vasculaire cérébral), une patiente a subi une destruction des cellules dans une zone de son cerveau. Elle ressent des « arrêts sur image » de plusieurs secondes tout au long desquels elle ne perçoit qu'une image immobile en perdant toute conscience visuelle des mouvements dans son environnement.
 
-Traverser une rue est pour elle très dangereux puisqu'une voiture qu'elle a vu « arrêtée », à une grande distance de l'endroit où elle est, peut se retrouver tout près d'elle après qu'elle eut commencé à traverser. Se verser un verre d'eau est tout aussi problématique puisqu'elle voit l'eau qui coule comme gelée et qu'elle comprend qu'elle en a trop versé quand elle découvre soudain l'eau répandue sur la table.
+Traverser une rue est pour elle très dangereux puisqu'une voiture qu'elle a vue « arrêtée », à une grande distance de l'endroit où elle est, peut se retrouver tout près d'elle après qu'elle eut commencé à traverser. Se verser un verre d'eau est tout aussi problématique parce qu'elle voit l'eau qui coule comme gelée et qu'elle comprend qu'elle en a trop versé quand elle découvre soudain l'eau répandue sur la table.
 
 *D'après Françoise Jauzein et Aude Richter http://acces.inrp.fr/acces/ressources/neurosciences/vision/cas_anomalies_vision/cas10/cas10*
 

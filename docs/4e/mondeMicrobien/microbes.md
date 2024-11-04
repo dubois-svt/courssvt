@@ -69,65 +69,65 @@ Les levures, comme *Saccharomyces cerevisiae*, sont des champignons unicellulair
     <tr>
         <th> 			Nom 		</th>
         <th> 			Milieu de vie / Hôte 		</th>
-        <th> 			Taille<br> <br>&nbsp;&nbsp;			 		</th>
+        <th> 			Taille<br> <br>&nbsp;&nbsp; </th>
         <th> 			Action 		</th>
-        <th> 			Type<br> (Virus / Bactéries<br> <br>&nbsp;&nbsp;			 		</th>
+        <th> 			Type<br> (Virus / Bactéries)<br> <br>&nbsp;&nbsp; </th>
     </tr>
     </thead>
     <tbody>
     <tr>
         <td> 			Virus de la grippe 		</td>
         <td> 			Être humain 		</td>
-        <td> 			75nm 		</td>
+        <td> 			75 nm 		</td>
         <td> 			Cause une maladie respiratoire, la grippe 		</td>
         <td> 			virus 		</td>
     </tr>
     <tr>
         <td> 			VIH 		</td>
         <td> 			Être humain 		</td>
-        <td> 			23nm 		</td>
+        <td> 			23 nm 		</td>
         <td> 			Cause le SIDA 		</td>
         <td> 			virus 		</td>
     </tr>
     <tr>
         <td> 			Ferments lactiques 		</td>
         <td> 			Lait 		</td>
-        <td> 			2545nm 		</td>
+        <td> 			2545 nm 		</td>
         <td> 			Transforment le lait en fromage 		</td>
         <td> 			Bactéries 		</td>
     </tr>
     <tr>
         <td> 			Escherichia coli 		</td>
         <td> 			Être humain 		</td>
-        <td> 			1818nm 		</td>
+        <td> 			1818 nm 		</td>
         <td> 			Généralement inoffensives 		</td>
         <td> 			Bactéries 		</td>
     </tr>
     <tr>
         <td> 			Staphylocoques dorés 		</td>
         <td> 			Être humain 		</td>
-        <td> 			545nm 		</td>
-        <td> 			Causent des intoxications alimentaires, infections cutanées, et 			des pneumonies&nbsp;&nbsp;			 		</td>
+        <td> 			545 nm 		</td>
+        <td> 			Causent des intoxications alimentaires, infections cutanées, et des pneumonies </td>
         <td> 			Bactéries 		</td>
     </tr>
     <tr>
         <td> 			Virus de la mosaïque du tabac 		</td>
         <td> 			Plantes 		</td>
-        <td> 			114nm 		</td>
+        <td> 			114 nm 		</td>
         <td> 			Causent des maladies aux végétaux 		</td>
         <td> 			Virus 		</td>
     </tr>
     <tr>
         <td> 			SARS-CoV2 		</td>
         <td> 			Être humain 		</td>
-        <td> 			142nm 		</td>
-        <td> 			Cause la Covid 19 		</td>
+        <td> 			142 nm 		</td>
+        <td> 			Cause la COVID 19 		</td>
         <td> 			Virus 		</td>
     </tr>
     <tr>
         <td> 			Levures 		</td>
         <td> 			fruits/écorces 		</td>
-        <td> 			5µm 		</td>
+        <td> 			5 µm 		</td>
         <td> 			Permettent la fabrication du pain 		</td>
         <td> 			Champignons 		</td>
     </tr>

@@ -52,7 +52,7 @@
 
 
 ??? abstract "Bilan"
-    Lorsque le rapport sexuel a lieu quelques jours avant ou après l’ovulation, un spermatozoïde peut s’unir avec l’ovule : c’est la  fécondation.
+    Lorsque le rapport sexuel a lieu quelques jours avant ou après l’ovulation, un spermatozoïde peut s’unir avec l’ovule : c’est la fécondation.
 
     Cette union permet la formation de la *cellule-œuf*. Cette cellule-œuf se divise de nombreuses fois pour former un *embryon*.
 
@@ -164,9 +164,9 @@
 
 La sexualité fait partie du développement normal de tout être humain.
 C’est une activité intime qui engage la responsabilité des partenaires.
-Les premiers désirs sexuels apparaissent à la puberté. Ils sont dirigés vers un individu d’un autre sexe (hétérosexualité) et/ou du même sexe (homosexualité). La sexualité ne se résume pas à la pénétration mais englobe l’ensemble de la relation au corps de l’autre. Site d’information : [www.onsexprime.fr](http://www.onsexprime.fr/)
+Les premiers désirs sexuels apparaissent à la puberté. Ils sont dirigés vers un individu d’un autre sexe (hétérosexualité) et/ou du même sexe (homosexualité). La sexualité ne se résume pas à la pénétration, mais englobe l’ensemble de la relation au corps de l’autre. Site d’information : [www.onsexprime.fr](http://www.onsexprime.fr/)
 
-L’orientation sexuelle, qui est attirance affective et sexuelle envers une personne  de même sexe, de sexe opposé ou les deux, relève de l’intimité des personnes. Les discriminations contre les personnes, en raison de leur orientation sexuelle (par exemple homophobie) sont punies par la loi.
+L’orientation sexuelle, qui est attirance affective et sexuelle envers une personne de même sexe, de sexe opposé ou les deux, relève de l’intimité des personnes. Les discriminations contre les personnes, en raison de leur orientation sexuelle (par exemple homophobie) sont punies par la loi.
 
 ![](Pictures/dimensionSexe.gif)
 

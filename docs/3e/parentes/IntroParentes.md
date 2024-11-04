@@ -1,4 +1,4 @@
-# Séquence : Evolution des êtres vivants
+# Séquence : Évolution des êtres vivants
 
 !!! note-prof
     si besoin d'infos
@@ -21,7 +21,7 @@
 
 
 ??? abstract "Bilan"
-    La classification des êtres vivants et fondée sur des liens de parentés entre les êtres vivants. Les caractéristiques communes sont transmises de façon héréditaire par un ancêtre commun à tous ses descendants.
+    La classification des êtres vivants est fondée sur des liens de parentés entre les êtres vivants. Les caractéristiques communes sont transmises de façon héréditaire par un ancêtre commun à tous ses descendants.
 
     Ils sont regroupés en fonction des caractères qu’ils partagent.
     Plus deux espèces partagent des caractéristiques communes donc d’ancêtres en commun, plus elles sont apparentées (proches).

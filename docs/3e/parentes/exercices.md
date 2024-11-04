@@ -42,11 +42,11 @@ Les tétrapodes sont un groupe dont les espèces possèdent 4 membres.
     5. Compter le nombre d’ancêtres communs entre le crocodile et l’iguane et entre le crocodile et la colombe. De qui est le plus proche du crocodile ?
     6. Quel est le problème pour encadrer le groupe des reptiles ?
 
-**Document 1  Les groupes dans les arbres de parentés.**
+**Document 1 Les groupes dans les arbres de parentés.**
 
 Les scientifiques pour former un groupe, dans un arbre de parenté, regroupe un ancêtre et tous ses descendants.
 
-**Document 2  Les reptiles.**
+**Document 2 Les reptiles.**
 
 Les reptiles sont considérés comme des vertébrés tétrapodes ayant la peau recouverte d’écailles et ne régulant la température de leur corps que par leur comportement, on considère comme des reptiles, l’alligator, le boa, l’iguane et la tortue, mais pas la colombe ou la pie.
 Actuellement ce groupe n’existe pas dans la classification évolutive. En revanche, les oiseaux forment un groupe d’espèces caractérisées par la présence de plumes ainsi que d’un orteil tourné vers l’arrière.

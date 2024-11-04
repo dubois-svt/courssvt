@@ -20,7 +20,7 @@
 <div markdown style="display:flex; flex-direction:row;">
 <div markdown style="display:flex; flex: 1 1 0; flex-direction:column;">
 
-Lors de la multiplication cellulaire, l’ADN est copié. Il arrive que cette copie comporte des erreurs appelées mutations.  Cela peut se produire naturellement.
+Lors de la multiplication cellulaire, l’ADN est copié. Il arrive que cette copie comporte des erreurs appelées mutations. Cela peut se produire naturellement.
 
 Des agents mutagènes sont des éléments qui peuvent provoquer l’apparition de mutation. Les rayons UV, les rayons X, certaines substances contenues dans le tabac, la radioactivité sont des agents mutagènes.
 
@@ -37,9 +37,9 @@ Des agents mutagènes sont des éléments qui peuvent provoquer l’apparition d
 
 ![](pictures/devenirMutations.png)
 
-À chaque division cellulaire, il y a une chance sur un milliard qu’un gène ait une mutation.  Les cellules germinales sont les cellules qui vont former les cellules reproductrices (ou gamètes) les cellules somatiques sont toutes les autres cellules.
+À chaque division cellulaire, il y a une chance sur un milliard qu’un gène ait une mutation. Les cellules germinales sont les cellules qui vont former les cellules reproductrices (ou gamètes) les cellules somatiques sont toutes les autres cellules.
 
-**Document 3 : Effets des UV sur les cellules.**
+**Document 3 Effets des UV sur les cellules.**
 
 Les rayons ultra-violets (UV) du soleil peuvent endommager la peau et être responsables de l’apparition de cancers. Les UV modifient l’ADN des cellules de la peau en provoquant des mutations, les UV sont des agents mutagènes. Dans certains cas, ces mutations vont entrainer une multiplication cellulaire non contrôlée, ce qui va entrainer des multiplications rapides et nombreuses et donc un amas de cellules. Cet amas est appelé tumeur ce qui peut entrainer le développement de cancers.
 
