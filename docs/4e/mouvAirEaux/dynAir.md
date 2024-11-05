@@ -6,11 +6,11 @@
 
 
 !!! warning "Consignes"
-    1. Faire un schéma des mouvements d'air dans la modélisation.
-    2. Expliquer dans quelle direction va aller le vent sur le document 1.
+    1. Faire un schéma des mouvements d'air dans la modélisation. (2,5 points)
+    2. Expliquer dans quelle direction va aller le vent sur le document 1. (2,5 points)
 
 ??? bug "critères de réussite"
-    - indiquer les mouvements verticaux dans le modèle
+    - indiquer les mouvements verticaux dans le modèle 
     - dans le modèle, indiquer où est la dépression et où est l'anticyclone
     - indiquer dans quelle direction se déplacent les vents dans le modèle.
     - indiquer comment se déplace les vents sur la carte des pressions.
@@ -36,3 +36,13 @@ L'air froid, plus dense, est plus lourd que l'air chaud. L'air froid descend et 
 
 2. Allumer le cône d'encens.
 
+??? note-prof 'barème
+    1. 
+       1. 0,5 schéma
+       2. 0,25 titre
+       3. 0,5 2 Flèches verticales
+       4. 0,5 flèche horizontale
+       5. 0,25 légendes
+    2.  v
+        1.  1 flèche sur la carte
+        2.  1,5 explication

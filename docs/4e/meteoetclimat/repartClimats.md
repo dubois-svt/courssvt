@@ -2,7 +2,7 @@
 
 !!! note "Compétences"
 
-    - Trouver et utiliser des informations
+    - Argumenter
     - Manipuler, expérimenter
 
 
@@ -48,13 +48,14 @@ Matériel :
 - carton percé ;
 - feuille à petits carreaux.
 
-1. Placer la lampe sur le plateau élévateur et un ballon à une vingtaine de cm ;  
-2. Placer le carton percé entre la lampe et le ballon de façon avoir une tache lumineuse nette sur le ballon ;   
+1. Placer la lampe sur la potence et un ballon à une dizaine de cm ;  
+2. Placer le carton percé entre la lampe et le ballon de façon avoir une tache lumineuse nette sur le ballon ;
+   **Attention à partir de maintenant le ballon, la lampe et le carton devront rester à la même place**   
 3. Régler la hauteur de la lampe afin de placer la tache lumineuse dans la zone 1 (voir doc. 1);
 4. Placer une feuille sur la zone éclairée et tracer le contour de la tâche lumineuse
 5. Compter le nombre approximatif de petits carreaux à l’intérieur de la tache ;  
-6.  Compléter le tableau (voir doc. 4) à l’aide des observations ;  
-7.  Répéter les opérations 5 à 10 pour la zone 2 (voir doc. 1).
+6. Compléter le tableau (voir doc. 4) à l’aide des observations ;  
+   **Répéter les opérations 3 à 6 pour la zone 2 (voir doc. 1).**
 
 **Document 3 : du modèle à la réalité (à compléter)**
 <table>

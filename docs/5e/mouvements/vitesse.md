@@ -27,11 +27,12 @@ On dira alors que :
 - Si la vitesse diminue alors le mouvement est ralenti.
 
 
-**Document 2 Chronophotographie**
 
 <div markdown style="display:flex; flex-direction:row;">
 
-<div style="display:flex; flex-direction:column;">
+<div markdown style="display:flex; flex-direction:column;">
+
+**Document 2 Chronophotographie**
 
 Définition : méthode d’analyse d’un mouvement qui est décomposé par une succession de photographies prises à échelle de temps régulier. La distance entre deux positions consécutives dépend de la vitesse de l’objet. Dans le cas d’un mouvement uniforme (c’est-à-dire avec une vitesse constante), la distance est constante. Si la distance augmente, c’est que la vitesse augmente et si la distance diminue, c’est que la vitesse diminue.
 
@@ -81,10 +82,11 @@ La vitesse instantanée est la vitesse d’un objet à un instant donné. La dur
 
 
 
-**Document 5 Un trajet sur Dijon**
 <div markdown style="display:flex; flex-direction:row;">
 
-<div style="display:flex; flex-direction:column;">
+<div markdown style="display:flex; flex-direction:column;">
+
+**Document 5 Un trajet sur Dijon**
 
 Un automobiliste circule sur la route N274 aux abords de Dijon. Cette route possède un radar tronçon.
 
