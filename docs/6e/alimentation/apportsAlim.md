@@ -76,7 +76,7 @@ Les fruits à coque non salés (et non sucrés et sans chocolat) sont riches en 
 
 Faire de l’activité physique permet d’améliorer votre qualité de vie et votre bien-être et, à plus long terme, vous aide à prévenir certaines maladies et votre forme.
 
-Les féculents (pâtes, pain, riz, semoule, pommes de terre…) peuvent être consommés tous les jours. Il est recommandé de les consommer complets ou semi-complets quand ils sont à base de céréales, car ils sont naturellement riches en fibres. Les féculents nous apportent ce qu’on appelle des « glucides complexes .» 
+Les féculents (pâtes, pain, riz, semoule, pommes de terre…) peuvent être consommés tous les jours. Il est recommandé de les consommer complets ou semi-complets quand ils sont à base de céréales, car ils sont naturellement riches en fibres. Les féculents nous apportent ce qu’on appelle des « glucides complexes.» 
 
 Le poisson apporte des protéines ainsi que du fer. De plus, les poissons gras sont riches en Oméga-3. 
 
