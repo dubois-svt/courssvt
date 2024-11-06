@@ -23,7 +23,17 @@
 
 [Activité Réservoirs et utilisation de l'eau](../reservoiretutilisationEau)
 
-## Séance 2 : Une ressource naturelle indispensable, l'eau
+## Séance 2 : L'eau virtuelle
+
+!!! question "Problématique"
+    Combien d'eau virtuelle est présente dans notre alimentation ?
+
+
+
+[Activité Eau virtuelle](../eauVirtu)
+
+
+## Séance 3 : Une ressource naturelle indispensable, l'eau
 
 !!! question "Problématique"
     Comment expliquer que l’eau soit une ressource essentielle pour l’humanité ?
