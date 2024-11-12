@@ -123,14 +123,10 @@
 
 
 ??? note-prof "Bilan"
-    Définition énergie fossile : Énergie dont la source a été formée par l’accumulation d’anciens êtres vivants. Elles ne sont pas renouvelables à l’échelle humaine. (exemple : charbon, gaz, pétrole)
-
-    La présence de restes organiques dans les combustibles fossiles montre qu’ils sont issus d’une biomasse végétale. Des restes d’organismes chlorophylliens échappe à la décomposition et se transforme en combustible fossile.
-
-    Cette transformation se fait sur des centaines de millions d’années donc elles ne se forment pas sur une échelle de temps humaine. Les réserves actuelles ne sont pas infinies et celles qui sont accessibles pourraient s’épuiser.
+    Une énergie fossile est une énergie dont la source a été formée par l’accumulation d’anciens êtres vivants. Ce sont le pétrole, le gaz et le charbon. Cette transformation se fait sur des centaines de millions d’années donc elles ne se forment pas sur une échelle de temps humaine. Les réserves actuelles ne sont pas infinies et celles qui sont accessibles pourraient s’épuiser.
 
     L’exploitation de ces énergies a un impact important sur l’environnement, le dioxyde de carbone libéré va augmenter l’effet de serre et donc le réchauffement climatique.
 
-    Le changement climatique va provoquer une élévation du niveau des mers et une augmentation de la fréquence des phénomènes météorologiques exceptionnels.
+    Le changement climatique va provoquer une élévation du niveau des mers entre 40cm et 1m et une augmentation de la fréquence des phénomènes climatiques et météorologiques exceptionnels.
 
-    On assistera aussi à une modification de la répartition mondiale des précipitations qui aura pour des conséquences importantes sur la disponibilité en eau : sécheresses et inondations plus fréquentes.
+    L'élévation du niveau de l'eau va entrainer une disparition de certaines zones habitables et les catastrophes naturelles vont rendre certaines zones plus difficilement habitables. Cela va causer des mouvements des populations et de nombreux réfugiés devront changer de zones d'habitations.
