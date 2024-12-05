@@ -5,7 +5,7 @@
     Trouver et exploiter des informations 
 
 !!! warning "Consignes"
-    Expliquer en quelques lignes, pourquoi les deux points de vue (Soleil ou Terre au centre) se valent ?
+    Expliquer en quelques lignes, pourquoi l'on peut dire que le Soleil tourne autour de la Terre ou que la Terre tourne autour du Soleil.
 
 
 

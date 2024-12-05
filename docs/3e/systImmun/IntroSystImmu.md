@@ -29,18 +29,32 @@ Par Laura Thouny, L’express, publié le 16/07/2010
 
 
 
-
 ??? abstract "Bilan"
-    Les leucocytes ou globules blancs, sont des cellules sanguines intervenant dans la réponse de l’organisme face aux infections, la réponse immunitaire. Ils font partie du système immunitaire.
+    === "De quoi parler dans le bilan ? Quels mots clés ?"
 
-    Il existe deux types de leucocytes :
+    === "Bilan à trous"
+        Les ________________ ou globules blancs, sont des cellules sanguines intervenant dans la réponse de l’organisme face aux infections, la réponse immunitaire. Ils font partie du système immunitaire.
 
-    -   Lymphocyte
-    -   Phagocyte
+        Il existe deux types de leucocytes :
 
-    Le système immunitaire est l’ensemble des acteurs intervenant pour lutter contre les éléments étrangers.
+        -   ________________
+        -   ________________
 
-    La contamination est l’entrée de micro-organisme dans le corps.
+        Le système immunitaire est l’ensemble des acteurs intervenant pour lutter contre les éléments étrangers.
+
+        La contamination est l’entrée de micro-organisme dans le corps.
+
+    === "Bilan"
+        Les leucocytes ou globules blancs, sont des cellules sanguines intervenant dans la réponse de l’organisme face aux infections, la réponse immunitaire. Ils font partie du système immunitaire.
+
+        Il existe deux types de leucocytes :
+
+        -   Lymphocyte
+        -   Phagocyte
+
+        Le système immunitaire est l’ensemble des acteurs intervenant pour lutter contre les éléments étrangers.
+
+        La contamination est l’entrée de micro-organisme dans le corps.
 
 
 ## Séance 2 : Réaction à l'infection
@@ -63,13 +77,29 @@ Les virus ont besoin de nos cellules pour se multiplier. Ils vont entrer à l’
 
 
 ??? abstract "Bilan"
-    Après une contamination, certains leucocytes (=globules blancs), cellules sanguines du système immunitaire vont détecter les éléments extérieurs (virus ou bactéries) et une réaction inflammatoire va se produire très rapidement (gonflement, rougeur, chaleur et douleur).
+    === "De quoi parler dans le bilan ? Quels mots clés ?"
 
-    Les phagocytes qui sont leucocytes vont sortir des vaisseaux sanguins.
+    === "Bilan à trous"
+        Après la contamination, les microbes vont se multiplier dans l'organisme, c'est l'________________.
 
-    Ces phagocytes vont absorber et digérer les éléments étrangers pour les détruire. C’est la phagocytose.
+        Après une contamination, certains leucocytes (=globules blancs), cellules sanguines du système immunitaire vont détecter les éléments extérieurs (virus ou bactéries) et une ________________ va se produire très rapidement (gonflement, rougeur, chaleur et douleur).
 
-    C’est une réaction rapide et non spécifique (réaction contre n’importe quel élément étranger).
+        Les ________________ qui sont leucocytes vont sortir des vaisseaux sanguins.
+
+        Ces phagocytes vont absorber et digé________________ les éléments étrangers pour les ________________. C’est la phagocytose.
+
+        C’est une réaction rapide et non spécifique (réaction contre n’importe quel élément étranger).
+
+    === "Bilan"
+        Après la contamination, les microbes vont se multiplier dans l'organisme, c'est l'infection.
+
+        Après une contamination, certains leucocytes (=globules blancs), cellules sanguines du système immunitaire vont détecter les éléments extérieurs (virus ou bactéries) et une réaction inflammatoire va se produire très rapidement (gonflement, rougeur, chaleur et douleur).
+
+        Les phagocytes qui sont leucocytes vont sortir des vaisseaux sanguins.
+
+        Ces phagocytes vont absorber et digérer les éléments étrangers pour les détruire. C’est la phagocytose.
+
+        C’est une réaction rapide et non spécifique (réaction contre n’importe quel élément étranger).
 
 
 
@@ -84,17 +114,30 @@ Les virus ont besoin de nos cellules pour se multiplier. Ils vont entrer à l’
 
 
 ??? abstract "Bilan"
+    === "De quoi parler dans le bilan ? Quels mots clés ?"
+
+    === "Bilan à trous"
+        Les micro-organismes portent à leur surface des molécules, les ______________________, qui provoquent l’activation du système immunitaire.
+
+        Après détection d’un micro-organisme étranger, les lymphocytes vont être ______________________ et se ______________________.
+
+        Les lymphocytes T tueurs reconnaissent et détruisent  spécifiquement les cellules infectées par les virus portant l’antigène reconnu.
+
+        Ce sont des réactions immunitaires ______________________ et ______________________.
 
 
-    Les micro-organismes portent à leur surface des molécules, les antigènes, qui provoquent l’activation du système immunitaire.
 
-    Après détection d’un micro-organisme étranger, les lymphocytes vont être activés et se multiplier.
+    === "Bilan"
+    
+        Les micro-organismes portent à leur surface des molécules, les antigènes, qui provoquent l’activation du système immunitaire.
 
-    Les lymphocytes T tueurs reconnaissent et détruisent  spécifiquement les cellules infectées par les virus portant l’antigène reconnu.
+        Après détection d’un micro-organisme étranger, les lymphocytes vont être activés et se multiplier.
 
-    Ce sont des réactions immunitaires lentes et spécifiques.
+        Les lymphocytes T tueurs reconnaissent et détruisent  spécifiquement les cellules infectées par les virus portant l’antigène reconnu.
 
+        Ce sont des réactions immunitaires lentes et spécifiques.
 
+??? abstract "Infos"
     ![](Pictures/lymphocyteT_2.jpg)
     ![](Pictures/lymphocyteT_3.jpg)
     ![](Pictures/localisationGanglions.png)

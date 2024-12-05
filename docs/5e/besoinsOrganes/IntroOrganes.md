@@ -26,14 +26,27 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
 
 
 ??? abstract "Bilan"
-    Lors d’un effort physique, les besoins des muscles en nutriments et en dioxygène augmentent.
+    === "De quoi parler dans le bilan ? Quels mots clés ?"
+
+    === "Bilan à trous"
+        Lors d’un effort physique, les besoins des muscles en nutriments et en dioxygène __________________.
 
 
-    Pour cela :
+        Pour cela :
 
-    - La fréquence respiratoire augmente, permettant d’enrichir le sang en dioxygène.
-    - La fréquence cardiaque augmente, afin de faire davantage circuler ce sang oxygéné dans le corps
-    - Les modifications du débit sanguin permettent d’orienter davantage ce sang vers les muscles qui en ont besoin en plus grande quantité.
+        - La __________ augmente, permettant d’enrichir le sang en dioxygène.
+        - La __________________ augmente, afin de faire davantage circuler ce sang oxygéné dans le corps
+        - Les modifications du ____________________ permettent d’orienter davantage ce sang vers les muscles qui en ont besoin en plus grande quantité.
+        - 
+    === "Bilan"
+        Lors d’un effort physique, les besoins des muscles en nutriments et en dioxygène augmentent.
+
+
+        Pour cela :
+
+        - La fréquence respiratoire augmente, permettant d’enrichir le sang en dioxygène.
+        - La fréquence cardiaque augmente, afin de faire davantage circuler ce sang oxygéné dans le corps
+        - Les modifications du débit sanguin permettent d’orienter davantage ce sang vers les muscles qui en ont besoin en plus grande quantité.
 
 
 ## Séance 2 : Les échanges gazeux des animaux.
@@ -47,12 +60,24 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
 
 
 ??? abstract "Bilan"
-    La respiration est un échange gazeux avec le milieu
-    Les organismes prélèvent du dioxygène dans leur milieu (aérien ou aquatique) et rejettent du dioxyde de carbone : c'est la respiration.
+    === "De quoi parler dans le bilan ? Quels mots clés ?"
 
-    Des organes sont spécialisés dans les échanges gazeux
-    La respiration est possible dans l'eau grâce à des branchies. Les animaux respirent dans l'air grâce à des poumons ou à des trachées.
-    Les trachées amènent directement l'air jusqu'aux organes, tandis que les poumons et les branchies sont des surfaces d'échange des gaz entre l'extérieur et le sang.
+    === "Bilan à trous"
+        La ____________ est un échange gazeux avec le milieu
+        Les organismes prélèvent du ____________ dans leur milieu (aérien ou aquatique) et rejettent du __________________: c'est la respiration.
+
+        Des organes sont spécialisés dans les échanges gazeux
+        La respiration est possible dans l'eau grâce à des ____________________. Les animaux respirent dans l'air grâce à des __________________ ou à des ________________________.
+        Les trachées amènent directement l'air jusqu'aux organes, tandis que les poumons et les branchies sont des surfaces d'échange des gaz entre l'extérieur et le sang.
+
+    === "Bilan"
+
+        La respiration est un échange gazeux avec le milieu
+        Les organismes prélèvent du dioxygène dans leur milieu (aérien ou aquatique) et rejettent du dioxyde de carbone : c'est la respiration.
+
+        Des organes sont spécialisés dans les échanges gazeux
+        La respiration est possible dans l'eau grâce à des branchies. Les animaux respirent dans l'air grâce à des poumons ou à des trachées.
+        Les trachées amènent directement l'air jusqu'aux organes, tandis que les poumons et les branchies sont des surfaces d'échange des gaz entre l'extérieur et le sang.
 
 
 ## Séance 3 : L’approvisionnement des organes des animaux.

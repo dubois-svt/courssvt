@@ -51,7 +51,7 @@ Cette réaction s’accompagne d’un gonflement, d’une rougeur et d’une au
 ![](Pictures/vaisseauSanguinInfla.png)
 </div>
 <div markdown style="display: flex; flex: 2 1 0; flex-direction: column;">
-Lors de l’infection, des molécules sont libérées, cela va entraîner une dilation des vaisseaux sanguins (un gonflement) et attirés des leucocytes (= globules blancs). Les leucocytes présents dans le sang vont traverser la paroi des vaisseaux sanguins, accompagnés d’un peu de plasma sanguin (=partie liquide du sang). Tous ces phénomènes vont entraîner une rougeur, un gonflement et de la chaleur au niveau de la zone infectée.
+Lors de l’infection, des molécules sont libérées, cela va entraîner une dilatation des vaisseaux sanguins (un gonflement) et attirés des leucocytes (= globules blancs). Les leucocytes présents dans le sang vont traverser la paroi des vaisseaux sanguins, accompagnés d’un peu de plasma sanguin (=partie liquide du sang). Tous ces phénomènes vont entraîner une rougeur, un gonflement et de la chaleur au niveau de la zone infectée.
 
 </div></div>
 

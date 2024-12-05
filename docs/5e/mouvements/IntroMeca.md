@@ -121,6 +121,9 @@ Un phénomène que nous pouvons voir tous les jours, c'est le lever et le couche
 !!! question "Problématique"
     Pourquoi dit-on alors que c'est la Terre qui tourne autour du Soleil ?
 
+**Document 1 mouvement depuis deux points de vue différents**
+
+<iframe title="Mouvement Tourniquet" width="1020" height="630" src="https://tube-sciences-technologies.apps.education.fr/videos/embed/3751319f-b6f6-48ba-aa71-75c7c4594c3e" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 
 [Activité Le référentiel](../referentiel)
 

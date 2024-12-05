@@ -374,9 +374,9 @@
   </tbody>
 </table>
 
-température moyennes hivernales québec et islande
+températures moyennes hivernales québec et islande
 ![alt text](image.png)
-précipitation moyennes hivernales québec et islande
+Précipitations moyennes hivernales québec et islande
 
  ![alt text](image-2.png)
 
