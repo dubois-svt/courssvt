@@ -6,7 +6,8 @@
 
 !!! warning "Consignes"
 
-    Explique quelles peuvent être les conséquences des activités humaines et  du changement  climatique sur les espèces marines et sur certains arbres en France.
+    1. Explique quelles peuvent être les conséquences du changement  climatique sur les espèces marines.
+    2. Explique quelles peuvent être les conséquences du changement  climatique sur les pins en France.
     
 ??? bug "Critères de réussite"
 
