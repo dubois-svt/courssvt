@@ -3,16 +3,14 @@
 
 ## Compétences travaillées dans la séquence
 - Retenir des idées essentielles d’une leçon
-- Formuler une problématique
-- Argumenter
 - Trouver et exploiter des informations
-- Proposer une démarche expérimentale
 - Utiliser des outils mathématiques
 - Manipuler, expérimenter
 - Analyser des résultats
-- Organiser un travail en groupe
 - Réaliser un schéma, un graphique
-- Utiliser l'outil numérique
+- Utiliser des outils d'observation
+- Argumenter
+
 
 ## Site internet
 
@@ -24,13 +22,27 @@
 <div markdown class="flashcard">
 
 1. 
-    - question
-    - Une ampoule
+    - Quels sont les deux types de leucocytes mentionnés dans le cours ?
+    - Les deux types de leucocytes mentionnés sont les lymphocytes et les phagocytes.
 2. 
-    - Lorem ipsum ?
-    - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam non diam ut quam vehicula efficitur sit amet vitae nisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed at rutrum dui.
+    - Qu'est-ce que la contamination selon le texte ?
+    - La contamination est l'entrée de micro-organismes dans le corps.
 3. 
-    - Question
-    - Réponse
-
+    - Quelle est la première réaction du corps face à une infection ?
+    - La première réaction du corps face à une infection est la réaction inflammatoire.
+4.  
+    - Que font les phagocytes lors d'une infection ?
+    - Les phagocytes absorbent et digèrent les éléments étrangers pour les détruire.
+5.  
+    - Quelles sont les caractéristiques d'une réaction inflammatoire ?
+    - Les caractéristiques d'une réaction inflammatoire sont le gonflement, la rougeur, la chaleur et la douleur.
+6.  
+    - Quel rôle jouent les lymphocytes T tueurs dans le système immunitaire ?
+    - Les lymphocytes T tueurs reconnaissent et détruisent spécifiquement les cellules infectées par les virus.
+7.  
+    - Qu'est-ce qu'un antigène ?
+    - Un antigène est une molécule portée à la surface des micro-organismes qui provoque l'activation du système immunitaire.
+8.   
+   - Quelle est la différence entre une réaction immunitaire spécifique et une réaction non spécifique ?
+   - Une réaction immunitaire spécifique cible des éléments précis, tandis qu'une réaction non spécifique agit contre n'importe quel élément étranger.
 </div>

@@ -3,7 +3,7 @@
 
 !!! note "Compétences"
 
-    - Interpréter 
+    - Argumenter 
     - Utiliser des outils d'observation
 
 !!! warning "Consignes"

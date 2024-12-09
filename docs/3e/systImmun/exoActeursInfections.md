@@ -2,7 +2,7 @@
 
 !!! note "Compétences"
 
-    Interpréter 
+    - Argumenter 
 
 !!! warning "Consignes"
 
