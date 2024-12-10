@@ -15,16 +15,20 @@
 ??? bug "Critères de réussite"
     - 
 
-
+<div style="page-break-after: always;">
 **Document 1 : Une découverte historique.**
 
 En 1928, le médecin anglais Alexander Fleming cultive pour les étudier des bactéries pathogènes. Un jour, il constate que des cultures ont été contaminées par un champignon microscopique (*Penicillium notatum*) et que des bactéries à proximité du champignon ont disparu. Avant de jeter ces cultures devenues inutilisables, il les observe et il émet l’hypothèse que le Penicillium produit une substance qui empêche le développement de la bactérie. Cette hypothèse se vérifiera. C’est la découverte du premier antibiotique : la pénicilline.
+</div>
+<div style="page-break-after: always;">
 
 **Document 2 : Effet de pénicilline sur les staphylocoques (bactéries)**
 
 Les antibiotiques vont tuer les bactéries
 
 ![](pictures/photoEffetAntibioBact.png){: style="height:300px;"}
+</div>
+<div style="page-break-after: always;">
 
 **Document 3 : La résistance aux antibiotiques**
 
@@ -32,12 +36,17 @@ Dans une population de bactéries, en présence d’antibiotique, seules les bac
 
 Par ailleurs, un antibiotique peut tuer des bactéries constituant le microbiote digestif qui nous protège de certaines contaminations et qui participe à une bonne digestion.
 
+</div>
+<div style="page-break-after: always;">
+
 **Document 4 : Entretien avec Nadia Baron, médecin généraliste**
 
 En tant que médecin, quel message souhaitez-vous faire passer ?
 
 Les antibiotiques sont efficaces contre les bactéries, mais pas contre les virus. Le problème aujourd’hui, c’est le développement des résistances bactériennes. Il y a 15 ans, pour guérir une otite, on prescrivait une dose d’antibiotiques de 60 à 70 mg/kg/jour, aujourd’hui la dose est de 90. Les bactéries résistantes nous obligent à augmenter des doses, on se rapproche des limites dans lesquelles apparaissent des effets secondaires. À plus long terme, c’est la menace de pandémies.
 
+</div>
+<div style="page-break-after: always;">
 
 **Document 5 : Deux campagnes de sensibilisation à l’usage des antibiotiques.**
 
@@ -48,6 +57,9 @@ Les antibiotiques sont efficaces contre les bactéries, mais pas contre les viru
 
 
 </div>
+
+</div>
+<div style="page-break-after: always;">
 
 **Document 6 : Un antibiogramme.**
 
@@ -67,6 +79,8 @@ L’efficacité de l’antibiotique est révélée par la réaction de la popula
 - Si la population se développe autour de la pastille d’antibiotique, cela signifie que l’antibiotique est inefficace.
 
 </div></div>
+</div>
+<div style="page-break-after: always;">
 
 **Document 7 : Un antibiogramme d’un patient.**
 
@@ -74,6 +88,8 @@ Un antibiogramme est fait pour connaître l’antibiotique à utiliser dans le c
 
 ![](pictures/Antibiogramme.png){: style="height:300px;"}
 
+</div>
+<div style="page-break-after: always;">
 
 ??? note-prof "correction"
 
