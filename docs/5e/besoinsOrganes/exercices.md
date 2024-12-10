@@ -1,7 +1,7 @@
 # Activité : Exercices sur l'effort physique
 
 
-## Exercice calculer une fréquence cardiaque à partir d'un électrocardiogramme
+## Exercice 1 calculer une fréquence cardiaque à partir d'un électrocardiogramme
 
 !!! warning "Consignes"
     Calculer les fréquences cardiaques des deux patients.

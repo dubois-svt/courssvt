@@ -43,6 +43,6 @@
     - Qu'est-ce qu'un antigène ?
     - Un antigène est une molécule portée à la surface des micro-organismes qui provoque l'activation du système immunitaire.
 8.   
-   - Quelle est la différence entre une réaction immunitaire spécifique et une réaction non spécifique ?
-   - Une réaction immunitaire spécifique cible des éléments précis, tandis qu'une réaction non spécifique agit contre n'importe quel élément étranger.
+    - Quelle est la différence entre une réaction immunitaire spécifique et une réaction non spécifique ?
+    - Une réaction immunitaire spécifique cible des éléments précis, tandis qu'une réaction non spécifique agit contre n'importe quel élément étranger.
 </div>

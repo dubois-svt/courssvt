@@ -89,17 +89,33 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
 
 
 ??? abstract "Bilan"
-    Les nutriments, les déchets et les gaz (dioxygène et dioxyde de carbone) sont transportés dans un liquide appelé sang ou hémolymphe.
-    Ce liquide circule dans un système circulatoire qui peut être fermé ou ouvert sur l'intérieur du corps de l'animal.
+    === "De quoi parler dans le bilan ? Quels mots clés ?"
 
-    Le sang circule dans un système fermé, des vaisseaux sanguins. Il y en a 3 types différents :
-    
-    - les artères qui amènent le sang du cœur vers les organes,
-    - les veines qui amènent le sang des organes au cœur
-    - les capillaires qui sont des vaisseaux sanguins fins dans les organes qui permettent les échanges.
+    === "Bilan à trous"
+        Les nutriments, les déchets et les gaz (dioxygène et dioxyde de carbone) sont transportés dans un liquide appelé ............... ou ...................
+        Ce liquide circule dans un système circulatoire qui peut être ............... ou ..................... sur l'intérieur du corps de l'animal.
 
-    Le liquide circulant est mis en mouvement par un muscle creux : le cœur.
-    En se relâchant, le cœur se remplit de liquide. En se contractant, le cœur propulse le liquide dans les artères.
+        Le sang circule dans un système fermé, des vaisseaux sanguins. Il y en a 3 types différents :
+        
+        - les ............... qui amènent le sang du cœur vers les organes,
+        - les ................... qui amènent le sang des organes au cœur
+        - les ........................... qui sont des vaisseaux sanguins fins dans les organes qui permettent les échanges.
+
+        Le liquide circulant est mis en mouvement par un muscle creux : le ...................
+        En se relâchant, le cœur se remplit de liquide. En se contractant, le cœur propulse le liquide dans les artères.
+        
+    === "Bilan"
+        Les nutriments, les déchets et les gaz (dioxygène et dioxyde de carbone) sont transportés dans un liquide appelé sang ou hémolymphe.
+        Ce liquide circule dans un système circulatoire qui peut être fermé ou ouvert sur l'intérieur du corps de l'animal.
+
+        Le sang circule dans un système fermé, des vaisseaux sanguins. Il y en a 3 types différents :
+        
+        - les artères qui amènent le sang du cœur vers les organes,
+        - les veines qui amènent le sang des organes au cœur
+        - les capillaires qui sont des vaisseaux sanguins fins dans les organes qui permettent les échanges.
+
+        Le liquide circulant est mis en mouvement par un muscle creux : le cœur.
+        En se relâchant, le cœur se remplit de liquide. En se contractant, le cœur propulse le liquide dans les artères.
 
     **Document 5 : Représentation schématique de la circulation sanguine**
     ![](pictures/schemaDoubleCirculation.png)
