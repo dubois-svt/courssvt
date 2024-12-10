@@ -1,9 +1,3 @@
-@media print {
-  .admonition.bug {
-      display: none; /* Cacher les éléments de type bug lors de l'impression */
-  }
-}
-
 .flashcard ol, .flashcard ul{list-style-type:none}
 
 
