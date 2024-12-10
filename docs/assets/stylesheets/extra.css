@@ -1,3 +1,9 @@
+@media print {
+    .admonition.note {
+        display: none; /* Cacher les éléments de type note lors de l'impression */
+    }
+}
+
 .flashcard ol, .flashcard ul{list-style-type:none}
 
 
