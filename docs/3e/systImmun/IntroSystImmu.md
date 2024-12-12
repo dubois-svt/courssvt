@@ -33,12 +33,12 @@ Par Laura Thouny, L’express, publié le 16/07/2010
     === "De quoi parler dans le bilan ? Quels mots clés ?"
 
     === "Bilan à trous"
-        Les ________________ ou globules blancs, sont des cellules sanguines intervenant dans la réponse de l’organisme face aux infections, la réponse immunitaire. Ils font partie du système immunitaire.
+        Les ......................... ou globules blancs, sont des cellules sanguines intervenant dans la réponse de l’organisme face aux infections, la réponse immunitaire. Ils font partie du système immunitaire.
 
         Il existe deux types de leucocytes :
 
-        -   ________________
-        -   ________________
+        -   ............................
+        -   ............................
 
         Le système immunitaire est l’ensemble des acteurs intervenant pour lutter contre les éléments étrangers.
 
@@ -80,13 +80,13 @@ Les virus ont besoin de nos cellules pour se multiplier. Ils vont entrer à l’
     === "De quoi parler dans le bilan ? Quels mots clés ?"
 
     === "Bilan à trous"
-        Après la contamination, les microbes vont se multiplier dans l'organisme, c'est l'________________.
+        Après la contamination, les microbes vont se multiplier dans l'organisme, c'est l'..........................
 
-        Après une contamination, certains leucocytes (=globules blancs), cellules sanguines du système immunitaire vont détecter les éléments extérieurs (virus ou bactéries) et une ________________ va se produire très rapidement (gonflement, rougeur, chaleur et douleur).
+        Après une contamination, certains leucocytes (=globules blancs), cellules sanguines du système immunitaire vont détecter les éléments extérieurs (virus ou bactéries) et une ........................ va se produire très rapidement (gonflement, rougeur, chaleur et douleur).
 
-        Les ________________ qui sont leucocytes vont sortir des vaisseaux sanguins.
+        Les ...................... qui sont leucocytes vont sortir des vaisseaux sanguins.
 
-        Ces phagocytes vont absorber et digé________________ les éléments étrangers pour les ________________. C’est la phagocytose.
+        Ces phagocytes vont absorber et .................... les éléments étrangers pour les ....................... C’est la phagocytose.
 
         C’est une réaction rapide et non spécifique (réaction contre n’importe quel élément étranger).
 
@@ -117,13 +117,14 @@ Les virus ont besoin de nos cellules pour se multiplier. Ils vont entrer à l’
     === "De quoi parler dans le bilan ? Quels mots clés ?"
 
     === "Bilan à trous"
-        Les micro-organismes portent à leur surface des molécules, les ______________________, qui provoquent l’activation du système immunitaire.
+        
+        Les micro-organismes portent à leur surface des molécules, les ................, qui provoquent l’activation du système immunitaire.
 
-        Après détection d’un micro-organisme étranger, les lymphocytes vont être ______________________ et se ______________________.
+        Après détection d’un micro-organisme étranger, les lymphocytes vont être ............... et se ...................
 
-        Les lymphocytes T tueurs reconnaissent et détruisent  spécifiquement les cellules infectées par les virus portant l’antigène reconnu.
+        Les lymphocytes T tueurs ............................  spécifiquement les cellules infectées par les virus portant l’antigène reconnu.
 
-        Ce sont des réactions immunitaires ______________________ et ______________________.
+        Ce sont des réactions immunitaires ..................... et .........................     
 
 
 
