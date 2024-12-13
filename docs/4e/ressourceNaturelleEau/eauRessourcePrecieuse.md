@@ -7,7 +7,7 @@
 
 !!! warning "Consignes"
 
-    A partir des documents et de l'activité précédente, présenter dans un audio de 3 minutes maximum, en quoi l'eau est importante, quel est l'état actuel de nos ressources en eau. Finir par une présentation de 2 solutions possibles pour l'avenir.
+    A partir des documents et des activités précédentes, présenter dans un audio de 3 minutes maximum, en quoi l'eau est importante, quel est l'état actuel de nos ressources en eau. Finir par une présentation de 2 solutions possibles pour l'avenir.
     
 ??? bug "Critères de réussite"
     - Indiquer l'utilité de l'eau

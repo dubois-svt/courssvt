@@ -3,18 +3,20 @@
 
 ## Compétences travaillées dans la séquence
 - Retenir des idées essentielles d’une leçon
-- Formuler une problématique
 - Argumenter
 - Trouver et exploiter des informations
-- Proposer une démarche expérimentale
 - Utiliser des outils mathématiques
-- Manipuler, expérimenter
 - Analyser des résultats
 - Organiser un travail en groupe
-- Réaliser un schéma, un graphique
-- Utiliser l'outil numérique
 
-## Site internet
+## A savoir faire 
+
+- retrouver des informations dans un texte
+- comparer des quantités ou des concentrations pour savoir si un élément est absorbé ou rejeté
+- calculer une fréquence cardiaque ou respiratoire à partir d'un graphique
+- Calculer un volume d'air inspiré à partir d'un graphique
+- Comparer des valeurs
+- Faire un graphique
 
 
 

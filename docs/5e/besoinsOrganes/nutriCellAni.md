@@ -2,7 +2,9 @@
 
 !!! note "Compétences"
 
-    Extraire et mettre en relation 
+    - Extraire et mettre en relation 
+    - Utiliser des outils mathématiques
+
 
 !!! warning "Consignes"
 

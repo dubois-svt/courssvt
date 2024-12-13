@@ -11,7 +11,22 @@
     - trouver des éléments expliquant le climat de Paris
     - trouver des éléments expliquant le climat de Montréal
 
-**Document 1 : deux régions du monde**
+**Document 1 : L'oscillation Nord-Atlantique**
+
+La circulation atmosphérique au-dessus de l'Atlantique nord montre une alternance rapide de dépressions et d'anticyclones. Cependant, on remarque qu'en moyenne on retrouve des dépressions dans la région islandaise et un anticyclone autour des Açores (îles protaugaises). 
+L'indice de l'oscillation nord-atlantique est donc calculé chaque année à partir de la différence de pression entre Lisbonne (Portugal) et Reykjavik (Islande), en prenant la variation de l'écart de pression entre ces deux points par rapport à la moyenne. 
+
+Un indice ONA très positif est relié à une circulation zonale (d'ouest en est) plus prononcée, entre les deux entités car la différence de pression causant les vents est plus grande. De plus, l'anticyclone plus important sur les Açores fait remonter la circulation vers le nord. Les hivers sont alors doux mais pluvieux sur l'Europe du Nord mais plus secs autour de la Méditerranée.
+
+Par contre, quand l'indice est négatif, la circulation d'ouest est plus faible ou plus au sud donnant des hivers froids et les dépressions se dirigent alors vers le bassin méditerranéen. Si l'indice est très négatif, les hivers sont particulièrement froids sur l'Europe du Nord et les précipitations sont déplacées vers la Mer Méditerranée et l'Afrique du Nord.
+
+Amérique
+
+L'influence sur l'Amérique du Nord est vérifiable. Dans la phase positive, sur le nord et l'est du Canada ainsi que sur le Groenland, les hivers sont plutôt froids et secs. Le long de la côte Est des États-Unis, ils sont plutôt doux et humides. En effet, un creux barométrique d'altitude se forme le long de la côte et les vents deviennent du sud-ouest, empêchent la descente d'air arctique le long de la côte.
+
+Par contre les hivers de phase négative, le flux zonal se retrouve plus au nord. Le Groenland voit des hivers plutôt doux et la côte Est du continent nord-américain subit plus d'épisodes froids et de chutes de neige, dont de nombreuses tempêtes du Cap Hatteras et continentales. Ainsi, l'hiver très neigeux connu en 2007-2008 sur la côte Est américaine, le Québec et les provinces de l'Atlantique, après plusieurs années très douces, est relié à un changement dans l'indice ONA de positif à négatif5. En effet, durant la phase négative les dépressions hivernales passent plus au sud que pendant la phase positive et la région n'entre pas dans le secteur chaud du système. Les précipitations restent donc surtout en neige5. 
+
+**Document 2 : deux régions du monde**
 
 <table border="1">
   <thead>
@@ -381,15 +396,4 @@ Précipitations moyennes hivernales québec et islande
  ![alt text](image-2.png)
 
  ![alt text](image-3.png)
-**Document 2 : Un couplage entre les vents et les courants océaniques dans l'Atlantique Nord**
 
-Dans l'Atlantique Nord, les vents d'ouest dominent au niveau du tropique du Cancer alors que les vents d'est dominent au niveau du cercle polaire.
-Deux types de courants océaniques se distinguent dans l'Atlantique Nord :
-- un courant froid le long des côtes canadiennes, le courant du Labrador
-- un courant chaud le long des côtes françaises, le Gulf Stream.
-![](Pictures/carteGulfStream.png)
-
-??? note-prof "Correction"
-
-    Montréal est situé plus bas que Paris, il devrait donc y faire plus chaud, mais on observe que la température moyenne est plus importante à Paris. 
-    Un courant océanique chaud passe au niveau de la France ce qui pourrait expliquer cette différence

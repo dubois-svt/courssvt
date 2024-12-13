@@ -26,7 +26,7 @@
 
 <div markdown style="display:flex; flex-direction:column;flex: 3 1 0;">
 
-Le virus SARS-CoV-2, responsable chez l'Homme de la maladie COVID-19, est issu de l'évolution de virus initialement présents chez d’autres espèces animales. 
+Le virus SARS-CoV-2, responsable chez l'Homme de la maladie COVID-19, est issu de l'évolution de virus initialement présents chez d’autres espèces animales. Ce virus fait environ 140nm.
 
 Les signes cliniques de la COVID-19 sont :
 
@@ -51,7 +51,7 @@ Les signes cliniques de la COVID-19 sont :
 <div markdown style="display:flex; flex-direction:column;flex: 2 1 0;">
 
 
-Les levures, comme *Saccharomyces cerevisiae*, sont des champignons unicellulaires. Ces levures sont beaucoup utilisées dans l’agroalimentaire et sont par exemple utile dans la fabrication du pain, des alcools. À l’état naturel, elles se trouvent principalement sur les fruits et les écorces.
+Les levures, comme *Saccharomyces cerevisiae*, sont des champignons unicellulaires. Elles sont d'une taille de 5µm environ. Ces levures sont beaucoup utilisées dans l’agroalimentaire et sont par exemple utile dans la fabrication du pain, des alcools. À l’état naturel, elles se trouvent principalement sur les fruits et les écorces.
 
 </div>
 <div markdown style="display:flex; flex-direction:column; flex: 1 1 0;">
@@ -97,20 +97,6 @@ Les levures, comme *Saccharomyces cerevisiae*, sont des champignons unicellulair
         <td> 			Bactéries 		</td>
     </tr>
     <tr>
-        <td> 			Escherichia coli 		</td>
-        <td> 			Être humain 		</td>
-        <td> 			1818 nm 		</td>
-        <td> 			Généralement inoffensives 		</td>
-        <td> 			Bactéries 		</td>
-    </tr>
-    <tr>
-        <td> 			Staphylocoques dorés 		</td>
-        <td> 			Être humain 		</td>
-        <td> 			545 nm 		</td>
-        <td> 			Causent des intoxications alimentaires, infections cutanées, et des pneumonies </td>
-        <td> 			Bactéries 		</td>
-    </tr>
-    <tr>
         <td> 			Virus de la mosaïque du tabac 		</td>
         <td> 			Plantes 		</td>
         <td> 			114 nm 		</td>
@@ -120,7 +106,7 @@ Les levures, comme *Saccharomyces cerevisiae*, sont des champignons unicellulair
     <tr>
         <td> 			SARS-CoV2 		</td>
         <td> 			Être humain 		</td>
-        <td> 			142 nm 		</td>
+        <td> 			140 nm 		</td>
         <td> 			Cause la COVID 19 		</td>
         <td> 			Virus 		</td>
     </tr>

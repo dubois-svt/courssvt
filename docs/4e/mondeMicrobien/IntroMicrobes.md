@@ -47,6 +47,7 @@ Par Laura Thouny, L’express, publié le 16/07/2010
         Les micro-organismes sont des êtres vivants microscopiques. Les micro-organismes sont présents dans tous les milieux de l’environnement. 
 
         Il y a trois grands groupes de micro-organismes :
+        
         - ........................;
         - ........................;
         - .........................

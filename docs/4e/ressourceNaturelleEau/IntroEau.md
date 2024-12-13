@@ -21,9 +21,17 @@
 !!! question "Problématique"
     Quelle est l'eau que nous consommons ?
 
-[Activité Réservoirs et utilisation de l'eau](../reservoiretutilisationEau)
+[Activité Réservoirs d'eau](../reservoirEau)
 
-## Séance 2 : L'eau virtuelle
+## Séance 2 : l'eau une ressource important pour l'humain
+
+!!! question "Problématique"
+    Comment notre consommation d'eau est-elle répartie
+
+[Activité Utilisation de l'eau](../utilisationEau)
+
+
+## Séance 3 : L'eau virtuelle
 
 !!! question "Problématique"
     Combien d'eau virtuelle est présente dans notre alimentation ?
@@ -33,7 +41,7 @@
 [Activité Eau virtuelle](../eauVirtu)
 
 
-## Séance 3 : Une ressource naturelle indispensable, l'eau
+## Séance 4 : Une ressource naturelle indispensable, l'eau
 
 !!! question "Problématique"
     Comment expliquer que l’eau soit une ressource essentielle pour l’humanité ?
