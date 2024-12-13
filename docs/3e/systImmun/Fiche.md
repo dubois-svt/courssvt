@@ -13,7 +13,11 @@
 
 
 ## Site internet
-
+- Décrire un phénomène sur une image ou un schéma
+- Utiliser des analyses sanguines pour décrire l'état de santé d'une personne
+- Retrouver des informations dans un texte
+- Calculer la taille d'un microbe à partir d'une photo
+- Comprendre le principe de réaction spécifique
 
 
 ## Flashcards

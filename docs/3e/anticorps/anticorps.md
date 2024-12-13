@@ -123,6 +123,7 @@ En février 2014, une épidémie de fièvre hémorragie due au virus Ebola s’e
 
 
 **Document 1 Tableau à compléter regroupant les informations issues des documents sur les anticorps**
+
 <table>
 <colgroup>
 <col style="width: 200px">
