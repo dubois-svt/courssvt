@@ -1,5 +1,5 @@
 @media print {
-    .admonition.note {
+    .admonition.bug {
         display: none; /* Cacher les éléments de type note lors de l'impression */
     }
 }
