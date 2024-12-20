@@ -36,9 +36,10 @@ Par Laura Thouny, L’express, publié le 16/07/2010
         Les micro-organismes sont des êtres vivants microscopiques. Les micro-organismes sont présents dans tous les milieux de l’environnement. 
 
         Il y a trois grands groupes de micro-organismes :
-        - champignons ;
-        - bactéries ;
-        - virus.
+        
+        - ........................;
+        - ........................;
+        - .........................
 
         Il existe beaucoup de micro-organismes différents. Certains sont utiles pour l’être humain, d’autres sont pathogènes (= responsable de maladies). 
 
@@ -47,12 +48,13 @@ Par Laura Thouny, L’express, publié le 16/07/2010
         Les micro-organismes sont des êtres vivants microscopiques. Les micro-organismes sont présents dans tous les milieux de l’environnement. 
 
         Il y a trois grands groupes de micro-organismes :
-        
-        - ........................;
-        - ........................;
-        - .........................
+        - champignons ;
+        - bactéries ;
+        - virus.
 
         Il existe beaucoup de micro-organismes différents. Certains sont utiles pour l’être humain, d’autres sont pathogènes (= responsable de maladies). 
+
+
 
 ## Séance 2 Le microbiote.
 

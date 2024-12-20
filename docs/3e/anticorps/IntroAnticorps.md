@@ -15,24 +15,44 @@ En février 2014, une épidémie de fièvre hémorragie due au virus Ebola s’e
 
 
 
+
 ??? abstract "Bilan"
-    lors d’une infection, les lymphocytes B qui ont été activés après la reconnaissance d’un antigène, vont se multiplier. 
+    === "De quoi parler dans le bilan ? Quels mots clés ?"
 
-    Ces lymphocytes B produisent des anticorps. Ces anticorps reconnaissent de manière spécifique l’antigène (fragment de micro-organisme entraînant une réponse immunitaire) qui a initié leur formation.
+    === "Bilan à trous"
+        Lors d’une infection, les lymphocytes B qui ont été activés après la reconnaissance d’un .........., vont se .............. 
 
-    La fixation d’un anticorps sur un antigène forme un complexe anticorps-antigène qui sera détruit par phagocytose.
+        Ces lymphocytes B produisent des .................. qui reconnaissent de manière spécifique l’........................ (fragment de micro-organisme entraînant une réponse immunitaire) qui a initié leur formation.
 
-    Ce sont des réactions immunitaires lentes et spécifiques.
+        La fixation d’un anticorps sur un antigène forme un complexe anticorps-antigène qui sera détruit par phagocytose.
 
-    Un individu est dit séropositif pour un micro-organisme donné s’il possède dans son sang (sérum) das anticorps spécifiques contre ce micro-organisme.
+        Ce sont des réactions immunitaires .............. et ................
 
-    Définition : 
+        Un individu est dit ................ pour un micro-organisme donné s’il possède dans son sang (sérum) des anticorps spécifiques contre ce micro-organisme.
 
-    Antigène : molécule (libre ou sur une cellule micro-organisme) reconnue par le système immunitaire.
+        Définition : 
 
-    Anticorps : molécules produites par des lymphocytes B qui se lient à un antigène spécifique.
+        Antigène : molécule (libre ou sur une cellule micro-organisme) reconnue par le système immunitaire.
 
-    [](https://www.youtube.com/watch?v=E9CRJqxgSvA)
+        Anticorps : molécules produites par des lymphocytes B qui se lient à un antigène spécifique.
+    === "Bilan "
+        Lors d’une infection, les lymphocytes B qui ont été activés après la reconnaissance d’un antigène, vont se multiplier. 
+
+        Ces lymphocytes B produisent des anticorps qui reconnaissent de manière spécifique l’antigène (fragment de micro-organisme entraînant une réponse immunitaire) qui a initié leur formation.
+
+        La fixation d’un anticorps sur un antigène forme un complexe anticorps-antigène qui sera détruit par phagocytose.
+
+        Ce sont des réactions immunitaires lentes et spécifiques.
+
+        Un individu est dit séropositif pour un micro-organisme donné s’il possède dans son sang (sérum) des anticorps spécifiques contre ce micro-organisme.
+
+        Définition : 
+
+        Antigène : molécule (libre ou sur une cellule micro-organisme) reconnue par le système immunitaire.
+
+        Anticorps : molécules produites par des lymphocytes B qui se lient à un antigène spécifique.
+
+        [](https://www.youtube.com/watch?v=E9CRJqxgSvA)
 
 
 ## Séance 2 : La vaccination
@@ -44,19 +64,31 @@ En février 2014, une épidémie de fièvre hémorragie due au virus Ebola s’e
 [Activité La vaccination](../vaccin)
 
 
+
 ??? abstract "Bilan"
+    === "De quoi parler dans le bilan ? Quels mots clés ?"
 
-    La vaccination consiste à injecter un vaccin, c’est-à-dire une forme atténuée ou bien des parties d’un micro-organisme pathogène pour activer
-    la mémoire immunitaire.
 
-    La 1re rencontre avec un antigène contenu ici dans un vaccin déclenche la formation de lymphocyte mémoire qui constituent la mémoire
-    immunitaire. Ils permettent une réponse plus forte et plus rapide lors du 2e contact avec l’antigène, le protégeant ainsi de la maladie =     Prévention.
+    === "Bilan à trous"
+
+        La vaccination consiste à injecter un vaccin, c’est-à-dire une forme atténuée ou bien des parties d’un micro-organisme pathogène pour activer la ............... ....................
+
+        La 1re rencontre avec un antigène, contenu ici dans un vaccin, déclenche la formation de .................. ........... qui constituent la mémoire immunitaire. Ils permettent une réponse plus .......... et plus .............. lors du 2e contact avec l’antigène, le protégeant ainsi de la maladie = Prévention.
+
+        À l’échelle de la population, la vaccination permet d’éviter la propagation des pathogènes.
+
+    === "Bilan"
+        La vaccination consiste à injecter un vaccin, c’est-à-dire une forme atténuée ou bien des parties d’un micro-organisme pathogène pour activer la mémoire immunitaire.
+
+        La 1re rencontre avec un antigène, contenu ici dans un vaccin, déclenche la formation de lymphocyte smémoires qui constituent la mémoire immunitaire. Ils permettent une réponse plus forte et plus rapide lors du 2e contact avec l’antigène, le protégeant ainsi de la maladie = Prévention.
+
+        À l’échelle de la population, la vaccination permet d’éviter la propagation des pathogènes.
+
+??? abstract "notes supplémentaires"
 
     [](https://www.youtube.com/watch?v=E9CRJqxgSvA)
 
     ![](Pictures/graphNbCasVaccination.jpg)
-
-    À l’échelle de la population, la vaccination permet d’éviter la propagation des pathogènes.
 
 ## Séance 3 : Le SIDA et le système immunitaire
 
@@ -80,17 +112,33 @@ TPE, traitement post-exposition, dit aussi « traitement d’urgence » qui doit
 
 Tasp (Treatment as Prevention) : sous traitement, la quantité de virus dans l’organisme devient extrêmement faible, on parle de « charge virale indétectable ». Lorsque la charge virale est indétectable et que la personne séropositive continue de prendre son traitement correctement, les études ont démontré que le VIH ne peut plus se transmettre aux partenaires sexuels-les, même lors de rapports sans préservatif.
 
+
 ??? abstract "Bilan"
+    === "De quoi parler dans le bilan ? Quels mots clés ?"
 
-    Le SIDA est causé par un virus, le VIH.
 
-    Il se transmet par voie sanguine ou sexuelle.
+    === "Bilan à trous"
+        Le SIDA est causé par un virus, le .............
 
-    Le seul moyen de protection lors des rapports sexuels est le préservatif.
+        Il se transmet par voie ............ ou ...............
 
-    Le VIH infecte les lymphocytes T. Il les détruit donc.
+        Le seul moyen de protection lors des rapports sexuels est le .................
 
-    Après quelques années, le VIH a détruit une partie du système immunitaire, la personne sera immunodéficiente. C’est-à-dire que son corps ne peut pas lutter contre les microbes. Il sera donc malade régulièrement, on parle de maladies opportunistes. Ces maladies entraîneront le décès de la personne.
+        Le VIH infecte les ....................... Il les détruit donc.
 
-    Pour savoir si l’on est atteint par le virus seul un test pour détecter ces anticorps anti-VIH est possible trois mois après la possible contamination
+        Après quelques années, le VIH a détruit une partie du ............... ............., la personne sera ....................... C’est-à-dire que son corps ne peut pas lutter contre les microbes. Il sera donc malade régulièrement, on parle de maladies opportunistes. Ces maladies entraîneront le décès de la personne.
 
+        Pour savoir si l’on est atteint par le virus un simple dépistage suffit, il s'agit d'un test pour détecter les anticorps anti-VIH qui se créent suite à l'infection.
+
+    === "Bilan"
+        Le SIDA est causé par un virus, le VIH.
+
+        Il se transmet par voie sanguine ou sexuelle.
+
+        Le seul moyen de protection lors des rapports sexuels est le préservatif.
+
+        Le VIH infecte les lymphocytes T. Il les détruit donc.
+
+        Après quelques années, le VIH a détruit une partie du système immunitaire, la personne sera immunodéficiente. C’est-à-dire que son corps ne peut pas lutter contre les microbes. Il sera donc malade régulièrement, on parle de maladies opportunistes. Ces maladies entraîneront le décès de la personne.
+
+        Pour savoir si l’on est atteint par le virus un simple dépistage suffit, il s'agit d'un test pour détecter les anticorps anti-VIH qui se créent suite à l'infection.
