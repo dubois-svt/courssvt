@@ -101,7 +101,8 @@ Par Laura Thouny, L’express, publié le 16/07/2010
 
         La transmission des micro-organismes peut se faire d’un individu à l’autre (toux, rapports sexuels…) ou par l’intermédiaire de l’eau, des aliments ou de contacts avec des objets contaminés.
 
-        La ...................... et les ........................ sont des barrières empêchant la contamination.
+        La ...................... et les ........................ sont des barrières empêchant la contamination, c’est-à-dire .......... des micro-organismes dans le corps.
+
 
         Pour empêcher la contamination, deux méthodes sont possibles :
         

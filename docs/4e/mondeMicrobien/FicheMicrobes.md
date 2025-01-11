@@ -3,20 +3,18 @@
 
 ## Compétences travaillées dans la séquence
 - Retenir des idées essentielles d’une leçon
-- Formuler une problématique
-- Argumenter
 - Trouver et exploiter des informations
-- Proposer une démarche expérimentale
 - Utiliser des outils mathématiques
-- Manipuler, expérimenter
+- Construire un tableau 
+- Argumenter
 - Analyser des résultats
-- Organiser un travail en groupe
-- Réaliser un schéma, un graphique
-- Utiliser l'outil numérique
-
-## Site internet
 
 
+## A savoir faire
+
+- Calculer la taille d'un microbe à partir d'une photo
+- analysser une expérience
+- Analyser un antibiogramme
 
 ## Flashcards
 
@@ -24,13 +22,25 @@
 <div markdown class="flashcard">
 
 1. 
-    - question
-    - Une ampoule
+    - Quels sont les trois grands groupes de micro-organismes ?
+    - Champignons, bactéries, virus.
 2. 
-    - Lorem ipsum ?
-    - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam non diam ut quam vehicula efficitur sit amet vitae nisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed at rutrum dui.
+    - Quel sont les rôles principaux du microbiote dans le corps humain ?
+    - Il aide à digérer et à défendre contre des micro-organismes pathogènes.
 3. 
-    - Question
-    - Réponse
+    - Quelles sont les deux méthodes pour empêcher la contamination ?
+    - L'asepsie et l'antisepsie.
+4. 
+    - Qu'est-ce que l'asepsie ?
+    - C'est l'ensemble des mesures prises pour éliminer les micro-organismes sur un objet.
+5. 
+    - Qu'est-ce que l'antisepsie ?
+    - C'est l'ensemble des mesures prises pour éliminer les micro-organismes présents au niveau de la peau ou des muqueuses.
+6. 
+    - Quel impact peut avoir un déséquilibre du microbiote ?
+    - Cela peut entraîner des maladies.
+7. 
+    - Les antibiotiques sont efficaces contre quels types de micro-organismes ?
+    - Ils sont efficaces contre les bactéries. Ils n'ont aucun effet sur les virus.
 
 </div>
