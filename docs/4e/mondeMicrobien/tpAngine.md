@@ -91,8 +91,27 @@ Puis la disposer en vous aidant du gabarit (ci-contre).
 ![](pictures/gabaritAntibiogramme.png)
 </div>
 </div>
-??? note-prof "correction"
 
+
+??? note-prof "correction"
+    protocole 
+
+    1.      -"bactérie" : rouge de crésol (10 mL)
+            -"antibiotiques" :
+            Pastille 1 : HCl 1 mol/L positif
+            Pastille 2 : HCl 3 mol/L positif
+                Pastille 3 : NaOH 1 mol/L
+    2. -"bactérie" : rouge neutre (5 mL à 10g/L)
+
+        -"antibiotiques" :
+        Pastille 1 : HCl 1 mol/L
+        Pastille 2 : HCl 3 mol/L
+        Pastille 3 : NaOH 1 mol/L positif
+        
+    3. -"bactérie" : permanganate de potassium (0,0125 mol/L)
+
+        -"antibiotiques" : sels de Mohr en concentration décroissante au 1/2 à chaque fois, la plus concentrée (pastille 0) étant à 0.5 mol/L
+    
     Corrigé : combattre une infection : une angine
 
     Consigne 1: Sur le graphique du document 1, on observe qu’en absence d’antibiotique, les quantités de virus et de bactéries augmentent, de 1 à 6 ua pour les virus et de 2 à 9 ua pour les bactéries en 25 heures. Après l’injection d’antibiotique, la quantité de bactéries diminue (de 9 à 0 u. a. en 10 h) alors que la quantité de virus continue d’augmenter. On en conclut que les antibiotiques ne sont efficaces que sur les bactéries et pas sur les virus. Il ne sert donc à rien de prescrire des antibiotiques en cas d’angine virale.
