@@ -85,3 +85,8 @@
 
 
 
+## Séance 3 : Exercice
+
+[Activité Exercice](../exoConstructionEcole)
+
+

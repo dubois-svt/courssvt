@@ -254,6 +254,7 @@ nav :
           - Introduction : 5e/constructionEcole/Intro_Construire_Ecole.md
           - Cahier des charges d'une salle de classe: 5e/constructionEcole/cahierCharges.md
           - Modélisation 3D d'une salle de classe : 5e/constructionEcole/Modelisation.md
+          - Exercice : 5e/constructionEcole/exoConstructionEcole.md
           - Fiche de révision : 5e/constructionEcole/FicheConstruction.md
       - Séquence Électricité :
           - Introduction : 5e/electricite/IntroElectricite.md
@@ -309,7 +310,7 @@ nav :
       #- Séquence Biodiversité et activités humaines : 
 
   - 4e :
-      - Séquence Météo et climat :
+      - Séquence Météo et climat :sur la modélisation 3D de la salle de classe
             - Introduction : 4e/meteoetclimat/IntroMeteoClimat.md
             - Différence Météo/Climat : 4e/meteoetclimat/diffmeteoclimat.md
             - Vague de froid: 4e/meteoetclimat/exodiffmeteoclimat.md
