@@ -71,3 +71,62 @@ On souhaite réaliser la maquette numérique de votre salle de classe à l’aid
         Grande surface 81,25m2 +/-1m2
         Murs attachés au sol
         pièces avec une couleur au moins
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky" colspan="6"><span style="background-color:transparent"> 			</span>Noms : <span style="background-color:transparent"> 			</span> 		</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky" colspan="3"><span style="background-color:transparent"> 			</span>Trouver et exploiter des informations(10 ou 9 critères TB ; 8 ou 7 ou 6  critères S ; 5, 4 ou 3 critères F ; I)</td>
+    <td class="tg-0pky"><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
+    <td class="tg-0pky"><span style="background-color:transparent"> 			</span>Utiliser des outils informatiques (4 critères TB ; 3 critères S ; 2 ou 1 critère F)		</td>
+    <td class="tg-0lax"><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="background-color:transparent"> 			</span>Accès à l’eau 		</td>
+    <td class="tg-0pky"><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
+    <td class="tg-0pky"><span style="background-color:transparent"> 			</span>Éclairage au plafond 		</td>
+    <td class="tg-0pky"><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
+    <td class="tg-0pky" rowspan="2"><span style="background-color:transparent"> 			</span>Grande 			surface 81,25m2 +/-1m2 		</td>
+    <td class="tg-0lax" rowspan="2"><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="background-color:transparent"> 			</span>Douche de sécurité 		</td>
+    <td class="tg-0pky"><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
+    <td class="tg-0pky"><span style="background-color:transparent"> 			</span>Fenêtres côté Sud 		</td>
+    <td class="tg-0pky"><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="background-color:transparent"> 			</span>Issue de secours 		</td>
+    <td class="tg-0lax"><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
+    <td class="tg-0lax"><span style="background-color:transparent"> 			</span>chaise 		</td>
+    <td class="tg-0lax"><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
+    <td class="tg-0lax"><span style="background-color:transparent"> 			</span>Murs 			attachés au sol 		</td>
+    <td class="tg-0lax"><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="background-color:transparent"> 			</span>extincteur 		</td>
+    <td class="tg-0lax"><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
+    <td class="tg-0lax"><span style="background-color:transparent"> 			</span>radiateurs 		</td>
+    <td class="tg-0lax"><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
+     <td class="tg-0lax"><span style="background-color:transparent"> 			</span>Insertion texte		</td>
+    <td class="tg-0lax"><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="background-color:transparent"> 			</span>20 places 		</td>
+    <td class="tg-0lax"><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
+    <td class="tg-0lax"><span style="background-color:transparent"> 			</span>tableau 		</td>
+    <td class="tg-0lax"><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
+    <td class="tg-0lax"><span style="background-color:transparent"> 			</span>pièces 			avec une couleur au moins 		</td>
+    <td class="tg-0lax"><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
+  </tr>
+</tbody></table>
