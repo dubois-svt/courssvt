@@ -10,10 +10,10 @@
 - Analyser des résultats
 
 
-## A savoir faire
+## À savoir faire
 
 - Calculer la taille d'un microbe à partir d'une photo
-- analysser une expérience
+- Analyser une expérience
 - Analyser un antibiogramme
 
 ## Flashcards
