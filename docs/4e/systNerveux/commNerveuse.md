@@ -24,37 +24,53 @@
 
 **Document 2 : QCM pour vérifier que la vidéo est comprise.**
 
+<div markdown style="display:flex; flex-direction:row;">
+
+<div markdown style="display:flex; flex-direction:column; flex : 1 1 0;">
+
 1. Quel est le rôle des neurones ?
+     * Se défendre contre les microbes 
+     * Capter les informations
      * Transmettre l’information
      * Digérer
-     * Capter les informations
-     * Se défendre contre les microbes 
 2. Combien y a-t-il de neurones ?
-     * Cent milliards
      * Un seul
-     * Des milliers
      * Des centaines
+     * Cent milliards
+     * Des milliers
 3. La communication entre deux neurones se fait au niveau de ?
-     * Synapse
-     * Corps cellulaire
      * Muscles
+     * Synapse
      * Glandes
+     * Corps cellulaire
+</div>
+<div markdown style="display:flex; flex-direction:column; flex : 1 1 0;">
+
 4. Les deux neurones qui communiquent ?
      * Se touchent
-     * Sont situés très près l’un de l’autre
      * Sont situés loin l’un de l’autre 
+     * Sont situés très près l’un de l’autre
      * Fusionnent
 5. La communication dans le neurone du corps cellulaire au bout de l’axone est ?
+     * De la lumière
+     * Un influx électrique (courant électriques)
      * Des messagers chimiques (des neurotransmetteurs)
      * Des bateaux
-     * Un influx électrique (courant électriques)
-     * De la lumière
 6. Dans la synapse la communication entre les deux neurones se fait par :
      * Des messagers chimiques (des neurotransmetteurs)
      * Des bateaux
      * Un influx électrique (courant électriques)
      * De la lumière
+</div>
+</div>
 
+
+<iframe id="Quizz"
+    title="Schema de Fleur"
+    width="660"
+    height="450"
+    src="../3831105122.html">
+</iframe>
 
 
 ??? note-prof "correction"

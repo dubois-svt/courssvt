@@ -44,7 +44,7 @@ C’est en 1879 que l’Américain Thomas Edison provoque une révolution dans l
     <thead>
     <tr>
         <th class="tg-c3ow" rowspan="2">Pile</th>
-        <th class="tg-c3ow" rowspan="2">Générateur idéal</th>
+        <th class="tg-c3ow" rowspan="2">Générateur</th>
         <th class="tg-c3ow" rowspan="2">Ampoule</th>
         <th class="tg-c3ow" colspan="2">Interrupteur</th>
         <th class="tg-c3ow" rowspan="2">Moteur</th>

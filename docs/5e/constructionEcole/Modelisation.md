@@ -7,9 +7,9 @@
 !!! warning "Consignes"
     Réaliser une modélisation 3D de votre salle de classe répondant au cahier des charges de l'activité précédente en suivant la fiche du logiciel SweetHome3D
 
-!!! bug "Critères de réussite"
-    - avoir respecter le cahier des charges  
-    - avoir respecter les différentes étapes de la fiche logiciel
+!!! bug "Critères de réussite". 
+    - Avoir respecté le cahier des charges  
+    - Avoir respecté les différentes étapes de la fiche logiciel
  
 <div markdown class="printable">
 
@@ -96,7 +96,7 @@ On souhaite réaliser la maquette numérique de votre salle de classe à l’aid
     <td class="tg-0pky"><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
     <td class="tg-0pky"><span style="background-color:transparent"> 			</span>Éclairage au plafond 		</td>
     <td class="tg-0pky"><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
-    <td class="tg-0pky" rowspan="2"><span style="background-color:transparent"> 			</span>Grande 			surface 81,25m2 +/-1m2 		</td>
+    <td class="tg-0pky" rowspan="2"><span style="background-color:transparent"> 			</span>Grande surface 81,25m2 +/-1m2 		</td>
     <td class="tg-0lax" rowspan="2"><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		<br></td>
   </tr>
   <tr>
@@ -108,15 +108,15 @@ On souhaite réaliser la maquette numérique de votre salle de classe à l’aid
   <tr>
     <td class="tg-0lax"><span style="background-color:transparent"> 			</span>Issue de secours 		</td>
     <td class="tg-0lax"><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
-    <td class="tg-0lax"><span style="background-color:transparent"> 			</span>chaise 		</td>
+    <td class="tg-0lax"><span style="background-color:transparent"> 			</span>Tabourets </td>
     <td class="tg-0lax"><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
-    <td class="tg-0lax"><span style="background-color:transparent"> 			</span>Murs 			attachés au sol 		</td>
+    <td class="tg-0lax"><span style="background-color:transparent"> 			</span>Murs attachés au sol 		</td>
     <td class="tg-0lax"><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		<br></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><span style="background-color:transparent"> 			</span>extincteur 		</td>
+    <td class="tg-0lax"><span style="background-color:transparent"> 			</span>extincteur </td>
     <td class="tg-0lax"><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
-    <td class="tg-0lax"><span style="background-color:transparent"> 			</span>radiateurs 		</td>
+    <td class="tg-0lax"><span style="background-color:transparent"> 			</span>radiateurs </td>
     <td class="tg-0lax"><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
      <td class="tg-0lax"><span style="background-color:transparent"> 			</span>Insertion texte		</td>
     <td class="tg-0lax"><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		<br></td>
@@ -126,7 +126,7 @@ On souhaite réaliser la maquette numérique de votre salle de classe à l’aid
     <td class="tg-0lax"><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
     <td class="tg-0lax"><span style="background-color:transparent"> 			</span>tableau 		</td>
     <td class="tg-0lax"><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
-    <td class="tg-0lax"><span style="background-color:transparent"> 			</span>pièces 			avec une couleur au moins 		</td>
+    <td class="tg-0lax"><span style="background-color:transparent"> 			</span>pièces avec une couleur au moins </td>
     <td class="tg-0lax"><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
   </tr>
 </tbody></table>

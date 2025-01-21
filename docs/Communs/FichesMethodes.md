@@ -5,7 +5,7 @@
 1. Commencer par lire la consigne en entier
 2. Chercher les mots difficiles et s'assurer que l'on en comprenne le sens
 3. Repérer les mots importants :
-  - Verbe d'action qui indique quoi faire
+  - Verbe d'action qui indique que faire
   - Mots indiquant la production attendue (schéma, texte, tableau ...)
   - Mots indiquant où trouver les informations
 
@@ -22,13 +22,13 @@ Voici des verbes que vous pourrez rencontrer et l’action associée.
 - DÉCRIRE : Dire ce que l’on voit dans un document sans donner d’explication.
 - FORMULER/REFORMULER : Faire une phrase avec ses mots.
 - RÉDIGER : Expliquer par l’écrit
-- LISTER/CITER : Énoncer un au plusieurs éléments sans donner d’explications.
-- CONSTRUIRE / TRACER : A l’aide d’ustensiles spécifiques construire une représentation
+- LISTER/CITER : Énoncer un ou plusieurs éléments sans donner d’explications.
+- CONSTRUIRE / TRACER : À l’aide d’ustensiles spécifiques construire une représentation
 - CALCULER : Effectuer un calcul chiffré.
 - DESSINER : Faire un dessin d’observation
 - SCHÉMATISER : Faire un schéma
 - DÉCRIRE : Permet d’expliquer un document à l’aide des éléments qui le constituent
-- CLASSER :  Mettre dans des catégories
+- CLASSER : Mettre dans des catégories
 - ÉTABLIR UN LIEN, ASSOCIER, RELIER : Mettre en relation avec des connecteurs logiques
 </div>
 <div markdown style="display:flex; flex-direction:column">
@@ -41,10 +41,10 @@ Voici des verbes que vous pourrez rencontrer et l’action associée.
 - COMPARER : Faire une comparaison, c’est-à-dire trouver les points communs et différences entre 2 éléments.
 - DÉDUIRE : Établir une conséquence logique
 - ANALYSER : Construire un raisonnement scientifique.
-- DETERMINER : S’exprimer en faisant une phrase afin de résoudre un problème ou une question en se basant sur le cours ou les documents.
+- DÉTERMINER : S’exprimer en faisant une phrase afin de résoudre un problème ou une question en se basant sur le cours ou les documents.
 - PROPOSER UNE EXPLICATION : Le phénomène est inconnu et je donne une explication possible
-- FORMULER UNE HYPOTHÈSE : Proposer une solution qui n’est pas encore démontrée mais qui doit être possible.
-CITER les CONSEQUENCES VÉRIFIABLES: Chercher ce que l’on doit trouver si l’hypothèse est juste
+- FORMULER UNE HYPOTHÈSE : Proposer une solution qui n’est pas encore démontrée, mais qui doit être possible.
+CITER les CONSÉQUENCES VÉRIFIABLES : Chercher ce que l’on doit trouver si l’hypothèse est juste
 CONCLURE : Faire le bilan après une explication
 </div></div>
 
@@ -56,7 +56,7 @@ La mémoire ne peut pas être efficace sur du court terme (la veille du devoir),
 - Prendre le cours entièrement et correctement
 - Poser des questions lors d'une difficulté de compréhension
 
-### A la maison
+### À la maison
 - Relire régulièrement le cours le soir 
 - Faire des fiches révisions, une fiche contient les idées principales du cours (définitions, mots clés ...)
 - En cas de questions, les noter pour les poser au cours suivant
@@ -66,25 +66,19 @@ La mémoire ne peut pas être efficace sur du court terme (la veille du devoir),
 
 Tous les documents créés doivent être bien renseignés. Vous devez y mettre un titre et quand c’est nécessaire une légende et une échelle.
 TITRE :
-TYPE / NATURE du document
-+
-ce qu’il REPRÉSENTE /
-MONTRE
-(+
-Mode
-d’obtention :
-microscope,
-loupe)
+TYPE / NATURE du document  + ce qu’il REPRÉSENTE / MONTRE
+(+ Mode d’obtention : microscope, loupe)
 
 LÉGENDE
 Schéma structural:
-mettre des flèches-traits faits
-- à la règle
+mettre des flèches  ou des traits
+- faits à la règle
 - parallèles (ne se croisent pas)
 - horizontaux 
 mettre mots de légende
 - au bout des traits
-- dans la zone de légende.
+- - dans la zone de légende.
+
 
 Schéma fonctionnel:
 schéma - carte mettre en bas
@@ -94,15 +88,15 @@ schéma - carte mettre en bas
 GROSSISSEMENT / ÉCHELLE
 Grossissement : uniquement au microscope (objectif x oculaire)
 
-Échelle :mesurer la longueur du segment présent sur le document
+Échelle : mesurer la longueur du segment présent sur le document
 
 
 ## Représenter des DONNÉES sous forme d’un GRAPHIQUE
 
 Réaliser un GRAPHIQUE :
-• Étape 1 : Grâce à la CONSIGNE déterminer :    
-- le paramètre mesuré -> ordonnée (vertical)
-- le paramètre variable -> abscisse (horizontal)
+• Étape 1 : Grâce à la CONSIGNE, déterminer :    
+  - le paramètre mesuré -> ordonnée (vertical)
+  - le paramètre variable -> abscisse (horizontal)
 La consigne sera toujours écrite avec : « paramètre mesuré EN FONCTION du paramètre variable »  
 
 • Étape 2 : Déterminer l’ÉCHELLE :
@@ -121,7 +115,7 @@ Un schéma est une représentation SIMPLIFIÉE de la réalité. Il ne faut donc 
 Dans un dessin, la représentation doit être la plus fidèle possible (taille, forme ...).
 
 - Les schémas doivent être réalisés au crayon à papier dans un premier temps.
-- Le schéma doit être assez grand : s'il est trop petit il sera illisible !
+- Le schéma doit être assez grand : s'il est trop petit, il sera illisible !
 - Mettre une légende
 - Mettre un titre 
 - Réaliser un schéma ou dessin propre, sans rature ou blanc.

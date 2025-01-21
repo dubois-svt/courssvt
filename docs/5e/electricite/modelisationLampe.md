@@ -7,16 +7,16 @@
 !!! warning "Consignes"
     1. Indiquer une utilité pour chaque composant de la lampe du document 1 
 
-    2. Dans la liste suivante, indiquer pour chaque composants s'il s'agit de récepteurs ou de générateurs:
+    2. Dans la liste suivante, indiquer pour chaque composants s'il s'agit de récepteurs, de générateurs ou d'aucun des deux:
     Interrupteur, ampoule, verre, miroir, piles, ressort.
 
-    3. À partir des réponses précédentes, quels sont les éléments électriques de la lampe de poche qui sont indispensables pour produire de la lumière ? 
+    3. À partir des réponses précédentes, quels sont les éléments électriques de la lampe de poche qui sont indispensables pour fabriquer une lampe-torche fontionnelle ? 
 
     4. À l’aide du matériel sur la paillasse, modéliser une lampe de poche en n’utilisant que les éléments  essentiels à son fonctionnement.
 
-    5. Réaliser le schéma d'une lampe de poche
+    5. Réaliser le schéma d'une lampe de poche en respectant les documents 5 et 6.
 
-    6. Complète le tableau en fonction de ce qu’il manque
+    6. Complète le tableau du document 8 en fonction de ce qu’il manque
 
 ??? bug Critères de réussite
     - avoir répondu aux questions
@@ -93,7 +93,7 @@ Ne pas représenter de dipôle dans les angles du rectangle
 <td markdown >![](Pictures/schemaPile.png) {: style="width:100px" }</td>
   </tr>
 <tr markdown>
-<td colspan="2">Générateur idéal</td>
+<td colspan="2">Générateur</td>
 <td markdown >
 ![](Pictures/generateur.png) {: style="width:100px" }
 </td>
@@ -119,7 +119,7 @@ Ne pas représenter de dipôle dans les angles du rectangle
 <tr markdown>
 <td  colspan="2">Moteur</td>
 <td markdown >
-![](Pictures/moteur.png) {: style="width:100px" }
+![](Pictures/moteur.png) {: style="width:100pcx" }
 </td>
 <td markdown >![](Pictures/schemaMoteur.png) {: style="width:100px" }</td>
   </tr>
@@ -140,12 +140,7 @@ Ne pas représenter de dipôle dans les angles du rectangle
 
 
 
-<div markdown style="page-break-after: always;">
-
-**Document 8 Quelques schémas électriques**
-
-<table markdown>
-<thead>
+<div markdown style="page-break-afc
 <tr>
 <th>Circuit électrique</th>
 <th>Schéma électrique du circuit</th>
@@ -157,10 +152,7 @@ Ne pas représenter de dipôle dans les angles du rectangle
 <td markdown>
 ![](Pictures/dessinCircuitSerie.png){: style="width:200px" }
 </td>
-<td ></td>
-<td markdown >Pile  
-Interrupteur ouvert  
-Ampoule</td>
+<td ></td>c
 </tr>
 <tr markdown>
 <td markdown>![](Pictures/dessinCircuitSerieMoteur.png){: style="width:200px" }</td>

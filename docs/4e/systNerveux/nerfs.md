@@ -23,8 +23,29 @@
 ??? bug "Critères de réussite"
     - 
 
-**Document Photos de neurones (MO x600)**
+**Document 1 Photos de neurones (MO x600)**
 
 ![](Pictures/photoNeurone1.png)
 ![](Pictures/photoNeurone2.png)
+
+**Document 2 Utiliser un microscope**
+Le microscope est un outil qui permet d’observer des objets ou des êtres vivants microscopiques qui sont généralement invisibles à l’oeil nu. Comme les loupes il va permettre de grossir ce que l’on observe à l’aide d’objectifs.
+Il est important de connaître les différentes parties du microscope pour bien comprendre comment l’utiliser et le ranger.
+C’est un outil fragile : il est donc primordial d’en prendre le plus grand soin !
+
+Utilisation
+• On transporte toujours le microscope en le prenant par la potence avec une main en dessous
+• La lame doit être bloquée par les valets sur la platine
+• On commence toujours à observer à l’objectif rouge (x4)
+• La mise au point se fait avec les vis macroscopique (les grosses) à l’objectif rouge
+• La mise au point se fait avec les vis microscopique (les petites) à partir de l’objectif jaune (x10) et bleu (x40/x60)
+
+Rangement: 
+1. On enlève la lame et on la dépose sur le bureau
+2. On remet l’objectif sur le rouge (x4)
+3. On range le câble soit autour du microscope, soit à l’arrière
+4. On range le microscope là où on l’a trouvé
+
+Calculer le grossissement
+Pour savoir combien de fois on a grossi l’échantillon que l’on observe, il faut regarder le grossissement de l’oculaire (généralement x10) et celui de l’objectif (x4, x10 ou x40/x60). On les multiplie alors ensemble.
 

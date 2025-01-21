@@ -77,7 +77,7 @@ Le message passe de neurone en neurone jusqu’aux muscles.
 ![](Pictures/schemaCommNerveuse.png)
 
 !!! question "Problématique"
-    Comment se réalise la communication nerveuse entre neurones ?
+    Comment se réalise la communication nerveuse dans le corps  ?
 
 
 
