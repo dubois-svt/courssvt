@@ -9,6 +9,7 @@
     1. Répondre au QCM du document 2, à partir des informations présentes dans la vidéo.
 
     2. Rédiger un court texte expliquant comment un message nerveux est transmis d’un neurone au neurone suivant. 
+    3. Recopier vos réponses dans votre cahier.
     
 ??? bug "Critères de réussite"
     * 
@@ -65,15 +66,11 @@
 </div>
 
 
-<iframe id="Quizz"
-    title="Schema de Fleur"
-    width="660"
-    height="450"
-    src="../3831105122.html">
-</iframe>
-
+<iframe src="https://ladigitale.dev/digiquiz/q/67916af90c251" allow="fullscreen; autoplay;" frameborder="0" width="100%" height="500"></iframe>
 
 ??? note-prof "correction"
+
+     https://ladigitale.dev/digiquiz/q/67916af90c251 question mot préféré : tardigrade
     Correction :
 
     … Un courant électrique (message nerveux électrique) circule dans le neurone 1.

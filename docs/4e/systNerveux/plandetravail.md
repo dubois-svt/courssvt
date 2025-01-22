@@ -6,27 +6,35 @@
 
 ![](Pictures/plantravail.svg)
 
+
+```markmap
+#  Le système nerveux
+
+## Séance : Les organes impliqués dans le mouvement
+
+* Quels sont les organes impliqués dans la commande des mouvements ?
+* Activité Les organes du mouvement
+* travail en groupe de 3
+
+## Séance : Les nerfs
+
+* De quoi sont composés les nerfs et les centres nerveux (comme le cerveau) ?
+* Activité Les cellules des nerfs
+* travail individuel
+  
+## Séance : La communication nerveuse
+
+* Comment se réalise la communication nerveuse dans le corps ?
+* Activité Transmission du message de neurone en neurone
+* travail individuel
+
+```
+
+
+
 ??? note-prof
 
-    ```markmap
-    #  Le système nerveux
 
-    ## Séance : Les organes impliqués dans le mouvement
-
-    * Quels sont les organes impliqués dans la commande des mouvements ?
-    * Activité Les organes du mouvement
-
-    ## Séance : Les nerfs
-
-    * De quoi sont composés les nerfs et les centres nerveux (comme le cerveau) ?
-    * Activité Les cellules des nerfs
-
-    ## Séance : La communication nerveuse
-
-    * Comment se réalise la communication nerveuse dans le corps ?
-    * Activité Transmission du message de neurone en neurone
-
-    ```
 
 
 

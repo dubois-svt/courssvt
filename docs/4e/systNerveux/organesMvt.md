@@ -60,11 +60,27 @@ l'organisme.
 
 
 **Document 5 Réaliser un SCHÉMA FONCTIONNEL:**
+
 - Il explique le FONCTIONNEMENT DE QUELQUE CHOSE.
 - On utilise des formes géométriques et des flèches pour les déplacements.  
 - La légende reprend les formes utilisées et en donne leur signification.  
 - La légende peut être indiquée par des flèches, directement sur le schéma ou dans une légende à part.
 
+Etapes de réalisation:
+1. lister ls éléments indispensables à mettre dans le schéma
+2. réfléchir à l'ordre des éléments
+3. représenter de façon simple les éléments en utilisant des formes géométriques
+4. établir des relmation entr eles éléments par des flèches (attention au sens des flèches)
+5. Mettre un titre
+```mermaid
+    flowchart TD
+        A[Augmentation du nombre de carnivores] --> B[Augmentation nombre d'herbivores mangées] 
+        B --> C[Diminutuion du nombre de d'herbivores ] 
+        C --> D[Diminutuion de la quantité de végétaux mangés ]
+        D --> E[Augmentaiton de la végétation]
+
+```
+Schéma focntionnel de l'influence du nombre de carnivores sur la végétation
 
 ??? note-prof "correction"
 
