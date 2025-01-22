@@ -17,6 +17,7 @@
 
 
 ??? info "Définitions"
+    Objet technique : Objet fabriqué par l'humain.
     Fonction d'usage : rôle d'un objet technique  
     Contrainte : caractéristique imposée à l’objet technique  
     Fonction technique : décomposition de la fonction d’usage  
