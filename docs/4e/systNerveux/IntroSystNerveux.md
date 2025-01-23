@@ -133,7 +133,7 @@ Le message passe de neurone en neurone jusqu’aux muscles.
         Entre deux neurones ou entre un neurone et un organe, il y a un faible espace qui est une synapse.
 
         Au niveau des synapses, le message nerveux  est de nature _____________. Il est transmis par des substances, les neurotransmetteurs.
-
+Séance 4 : Le cerveau, élément central du système nerveux
 
 
     ![](Pictures/schemaSynapse.png)

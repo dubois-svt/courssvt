@@ -4,8 +4,7 @@
 !!! question "Problématique"
     Comment fonctionne le système nerveux ?
 
-![](Pictures/plantravail.svg)
-
+![](image-1.png)
 
 ```markmap
 #  Le système nerveux
@@ -14,7 +13,7 @@
 
 * Quels sont les organes impliqués dans la commande des mouvements ?
 * Activité Les organes du mouvement
-* travail en groupe de 3
+* travail en groupe de 2
 
 ## Séance : Les nerfs
 
@@ -27,6 +26,13 @@
 * Comment se réalise la communication nerveuse dans le corps ?
 * Activité Transmission du message de neurone en neurone
 * travail individuel
+
+## Séance : Le cerveau, élément central du système nerveux
+
+* Comment le cerveau traite-t-il les informations ?
+
+* Activité Traitement des informations par le cerveau
+* travail en groupe de 2
 
 ```
 
