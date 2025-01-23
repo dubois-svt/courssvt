@@ -68,7 +68,7 @@
 </div>
 
 
-<iframe media:print; display: none; src="https://ladigitale.dev/digiquiz/q/67916af90c251" allow="fullscreen; autoplay;" frameborder="0" width="100%" height="500"></iframe>
+<iframe src="https://ladigitale.dev/digiquiz/q/67916af90c251" allow="fullscreen; autoplay;" frameborder="0" width="100%" height="500"></iframe>
 
 ??? note-prof "correction"
 

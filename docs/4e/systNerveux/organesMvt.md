@@ -72,6 +72,8 @@ Etapes de réalisation:
 3. représenter de façon simple les éléments en utilisant des formes géométriques
 4. établir des relmation entr eles éléments par des flèches (attention au sens des flèches)
 5. Mettre un titre
+
+Exemple de schéma fonctionnel
 ```mermaid
     flowchart TD
         A[Augmentation du nombre de carnivores] --> B[Augmentation nombre d'herbivores mangées] 

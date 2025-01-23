@@ -23,14 +23,8 @@
 ??? bug "Critères de réussite"
     - 
 
-**Document 1 Photos de neurones (MO x600)**
 
-![](Pictures/photoNeurone1.png)
-![](Pictures/photoNeurone2.png)
-
-[https://vimeo.com/263053418](https://vimeo.com/263053418)
-
-**Document 2 Utiliser un microscope**
+**Document 1 Utiliser un microscope**
 
 Le microscope est un outil qui permet d’observer des objets ou des êtres vivants microscopiques qui sont généralement invisibles à l’oeil nu. Comme les loupes il va permettre de grossir ce que l’on observe à l’aide d’objectifs.
 Il est important de connaître les différentes parties du microscope pour bien comprendre comment l’utiliser et le ranger.
@@ -55,9 +49,9 @@ Rangement:
 Calculer le grossissement
 Pour savoir combien de fois on a grossi l’échantillon que l’on observe, il faut regarder le grossissement de l’oculaire (généralement x10) et celui de l’objectif (x4, x10 ou x40/x60). On les multiplie alors ensemble.
 
-**Document 3 Réaliser un dessin d'observation**
+**Document 2 Réaliser un dessin d'observation**
 
-Le dessin se fait au crayon )à papier
+Le dessin se fait au crayon à papier
 au centre de la feuille on dessine l'objet observé ou une partie de façon assez grosse pour que le dessin soit lisible
 on met un titre avec  TYPE / NATURE du document  + ce qu’il REPRÉSENTE / MONTRE (+ Mode d’obtention : microscope, loupe avec le grossissement)
 
@@ -72,3 +66,11 @@ mettre mots de légende :
 
 - au bout des traits
 - dans la zone de légende.
+
+
+**Document 3 Photos de neurones (MO x600)**
+
+![](Pictures/photoNeurone1.png)
+![](Pictures/photoNeurone2.png)
+
+[https://vimeo.com/263053418](https://vimeo.com/263053418)
