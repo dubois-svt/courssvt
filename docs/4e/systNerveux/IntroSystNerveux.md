@@ -23,16 +23,35 @@
 
 
 ??? abstract "Bilan"
-    La commande du mouvement se fait grâce à différents organes :
-    
-    - les muscles qui sont des organes effecteurs.
-    - Le cerveau et la moelle épinière qui sont des centres nerveux.
-    - Des organes sensoriels (par exemple, les yeux)
-    
-    L’information dans le corps est transmise par les nerfs.
-    
-    Lors d’une stimulation, l’organe sensoriel envoie l’information vers le cerveau à travers un nerf sensitif.
-    Le cerveau transmet la commande du mouvement par un nerf moteur qui traverse la moelle épinière et va jusqu’aux muscles.
+    === "De quoi parler dans le bilan ? Quels mots clés ?"
+
+
+    === "Bilan à trous"
+
+        La commande du mouvement se fait grâce à différents organes :
+        
+        - les __________________ qui sont des organes effecteurs.
+        - Le cerveau et la ______________ qui sont des centres nerveux.
+        - Des __________________________ (par exemple, les yeux)
+
+        L’information dans le corps est transmise par les ____________.
+        
+        Lors d’une stimulation, l’organe sensoriel envoie l’information vers le ________________ à travers un nerf ____________________.
+        Le cerveau transmet la commande du mouvement par un nerf ____________ qui traverse la moelle épinière et va jusqu’aux ____________________.
+
+
+    === "Bilan"
+
+        La commande du mouvement se fait grâce à différents organes :
+        
+        - les muscles qui sont des organes effecteurs.
+        - Le cerveau et la moelle épinière qui sont des centres nerveux.
+        - Des organes sensoriels (par exemple, les yeux)
+        
+        L’information dans le corps est transmise par les nerfs.
+        
+        Lors d’une stimulation, l’organe sensoriel envoie l’information vers le cerveau à travers un nerf sensitif.
+        Le cerveau transmet la commande du mouvement par un nerf moteur qui traverse la moelle épinière et va jusqu’aux muscles.
 
 
 
