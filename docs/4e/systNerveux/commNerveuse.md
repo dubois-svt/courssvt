@@ -24,6 +24,7 @@
 						
 
 **Document 2 : QCM pour vérifier que la vidéo est comprise.**
+<div markdown style="display:flex; flex-direction:row; media=print;">
 
 <div markdown style="display:flex; flex-direction:row; media=screen; display: none; ">
 
@@ -62,6 +63,7 @@
      * Des bateaux
      * Un influx électrique (courant électriques)
      * De la lumière
+</div>
 </div>
 </div>
 

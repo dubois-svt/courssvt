@@ -72,17 +72,24 @@
 [Activité Les cellules des nerfs](../nerfs)
 
 
-
-
 ??? abstract "Bilan"
-    Un nerf est un organe en forme de tube qui contient un très grand nombre de fibres nerveuses (= axones).
-    Une fibre nerveuse correspond au prolongement d’une cellule appelée neurone.
-
-    Les centres nerveux sont eux aussi composés de neurones.
+    === "De quoi parler dans le bilan ? Quels mots clés ?"
 
 
+    === "Bilan à trous"
+        
+        Un nerf est un organe en forme de tube qui contient un très grand nombre de fibres nerveuses (= axones).
+        Une fibre nerveuse correspond au prolongement d’une cellule appelée __________________.
 
-    Des organes récepteurs jusqu’au cerveau, et du cerveau jusqu’aux organes effecteurs, le message nerveux parcourt des nerfs.
+        Les nerfs et les centres nerveux sont composés de ________________________.
+     
+
+    === "Bilan "
+
+        Un nerf est un organe en forme de tube qui contient un très grand nombre de fibres nerveuses (= axones).
+        Une fibre nerveuse correspond au prolongement d’une cellule appelée neurone.
+
+        Les nerfs et les centres nerveux sont composés de neurones.
 
 ## Séance 3 : La communication nerveuse
 
@@ -104,17 +111,31 @@ Le message passe de neurone en neurone jusqu’aux muscles.
 
 
 
-
 ??? abstract "Bilan"
-    Les neurones sont des cellules qui permettent la transmission des messages nerveux.
-    Le message nerveux circule de neurone en neurone jusqu’aux organes effecteurs (exemple : muscles).
+    === "De quoi parler dans le bilan ? Quels mots clés ?"
 
-    Dans un neurone, le message est de nature électrique.
 
-    Au niveau des synapses neurone-neurone et des synapses neurone-muscle, le message nerveux est transmis par des substances chimiques, les neurotransmetteurs.
+    === "Bilan à trous"
 
-    Les messages nerveux sensitifs sont envoyés par les organes récepteurs vers le cerveau (= centre nerveux) via les nerfs sensitifs.
-    Les messages nerveux moteurs sont envoyés par le cerveau  vers les organes effecteurs via les nerfs moteurs.
+        Le message nerveux circule dans des ___________.
+
+        Dans un neurone, le message est de nature __________________________.
+
+        Entre deux neurones ou entre un neurone et un organe, il y a un faible espace qui est une _______________.
+
+        Au niveau des synapses, le message nerveux est de nature _____________. Il est transmis par des substances, les ______________________.
+
+
+    === "Bilan"
+
+        Le message nerveux circule dans des neurone
+        Dans un neurone, le message est de nature électrique.
+
+        Entre deux neurones ou entre un neurone et un organe, il y a un faible espace qui est une synapse.
+
+        Au niveau des synapses, le message nerveux  est de nature _____________. Il est transmis par des substances, les neurotransmetteurs.
+
+
 
     ![](Pictures/schemaSynapse.png)
 
@@ -130,16 +151,17 @@ Le message passe de neurone en neurone jusqu’aux muscles.
 
 
 
-
 ??? abstract "Bilan"
-    Les messages nerveux sensitifs sont envoyés par les organes récepteurs vers le cerveau (= centre nerveux) via les nerfs sensitifs.
-    Les messages nerveux moteurs sont envoyés par le cerveau vers les organes effecteurs via les nerfs moteurs.
-    
-    Les messages nerveux sensitifs arrivent dans des aires cérébrales précises. Les aires cérébrales communiquent entre elles et traitent les informations reçues pour produire une réponse adaptée. Ce sont les neurones qui permettent ces communications dans le cerveau.
+    === "De quoi parler dans le bilan ? Quels mots clés ?"
 
-    Pour percevoir une sensation, le cerveau tient compte des différentes informations provenant des organes des sens, mais aussi des informations stockées dans la mémoire, chacun perçoit donc l’environnement différemment.
+    === "Bilan"
 
-    Le réseau de neurones peut évoluer avec l’expérience, c’est la plasticité cérébrale.
+        
+        Les messages nerveux sensitifs arrivent dans des aires cérébrales précises. Les aires cérébrales communiquent entre elles et traitent les informations reçues pour produire une réponse adaptée. Ce sont les neurones qui permettent ces communications dans le cerveau.
+
+        Pour percevoir une sensation, le cerveau tient compte des différentes informations provenant des organes des sens, mais aussi des informations stockées dans la mémoire, chacun perçoit donc l’environnement différemment.
+
+        Le réseau de neurones peut évoluer avec l’expérience, c’est la plasticité cérébrale.
 
     ![](Pictures/schemaZonesCerebrales1.png)
 
