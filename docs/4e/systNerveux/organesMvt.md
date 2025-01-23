@@ -82,7 +82,7 @@ Exemple de schéma fonctionnel
         D --> E[Augmentaiton de la végétation]
 
 ```
-Schéma focntionnel de l'influence du nombre de carnivores sur la végétation
+Schéma fonctionnel de l'influence du nombre de carnivores sur la végétation
 
 ??? note-prof "correction"
 

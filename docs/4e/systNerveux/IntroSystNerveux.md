@@ -8,9 +8,8 @@
     Comment fonctionne le système nerveux ?
 
     
-### Document d’appel :
-![](Pictures/footballeurFrappeBalle.png)
 
+![](Pictures/Sans titre.jpg)
 
 ## Séance 1 : Le mouvement
 
@@ -154,9 +153,17 @@ Le message passe de neurone en neurone jusqu’aux muscles.
 ??? abstract "Bilan"
     === "De quoi parler dans le bilan ? Quels mots clés ?"
 
+
+    === "Bilan à trous"
+    
+        Les messages nerveux sensitifs arrivent dans des _____________ _____________ précises. Les aires cérébrales communiquent entre elles et traitent les informations reçues pour produire une réponse adaptée, par exemple un ___________  _________. Ce sont les neurones qui permettent ces communications dans le cerveau.
+
+        Pour percevoir une sensation, le cerveau tient compte des différentes informations provenant des organes des sens, mais aussi des informations stockées dans la mémoire, chacun perçoit donc l’environnement différemment.
+
+        Le réseau de neurones peut évoluer avec l’expérience, c’est la plasticité cérébrale.
+
     === "Bilan"
 
-        
         Les messages nerveux sensitifs arrivent dans des aires cérébrales précises. Les aires cérébrales communiquent entre elles et traitent les informations reçues pour produire une réponse adaptée. Ce sont les neurones qui permettent ces communications dans le cerveau.
 
         Pour percevoir une sensation, le cerveau tient compte des différentes informations provenant des organes des sens, mais aussi des informations stockées dans la mémoire, chacun perçoit donc l’environnement différemment.
