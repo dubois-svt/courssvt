@@ -24,9 +24,9 @@
 						
 
 **Document 2 : QCM pour vérifier que la vidéo est comprise.**
-<div markdown style="display:flex; flex-direction:row; media=print;">
+<div markdown style="display:flex; flex-direction:row; media:print;">
 
-<div markdown style="display:flex; flex-direction:row; media=screen; display: none; ">
+<div markdown style="display:flex; flex-direction:row; media:screen; display: none; ">
 
 <div markdown style="display:flex; flex-direction:column; flex : 1 1 0;">
 
@@ -68,7 +68,7 @@
 </div>
 
 
-<iframe media=print; display: none; src="https://ladigitale.dev/digiquiz/q/67916af90c251" allow="fullscreen; autoplay;" frameborder="0" width="100%" height="500"></iframe>
+<iframe media:print; display: none; src="https://ladigitale.dev/digiquiz/q/67916af90c251" allow="fullscreen; autoplay;" frameborder="0" width="100%" height="500"></iframe>
 
 ??? note-prof "correction"
 
