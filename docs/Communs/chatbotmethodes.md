@@ -23,6 +23,7 @@ Je suis un chatbot pour vous aider à créer ou analyser un document en sciences
 
 Que faut-il faire ?
 
+<<<<<<< HEAD
 1. [lire un graphique](lire un graphique)
 2. [Réaliser un graphique](Réaliser un graphique)
 3. [Construire un tableau](Construire un tableau)
@@ -34,6 +35,17 @@ Que faut-il faire ?
 9. [Constuire un modèle]
 10. [Utiliser un microscope](Utiliser un microscope)
 11. [Rédiger une réponse](Rédiger une réponse/mettre en relation des informations)
+=======
+  1.[lire un graphique](lire un graphgique)
+  2.[Réaliser un graphique](réaliser un graphique)
+  3.[Construire un tableau](construire un tableau)
+  4.[Réaliser un schéma ou dessin](Réaliser un schéma ou dessin)
+  5.[faire un schéma fonctionnel](faire un schéma fonctionnel)
+  6.[Analyser une expérience](analyser une expérience)
+  7.[Comparer des données]
+  8.[Analyser des documents]
+  9.[Constuire un modèle]
+>>>>>>> 8f572229bd8e3f6a60514c56f06054af38796ad2
 
 ## Comprendre la consigne
 
@@ -61,7 +73,11 @@ Je ne comprends pas ce qu'il faut faire dans la consigne
 - LISTER/CITER : Énoncer un ou plusieurs éléments sans donner d’explications.
 - CONSTRUIRE / TRACER : À l’aide d’ustensiles spécifiques construire une représentation
 - CALCULER : Effectuer un calcul chiffré.
+<<<<<<< HEAD
 [DESSINER : Faire un dessin d’observation](Réaliser un schéma ou dessin)
+=======
+- [DESSINER : Faire un dessin d’observation](Réaliser un schéma ou dessin)
+>>>>>>> 8f572229bd8e3f6a60514c56f06054af38796ad2
 - SCHÉMATISER : Faire un schéma
 - DÉCRIRE : Permet d’expliquer un document à l’aide des éléments qui le constituent
 - CLASSER : Mettre dans des catégories
@@ -85,7 +101,10 @@ Je ne comprends pas ce qu'il faut faire dans la consigne
 </div></div>
 
 ## Apprendre son cours
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8f572229bd8e3f6a60514c56f06054af38796ad2
 La mémoire ne peut pas être efficace sur du court terme (la veille du devoir), il faut la réactiver régulièrement pour que les informations soient retenues de manière efficace sur le long terme. Si ce n'est pas le cas, les informations seront oubliées.
 ### En classe
 - Écouter attentivement
