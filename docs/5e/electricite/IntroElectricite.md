@@ -84,13 +84,13 @@ En 1820, André-Marie Ampère, physicien français, théorise ce que l’on appe
 ??? abstract "Bilan"
     L’intensité du courant électrique est la quantité de charges électriques (électrons) qui se déplacent pendant un temps donné. 
 
-    Les électrons se déplacent de la borne négative à la borne positive. Par convention, on note le sens du coruant électrique de la borne + à la borne -.
+    Les électrons se déplacent de la borne négative à la borne positive. Par convention, on note le sens du courant électrique de la borne + à la borne -.
 
-
-    Elle se mesure avec un ampèremètre. 
+    L'intensité se mesure avec un ampèremètre. 
     ![Schéma normalisé d'un ampèremètre](Pictures/schemaAmperemetre.png){: style="width:150px"}
 
     L’unité de mesure est l’ampère (notée A).  
+    Le COM de l'ampèremètre se branche sur la borne - et le A de l'ampèremètre se branche sur la borne +, si le branchement est inversé, l'intensité affichée sera négative.
     
     On parle d’électrisation lorsque le corps humain reçoit une décharge électrique et d’électrocution lorsque cela provoque un arrêt cardiaque.
 
