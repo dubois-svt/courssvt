@@ -8,9 +8,9 @@ rechercheContenu: false
 
 Je suis un chatbot pour vous aider à créer ou analyser un document en sciences.
 
-1. [Je recherche une méthode précise](A faire)
-2. [Je cherche à comprendre la consigne](Consigne)
-
+1. [Je recherche une méthode précise](A Faire)
+2. [Je cherche à comprendre la consigne](Comprendre la consigne)
+3. [Je cherche à apprendre mon cours](Apprendre son cours)
 
 ## A Faire
 
@@ -19,14 +19,14 @@ Que faut-il faire ?
   1.[lire un graphique](lire un graphgique)
   2.[Réaliser un graphique](réaliser un graphique)
   3.[Construire un tableau](construire un tableau)
-  4.[faire un dessin](faire un dessin)
+  4.[Réaliser un schéma ou dessin](Réaliser un schéma ou dessin)
   5.[faire un schéma fonctionnel](faire un schéma fonctionnel)
   6.[Analyser une expérience](analyser une expérience)
   7.[Comparer des données]
   8.[Analyser des documents]
   9.[Constuire un modèle]
 
-## Consigne 
+## Comprendre la consigne
 
 Je ne comprends pas ce qu'il faut faire dans la consigne
 
@@ -52,7 +52,7 @@ Je ne comprends pas ce qu'il faut faire dans la consigne
 - LISTER/CITER : Énoncer un ou plusieurs éléments sans donner d’explications.
 - CONSTRUIRE / TRACER : À l’aide d’ustensiles spécifiques construire une représentation
 - CALCULER : Effectuer un calcul chiffré.
-- DESSINER : Faire un dessin d’observation
+- [DESSINER : Faire un dessin d’observation](Réaliser un schéma ou dessin)
 - SCHÉMATISER : Faire un schéma
 - DÉCRIRE : Permet d’expliquer un document à l’aide des éléments qui le constituent
 - CLASSER : Mettre dans des catégories
@@ -71,11 +71,11 @@ Je ne comprends pas ce qu'il faut faire dans la consigne
 - DÉTERMINER : S’exprimer en faisant une phrase afin de résoudre un problème ou une question en se basant sur le cours ou les documents.
 - PROPOSER UNE EXPLICATION : Le phénomène est inconnu et je donne une explication possible
 - FORMULER UNE HYPOTHÈSE : Proposer une solution qui n’est pas encore démontrée, mais qui doit être possible.
-CITER les CONSÉQUENCES VÉRIFIABLES : Chercher ce que l’on doit trouver si l’hypothèse est juste
-CONCLURE : Faire le bilan après une explication
+- CITER les CONSÉQUENCES VÉRIFIABLES : Chercher ce que l’on doit trouver si l’hypothèse est juste
+- CONCLURE : Faire le bilan après une explication
 </div></div>
 
-## APPRENDRE SON COURS
+## Apprendre son cours
 La mémoire ne peut pas être efficace sur du court terme (la veille du devoir), il faut la réactiver régulièrement pour que les informations soient retenues de manière efficace sur le long terme. Si ce n'est pas le cas, les informations seront oubliées.
 ### En classe
 - Écouter attentivement
