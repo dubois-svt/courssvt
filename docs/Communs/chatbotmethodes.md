@@ -30,18 +30,6 @@ Que faut-il faire ?
 
 Je ne comprends pas ce qu'il faut faire dans la consigne
 
-   1. Construire
-   2. Analyser
-   3. Expliquer
-   4. Justifier
-   5. Calculer
-   6. Indiquer
-   7. Modéliser
-
-
-
-## Lire les consignes
-
 1. Commencer par lire la consigne en entier
 2. Chercher les mots difficiles et s'assurer que l'on en comprenne le sens
 3. Repérer les mots importants :
@@ -49,7 +37,6 @@ Je ne comprends pas ce qu'il faut faire dans la consigne
   - Mots indiquant la production attendue (schéma, texte, tableau ...)
   - Mots indiquant où trouver les informations
 
-Voici des verbes que vous pourrez rencontrer et l’action associée.
 
 <div markdown style="display:flex; flex-direction:row"> 
 <div markdown style="display:flex; flex-direction:column">
