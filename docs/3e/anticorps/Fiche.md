@@ -25,11 +25,11 @@
     - Quelle est la définition d'un antigène ?
     - Une molécule reconnue par le système immunitaire, libre ou sur une cellule micro-organisme.
       
-4.
+4. 
     - Quel est le rôle de la vaccination ?
     - Activer la mémoire immunitaire pour une réponse plus forte et rapide lors d'un contact avec l'antigène et donc d'un micro-organisme.
       
-5.
+5. 
    - Quel est le seul moyen de protection lors des rapports sexuels contre le VIH ?
    - Le préservatif.
      
