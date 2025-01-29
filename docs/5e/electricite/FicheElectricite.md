@@ -7,7 +7,12 @@
 - Manipuler, expérimenter
 - Réaliser un schéma, un graphique
 
-
+## A savoir
+- Faire un schéma normalisé d'un circuit électrique
+- savoir placer le sens du courant électrique sur un schéma
+- savoir mesurer l'intensité d'un circuit
+- savoir faire et reconnaitre des circuits en série et dérivation
+ 
 ## Site internet
 
 Pour s'entrainer un site à construire des circuits électriques :
@@ -31,5 +36,7 @@ Pour s'entrainer un site à construire des circuits électriques :
 4. 
     -  Le circuit est-il en dérivation ou en série ? Justifier. ![](Pictures/circuitFicheRev.png){: style="width:600px"}
     - Le circuit contient deux boucles, donc c'est un circuit en dérivation
-
+4. 
+    -  Que peut-on dire de l'intensité à différents endorits d'un circuit en série
+    - L'intensité est la même partout dans un circuit en série
 </div>

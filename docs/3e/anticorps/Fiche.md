@@ -8,7 +8,13 @@
 - Trouver et exploiter des informations
 - Argumenter
 
+## A savoir.
 
+- Analyser une expérience.
+- Comprendre ce qu'est la spécificité dans le système immunitaire 
+- Savoir interpréter un test Ouchterlony (ou immunodiffusion)
+- Comprendre le principe de la vaccination
+- Comprendre ce que fait le VIH et ce qu'est le SIDA.
 
 ## Flashcards
 
