@@ -142,3 +142,8 @@ Tasp (Treatment as Prevention) : sous traitement, la quantité de virus dans l�
         Après quelques années, le VIH a détruit une partie du système immunitaire, la personne sera immunodéficiente. C’est-à-dire que son corps ne peut pas lutter contre les microbes. Il sera donc malade régulièrement, on parle de maladies opportunistes. Ces maladies entraîneront le décès de la personne.
 
         Pour savoir si l’on est atteint par le virus un simple dépistage suffit, il s'agit d'un test pour détecter les anticorps anti-VIH qui se créent suite à l'infection.
+
+## Séance 4 : Exercice
+
+
+[Activité Exercice](../exercice)
