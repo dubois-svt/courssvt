@@ -1,11 +1,3 @@
----
-clavier: true
-gestionGrosMots: true
-rechercheContenu: false
-
-variables:
-    _url_img: "https://chatbotmethodes-3858eb.forge.apps.education.fr/Pictures/"
----
 
 Lien vers un chatbot pour aider dans les fiches méthodes.
 
