@@ -11,7 +11,8 @@
 
 
 **Document 1 : Pasteur**
-En 1880, le scientifique français Louis Pasteur (1822-1895) réalise des expériences sur des poules en leu injectant des bactéries responsables du choléra.
+
+En 1880, le scientifique français Louis Pasteur (1822-1895) réalise des expériences sur des poules en leur injectant des bactéries responsables du choléra.
 
 
 
@@ -20,4 +21,4 @@ En 1880, le scientifique français Louis Pasteur (1822-1895) réalise des expér
 Voici vingt poules qui n'ont jamais subi les atteintes de la maladie; je les inocule avec le microbe très virulent. Le lendemain elles sont toutes couchées, très boiteuses; en 48 heures les vingts poules ont péri. Voici d'autre part, cingt poules préalablement vaccinées au maximum (c'est à dire des poules ayant reçu trois ou quatre fois des injections de microbes très atténués); elles sont inoculées à la même heures que les précédentes, à la même place, par le même microbe, enmployé en même quantité. Le lendemain, toutes sont vives, alertes, mangent et gloussent.
 
 **Document 3 : schéma de de l'expérience de Pasteur**
-![alt text](image-1.png)
+![](Pictures/expPasteur.png)
