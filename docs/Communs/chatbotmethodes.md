@@ -1,3 +1,11 @@
+---
+clavier: true
+gestionGrosMots: true
+rechercheContenu: false
+
+variables:
+    _url_img: "https://chatbotmethodes-3858eb.forge.apps.education.fr/Pictures/"
+---
 
 Lien vers un chatbot pour aider dans les fiches méthodes.
 
@@ -9,14 +17,7 @@ Le chatbot est réalisé avec CHatMD de Cédric Eyssette.
 <script id="chatmdWidgetScript" src="https://chatmd.forge.apps.education.fr/widget.min.js" data-chatbot="https://chatbotmethodes-3858eb.forge.apps.education.fr/chatbotmethodes.md"></script>
 
 
----
-clavier: true
-gestionGrosMots: true
-rechercheContenu: false
 
-variables:
-    _url_img: "https://chatbotmethodes-3858eb.forge.apps.education.fr/Pictures/"
----
 
 # Outils d'aide en Sciences
 
