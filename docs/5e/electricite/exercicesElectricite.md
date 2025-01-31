@@ -128,7 +128,7 @@
     <td>□ Vrai <br>□ Faux</td>
   </tr>
   <tr>
-    <td>Le courant électrique circule dans un circuit lorsque ’interrupteur est ouvert et ne circule pas dans le circuit lorsque l’interrupteur est fermé.</td>
+    <td>Le courant électrique circule dans un circuit lorsque l’interrupteur est ouvert et ne circule pas dans le circuit lorsque l’interrupteur est fermé.</td>
     <td>□   Vrai  			<br>□   Faux</td>
   </tr>
   <tr>
