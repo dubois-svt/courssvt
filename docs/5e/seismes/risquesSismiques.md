@@ -115,5 +115,5 @@ En revanche, dans les pays pauvres, comme Haïti, les constructions parasismique
 
 **Document 6 Reportage sur le séisme de Kobe**
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CSRWvYaZxhg?si=ea7m1QB-3fZmlfHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe title="le tremblement de terre de kobe" width="560" height="315" src="https://tube-sciences-technologies.apps.education.fr/videos/embed/abc82eb8-114e-4f4d-ad34-58c75cf6883a" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 
