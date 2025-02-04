@@ -23,7 +23,7 @@ Les séismes ou tremblements de terre sont des vibrations soudaines et fréquent
 
 <div markdown style="display:flex; flex-direction:column;">
 
-[![Extrait du journal de 20H, France 2 https://www.youtube.com/watch?v=dD_aj3dw1LM](pictures/qrcodeJTseisme.png)](https://www.youtube.com/watch?v=dD_aj3dw1LM)
+<iframe title="Tremblement de terre, tsunami et explosion nucléaire au Japon _ Archive INA" width="560" height="315" src="https://tube-sciences-technologies.apps.education.fr/videos/embed/ba209534-e17f-48a9-bb17-103028a4f7d8" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 
 </div>
 
