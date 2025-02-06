@@ -3,20 +3,17 @@
 
 ## Compétences travaillées dans la séquence
 - Retenir des idées essentielles d’une leçon
-- Formuler une problématique
-- Argumenter
 - Trouver et exploiter des informations
-- Proposer une démarche expérimentale
-- Utiliser des outils mathématiques
-- Manipuler, expérimenter
-- Analyser des résultats
+- Utiliser des outils d'observations
+- Réaliser un dessin d'observation
 - Organiser un travail en groupe
-- Réaliser un schéma, un graphique
-- Utiliser l'outil numérique
+- Réaliser un schéma fonctionnel
 
-## Site internet
+## A savoir faire
 
-
+- Savoir faire un schéma fonctionnel complet
+- Savoir faire un dessin d'observation complet
+- Savoir expliquer comment circule l'inforamtion dans les neurones
 
 ## Flashcards
 
@@ -24,13 +21,29 @@
 <div markdown class="flashcard">
 
 1. 
-    - question
-    - Une ampoule
+    - Quels sont les organes effecteurs du mouvement ?
+    - Les organes effecteurs du mouvement sont les muscles.
 2. 
-    - Lorem ipsum ?
-    - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam non diam ut quam vehicula efficitur sit amet vitae nisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed at rutrum dui.
+    - Quel est le rôle des nerfs dans le système nerveux ?
+    - Les nerfs transmettent l'information entre les organes sensoriels, le cerveau et les muscles.
+      
 3. 
-    - Question
-    - Réponse
+    - Qu'est-ce qu'une synapse ?
+    - Une synapse est un espace entre deux neurones ou entre un neurone et un organe.
 
+4.  
+    - Quel type de message est transmis dans un neurone ?
+    - Le message est de nature électrique.
+
+5. 
+    - Quels sont les neurotransmetteurs ?
+    - Les neurotransmetteurs sont des substances chimiques qui transmettent le message nerveux au niveau des synapses.
+
+6. 
+    - Comment le cerveau traite-t-il les informations ?
+    - Le cerveau traite les informations en communiquant entre les aires cérébrales.
+
+7. 
+    - Quel est le rôle des organes sensoriels dans le système nerveux ?
+    - Les organes sensoriels envoient des informations au cerveau lors d'une stimulation.
 </div>
