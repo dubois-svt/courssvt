@@ -67,6 +67,7 @@ l'organisme.
 - La légende peut être indiquée par des flèches, directement sur le schéma ou dans une légende à part.
 
 Étapes de réalisation :
+
 1. lister les éléments indispensables à mettre dans le schéma
 2. réfléchir à l'ordre des éléments
 3. représenter de façon simple les éléments en utilisant des formes géométriques
