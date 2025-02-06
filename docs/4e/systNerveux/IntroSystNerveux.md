@@ -127,16 +127,18 @@ Le message passe de neurone en neurone jusqu’aux muscles.
 
     === "Bilan"
 
-        Le message nerveux circule dans des neurone
+        Le message nerveux circule dans des neurones.
+        
         Dans un neurone, le message est de nature électrique.
 
         Entre deux neurones ou entre un neurone et un organe, il y a un faible espace qui est une synapse.
 
-        Au niveau des synapses, le message nerveux  est de nature _____________. Il est transmis par des substances, les neurotransmetteurs.
+        Au niveau des synapses, le message nerveux  est de nature chimique. Il est transmis par des substances, les neurotransmetteurs.
+        
 Séance 4 : Le cerveau, élément central du système nerveux
 
 
-    ![](Pictures/schemaSynapse.png)
+![](Pictures/schemaSynapse.png)
 
 ## Séance 4 : Le cerveau, élément central du système nerveux
 
