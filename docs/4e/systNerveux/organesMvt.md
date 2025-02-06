@@ -6,16 +6,11 @@
 
 !!! warning "Consignes"
 
-    1. Construisez un schéma fonctionnel pour expliquer ce qui se
-    passe dans le corps du footballeur depuis le moment où il voit le ballon
-    jusqu'à l'instant où il frappe la balle.
+    1. Construisez un schéma fonctionnel pour expliquer les organes utilisés par le footballeur depuis le moment où il voit le ballon jusqu'à l'instant où il frappe la balle.
 
-    2. Après avoir fait votre schéma, placer les termes suivants
-    sur le schéma : réaction, organes sensoriels, stimulus et organes
-    effecteurs.
+    2. Après avoir fait votre schéma, placer les termes suivants sur le schéma : réaction, organes sensoriels, stimulus et organes effecteurs.
 
-    3. Ajouter nerf sensitif et nerf moteur sur les flèches
-    concernées.
+    3. Ajouter nerf sensitif et nerf moteur au bon endroit.
     
 ??? bug "Critères de réussite"
     - 
@@ -28,18 +23,13 @@
 
 **Document 2 Les nerfs et la moelle épinière.**
 
-Les nerfs sont reliés à différents organes de notre corps. Certains sont
-reliés à des organes sensoriels, ce sont les nerfs sensitifs.
+Les nerfs sont reliés à différents organes de notre corps. Certains sont reliés à des organes sensoriels, ce sont les nerfs sensitifs.
 
-D'autres sont reliés à des organes effecteurs, ce sont les nerfs
-moteurs.
+D'autres sont reliés à des organes effecteurs, ce sont les nerfs moteurs.
 
-Lorsqu'un nerf est endommagé par une maladie ou un accident, il n'est
-plus possible de bouger le muscle relié par ce nerf moteur ou de
-ressentir les informations de l'organe sensoriel
+Lorsqu'un nerf est endommagé par une maladie ou un accident, il n'est plus possible de bouger le muscle relié par ce nerf moteur ou de ressentir les informations de l'organe sensoriel
 
-Lorsque la moelle épinière est endommagée, il n'est plus possible ni de
-ressentir, ni de bouger, certaines parties de notre corps.
+Lorsque la moelle épinière est endommagée, il n'est plus possible ni de ressentir, ni de bouger, certaines parties de notre corps.
 
 
 
@@ -49,14 +39,11 @@ ressentir, ni de bouger, certaines parties de notre corps.
 
 **Document 4 Définitions.**
 
-Organe sensoriel : organe contenant des récepteurs capables de détecter
-des stimuli
+Organe sensoriel : organe contenant des récepteurs capables de détecter des stimuli
 
-Organe effecteur : organe qui effectue la réponse suite à un ou
-plusieurs stimuli.
+Organe effecteur : organe qui effectue la réponse suite à un ou plusieurs stimuli.
 
-Stimulus (des stimuli) : signal qui peut provoquer une réponse de
-l'organisme.
+Stimulus (des stimuli) : signal qui peut provoquer une réponse de l'organisme.
 
 
 **Document 5 Réaliser un schéma fonctionnel :**
