@@ -8,7 +8,8 @@
 
     1. Consigne collaborative : indiquer en justifiant les gaz qui sont échangés par l’être vivant de votre document.  
     2. Consigne collaborative : retrouver dans quel milieu les échanges se font et comparer la surface de l’organe respiratoire à celle du corps.   
-    3. Consigne coopérative : Présentez, sous la forme de votre choix, les gaz échangés par les êtres vivants, les différents organes, leurs caractéristiques qui permettent aux animaux de respirer en les reliant à leur milieu de vie.
+    3. Consigne coopérative : Présentez dans un tableau, les gaz échangés par les êtres vivants, le milieu de respiration,  les différents organes, les caractéristiques des organes qui permettent aux animaux de respirer.
+    4. Consigne coopérative : Faire une phrase comparant la respiration de ces êtres vivants.
     
 ??? bug "Critères de réussite"
     - identifier les échanges gazeux
