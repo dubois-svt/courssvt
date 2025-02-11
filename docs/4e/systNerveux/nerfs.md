@@ -74,3 +74,11 @@ mettre mots de légende :
 ![](Pictures/photoNeurone2.png)
 
 [https://vimeo.com/263053418](https://vimeo.com/263053418)
+
+
+
+??? note-prof "Correction"
+
+    ![](Pictures/dessinNeurone.png)
+
+
