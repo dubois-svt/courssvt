@@ -74,7 +74,7 @@ Schéma fonctionnel de l'influence du nombre de carnivores sur la végétation
 
 ??? note-prof "Correction"
 
-    ![](Pictures/100000010000030C000002814267D334E29BB2BB.png){width="18.461cm"
+    ![](Pictures/correctSchemaTraitementCerveau.png){width="18.461cm"
     height="15.171cm"}
 
 
