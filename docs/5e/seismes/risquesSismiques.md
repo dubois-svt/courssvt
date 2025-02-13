@@ -7,8 +7,8 @@
 !!! warning "Consignes"
     
     1. En utilisant les documents, compléter le tableau du document 4 pour caractériser le risque sismique pour les quatre zones étudiées (Alaska ; Haïti ; Inde ; Japon).
-    2. Classer les exemples proposés dans le tableau du document 5 :
-        Évacuation d’une ville / Étude de la fréquence de survenue des séismes / Éducation des populations / Sensibilisation des populations des zones à risques / Étude de la composition des fumées s’échappant d’un volcan / Bâtiments aux normes parasismiques
+    2. Classer dans un tableau du document 5  les exemples de mesures proposés en 3 catégories (Prévision de l'aléa, mesures de protection et mesures de prévention)
+        Exemples de mesures : Évacuation d’une ville / Étude de la fréquence de survenue des séismes / Éducation des populations / Sensibilisation des populations des zones à risques / Étude de la composition des fumées s’échappant d’un volcan / Bâtiments aux normes parasismiques
     3. A partir de la vidéo du document 6, expliquer pourquoi y a-t-il eu beaucoup de victimes lors du séisme de Kobe, au Japon. (Votre réponse doit comporter au minimum 3 facteurs pouvant expliquer ce tragique évènement)
 
     
@@ -106,14 +106,8 @@ En revanche, dans les pays pauvres, comme Haïti, les constructions parasismique
 </table>
 
 
-**Document 5 Tableau de présentation des mesures pour évaluer le risque sismique**
 
-| Prévision de l’aléa | Mesures de protection | Mesures de prévention |
-|---|---|---|
-|   |   |   |
-|   |   |   |
-
-**Document 6 Reportage sur le séisme de Kobe**
+**Document 5 Reportage sur le séisme de Kobe**
 
 <iframe title="le tremblement de terre de kobe" width="560" height="315" src="https://tube-sciences-technologies.apps.education.fr/videos/embed/abc82eb8-114e-4f4d-ad34-58c75cf6883a" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 
