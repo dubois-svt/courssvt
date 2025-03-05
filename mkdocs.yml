@@ -270,12 +270,6 @@ nav :
           - Gestion du risque sismique : 5e/seismes/risquesSismiques.md
           - Exercices : 5e/seismes/exoSeismes.md
           - Fiche de révision : 5e/seismes/FicheSeismes.md
-      - Séquence le risque volcanique :
-          - Introduction : 5e/volcans/IntroVolcans.md
-          - Volcans : 5e/volcans/volcans.md
-          - Modélisation d'une éruption :  5e/volcans/eruption.md
-          - Gestion du risque volcanique : 5e/volcans/risquesVolcans.md
-          - Fiche de révision : 5e/volcans/FicheVolcans.md
       - Séquence Le système digestif :
           - Introduction : 5e/systDigestif/IntroDigestion.md
           - Etude de la digestion : 5e/systDigestif/etudeDigestion.md
@@ -283,13 +277,6 @@ nav :
           - Absorption intestinale :  5e/systDigestif/absorptionIntestinale.md
           - Maladies et nutrition : 5e/systDigestif/actionContreFaim.md
           - Fiche de révision : 5e/systDigestif/Fiche.md
-      - Séquence Evolution des objets techniques et cycle de vie :
-        - Introduction : 5e/evolObjTech/IntroEvolObj.md
-        - Familles d'objets : 5e/evolObjTech/famillesObj.md
-        - Evolution de la photographie : 5e/evolObjTech/evolPhoto.md
-        - Cycle de vie des objets : 5e/evolObjTech/cycleVieObj.md
-        - Exercices : 5e/evolObjTech/exercicesObjetsTech.md
-        - Fiche de révision : 5e/evolObjTech/Fiche.md
       - Séquence Optique :
         - Introduction : 5e/lumiere/IntroLumiere.md
         - Sources de lumière : 5e/lumiere/sourcesLumineuses.md
@@ -298,6 +285,21 @@ nav :
         - Conversion d’énergie et unité : 5e/lumiere/chaineEnergetique.md
         - Exercices : 5e/lumiere/exercicesOptique.md
         - Fiche de révision : 5e/lumiere/Fiche.md
+      - Séquence le risque volcanique :
+          - Introduction : 5e/volcans/IntroVolcans.md
+          - Volcans : 5e/volcans/volcans.md
+          - Modélisation d'une éruption :  5e/volcans/eruption.md
+          - Gestion du risque volcanique : 5e/volcans/risquesVolcans.md
+          - Fiche de révision : 5e/volcans/FicheVolcans.md
+
+      - Séquence Evolution des objets techniques et cycle de vie :
+        - Introduction : 5e/evolObjTech/IntroEvolObj.md
+        - Familles d'objets : 5e/evolObjTech/famillesObj.md
+        - Evolution de la photographie : 5e/evolObjTech/evolPhoto.md
+        - Cycle de vie des objets : 5e/evolObjTech/cycleVieObj.md
+        - Exercices : 5e/evolObjTech/exercicesObjetsTech.md
+        - Fiche de révision : 5e/evolObjTech/Fiche.md
+
       - Séquence La nutrition des végétaux :
         - Introduction : 5e/besoinsVeg/IntroVeg.md
         - Une agriculture explosive : 5e/besoinsVeg/echangesVeg.md
