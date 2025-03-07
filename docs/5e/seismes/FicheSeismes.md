@@ -14,7 +14,11 @@
 - Réaliser un schéma, un graphique
 - Utiliser l'outil numérique
 
-## Site internet
+## A savoir faire
+
+- Calculer la vitesse des ondes sismiques
+- Faire un schéma fonctionnel expluqant comment survient un phénomène
+- 
 
 
 
