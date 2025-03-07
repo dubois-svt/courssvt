@@ -85,23 +85,27 @@ Légende :
 <div markdown style="display:flex; flex-direction:row;">
 
 <div markdown style="flex: 1 1 0;padding-right:20px;">
-Les fosses océaniques : Ce sont des zones profondes (de − 4 500 m à
-−11 000 m) et étroites (100 à 200 km de large), bordant soit un
-continent, soit un ensemble d’arc d’îles. Leur longueur totale est de
-37 000 km.
-
+Les fosses océaniques : Ce sont des zones profondes (de − 4 500 m à −11 000 m) et étroites (100 à 200 km de large), bordant soit un continent, soit un ensemble d’arc d’îles. Leur longueur totale est de 37 000 km.
+Au niveau d’une fosse océanique, une lithosphère océanique converge* vers une autre lithosphère.
+* Converge : se rapproche.
+  
 ![](Pictures/imageSubduction.png){:style="height:100px;"}
 </div>
 <div markdown style="flex: 1 1 0;padding-right:20px;">
-Les chaînes de montagne : Ce sont des reliefs continentaux plus ou moins
-escarpés, dont l’altitude dépasse souvent 4 000 m.
+Les chaînes de montagne : Ce sont des reliefs continentaux plus ou moins escarpés, dont l’altitude dépasse souvent 4 000 m.
+Au niveau des chaînes de montagnes, une lithosphère continentale converge* vers une autre lithosphère continentale,
+* Converge : se rapproche.
 
 ![](Pictures/imageMontagne.png){:style="height:100px;"}
 </div>
 <div markdown style="flex: 1 1 0;">
-Les dorsales océaniques : Ce sont des reliefs des fonds océaniques qui
-peuvent atteindre plus de 2 000 m de profondeur avec une longueur totale
-de plus de 65 000 km.
+Les dorsales océaniques : Ce sont des reliefs des fonds océaniques qui peuvent atteindre plus de 2 000 m de profondeur avec une longueur totale de plus de 65 000 km.
+
+Une dorsale est une zone où deux lithosphères océaniques s’éloignent (= divergent*).
+
+
+* Divergent : s’éloignent.
+
 
 ![](Pictures/imageDorsale.png){:style="height:100px;"}:
 

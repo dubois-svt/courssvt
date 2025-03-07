@@ -10,8 +10,8 @@
     Phase individuelle (5 minutes) et phase collaborative (10 minutes) :
 
     - utiliser le document 1 pour identifier le problème visuel du patient.
-    - Identifier le rôle du cerveau dans la vision mis en évidence par ce cas médical;
-    - identifier quelle zone du cerveau permet ce rôle, justifier.
+    - identifier quelle zone du cerveau touchée, justifier.
+    - Conclure sur le rôle du cerveau dans la vision mis en évidence par ce cas médical;
 
     Phase coopérative (20 minutes) :
 
