@@ -26,7 +26,13 @@
 
 ??? abstract "Bilan"
 
-    La surface rocheuse de la Terre est nommée lithosphère. Cette lithosphère est rigide et découpée en plaques appelées plaques lithosphériques (ou plaques tectoniques). La majorité des volcans et de séismes se situent aux limites des plaques lithosphériques. La lithosphère se situe sur l’asthénosphère, milieu contenant des roches moins rigides que celles de la lithosphère. Les roches de la lithosphère et de l’asthénosphère sont solides.
+    La surface rocheuse de la Terre est nommée lithosphère. Cette lithosphère est rigide et découpée en plaques appelées plaques lithosphériques (ou plaques tectoniques).
+    
+    La majorité des volcans et des séismes se situent aux limites des plaques lithosphériques. 
+    
+    La lithosphère se situe sur l’asthénosphère, milieu contenant des roches moins rigides que celles de la lithosphère. 
+    
+    Les roches de la lithosphère et de l’asthénosphère sont solides.
 
 
 ??? abstract "Infos Supplémentaires"
