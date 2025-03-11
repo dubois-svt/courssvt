@@ -3,16 +3,12 @@
 
 ## Compétences travaillées dans la séquence
 - Retenir des idées essentielles d’une leçon
-- Formuler une problématique
 - Argumenter
 - Trouver et exploiter des informations
 - Proposer une démarche expérimentale
 - Utiliser des outils mathématiques
 - Manipuler, expérimenter
-- Analyser des résultats
-- Organiser un travail en groupe
-- Réaliser un schéma, un graphique
-- Utiliser l'outil numérique
+- Réaliser un schéma
 
 ## À savoir faire
 
