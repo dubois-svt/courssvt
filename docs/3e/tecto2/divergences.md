@@ -13,6 +13,7 @@
     5. Calculer la vitesse d'ouverture de l'océan altlantique
     
 ??? bug "Critères de réussite"
+
     - Avoir décrit l'âge de la lithosphère océanique en partant du continent américain vers la dorsale
     - Avoir décrit l'âge de la lithosphère océanique en partant du continent africain vers la dorsale.
     - 

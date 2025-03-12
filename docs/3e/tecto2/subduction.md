@@ -7,8 +7,9 @@
 !!! warning "Consignes"
 
     1. Décrire comment varie la profondeur des séismes de A vers B sur le document 2 
-    2. en utilisant les informations du document 3, expliquer pourquoi il est étonnant d’avoir des foyers sismiques à cette profondeur / Représenter sur le graphique du document 2, la lithosphère en vous aidant des informations du document 3
-    3. en utilisant les informations des documents 1, 2 et 3, expliquer ce qui se passe au niveau de cette zone.
+    2. Représenter sur le graphique du document 2, la lithosphère en vous aidant des informations du document 3
+    3. en utilisant les informations du document 3, expliquer pourquoi il est étonnant d’avoir des foyers sismiques à cette profondeur / 
+    4. en utilisant les informations des documents 1, 2 et 3, expliquer ce qui se passe au niveau de cette zone.
     
 ??? bug "Critères de réussite"
     - 
@@ -17,6 +18,7 @@
 **Document 1 : Mouvement de convergence entre la plaque Nazca et la plaque sud-américaine.**
 
 ![](Pictures/carteMouvAmeriqueSud.png){: style="width:600px;"}
+
 
 **Document 2 : Graphique de la répartition des séismes en fonction de leur profondeur.**
 

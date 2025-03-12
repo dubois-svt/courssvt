@@ -8,18 +8,18 @@
 
     1. À l’aide des informations des documents 1 et 2, compléter le tableau du document 3.
     2. Faire la manipulation du document 2
-    3. en utilisant les informations des documents, expliquer ce qui se passe au niveau de cette zone.
-    4.  Quel indice devrait être trouvé dans la chaîne de l’Himalaya si le modèle est correct.
+    3. En utilisant les informations des documents, expliquer ce qui se passe au niveau de cette zone.
+    4. Quel indice devrait être trouvé dans la chaîne de l’Himalaya si le modèle est correct.
     
 ??? bug "Critères de réussite"
     - 
 
 
-**Document 1 : Schéma des plaques asiatique et indienne, il y a 75 Ma**
+**Document 1 Schéma des plaques asiatique et indienne, il y a 75 Ma**
 
 ![](Pictures/schemaPlaquesAsieInde.png)
 
-**Document 2 : Modélisation d’une collision**
+**Document 2 Modélisation d’une collision**
 
 Protocole :
 
@@ -51,7 +51,7 @@ Protocole :
 </div>
 
 
-**Document 3 : Comparaison du modèle et de la réalité**
+**Document 3 Comparaison du modèle et de la réalité**
 
 <table>
 <colgroup>
