@@ -32,9 +32,9 @@ Des forages permettent de connaitre l'âge des plus **anciens basaltes** et des 
 
 
 **Document 2 : Le volcanisme des dorsales**
-alt
+
 <div markdown style="display:flex; flex-direction:row;">
-américain
+
 <div markdown style="display:flex; flex-direction:column; flex: 1 1 0;">
 
 ![](Pictures/photoPillowLavas.png)
@@ -54,6 +54,6 @@ Les mouvements de **divergence** entraînent une **remontée de roches mantelliq
 
 **Document 4 ...................................**
 
-![](image.png)
+![](Pictures/etapesDivergences.png)
 
 https://planet-terre.ens-lyon.fr/ressource/tectonique-plaques-1970-2011.xml

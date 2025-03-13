@@ -8,13 +8,12 @@
 
 !!! warning "Consignes"
 
-    1. Compléter le tableau du document 2, avec les mots suivants :(0,5 point)
+    1. Compléter le tableau du document 2, avec les mots suivants :(1 point)
     Source de chaleur, Rien, Roches de la lithosphère et Roches de l’asthénosphère, pour comparer le modèle et la réalité. 
     2. Réaliser le protocole et décrire ce qui se passe dans le modèle pendant les deux phases d’observations. (1 point)
     3. Expliquer comment la température peut être responsable des mouvements de matière verticalement. (1 point)
-    4. Indiquer sur le document 5, par des flèches les mouvements verticaux au niveau de la dorsale atlantique et de la zone de subduction. (0,5 point)
-    5. Expliquer le mouvement vertical au niveau des subduction (1 point)
-    6. Proposer deux critiques qui peuvent être faites sur le modèle par rapport à la réalité. (1 point)
+    4. Expliquer le mouvement des sations GPS vers la droite dans le document 4 (1,5 point)
+    7. Proposer deux critiques qui peuvent être faites sur le modèle par rapport à la réalité. (0,5 point)
 
     
 ??? bug "Critères de réussite"
@@ -69,17 +68,9 @@
 
 La densité d’un objet permet de savoir s’il coule ou s’il flotte dans un fluide. Un échantillon dont la densité est supérieure à celle du fluide coule. Un échantillon dont la densité est inférieure à celle du fluide flotte. La densité peut varier en fonction de différents paramètres.
 
+**Document 4 schéma d'une zone de subduction**
 
-**Document 4 Les mouvements internes.**
-
-Des mouvements se produisent à l’intérieur de la Terre. Ces mouvements sont très lents et se font sur des milliers d’années. Ils sont à l’origine des mouvements des plaques tectoniques (tectoniques des plaques).
-
-**Document 5 Schéma des mouvements internes.**
-
-Le flux thermique est la quantité d’énergie libérée sous forme de chaleur à la surface de la Terre.
-
-![](Pictures/schemaDynIntVide.png)
-
+![](Pictures/sub.jpg)
 
 ??? note-prof "docs supplémentaires"
 
