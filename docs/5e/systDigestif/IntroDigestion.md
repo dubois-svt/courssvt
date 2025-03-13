@@ -9,8 +9,8 @@
 L’être humain et plus généralement tous les animaux ont besoin de manger pour avoir de l’énergie. Ils doivent donc absorber des aliments qui passent dans leur système digestif…
 
 !!! question "Problématique"
-    - De quoi est composé le système digestif ? 
-    - Comment transformer les aliments en énergie ? 
+    De quoi est composé le système digestif ? 
+    Comment transformer les aliments en énergie ? 
 
 
     
