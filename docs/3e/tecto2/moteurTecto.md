@@ -10,10 +10,10 @@
 
     1. Compléter le tableau du document 2, avec les mots suivants :(0,5 point)
     Source de chaleur, Rien, Roches de la lithosphère et Roches de l’asthénosphère, pour comparer le modèle et la réalité. 
-    2. Réaliser le protocole et décrire ce qui se passe dans le modèle pendant les phases d’observations. (1 point)
-    3. Expliquer comment la température peut être responsable des mouvements de matière. (1 point)
-    4. Expliquer comment la radioactivité est à l’origine des mouvements des plaques. (1 point)
-    5. Indiquer sur le document 6, par des flèches les mouvements verticaux au niveau de la dorsale atlantique et de la zone de subduction. (0,5 point)
+    2. Réaliser le protocole et décrire ce qui se passe dans le modèle pendant les deux phases d’observations. (1 point)
+    3. Expliquer comment la température peut être responsable des mouvements de matière verticalement. (1 point)
+    4. Indiquer sur le document 5, par des flèches les mouvements verticaux au niveau de la dorsale atlantique et de la zone de subduction. (0,5 point)
+    5. Expliquer le mouvement vertical au niveau des subduction (1 point)
     6. Proposer deux critiques qui peuvent être faites sur le modèle par rapport à la réalité. (1 point)
 
     
@@ -28,8 +28,7 @@
 2.  Verser 55 ml d’huile non colorée, attention les deux huiles ne
     doivent pas se mélanger, il faut donc verser très délicatement
     l’huile en la faisant couler le long de la surface du bécher
-3.  Poser le bécher sur le support et ajouter 2 petits papiers à la
-    surface.
+3.  Poser le bécher sur le support
 4.  Observer pendant 30 secondes
 5.  Allumer la bougie en dessous.
 6.  Observer durant quelques minutes
@@ -66,19 +65,16 @@
 </tbody>
 </table>
 
-**Document 3 : La densité.**
+**Document 3 La densité.**
 
 La densité d’un objet permet de savoir s’il coule ou s’il flotte dans un fluide. Un échantillon dont la densité est supérieure à celle du fluide coule. Un échantillon dont la densité est inférieure à celle du fluide flotte. La densité peut varier en fonction de différents paramètres.
 
-**Document 4 : La radioactivité est une source de chaleur.**
 
-Des roches contenant des éléments radioactifs sont présentes dans la Terre. Ces éléments radioactifs se transforment au cours du temps. Ces transformations libèrent de l’énergie, sous la forme de chaleur.
-
-**Document 5 : Les mouvements internes.**
+**Document 4 Les mouvements internes.**
 
 Des mouvements se produisent à l’intérieur de la Terre. Ces mouvements sont très lents et se font sur des milliers d’années. Ils sont à l’origine des mouvements des plaques tectoniques (tectoniques des plaques).
 
-**Document 6 : Schéma des mouvements internes.**
+**Document 5 Schéma des mouvements internes.**
 
 Le flux thermique est la quantité d’énergie libérée sous forme de chaleur à la surface de la Terre.
 
@@ -146,6 +142,7 @@ Le flux thermique est la quantité d’énergie libérée sous forme de chaleur 
 
     La radioactivité libère de l’énergie qui réchauffe les roches à
     l’intérieur de la Terre. 
+    
     Consigne 5 : Indiquer sur le document 6, par des flèches les mouvements
     verticaux au niveau de la dorsale atlantique et de la zone de
     subduction. (0,5 point)
