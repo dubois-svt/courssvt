@@ -25,8 +25,7 @@
 
 Une théorie est un ensemble de lois scientifiques, de principes et de règles visant à décrire et à expliquer un ensemble de faits. Une théorie se construit autour de faits, des observations, des résultats expérimentaux. Une théorie scientifique a un statut provisoire et correspond à la vérité scientifique du moment.
 
-Entre 1967 et 1968, la théorie de la tectonique des plaques révolutionne l’explication des reliefs terrestres. Selon cette théorie (Xavier Le Pichon, en France), la surface de la Terre est composée de plaques épaisses d’une centaine de kilomètres qui se déplacent horizontalement sur une enveloppe de roche du manteau
-ductile.
+Entre 1967 et 1968, la théorie de la tectonique des plaques révolutionne l’explication des reliefs terrestres. Selon cette théorie (Xavier Le Pichon, en France), la surface de la Terre est composée de plaques épaisses d’une centaine de kilomètres qui se déplacent horizontalement sur une enveloppe de roche du manteau ductile plus dense.
 
 
 Les plaques recouvrent toutes la surface de la Terre, les parties avec des continents sont les plaques continentales et celles avec des océans sont les plaques océaniques. Toutes ces plaques se déplacent.
@@ -56,7 +55,8 @@ Le météorologue allemand Alfred Wegener a émis l’idée que les continents t
 
 **Document 4 Des indices utilisés par Wegener**
 
-Wegener a émis son hypothèse parce qu’il avait constaté que les côtes de l’Afrique de l’Ouest et celles de l’Est de l’Amérique du Sud ressemblaient à des pièces de casse-tête qui se seraient détachées et éloignées l’une de l’autre. De plus, en examinant, les fossiles d’animaux et les roches de ces deux continents, il a remarqué de nombreuses similitudes qu’il n’arrive pas à expliquer si les deux continents ont toujours été aussi éloignés.
+Wegener a émis son hypothèse parce qu’il avait constaté que les côtes de l’Afrique de l’Ouest et celles de l’est de l’Amérique du Sud ressemblaient à des pièces de casse-tête qui se seraient détachées et éloignées l’une de l’autre. 
+De plus, en examinant, les fossiles d’animaux et les roches de ces deux continents, il a remarqué de nombreuses similitudes qu’il n’arrive pas à expliquer si les deux continents ont toujours été aussi éloignés.
 
 ![](Pictures/indicesWegener.png)
 

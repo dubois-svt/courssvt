@@ -67,8 +67,11 @@
     - Elles se rapprochent dans les zones en convergence
 
     - Elles peuvent aussi coulisser l’une par rapport à l’autre (décrochement)
+    
+??? abstract "Bilan"
 
-
+    Il existe trois types de limites de plaques : 
+    - divergentes (où les plaques s'écartent), - convergentes (où elles se rapprochent) - et transformantes (où elles coulissent horizontalement l'une par rapport à l'autre).
 
 ## Séance 3 : Histoire des sciences et tectoniques des plaques
 
