@@ -11,9 +11,10 @@
     1. Compléter le tableau du document 2, avec les mots suivants :(1 point)
     Source de chaleur, Rien, Roches de la lithosphère et Roches de l’asthénosphère, pour comparer le modèle et la réalité. 
     2. Réaliser le protocole et décrire ce qui se passe dans le modèle pendant les deux phases d’observations. (1 point)
-    3. Expliquer comment la température peut être responsable des mouvements de matière verticalement. (1 point)
-    4. Expliquer le mouvement des stations GPS vers la droite dans le document 4 (1,5 point)
-    7. Proposer deux critiques qui peuvent être faites sur le modèle par rapport à la réalité. (0,5 point)
+    3. Comparer le poids des deux éponges dans le document 4
+    4. Expliquer comment la température peut être responsable des mouvements de matière verticalement. (1 point)
+    5. Expliquer le mouvement des stations GPS vers la droite dans le document 5 (1,5 point)
+    6. Proposer deux critiques qui peuvent être faites sur le modèle par rapport à la réalité. (0,5 point)
 
     
 ??? bug "Critères de réussite"
