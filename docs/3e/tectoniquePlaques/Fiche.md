@@ -8,10 +8,10 @@
 - Réaliser un schéma, un graphique
 - Utiliser l'outil numérique
 
-## A savoir faire
+## À savoir faire
 
 - 
-- Lire un graphique de la vitesse des ondes sismiques pour rtrouver la profndeur des changements de couches dans le globe terrestre
+- Lire un graphique de la vitesse des ondes sismiques pour retrouver la profondeur des changements de couches dans le globe terrestre
 - repérer le sens de déplacement des plaques
 - Connaitre les différences entre les théories de la tectonique des plaques et de la dérive des continents
 - Retrouver des informations dans un texte ou sur des images. 
@@ -47,5 +47,5 @@
 
 8. 
    - Donner la définition de théorie
-   - Une théorie est un ensemble de lois scientifiques, de principes et de règles visant à décrire et à expliquer un ensemble de faits. Une théorie se construit autour de faits, des observations, des résultats expérimentaux.Une théorie scientifique a un statut provisoire et correspond à la vérité scientifique du moment.
+   - Une théorie est un ensemble de lois scientifiques, de principes et de règles visant à décrire et à expliquer un ensemble de faits. Une théorie se construit autour de faits, des observations, des résultats expérimentaux. Une théorie scientifique a un statut provisoire et correspond à la vérité scientifique du moment.
 </div>
