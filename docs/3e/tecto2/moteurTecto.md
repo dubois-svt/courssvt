@@ -10,11 +10,12 @@
 
     1. Compléter le tableau du document 2, avec les mots suivants :(1 point)
     Source de chaleur, Rien, Roches de la lithosphère et Roches de l’asthénosphère, pour comparer le modèle et la réalité. 
-    2. Réaliser le protocole et décrire ce qui se passe dans le modèle pendant les deux phases d’observations. (1 point)
-    3. Comparer le poids des deux éponges dans le document 4
-    4. Expliquer comment la température peut être responsable des mouvements de matière verticalement. (1 point)
-    5. Expliquer le mouvement des stations GPS vers la droite dans le document 5 (1,5 point)
-    6. Proposer deux critiques qui peuvent être faites sur le modèle par rapport à la réalité. (0,5 point)
+    2. Réaliser le protocole et décrire ce qui se passe dans le modèle pendant les deux phases d’observations. (0,5 point)
+    5. Expliquer comment la température peut être responsable des mouvements de matière verticalement. (1 point)
+    6. Comparer le poids des deux éponges dans le document 4, que peut on conclure de la masse volumique de ces deux époonges
+    7. Expliquer pourquoila lithosphère océanique va plonger dans le document 5  (1 point)
+    8. Expliquer le mouvement des stations GPS vers la droite dans le document 5 (1 point)
+    9. Proposer deux critiques qui peuvent être faites sur le modèle par rapport à la réalité. (0,5 point)
 
     
 ??? bug "Critères de réussite"
@@ -25,9 +26,7 @@
 **Attention pour faire cette manipulation, les cheveux longs doivent être attachés, les manches retroussées et la table dégagée.**
 
 1.  Verser 20 ml d’huile colorée dans un bécher.
-2.  Verser 55 ml d’huile non colorée, attention les deux huiles ne
-    doivent pas se mélanger, il faut donc verser très délicatement
-    l’huile en la faisant couler le long de la surface du bécher
+2.  Verser 55 ml d’huile non colorée, attention les deux huiles ne doivent pas se mélanger, il faut donc verser très délicatement l’huile en la faisant couler le long de la surface du bécher
 3.  Poser le bécher sur le support
 4.  Observer pendant 30 secondes
 5.  Allumer la bougie en dessous.
@@ -65,11 +64,28 @@
 </tbody>
 </table>
 
-**Document 3 La densité.**
+**Document 3 La masse volumique et la densité.**
 
-La densité d’un objet permet de savoir s’il coule ou s’il flotte dans un fluide. Un échantillon dont la densité est supérieure à celle du fluide coule. Un échantillon dont la densité est inférieure à celle du fluide flotte. La densité peut varier en fonction de différents paramètres.
+La masse volumique est le rapport de la masse d'un corps sur le volume de solvant.
+	
+La densité d d'un corps liquide ou solide, par rapport à l'eau, est égale au quotient de la masse volumique de ce corps par la masse volumique d'un même volume d'eau. 
 
-**Document 4 schéma d'une zone de subduction**
+La masse volumique d’un objet permet de savoir s’il coule ou s’il flotte dans un fluide. Un échantillon dont la masse volumique est supérieure à celle du fluide coule. Un échantillon dont la masse volumique est inférieure à celle du fluide flotte. 
+
+La masse volumique et donc la densité peut varier en fonction de différents paramètres, par exemple la température ou l'hydratation.
+
+**Document 4 masse d'une éponge**
+
+<div markdown style="display:flex; flex-direction;row;flex: 1 1 0;">
+
+![masse d'une éponge sèche](<Pictures/banlance eponge seche.png>)
+
+![masse d'une éponge humide](<Pictures/banlance eponge humide.png>)
+</div>
+
+Les deux éponges gardent le même volume, 850 cm³.
+
+**Document 5 schéma d'une zone de subduction**
 
 ![](Pictures/sub.jpg)
 
