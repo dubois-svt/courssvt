@@ -40,7 +40,7 @@ Protocole de l'expérience :
 
 Cette expérience est réalisée avec des enfants de 3 à 6 ans ayant l'habitude de faire plus de 4 siestes par semaine (groupe témoin) et des enfants ne faisant pas de siestes (groupe test).
 
-On présente des images aux enfants et on leur demande de retenir la localisation t la forme de chacune.
+On présente des images aux enfants et on leur demande de retenir la localisation et la forme de chacune.
 
 On teste les enfants immédiatement après l'apprentissage, plusieurs heures après l'apprentissage et enfin 24 heures après.
 
