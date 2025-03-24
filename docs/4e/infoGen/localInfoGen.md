@@ -13,7 +13,7 @@
 
     Aides :
 
-    - Expliquer à l'aide du doc 1, comment on peut être sûr que l'information génétique est dons la cellule.
+    - Expliquer à l'aide du doc 1, comment on peut être sûr que l'information génétique est dans la cellule.
     - Indiquer la provenance des différents éléments ayant formé l’embryon de la vache clonée.
     - Comparer le veau cloné aux deux vaches de départ.
     - Où se trouve l’information génétique.

@@ -77,27 +77,42 @@ Le laboratoire a fait une première analyse des cheveux retrouvés, ils ont réa
 
     Un nombre anormal de chromosomes peut empêcher le développement de l’embryon ou entraine des caractères différents chez l’individu (trisomie 21).
 
-## Séance 3 : Les gènes et les groupes sanguins
+## Séance 3 : Les groupes sanguins : gènes et allèles
 
 Grâce aux gouttes de sang, on va pouvoir faire un test, pour connaitre le groupe sanguin du coupable.
 
-
 !!! question "Problématique"
-    Quelle information un caryotype peut-il donner ?
-    
+    Comment une information, comme le groupe sanguin, est organisée dans les chromosomes ?    
+
 [Activité Le groupe sanguin](../grpSang)
 
+
+    Un gène est une portion de chromosomes (donc d’ADN) située à un emplacement précis.
+    Il porte une information génétique qui détermine un caractère héréditaire oiu une partie d'un caractère. 
+    Lorsque le gène s’exprime, il permet la formation d’une ou plusieurs protéines qui va permettre l’apparition du caractère.
+
+    L’ensemble des gènes d’un être vivant constitue le génome. Chaque chromosome contient de nombreux gènes.
+
+    Chaque chromosome est présent en 2 exemplaires (= paire). Chaque chromosome de la paire comporte les mêmes gènes. Donc chaque gène est présent 2 fois dans une cellule. (sauf la paire XY chez le mâle).
+
+    Le génome humain = ensemble des gènes portés par les chromosomes de l’homme contiendrait 20 000 à 25 000 gènes
 
 
 
 ??? abstract "Bilan"
+    Les différentes versions d'un gène sont appelées "allèles". Il détermine une version différente du caractère.
 
+    Chaque personne a donc deux allèles de chaque gène : 
 
-## Séance 4 : Les allèles et les groupes sanguins
+    - Qui peuvent être identiques, l’individu est homozygote pour ce gène. 
+    - Qui peuvent être différents, l’individu est hétérozygote pour ce gène. 
 
+    Si les deux allèles sont différents : 
 
+    - Les deux peuvent s’exprimer, ils sont codominants. 
+    - Un seul allèle s’exprime, il est dominant et l’autre est récessif.
 
-
+    Tous les individus ont les mêmes gènes. La diversité humaine est possible grâce à l’existence de ces allèles. Chaque individu est un assemblage d’allèles différents. Cette diversité est appelée biodiversité allélique. L’ensemble des allèles d’un individu est appelé génotype.
 [](https://www.youtube.com/watch?%E2%80%A6&v=H9tz0GJNw2c&feature=youtu.be)
 
 SChéma 

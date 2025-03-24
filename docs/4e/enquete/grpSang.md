@@ -7,10 +7,9 @@
 
 !!! warning "Consignes"
 
-    1. À l’aide des documents proposés, identifier le groupe sanguin du coupable.
-    2. Retrouver la défintion de gène et la définition d'allèle.
-    3. Représenter sur le schéma du document 5, le gène ABO responsable du groupe sanguin.
-    4. 
+    1. A l'aide du document 4, compléter le tableau du document 2 représentant les hématies en y ajoutant les différents marqueurs en respectant le code donné dans le document 4
+    2. À l’aide des documents proposés, identifier le groupe sanguin du coupable.
+    3. Représenter la ou les paires de chromosome 9 pour chaque groupes sanguins
 
 !!! note-prof "matériel"
     Matériels : 
@@ -31,21 +30,27 @@
   
     Pour représenter un gène sur chromosome il faut :
 
-    1. idebntifier la paire de chromosomes portant ce gène (et la légender sur le schéma)
+    1. identifier la paire de chromosomes portant ce gène (et la légender sur le schéma)
     2. Repérer la localisaiton de ce gène sur les chromosomes
     3. Placer le gène surle chromosome en le représentant par un trait de couleur.
 
     Attention : un gène est présent en ..... exemplauire sur les chromosomes d'une même paire (=chromosome ....................)
 
 
-**Document 1 les groupes sanguins du système ABO**
+**Document 1 Le sang**
 
-Les globules rouges (ou hématies) sont des cellules sanguines qui transportent du dioxygène dans le sang. La découverte des groupes sanguins, en 1909, a permis de comprendre pourquoi certaines transfusions sanguines se terminaient par la mort des patients. On sait aujourd’hui qu’il existe 4 groupes sanguins, A, B, AB et O. 
+Le sang est un tissu liquide composé de plasma et cellules diverses. Il contient en particulier les globules rouges, dont la fonction principale est le transport de dioxygène dans tout l'organisme. 
+Les globules rouges des Mammifères (donc des Humains) n'ont pas de noyau. Les globules rouges des Mammifères sont appelés hématies.
+
+**Document 2 les groupes sanguins du système ABO**
+
+
+La découverte des groupes sanguins, en 1909, a permis de comprendre pourquoi certaines transfusions sanguines se terminaient par la mort des patients. On sait aujourd’hui qu’il existe 4 groupes sanguins, A, B, AB et O. 
 Dans certains mélanges de sang, les globules rouges se rassemblaient en paquet au lieu de rester en suspension. Les groupes sanguins dépendent de la présence de molécules particulières sur les hématies, ces molécules sont des antigènes. Les humains peuvent avoir des antigènes A, des antigènes B ou aucun des deux.
 
 | Groupe sanguin | A | B | AB | O |
 |----------------|---|---|----|---|
-| Hématies avec les antigènes |![](pictures/hematiesA.png)|![](pictures/hematiesB.png)|![](pictures/hematiesAB.png)|![](pictures/hematiesO.png)|
+| Hématies avec les antigènes |![](pictures/hematies0.png)|![](pictures/hematiesO.png)|![](pictures/hematiesO.png)|![](pictures/hematiesO.png)|
 | Fréquence dans la population | 45% | 9% | 3% | 43% |
 
 
@@ -67,15 +72,30 @@ Pour identifier le groupe sanguin d’un individu, et donc connaître les moléc
 
 
 
-**Document 2 Les différentes versions du gène responsable du groupe sanguin ABO.**
+**Document 4 Les différentes versions du gène responsable du groupe sanguin ABO.**
 
 <div markdown style="display:flex; flex-direction:row;">
 <div markdown style="display:flex; flex-direction:column;">
 
-Le système ABO est un caractère dépendant du gène ABO présent sur le chromosome 9. Un gène permet de fabriquer un seul type d’antigène. 
 
-Il existe différentes versions du gène ABO, appelées allèles.
-Les allèles A, B et O. A donne des antigènes A, B donne des antigènes B et O ne donne aucun antigène. A et B sont codominants et O est récessif.
+[Vidéo sur les groupes sanguins](https://www.sciencesetavenir.fr/videos/2-minutes-pour-comprendre-les-groupes-sanguins_5qmk3u)
+
+Tous les êtres humains possèdent le même gène codant pour les marqueurs du groupe sanguin ABO, situé sur la paire de chromosome 9.
+
+
+Il existe 3 versions du gène ABO (appelées allèles) :
+
+- Allèle A : il permet la fabrication de la molécule A (symbolisé ![](pictures/marqueurA.png))
+- Allèle B : il permet la fabrication de la molécule B (symbolisé ![](pictures/marqueurB.png))
+- Allèle O : il ne dirige la fabrication d'aucun marqueur.
+
+Les chromosomes allant par paire, chaque individu possède deux versions de chaque gène : soit elles sont identiques, soit elles sont différentes.
+
+Tous les allèles ne s'expriment pas. Dans le cas des groupes sanguins, l'allèle A et l'allèle B s'expriment toujours. On dit qu'ils sont dominants. L'allèle O ne s'exprime pas toujours. On dit qu'il est récessif.
+
+Si on possède par exemple les allèles A et O, l'allèle A entraine la fabrication de marqueur 1, on est de groupe A (et pas AO). Ainsi, pour être de groupe O, il ne faut fabriquer aucun marqueur. Il faut donc posséder deux fous l'allèle O.
+
+
 </div>
 <div markdown style="display:flex; flex-direction:column;">
 

@@ -55,10 +55,12 @@
     Chaque version différente d’un même gène est appelée un allèle. Il détermine une version différente du caractère.
 
     Chaque personne a donc deux allèles de chaque gène :
+
     - Qui peuvent être identiques, l’individu est homozygote pour ce gène. 
     - Qui peuvent être différents, l’individu est hétérozygote pour ce gène. 
 
     Si les deux allèles sont différents :
+    
     - Les deux peuvent s’exprimer, ils sont codominants.
     - Un seul allèle s’exprime, il est dominant et l’autre est récessif.
 
