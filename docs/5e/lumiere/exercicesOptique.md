@@ -54,7 +54,7 @@ Voici une liste d’objets : Flamme, écran de télévision, écran de cinéma, 
     2. Compléter l’image avec des segments fléchés pour justifier ta réponse à la question 1.
 
 
-![](exoFigurineEcran.png)
+![](pictures/exoFigurineEcran.png)
 
  ## Exercice 6
 
