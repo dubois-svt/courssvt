@@ -54,13 +54,11 @@ Dans certains mélanges de sang, les globules rouges se rassemblaient en paquet 
 | Fréquence dans la population | 45% | 9% | 3% | 43% |
 
 
-
-
-**Document 2 Les anticorps**
+**Document 3 Les anticorps**
 
 Les anticorps sont des molécules qui se lient à des antigènes spécifiquement. Lorsqu’ils se fixent à des antigènes, ils forment une agglutination (des petits paquets). Cette agglutination permet de neutraliser les antigènes et le corps étranger auquel ils sont fixés. S’il y a agglutination, c’est donc que l’anticorps et l’antigène correspondent.
 
-**Document 3 Protocole d’identification du groupe sanguin.**
+**Document 4 Protocole d’identification du groupe sanguin.**
 
 Pour des raisons sanitaires, vous ne manipulerez pas de vrai sang, mais un mélange de produits chimiques qui montrent le comportement du sang dans le vrai protocole.
 

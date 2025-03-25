@@ -15,9 +15,10 @@ Une première enquête a limité les suspects à six personnes.
 |Plumo | Alex H. | Amina | Sophia | Kévin | Ismaël |
 |-|-|-|-|-|-|
 | ![](pictures/plumo.png)|![](pictures/alex.png) |![](pictures/amina.png) |![](pictures/sophia.png)|![](pictures/kevin.png)|![](pictures/ismael.png)|
-|Plumo, berger allemand, 7 ans | Alex H. Prof d'histoire, 34 ans | Amina, élève en 3ᵉ, 14 ans | Sophia, élève de 4ᵉ, 13 ans | Kevin, élève de 3ᵉ, 14 ans | Ismaël, élève de 4ᵉ, 13 ans | 
-| Groupe sanguin inconnu | Groupe sanguin O | Groupe sanguin B | Couleur de cheveux naturelle : brun et Groupe sanguin A |Groupe sanguin B | Groupe sanguin AB |
-|Plumo a été vu s'enfuyant à toute vitesse du collège | La concierge a vu Alex quitter le collège particulièrement tard ce soir-là. | Elle a été vue se promenant près du lieu du crime. |Elle a été vue assise devant le collège à 21 h avec un énorme sac. | Il était très énervé contre le collège à cause d'une heure de retenue | Il n'était pas à son entrainement de foot et a été aperçu proche du collège |
+| Plumo, berger allemand, 7 ans | Alex H. Prof d'histoire, 34 ans | Amina, élève en 3ᵉ, 14 ans | Sophia, élève de 4ᵉ, 13 ans | Kevin, élève de 3ᵉ, 14 ans | Ismaël, élève de 4ᵉ, 13 ans | 
+| Groupe sanguin inconnu | Groupe sanguin O | Groupe sanguin B |  Groupe sanguin A |Groupe sanguin B | Groupe sanguin AB |
+| Plumo a été vu s'enfuyant à toute vitesse du collège | La concierge a vu Alex quitter le collège particulièrement tard ce soir-là. | Elle a été vue se promenant près du lieu du crime. |Elle a été vue assise devant le collège à 21 h avec un énorme sac. | Il était très énervé contre le collège à cause d'une heure de retenue | Il n'était pas à son entrainement de foot et a été aperçu proche du collège |
+| on sait que les chien n'aiment pas les chats | le prof a un tatouage sur les bras | Elle porte des boucles d'oreilles| Elle se teint les cheveux, sa couleur de cheveux naturelle est brun | Il est bronzé depuis son retour de vacances | Il a une cicatrice au visage |  
 
 Qui a kidnappé le chat du collège ?
 

@@ -38,8 +38,8 @@
     
 [Activité Propagation de la lumière](../propagLumiere)
 
-
-
+    
+[Activité Propagation de la lumière et eclipse](../eclipse)
 
 ??? abstract "Bilan"
 

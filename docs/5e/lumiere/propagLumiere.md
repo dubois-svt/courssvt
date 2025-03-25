@@ -136,4 +136,4 @@ Pour connaître la position de l’ombre du cube par rapport à la source de lum
 
 **Document 3 Des objets éclairés ou non**
 
-![](image-1.png)
+![alt text](pictures/ombresObjets.png)
