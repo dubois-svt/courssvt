@@ -281,6 +281,8 @@ nav :
         - Introduction : 5e/lumiere/IntroLumiere.md
         - Sources de lumière : 5e/lumiere/sourcesLumineuses.md
         - Propagation de la lumière : 5e/lumiere/propagLumiere.md
+        - Eclipse : 5e/lumiere/eclipse.md
+
         - Communiquer en morse : 5e/lumiere/morse.md
         - Conversion d’énergie et unité : 5e/lumiere/chaineEnergetique.md
         - Exercices : 5e/lumiere/exercicesOptique.md
@@ -356,6 +358,15 @@ nav :
             - Le bruit :  4e/systNerveuxModesVie/bruit.md
             - Les addictions :  4e/systNerveuxModesVie/addictions.md
             - Fiche de révision : 4e/systNerveuxModesVie/Fiche.md
+
+      - Séquence Enquete policière et génétique :
+            - Introduction : 4e/enquete/IntroInfoGen.md
+            - Les caractères héréditaires : 4e/enquete/caractHered.md
+            - Le caryotype : 4e/enquete/caryotype.md
+            - Le groupe sanguin : 4e/enquete/grpSang.md
+            - ADN : 4e/enquete/adn.md
+            - Chromosomes : 4e/enquete/chromosomes.md
+            - Fiche de révision : 4e/enquete/Fiche.md
 
       - Séquence L'information génétique :
             - Introduction : 4e/infoGen/IntroInfoGen.md
