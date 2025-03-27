@@ -78,9 +78,9 @@ La masse volumique et donc la densité peut varier en fonction de différents pa
 
 <div markdown style="display:flex; flex-direction;row;flex: 1 1 0;">
 
-![masse d'une éponge sèche](<Pictures/banlance eponge seche.png>)
+![masse d'une éponge sèche](<Pictures/banlance eponge seche.png>){: style="width:400px; flex-shrink: 0;  " }
 
-![masse d'une éponge humide](<Pictures/banlance eponge humide.png>)
+![masse d'une éponge humide](<Pictures/banlance eponge humide.png>){: style="width:400px; flex-shrink: 0;  " }
 </div>
 
 Les deux éponges gardent le même volume, 850 cm³.

@@ -98,3 +98,6 @@ L’être humain et plus généralement tous les animaux ont besoin de manger po
 
 <div style="page-break-after: always;"></div>
 
+## Séance 5 : Exercices
+
+[Activité Exercices sur la digestion](../exercicesDigestion)
