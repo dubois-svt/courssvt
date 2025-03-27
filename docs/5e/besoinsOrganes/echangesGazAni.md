@@ -71,6 +71,13 @@ Chaque bronchiole débouche sur de minuscules alvéoles dont la fine paroi con
 </div>
 </div>
 
+**Document 5  Les échanges**
+
+Les échanges entre un organe et le sang se font plus facilement si  différentes conditions sont réunis :
+
+- la surface doit être grande
+- la distance entre le sang et l'organe doit être faible (épaisseur)
+  
 
 ## Équipe 2 : Les échanges gazeux respiratoires des criquets
 
@@ -130,6 +137,13 @@ L’eau de chaux dans les deux enceintes est incolore au début de l’expérien
 Chez les insectes, l’air circule dans un réseau de trachées. Chaque organe de l’animal est connecté aux trachées par de petites trachéoles.
 Le réseau de trachée peut représenter un volume d’air égale à la moitié du volume total de l’insecte.
 
+**Document 5  Les échanges**
+
+Les échanges entre un organe et le sang se font plus facilement si  différentes conditions sont réunis :
+
+- la surface doit être grande
+- la distance entre le sang et l'organe doit être faible (épaisseur)
+  
 
 ## Équipe 3 : Les échanges gazeux respiratoires des poissons
 
@@ -198,3 +212,11 @@ Chaque filament branchial est couvert de fines lamelles contenant des petits vai
 </div>
 
 </div>
+
+**Document 5 Les échanges**
+
+Les échanges entre un organe et le sang se font plus facilement si  différentes conditions sont réunis :
+
+- la surface doit être grande
+- la distance entre le sang et l'organe doit être faible (épaisseur)
+  

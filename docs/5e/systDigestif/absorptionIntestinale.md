@@ -3,11 +3,11 @@
 !!! note "Compétences"
 
     - Interpréter
-    - Rélaiser un graphique
+    - Réaliser un graphique
 
 !!! warning "Consignes"
 
-    1. À partir du document 3, trace un graphique de la quantité de nutriments présents dans le tube digestif en fonction de la distance à la bouche.
+    1. À partir du document 1, trace un graphique de la quantité de nutriments présents dans le tube digestif en fonction de la distance à la bouche.
 
     2. À partir des informations, indiquer ce que deviennent les nutriments présents dans le tube digestif.
 
@@ -21,18 +21,8 @@
 
 On donne à un individu un plat de pâtes à manger. Puis l’on suit la quantité de nutriments (glucose) tout au long de son tube digestif.	 
 
-**Document 2 Mesure de la quantité de nutriments dans le sang au niveau de l’intestin grêle (en g par litre de sang)**
-On donne à un individu un plat de pâtes à manger. Puis l’on suit la quantité de nutriments (glucose) tout au long de son tube digestif.	 	 	 	
+Résultats des mesures:
 
-| Sang arrivant | Sang sortant |
-|---|---|
-| 1,2 | 3,7 |
-
-
-
-
-
-**Document 3 Résultats des mesures**
 <table>
 <thead>
   <tr>
@@ -67,14 +57,34 @@ On donne à un individu un plat de pâtes à manger. Puis l’on suit la quantit
 </table>
 
 
+**Document 2 Mesure de la quantité de nutriments dans le sang au du tube digestif (en g par litre de sang)**
+
+| Quantité de nutriments dans le  sang arrivant | Quantité denutriments dans le  sang sortant |
+|---|---|
+| 1,2 | 3,7 |
 
 
-**Document 4 L’intestin grêle**
+
+
+
+
+
+
+
+**Document 3 L’intestin grêle**
+
 Les villosités intestinales sont des structures de la paroi intestinale dont la surface est estimée à 250m². Elles multiplient par 20 la surface de contact entre le contenu de l'intestin grêle et le sang.
 
 ![](pictures/schemaParoiIntestin.png){: style="width:600px;"}
 
 
+**Document 4  Les échanges**
+
+Les échanges entre un organe et le sang se font plus facilement si  différentes conditions sont réunis :
+
+- la surface doit être grande
+- la distance entre le sang et l'organe doit être faible (épaisseur)
+  
 
 
 **Document 5 :**

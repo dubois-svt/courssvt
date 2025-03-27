@@ -130,10 +130,12 @@ nav :
   - index.md
   - 6e :
       - Séquence Mouvement de la Terre :
-          - Introduction : 6e/MouvementTerre/IntroMvtTerre.md
-          - Révolution et rotation : 6e/MouvementTerre/RevolRotation.md
-          - Vitesse de la - sane_listsla vitesse de la Lune : 6e/MouvementTerre/VitesseExerciceLune.md
-          - Fiche Révision : 6e/MouvementTerre/FicheMvtTerre.md
+        - Introduction : 6e/MouvementTerre/IntroMvtTerre.md
+        - Révolution et rotation : 6e/MouvementTerre/RevolRotation.md
+        - Vitesse de la Terre: 6e/MouvementTerre/Vitesse.md
+        - Exercice vitesse de la Lune : 6e/MouvementTerre/VitesseExerciceLune.md
+        - Exercices vitesser : 6e/MouvementTerre/VitesseExercices.md
+        - Fiche Révision : 6e/MouvementTerre/FicheMvtTerre.md
       - Séquence Rotation de la Terre:
         - Introduction: 6e/rotationTerre/IntroRotationTerre.md
         - Alternance jour/nuit : 6e/rotationTerre/JourNuit.md
@@ -276,6 +278,7 @@ nav :
           - Digestion chimique des aliments :  5e/systDigestif/digestionChimique.md
           - Absorption intestinale :  5e/systDigestif/absorptionIntestinale.md
           - Maladies et nutrition : 5e/systDigestif/actionContreFaim.md
+          - Exercices sur la digestions : 5e/systDigestif/exercicesDigestion.md
           - Fiche de révision : 5e/systDigestif/Fiche.md
       - Séquence Optique :
         - Introduction : 5e/lumiere/IntroLumiere.md
