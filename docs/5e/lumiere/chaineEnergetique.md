@@ -2,8 +2,8 @@
 
 !!! note "Compétences"
 
-    Manipuler
-    Schématiser 
+    - Manipuler
+    - Schématiser 
 
 !!! warning "Consignes"
 
