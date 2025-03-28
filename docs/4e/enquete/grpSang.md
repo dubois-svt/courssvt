@@ -9,7 +9,9 @@
 
     1. A l'aide du document 4, compléter le tableau du document 2 représentant les hématies en y ajoutant les différents marqueurs en respectant le code donné dans le document 4
     2. À l’aide des documents proposés, identifier le groupe sanguin du coupable.
-    3. Représenter la ou les paires de chromosome 9 pour chaque groupes sanguins
+    3. Représenter la ou les paires de chromosomes 9 pour chaque groupes sanguins.
+    4. Indiquer les paires de chromosomes 9 pour le suspect.
+
 
 !!! note-prof "matériel"
     Matériels : 
@@ -126,3 +128,7 @@ Pour identifier le groupe sanguin d’un individu, et donc connaître les moléc
     La personne étant de groupe sanguin A, elle a forcément au moins un allèle A. Elle ne peut pas avoir d’allèle B, car sinon elle serait AB. Le second allèle peut soit être un deuxième 1 ou bien un allèle O, car O est récessif.
     ![](pictures/correctAlleleGrpSang1.png)
     ![](pictures/correctAlleleGrpSang2.png)
+
+
+
+

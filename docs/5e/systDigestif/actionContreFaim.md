@@ -6,8 +6,8 @@
 
 !!! warning "Consignes"
 
-    1. À partir des documents, expliquer quels types de constituants alimentaires il est nécessaire d’apporter  pour lutter contre le kwashiorkor. 
-    2. Parmi les aliments proposés, lesquel faut-il apporter en priorité, justifier.
+    1. À partir des documents, expliquer quel type de constituants alimentaires il est nécessaire d’apporter  pour lutter contre le kwashiorkor. 
+    2. Parmi les aliments proposés, lequel faut-il apporter en priorité, justifier.
 
 
     
