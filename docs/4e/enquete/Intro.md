@@ -4,11 +4,11 @@
     si besoin d'infos
 ### Document d’appel :
 
-![](pictures/chat.jpg)
+![](pictures/chat.jpg){: style="width:400px; flex-shrink: 0;  " }
 
-Hier, le chat du collège a disparu ! Il avait été vu sur le parking du collège, des gouttes de sang et des cheveux ont été trouvés. Qui a kidnappé le chat du collège ?
+Hier, le chat du collège, Grissette, a disparu ! Elle avait été vu sur le parking du collège, des gouttes de sang et des cheveux ont été trouvés. Qui a kidnappé Grissette ?
 
-![](pictures/sang.png)
+![](pictures/sang.png){: style="width:400px; flex-shrink: 0;  " }
 
 Une première enquête a limité les suspects à six personnes.
 

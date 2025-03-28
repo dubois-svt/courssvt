@@ -35,12 +35,12 @@ Le son correspond à des vibrations de l'air, conduites jusqu'au tympan qui entr
 **Document 2 Niveau sonore et durée maximum admissibles d'exposition quotidienne au bruit selon l'Organisation mondiale de la santé (OMS).**
 
 <div markdown style="display:flex; flex-direction: row;">
-<div markdown style="display:flex; flex: 1 1 0; flex-direction: column;">
+<div markdown style="display:flex; flex: 2 1 0; flex-direction: column;">
 
-![](Pictures/niveauSonore.png)
+![](Pictures/niveauSonore.png){: style="width:400px; flex-shrink: 0;  " }
 
 </div>
-<div markdown style="display:flex; flex: 2 1 0; flex-direction: column;">
+<div markdown style="display:flex; flex: 1 1 0; flex-direction: column;">
 
 Pour préserver au mieux les capacités d'audition, l'OMS préconise de ne pas dépasser un niveau d'écoute de 75 dB sur 8 heures.
 
