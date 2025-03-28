@@ -50,7 +50,7 @@ Dans certains mélanges de sang, les globules rouges se rassemblaient en paquet 
 
 | Groupe sanguin | A | B | AB | O |
 |----------------|---|---|----|---|
-| Hématies avec les antigènes |![](pictures/hematies0.png)|![](pictures/hematiesO.png)|![](pictures/hematiesO.png)|![](pictures/hematiesO.png)|
+| Hématies avec les antigènes |![](pictures/hematiesO.png)|![](pictures/hematiesO.png)|![](pictures/hematiesO.png)|![](pictures/hematiesO.png)|
 | Fréquence dans la population | 45% | 9% | 3% | 43% |
 
 

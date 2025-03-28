@@ -91,3 +91,17 @@ Suivant les modèles et s'ils sont insérés correctement, ils atténuent l'inte
 
 </div>
 </div>
+
+??? note-prof "correction"
+    1. On voit dans le document 2 que pour notre santé le bruit ne doit pas être trop fort ou trop long.
+    On peut donc en conclure qu'une exposition importante est un bruit trop fort ou trop long.
+    On voit dans le document 3 que si on est exposé à un bruit intense, les cellules ciliées sont détruites.
+    On voit dans le document 1 que ces cellules servent à capter le son pour entendre. 
+    On peut donc conclure que si elles sont détruites, on entendra moins bien ou plus du tout.
+    On apprend dans le document 3, que ces cellules ne se renouvellent pas.
+
+    Donc en cas d'exposition à un bruit, les cellules ciliées qui servent à entendre sont détruites, on entendra moins. Et cette destruction est définitive donc la surdité le sera aussi.
+
+    2. Dans le document 4, on nous dit qu'il faut s'éloigner de la source sonore, cela s'explique car le volume capté sera moins élevé et donc moins dangereux pour nos oreilles.
+    On nous dit aussi de porter des bouchons d'oreilles, car ceux-ci permettent de réduire le volume sonore arrivant aux cellules ciliées.
+

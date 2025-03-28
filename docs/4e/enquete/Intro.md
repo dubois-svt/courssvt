@@ -45,8 +45,10 @@ Avec le sang et les cheveux, on aura accès à l'ADN. Cet ADN nous permettra de 
 
 ??? abstract "Bilan"
     
-
-    Les individus d’une même espèce partagent des caractères. Ce sont les caractères spécifiques. Il existe cependant des variations individuelles.D’autres caractères se transmettent de génération en génération, ce sont les caractères héréditaires.
+    Les individus d’une même espèce partagent des caractères. Ce sont les caractères spécifiques.
+    Il existe cependant des variations individuelles. 
+    
+    D’autres caractères se transmettent de génération en génération, ce sont les caractères héréditaires.
 
 
 
@@ -65,6 +67,7 @@ Le laboratoire a fait une première analyse des cheveux retrouvés, ils ont réa
 
 
 ??? abstract "Bilan"
+
     L’information génétique permet la réalisation des phénotypes héréditaires. L’information génétique se trouve dans le noyau des cellules.
 
     Dans les noyaux des cellules ont trouve de l'ADN qui compose les chromosomes.
@@ -82,12 +85,10 @@ Le laboratoire a fait une première analyse des cheveux retrouvés, ils ont réa
 
 Grâce aux gouttes de sang, on va pouvoir faire un test, pour connaitre le groupe sanguin du coupable.
 
-!!! question "Problématique"
-    Comment une information, comme le groupe sanguin, est organisée dans les chromosomes ?    
 
-[Activité Le groupe sanguin](../grpSang)
+L'information génétique présente sur les chromosomes permet de donner les caractères héréditaires. Ces informations composent les gènes. 
 
-
+??? abstract "Bilan"
     Un gène est une portion de chromosomes (donc d’ADN) située à un emplacement précis.
     Il porte une information génétique qui détermine un caractère héréditaire oiu une partie d'un caractère. 
     Lorsque le gène s’exprime, il permet la formation d’une ou plusieurs protéines qui va permettre l’apparition du caractère.
@@ -98,6 +99,10 @@ Grâce aux gouttes de sang, on va pouvoir faire un test, pour connaitre le group
 
     Le génome humain = ensemble des gènes portés par les chromosomes de l’homme contiendrait 20 000 à 25 000 gènes
 
+!!! question "Problématique"
+    Comment une information, comme le groupe sanguin, est organisée dans les chromosomes ?    
+
+[Activité Le groupe sanguin](../grpSang)
 
 
 ??? abstract "Bilan"
@@ -114,6 +119,7 @@ Grâce aux gouttes de sang, on va pouvoir faire un test, pour connaitre le group
     - Un seul allèle s’exprime, il est dominant et l’autre est récessif.
 
     Tous les individus ont les mêmes gènes. La diversité humaine est possible grâce à l’existence de ces allèles. Chaque individu est un assemblage d’allèles différents. Cette diversité est appelée biodiversité allélique. L’ensemble des allèles d’un individu est appelé génotype.
+    
 [](https://www.youtube.com/watch?%E2%80%A6&v=H9tz0GJNw2c&feature=youtu.be)
 
 SChéma 
