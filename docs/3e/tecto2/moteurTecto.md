@@ -87,7 +87,7 @@ Les deux éponges gardent le même volume, 850 cm³.
 
 **Document 5 schéma d'une zone de subduction**
 
-![](Pictures/sub.jpg){: style="width:800px; flex-shrink: 0;  " }
+![](Pictures/sub.jpg){: style="width:100%; flex-shrink: 0;  " }
 
 ??? note-prof "docs supplémentaires"
 
