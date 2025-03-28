@@ -13,7 +13,7 @@
     2. Réaliser le protocole et décrire ce qui se passe dans le modèle pendant les deux phases d’observations. (0,5 point)
     5. Expliquer comment la température peut être responsable des mouvements de matière verticalement. (1 point)
     6. Comparer le poids des deux éponges dans le document 4, que peut on conclure de la masse volumique de ces deux époonges
-    7. Expliquer pourquoila lithosphère océanique va plonger dans le document 5  (1 point)
+    7. Expliquer pourquoi la lithosphère océanique va plonger dans le document 5  (1 point)
     8. Expliquer le mouvement des stations GPS vers la droite dans le document 5 (1 point)
     9. Proposer deux critiques qui peuvent être faites sur le modèle par rapport à la réalité. (0,5 point)
 
