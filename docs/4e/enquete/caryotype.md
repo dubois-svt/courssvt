@@ -37,6 +37,15 @@ Dans le cas du cheveu, c'est la base du bulbe qui contient des cellules.
 
 ![](pictures/caryoSuspect.png)
 
+
+**Document 4 Le syndrome de Down.**
+
+Le syndrome de Down, aussi appelé trisomie 21, représente 1 cas pour 700 naissances. Les individus atteints par cette anomalie possèdent des caractéristiques physiques particulières (cou et membres courts, visage rond, yeux bridés, malformation cardiaque, etc.) et un déficit intellectuel plus ou moins important selon les individus.
+
+Ce syndrome est dû à la présence de 3 chromosomes 21, ce qui a donné le nom de trisomie 21.
+
+La plupart du temps, des anomalies du nombre de chromosomes provoquant un arrêt du développement embryonnaire, car les caractères n’arrivent pas à se mettre en place pour constituer un individu fonctionnel.
+
 ??? note-prof "correction"
 
     J'observe dans les docs 1 et 2 que les étapes pour réalliser un caryotype sont :
@@ -51,3 +60,4 @@ Dans le cas du cheveu, c'est la base du bulbe qui contient des cellules.
     Nombre de chromosome 46 donc espèce Humaine
 
     Chromosomes sexuels XX donc sexe probablement : femme
+

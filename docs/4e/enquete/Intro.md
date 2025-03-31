@@ -12,13 +12,13 @@ Hier, le chat du collège, Grissette, a disparu ! Elle avait été vu sur le par
 
 Une première enquête a limité les suspects à six personnes.
 
-|Plumo | Alex H. | Amina | Sophia | Kévin | Ismaël |
-|-|-|-|-|-|-|
-| ![](pictures/plumo.png)|![](pictures/alex.png) |![](pictures/amina.png) |![](pictures/sophia.png)|![](pictures/kevin.png)|![](pictures/ismael.png)|
-| Plumo, berger allemand, 7 ans | Alex H. Prof d'histoire, 34 ans | Amina, élève en 3ᵉ, 14 ans | Sophia, élève de 4ᵉ, 13 ans | Kevin, élève de 3ᵉ, 14 ans | Ismaël, élève de 4ᵉ, 13 ans | 
-| Groupe sanguin inconnu | Groupe sanguin O | Groupe sanguin B |  Groupe sanguin A |Groupe sanguin B | Groupe sanguin AB |
-| Plumo a été vu s'enfuyant à toute vitesse du collège | La concierge a vu Alex quitter le collège particulièrement tard ce soir-là. | Elle a été vue se promenant près du lieu du crime. |Elle a été vue assise devant le collège à 21 h avec un énorme sac. | Il était très énervé contre le collège à cause d'une heure de retenue | Il n'était pas à son entrainement de foot et a été aperçu proche du collège |
-| on sait que les chiens n'aiment pas les chats | Le prof a un tatouage sur les bras | Elle porte des boucles d'oreilles| Elle se teint les cheveux, sa couleur de cheveux naturelle est brun | Il est bronzé depuis son retour de vacances | Il a une cicatrice au visage |  
+| Plumo | Alex H. | Amina | Sophia | Kévin | Ismaël | Gaël |
+|-|-|-|-|-|-|-|
+| ![](pictures/plumo.png)|![](pictures/alex.png) |![](pictures/amina.png) |![](pictures/sophia.png)|![](pictures/kevin.png)|![](pictures/ismael.png)| ![](pictures/gael.png)|
+| Plumo, berger allemand, 7 ans | Alex H. Prof d'histoire, 34 ans | Amina, élève en 3ᵉ, 14 ans | Sophia, élève de 4ᵉ, 13 ans | Kevin, élève de 3ᵉ, 14 ans | Ismaël, élève de 4ᵉ, 13 ans | Gaël, élève de 4e, 13 ans | 
+| Groupe sanguin inconnu | Groupe sanguin O | Groupe sanguin B | Groupe sanguin A |Groupe sanguin B | Groupe sanguin AB | Groupe sanguin A | 
+| Plumo a été vu s'enfuyant à toute vitesse du collège | La concierge a vu Alex quitter le collège particulièrement tard ce soir-là. | Elle a été vue se promenant près du lieu du crime. |Elle a été vue assise devant le collège à 21 h avec un énorme sac. | Il était très énervé contre le collège à cause d'une heure de retenue | Il n'était pas à son entrainement de foot et a été aperçu proche du collège | Gaël est souvent en train de caresser le chat |
+| on sait que les chiens n'aiment pas les chats | Le prof a un tatouage sur les bras | Elle porte des boucles d'oreilles| Elle se teint les cheveux, sa couleur de cheveux naturelle est brun | Il est bronzé depuis son retour de vacances | Il a une cicatrice au visage | Gaël est atteint du syndrome de Down qui est une maladie génétique |
 
 Qui a kidnappé le chat du collège ?
 
@@ -80,10 +80,9 @@ Le laboratoire a fait une première analyse des cheveux retrouvés, ils ont réa
 
     Un nombre anormal de chromosomes peut empêcher le développement de l’embryon ou entraine des caractères différents chez l’individu (trisomie 21).
 
-## Séance 3 : Les groupes sanguins : gènes et allèles
+## Séance 3 : Les groupes sanguins : gènes 
 
 Grâce aux gouttes de sang, on va pouvoir faire un test, pour connaitre le groupe sanguin du coupable.
-
 
 L'information génétique présente sur les chromosomes permet de donner les caractères héréditaires. Ces informations composent les gènes. 
 
@@ -103,6 +102,15 @@ L'information génétique présente sur les chromosomes permet de donner les car
 
 [Activité Le groupe sanguin](../grpSang)
 
+## Séance 4 : Les groupes sanguins : allèles
+
+Un des parents indique que votre raisonnement est incorrect, si tous les humains ont les mêmes gènes, on devrait tous avoir le même groupe sanguin, ce qui n'est pas le cas, les caractéristiques génétiques sont incorrectes d'après lui. Il faudra lui expliquer son erreur
+
+!!! question "Problématique"
+    Comment malgré des gènes identiques, nous pouvons être différents ?
+
+[Activité Le groupe sanguin et les allèles](../grpSangAlleles)
+
 
 ??? abstract "Bilan"
     Les différentes versions d'un gène sont appelées "allèles". Il détermine une version différente du caractère.
@@ -119,18 +127,16 @@ L'information génétique présente sur les chromosomes permet de donner les car
 
     Tous les individus ont les mêmes gènes. La diversité humaine est possible grâce à l’existence de ces allèles. Chaque individu est un assemblage d’allèles différents. Cette diversité est appelée biodiversité allélique. L’ensemble des allèles d’un individu est appelé génotype.
 
-
     Le génotype détermine une partie du phénotype.
 
-    Schéma 
     génotype <=> phénotype
         A/B <=> [AB]
 
-[](https://www.youtube.com/watch?%E2%80%A6&v=H9tz0GJNw2c&feature=youtu.be)
+    [Vidéo bilan ](https://www.youtube.com/watch?%E2%80%A6&v=H9tz0GJNw2c&feature=youtu.be)
 
 
 
-## Séance 4 : Transmission de l'information génétique à la naissance : méiose et fécondation source de diversité
+## Séance 5 : Transmission de l'information génétique à la naissance : méiose et fécondation source de diversité
 
 L'avocat des familles des suspects vous contacte.
 Il vous pense que les médecins ont fait une erreur avec groupe sanguin d'Amina. 
@@ -148,28 +154,45 @@ Vous devez donc lui expliquer comment l'information génétique est transmise de
 
 ??? abstract "Bilan"
 
-
     Les spermatozoïdes et les ovules sont des gamètes (=cellules reproductrices).
 
-    Lors de la formation des gamètes, les chromosomes de chaque paire se séparent et les gamètes reçoivent au hasard un seul des deux chromosomes de chacune des 23 paires.
+    Lors de la formation des gamètes, la méiose, les chromosomes de chaque paire se séparent et les gamètes reçoivent au hasard un seul des deux chromosomes de chacune des 23 paires, chaque gamète a 23 chromosomes
 
-    Les gamètes contiennent 23 chromosomes (1 seul par paire).
+    Les chromosomes étant génétiquement différents (ils possèdent les mêmes gènes, mais pas les mêmes allèles), la répartition au hasard des chromosomes fait qu'un individu peut fabriquer de très nombreux gamètes génétiquement différents. (8,3 millions de gamètes différents pour un individu).
 
-    Les chromosomes étant génétiquement différents (ils possèdent les mêmes gènes, mais pas les mêmes allèles), la répartition au hasard des chromosomes fait qu'un individu peut fabriquer de très nombreux gamètes génétiquement différents.
+    Lors de la fécondation, les informations génétiques des deux cellules reproductrices se réunissent au hasard, la cellule-œuf obtenue contient donc 46 chromosomes. (23 du père et 23 de la mère)    Pour chaque gène, un des allèles provient de la mère, l'autre du père.
 
-    En théorie, avec 23 paires de chromosomes, il y a 8,3 millions de gamètes différents pour un individu.
+    Les cellules reproductrices d'un individu étant différentes génétiquement, ses enfants seront différents. Chaque individu issu de la reproduction sexuée est unique. (Dans un couple il peut y avoir  70 mille milliards de cellules-œufs différentes)
 
-    Pour chaque gène, un des allèles provient de la mère, l'autre du père.
+## Séance 6 transmission conforme de l'information génétique de la cellule-oeuf au reste de l'organisme : la mitose 
 
-    Lors de la fécondation, les informations génétiques des deux cellules reproductrices se réunissent au hasard, la cellule-œuf obtenue contient donc 46 chromosomes. (23 du père et 23 de la mère)
+Au cours de l'enquête, vous vous heurtez aux aprents des suspects. tous ne croient pas à la fiabilté des preuives que vous avancez et plsu particuelièrement au fait que les cheveux retrouvés sur la scène de crimes puissent réellement fournir l'infomraiton génétique du coupable.
 
-    Les cellules reproductrices d'un individu étant différentes génétiquement, ses enfants seront différents.
+La mère d'Amina vous retrouve et vous dit ;
+" Je suis convaincue que ma fille est innocente. en plus l'information génétique se trouve dans la cellule-oeuf donc je ne vois aps comment un cheveu peut vous donner l'ADN du coupable ".
 
-    Chaque individu issu de la reproduction sexuée est unique.
+Vous cheercreh donc à lui expliquer comment on peut apsser d'une unique cellules -oeuf dont le noyau contient l'information génétrique àç un individu cotentant des milmliards de cellules ayant la même information génétique.
 
-    En théorie, avec 23 paires de chromosomes, il y a 8,3 millions de cellules reproductrices par individu, ce qui fait 70 mille milliards de cellules-œufs différentes pour un même couple.
+Rédiger un texcte accompagne d'un schéma à la mère d'Amina grâce auxquels vous lui expliquerezcomment on peut obtenir deux cellules ayant la même information égéntquue aà paritr d'une seule.
 
-Séance 6 transmission conforme de l'information génétique de la cellule-oeuf au reste de l'organisme : la mitose 
+!!! question "Problématique"
+
+    Comment expliquer que l'information génétique est conservée au cours de la multiplication cellulaire ?
+
+[Activité Conservation de l'information génétique](../mitose)
+
+
+
+??? abstract "Bilan"
+    La division cellulaire permet la formation de nouvelles cellules qui vont permettre la formation d'un nouvel être vivant et le renouvellement de ses cellules.
+
+    La division cellulaire (ou multiplication cellulaire ou mitose) d'une cellule-mère donne deux cellules-filles identiques.
+
+    Avant la division, chaque chromosome simple est copié et forme des chromosomes doubles dont les deux parties sont identiques. La quantité d'ADN double, mais le nombre de chromosomes reste le même.
+
+    Lors de la division cellulaire, les deux parties de chaque chromosome double se séparent et se répartissent dans les deux cellules-filles.
+
+    Les deux cellules-filles reçoivent le même nombre de paires de chromosomes identiques à ceux de la cellule-mère. 
 
 Séance 7 : Une autre source de diversité les mutations
 
