@@ -43,7 +43,7 @@ On donne à un individu un plat de pâtes à manger. Puis l’on suit la quantit
         - résultats observés
         - conclusion
 
-En 1822, un trappeur canadien est accidentellement blésse ar une balle qui perfore son esstomac, laissant échapper de la nouriiture par l'orifice.
+En 1822, un trappeur canadien est accidentellement blésse par une balle qui perfore son estomac, laissant échapper de la nourriture par l'orifice.
 Le médecin, William Beaumont, prend directement le sec de l'estomac dans cette blessure pour réaliser son expérience.
 
 Voici un descrriptif de son expérience :
