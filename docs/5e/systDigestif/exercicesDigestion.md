@@ -33,7 +33,7 @@ On donne à un individu un plat de pâtes à manger. Puis l’on suit la quantit
 
 !!! warning "Consignes"
     1. Rappeler les étapes de l'analyse d'expérience
-    2. L'expérience de Beaumont est incomplète, faire l'analyse de l'expérience de Beaumont en compéltant les éléments manquants
+    2. L'expérience de Beaumont est incomplète, faire l'analyse de l'expérience de Beaumont en complétant les éléments manquants
 
 ??? bug "Critères de réussite"
     - avoir fait l'analyse d'expérience
