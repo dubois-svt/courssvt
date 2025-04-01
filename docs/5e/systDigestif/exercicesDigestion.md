@@ -32,8 +32,8 @@ On donne à un individu un plat de pâtes à manger. Puis l’on suit la quantit
     - Interpréter
 
 !!! warning "Consignes"
-    
-    L'expérience de Beaumont est incomplète, faire l'analyse de l'expérience de Beaumont en compéltant les éléments manquants
+    1. Rappeler les étapes de l'analyse d'expérience
+    2. L'expérience de Beaumont est incomplète, faire l'analyse de l'expérience de Beaumont en compéltant les éléments manquants
 
 ??? bug "Critères de réussite"
     - avoir fait l'analyse d'expérience
@@ -43,14 +43,8 @@ On donne à un individu un plat de pâtes à manger. Puis l’on suit la quantit
         - résultats observés
         - conclusion
 
-En 1822, un trappeur canadien est accidentellement blésse par une balle qui perfore son estomac, laissant échapper de la nourriture par l'orifice.
-Le médecin, William Beaumont, prend directement le suc de l'estomac dans cette blessure pour réaliser son expérience.
+En 1822, un trappeur canadien est accidentellement blessé par une balle qui perfore son estomac, laissant échapper de la nourriture par l'orifice. Le médecin, William Beaumont, prend directement le suc de l'estomac dans cette blessure pour réaliser son expérience, pour répondre à la problématique quel liquide permet la digestion ?
 
 Voici un descriptif de son expérience :
 
-A 11 heures, après avoir fait jeûner le garçon pendant 17 h, j'introduisis [...] un tube de caoutchouc et soutirai du suc gastrique pur non mêlé à d'autres matières excepté une petite quantité de mucus [..] Je pris un morceau de boeuf et le mis dans le suc gastrique. Je bouchai le tube hermétiquement et le plaçai dans une casserole contenant de l'eau maintenue à 37°C.
-En 40 minutes, la digestion était distinctement commencée sur toute la urface de la viande.
-Au bout de 60 minutes le liquide devient entièrement opaque et trouble, une pellicule externe commença à se séparer du reste de la viande.
-A 13 heures, la structure semblait entièrement détruite, laissant les fibres musculaires détachées, flottant parmi des fins lambeaux.
-
-
+À 11 heures, après avoir fait jeûner le garçon pendant 17 h, j'introduisis [...] un tube de caoutchouc et soutirai du suc gastrique pur non mêlé à d'autres matières excepté une petite quantité de mucus [..] Je pris un morceau de bœuf et le mis dans le suc gastrique. Je bouchai le tube hermétiquement et le plaçai dans une casserole contenant de l'eau maintenue à 37°C. En 40 minutes, la digestion était distinctement commencée sur toute la surface de la viande. Au bout de 60 minutes le liquide devient entièrement opaque et trouble, une pellicule externe commença à se séparer du reste de la viande. À 13 heures, la structure semblait complètement détruite, laissant les fibres musculaires détachées, flottant parmi des fins lambeaux.
