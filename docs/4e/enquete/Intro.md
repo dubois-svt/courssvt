@@ -1,4 +1,4 @@
-# Séquence : Enquete policière et génétique
+# Séquence : Enquête policière et génétique
 
 !!! note-prof
     si besoin d'infos
@@ -89,6 +89,7 @@ L'information génétique présente sur les chromosomes permet de donner les car
 ??? abstract "Bilan"
     Un gène est une portion de chromosomes (donc d’ADN) située à un emplacement précis.
     Il porte une information génétique qui détermine un caractère héréditaire ou une partie d'un caractère. 
+
     Lorsque le gène s’exprime, il permet la formation d’une ou plusieurs protéines qui va permettre l’apparition du caractère.
 
     L’ensemble des gènes d’un être vivant constitue le génome. Chaque chromosome contient de nombreux gènes.
@@ -163,17 +164,17 @@ Vous devez donc lui expliquer comment l'information génétique est transmise de
     Lors de la fécondation, les informations génétiques des deux cellules reproductrices se réunissent au hasard, la cellule-œuf obtenue contient donc 46 chromosomes. (23 du père et 23 de la mère)    Pour chaque gène, un des allèles provient de la mère, l'autre du père.
 
     Les cellules reproductrices d'un individu étant différentes génétiquement, ses enfants seront différents. Chaque individu issu de la reproduction sexuée est unique. (Dans un couple il peut y avoir  70 mille milliards de cellules-œufs différentes)
+œuf
+## Séance 6 transmission conforme de l'information génétique de la cellule-œuf au reste de l'organisme : la mitose 
 
-## Séance 6 transmission conforme de l'information génétique de la cellule-oeuf au reste de l'organisme : la mitose 
+Au cours de l'enquête, vous vous heurtez aux parents des suspects. Tous ne croient pas à la fiabilité des preuves que vous avancez et plus particulièrement au fait que les cheveux retrouvés sur la scène de crimes puissent réellement fournir l'information génétique du coupable.
 
-Au cours de l'enquête, vous vous heurtez aux aprents des suspects. tous ne croient pas à la fiabilté des preuives que vous avancez et plsu particuelièrement au fait que les cheveux retrouvés sur la scène de crimes puissent réellement fournir l'infomraiton génétique du coupable.
+La mère d'Amina vous retrouve et vous dit ;œuf
+" Je suis convaincue que ma fille est innocente. En plus l'information génétique se trouve dans la cellule-œuf donc je ne vois pas comment un cheveu peut vous donner l'ADN du coupable ".
 
-La mère d'Amina vous retrouve et vous dit ;
-" Je suis convaincue que ma fille est innocente. en plus l'information génétique se trouve dans la cellule-oeuf donc je ne vois aps comment un cheveu peut vous donner l'ADN du coupable ".
+Vous cherchez donc à lui expliquer comment on peut passer d'une unique cellule-œuf dont le noyau contient l'information génétique à un individu contenant des milliards de cellules ayant la même information génétique.
 
-Vous cheercreh donc à lui expliquer comment on peut apsser d'une unique cellules -oeuf dont le noyau contient l'information génétrique àç un individu cotentant des milmliards de cellules ayant la même information génétique.
-
-Rédiger un texcte accompagne d'un schéma à la mère d'Amina grâce auxquels vous lui expliquerezcomment on peut obtenir deux cellules ayant la même information égéntquue aà paritr d'une seule.
+Rédiger un texte accompagne d'un schéma à la mère d'Amina grâce auxquels vous lui expliquerez comment on peut obtenir deux cellules ayant la même information génétique à partir d'une seule.
 
 !!! question "Problématique"
 

@@ -40,7 +40,7 @@ La formation des gamètes permet donc le mélange des informations génétiques.
 
 ![](pictures/schrepartAlleles.png)
 
-**Document 4 Etapes de la méiose**
+**Document 4 Étapes de la méiose**
 
 ![alt text](pictures/etapesMeiose.png)
 
@@ -54,8 +54,9 @@ SCHEMA FECONDATION A FAIRE
 
 [Video à regarder](https://www.youtube.com/watch?app=desktop&v=J1hJQd-MD1k&t=1s)
 
-La méiose permet la formation de gamètes (ovules ou spermatozoïdes). La répartition aléatoire des chromosomes permet la fabrication de gamètes différents. Lors de la fécondation les gamètes se rencontrent pour former un nouvel individu.alt text
-Pour connaitre les génotypes et le phénotype du nouvel individu formé, il est nécessaire de réaliser un tableau de croisement
+La méiose permet la formation de gamètes (ovules ou spermatozoïdes). La répartition aléatoire des chromosomes permet la fabrication de gamètes différents. Lors de la fécondation les gamètes se rencontrent pour former un nouvel individu.
+
+Pour connaitre les génotypes et le phénotype du nouvel individu formé, il est nécessaire de réaliser un tableau de croisement.
 
 Un tableau de croisement présente les génotype et phénotype possible pour un individu à l'issue d'un croisement
 

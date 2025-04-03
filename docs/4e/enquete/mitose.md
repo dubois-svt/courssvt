@@ -14,38 +14,38 @@
     6. Rédiger un texte pour répondre à la mère d'Amina
     
 ??? bug "Critères de réussite"
+
     - rappeler le nom de la division cellulaire
-    - [video mitose](https://www.youtube.com/watch?app=desktop&v=gYAL1vPOCEQ)
+    - [vidéo mitose](https://www.youtube.com/watch?app=desktop&v=gYAL1vPOCEQ)
     - modéliser  la division cellulaire avec le matériel
-        - 2 grands chromsoimes doubles (de la même couleur)
-        - 2 petits chromosoomes doubles (de la même couleur)
-    - utilise ces chromosomes pour expliquer comment il est possible de passer d'une cellules contenant 4 chromosomes ( 2paires) doubles à deux cellules contenant 4 chromosomes (2 paires) simples
+        - 2 grands chromosomes doubles (de la même couleur)
+        - 2 petits chromosomes doubles (de la même couleur)
+    - utiliser ces chromosomes pour expliquer comment il est possible de passer d'une cellule contenant 4 chromosomes (2 paires) doubles à deux cellules contenant 4 chromosomes (2 paires) simples
 
 
 
 **Document 1 Présentation du cycle cellulaire.**
 
-On eppele cycle celluallire un ensemble de deux phases : la lhase de prepration (interphase) puis la phase de didvision (mitose)
+On appelle cycle cellulaire un ensemble de deux phases : la phase de préparation (interphase) puis la phase de division (mitose)
 
-![alt text](image-1.png)
+![](image-1.png)
+
+Étapes
+**Document 2 Étapes de la division cellulaire.**
 
 
-**Document 2 Etapes de la division cellulaire.**
-
-
-![alt text](image.png)
+![](image.png)
 
 
 
 **Document 3 Tableau représentant l'évolution de la quantité d'ADN au cours du temps dans une cellule qui se divise.**
 
-on a museré la masse d'ADN (donc la masse de matériel chjromosomique) contenue dans une cellule au cours du temps. Les résualtats sont donné dans le tableau cid-dessous
-.
+on a mesuré la masse d'ADN (donc la masse de matériel chromosomique) contenue dans une cellule au cours du temps. Les résultats sont donnés dans le tableau ci-dessous.
 
-La cellules réalise une mitose (division cellulaire) entre 10 et 11H
+La cellule réalise une mitose (division cellulaire) entre 10 et 11H
 |Temps (h) |0 |1 |2 |3 | 4 |5 |6 |7 |8 |9 |10 | 11|12|13|
 |------------------------------------ |---- |---- |----| ----| -----| -----| ---- |----| ----| ----| ---- |----|
 |Quantité d'ADN par cellule (en pg) | 6,6 | 6,6 | 6,6 | 6,6 | 8,2 | 
 
 
-![alt text](photoGenialy/PXL_20250109_131743200.jpg)
+![](photoGenialy/PXL_20250109_131743200.jpg)
