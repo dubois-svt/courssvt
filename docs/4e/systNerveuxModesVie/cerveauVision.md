@@ -2,7 +2,7 @@
 
 !!! note "Compétences"
 
-    - Extraire et mettre en relations des informations   
+    - Extraire et mettre en relation des informations   
     - Autonomie du travail
 
 !!! warning "Consignes"
