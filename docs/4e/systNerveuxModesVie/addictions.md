@@ -60,8 +60,8 @@ Ces structures interagissent grâce à des messagers chimiques comme la dopamine
 
 ??? note-prof "correction"
 
-    Dans le document 1, on voit que l'activation du circuit de la récompense peut entrainer des comportement différents.
-    
+    Dans le document 1, on voit que l'activation du circuit de la récompense peut entrainer des comportements différents.
+
     Dans le document 2, on voit que ce circuit comprend plusieurs zones dans le cerveau et que ces zones communiquent entre elles avec de la dopamine qui est messager chimique.
     Dans le document 3, on voit que les différentes activités peuvent activer plus ou moins le circuit de la récompense.
 
