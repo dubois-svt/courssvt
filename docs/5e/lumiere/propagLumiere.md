@@ -39,9 +39,9 @@
 
 !!! warning "Consignes"
 
-    Représenter des rayons lumineux pour les 3 situations. 
+    Représenter des rayons lumineux pour les 3 situations (doc 3,4 et 6). 
 
-**Document 1 Modélisation des rayons lumineux**
+**Document 2 Modélisation des rayons lumineux**
 
 <div markdown style="display:flex; flex-direction:row;">
 <div markdown style="display:flex; flex: 2 1 0; flex-direction:row;">
@@ -57,21 +57,21 @@ La quasi-totalité des sources de lumière n’ont pas qu’un seul rayon, mais 
 </div>
 </div>
 
-**Document 2 Situation 1**
+**Document 3 Situation 1**
 
 Dans cette situation, représenter un des rayons lumineux permettant à l'œil de voir la source de lumière.
 
 ![Situation 1 ](pictures/situation1.png)
 
 
-**Document 3 Situation 2**
+**Document 4 Situation 2**
 
 
 Dans cette situation, représenter un des rayons lumineux permettant à l'œil de voir la source de lumière en rouge, et d’autre que l'œil ne peut pas voir en vert.
 
 ![Situation 2](pictures/situation2.png)
 
-**Document 4 Rayons lumineux et objets diffusants**
+**Document 5 Rayons lumineux et objets diffusants**
 
 <div markdown style="display:flex; flex-direction:row;">
 <div markdown style="display:flex; flex: 2 1 0; flex-direction:row;">
@@ -87,7 +87,7 @@ Dans cette situation, la source primaire envoie des rayons à la fois à l'œil 
 </div>
 </div>
 
-**Document 5 Situation 3**
+**Document 6 Situation 3**
 
 Les photographes utilisent parfois des parapluies blancs pour obtenir un éclairage uniforme et plus naturel lors d’une séance photo. 
 Dans cette situation, tracer un rayon de lumière modélisant la propagation de la lumière du flash de l’appareil photo à l’objectif pour prendre en photo la pomme.  
@@ -100,10 +100,10 @@ Dans cette situation, tracer un rayon de lumière modélisant la propagation de 
 
 
 !!! warning "Consignes"
-    1. Pour chacun des objets du document 3 indiqué, s'il est éclairé ou non en jsutfiant votre réponse.
+    1. Pour chacun des objets du document 8, indiquer s'il est éclairé ou non en justifiant votre réponse.
     2. Tracer sur le mur 2 l'ombre des objets 
 
-**Document 1 Milieux transparents et opaques**
+**Document 7 Milieux transparents et opaques**
 
 <div markdown style="display:flex; flex-direction:row;">
 <div markdown style="display:flex; flex: 1 1 0; flex-direction:row;">
@@ -120,7 +120,7 @@ Ici, la lumière traverse le verre de la fenêtre, mais ne traverse pas les murs
 </div>
 
 
-**Document 2 Ombre et dessin**
+**Document 8 Ombre et dessin**
 
 <div markdown style="display:flex; flex-direction:row;">
 <div markdown style="display:flex; flex: 2 1 0; flex-direction:row;">
@@ -135,6 +135,6 @@ Pour connaître la position de l’ombre du cube par rapport à la source de lum
 </div>
 </div>
 
-**Document 3 Des objets éclairés ou non**
+**Document 9 Des objets éclairés ou non**
 
-![alt text](pictures/ombresObjets.png)
+![](pictures/ombresObjets.png)
