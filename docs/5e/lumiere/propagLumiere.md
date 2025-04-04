@@ -21,12 +21,12 @@
 
 
 **Document 1 Protocole**
-
-- Placer le premier écran E1 percé devant la source primaire de lumière.
-- Placer un autre écran E3 percé, parallèlement à E1 de manière à observer la source de lumière au travers du trou de E3
-- Intercaler un autre écran, E2, entre E1 et E3
-- Ajuster la position de E2 de manière à observer la source primaire de lumière au travers de E3
-- Insérer un spaghetti dans les trous des trois écrans.
+- Installer l'écran blanc E3 à 25 cm 
+- Placer un  premier écran E1 percé (petit trou au milieu) sur un support à 8 cm devant la source primaire de lumière.
+- Placer un  second écran E2 percé (petit trou au milieu) sur un support à 18 cm devant la source primaire de lumière.
+- Placer la lampe à 0cm en la tenant 
+- Ajuster de la lampe de manière à observer la source primaire de lumière au travers de E1 et E2 et de voir la lumière sur E3
+- Insérer un spaghetti dans les trous des deux écrans.
 
 
 
