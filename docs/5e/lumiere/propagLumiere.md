@@ -21,6 +21,7 @@
 
 
 **Document 1 Protocole**
+
 - Installer l'écran blanc E3 à 25 cm 
 - Placer un  premier écran E1 percé (petit trou au milieu) sur un support à 8 cm devant la source primaire de lumière.
 - Placer un  second écran E2 percé (petit trou au milieu) sur un support à 18 cm devant la source primaire de lumière.
