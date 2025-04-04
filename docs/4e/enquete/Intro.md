@@ -10,7 +10,7 @@ Hier, le chat du collège, Grissette, a disparu ! Elle avait été vu sur le par
 
 ![](pictures/sang.png){: style="width:400px; flex-shrink: 0;  " }
 
-Une première enquête a limité les suspects à six personnes.
+Une première enquête a limité les suspects à sept personnes.
 
 | Plumo | Alex H. | Amina | Sophia | Kévin | Ismaël | Gaël |
 |-|-|-|-|-|-|-|
@@ -46,8 +46,8 @@ Avec le sang et les cheveux, on aura accès à l'ADN. Cet ADN nous permettra de 
 ??? abstract "Bilan"
     
 
-    Les individus d’une même espèce partagent des caractères. Ce sont les caractères spécifiques. Il existe cependant des variations individuelles.D’autres caractères se transmettent de génération en génération, ce sont les caractères héréditaires.
-    Le phénotype d'un individu correspond à l'ensemble des caractère d'un individu, ce phénotype dépend des caractères héréditaire et de l'environnement.
+    Les individus d’une même espèce partagent des caractères. Ce sont les caractères spécifiques. Il existe cependant des variations individuelles. D’autres caractères se transmettent de génération en génération, ce sont les caractères héréditaires.
+    Le phénotype d'un individu correspond à l'ensemble des caractères d'un individu, ce phénotype dépend des caractères héréditaires et de l'environnement.
 
 
 
