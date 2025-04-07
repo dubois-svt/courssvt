@@ -14,7 +14,7 @@
     Phase coopérative (20 minutes) :
 
     - À partir de l'analyse des trois documents, réalisez un schéma
-    fonctionnel expliquant le lien entre sommeil et mémoire.
+    fonctionnel expliquant le lien entre sommeil et l'apprentissage.
 
 ??? bug "Critères de réussite"
     
