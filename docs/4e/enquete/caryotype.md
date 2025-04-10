@@ -27,11 +27,18 @@ Les chromosomes peuvent donner une idée du sexe de l'individu, par exemple dans
 ![](pictures/realCaryo.png)
 
 **Document 3 Les cheveux comme pièces à conviction**
-![](pictures/schemaCheveux.png)
+<div markdown style="display:flex; flex-direction: row;">
+    
 
+    
+![](pictures/schemaCheveux.png){: style="height:400px; flex-shrink: 0;  " }
+</div>
+<div markdown style="display:flex; flex: 2 1 0; flex-direction: column;">
 Les cheveux, la peau, les ongles, le sang et autres liquides corporels peuvent être utilisées pour la police scientifique pour identifier un individu.
 Ces éléments contiennent des cellules qui renferment l'information génétique d'un individu.
 Dans le cas du cheveu, c'est la base du bulbe qui contient des cellules.
+</div>
+</div>
 
 **Document 3 Caryotype réalisé à partir des cheveux retrouvés**
 
