@@ -35,9 +35,6 @@ Qui a kidnappé le chat du collège ?
     comment expliquer que nous soyons tous différents, malgré nos caractéristiques communes ?
 
 
-
-
-
 ## Séance 1 : Les caractères héréditaires
 
 Avec le sang et les cheveux, on aura accès à l'ADN. Cet ADN nous permettra de connaitre de caractères (traits caractéristiques) du coupable et donc d'identifier. Mais cela nous donnera que des caractères héréditaires. Il faut donc identifier les caractères héréditaires des suspects

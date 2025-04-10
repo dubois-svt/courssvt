@@ -718,6 +718,7 @@ Il faudra faire un calcul de proportionnalité avec l'échelle
 Pour vous aider il est posssible d'utiliser un de ces deux tableaux
 
 Pour les 6e, 5e et 4e, la méthode du retour à l'unité : 
+
 |         |Taille sur le document  | Unité | taille réelle |
 |----------|--|--|--|
 | échelle            |  |  1 |  |
@@ -729,6 +730,7 @@ Pour la taille réelle de léchelle, elle est indiquée au dessus ou en dessous 
 À partir du rapport ou du taux dont on connait les 2 termes, obtenir un rapport ou un taux équivalent dont le dénominateur est 1
 
 Pour les 3e, la méthode du produit en croix :
+
 |         |Taille sur le document  | taille réelle |
 |----------|--|--|
 | échelle            |  |    |
