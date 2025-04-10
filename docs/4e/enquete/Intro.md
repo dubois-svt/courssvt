@@ -25,8 +25,8 @@ Une première enquête a limité les suspects à sept personnes.
 | ![](pictures/plumo.png)|![](pictures/alex.png) |![](pictures/amina.png) |![](pictures/sophia.png)|![](pictures/kevin.png)|![](pictures/ismael.png)| ![](pictures/gael.png)|
 | Plumo, berger allemand, 7 ans | Alex H. Prof d'histoire, 34 ans | Amina, élève en 3ᵉ, 14 ans | Sophia, élève de 4ᵉ, 13 ans | Kevin, élève de 3ᵉ, 14 ans | Ismaël, élève de 4ᵉ, 13 ans | Gaël, élève de 4e, 13 ans | 
 | Groupe sanguin inconnu | Groupe sanguin O | Groupe sanguin B | Groupe sanguin A |Groupe sanguin B | Groupe sanguin AB | Groupe sanguin A | 
-| Plumo a été vu s'enfuyant à toute vitesse du collège | La concierge a vu Alex quitter le collège particulièrement tard ce soir-là. | Elle a été vue se promenant près du lieu du crime. |Elle a été vue assise devant le collège à 21 h avec un énorme sac. | Il était très énervé contre le collège à cause d'une heure de retenue | Il n'était pas à son entrainement de foot et a été aperçu proche du collège | Gaël est souvent en train de caresser le chat |
-| on sait que les chiens n'aiment pas les chats | Le prof a un tatouage sur les bras | Elle porte des boucles d'oreilles| Elle se teint les cheveux, sa couleur de cheveux naturelle est brun | Il est bronzé depuis son retour de vacances | Il a une cicatrice au visage | Gaël est atteint du syndrome de Down qui est une maladie génétique |
+| Plumo a été vu s'enfuyant à toute vitesse du collège | La concierge a vu Alex quitter le collège particulièrement tard ce soir-là. | Elle a été vue se promenant près du lieu du crime. |Elle a été vue assise devant le collège à 21 h avec un énorme sac. | Il était très énervé contre le collège à cause d'une heure de retenue | Il n'était pas à son entrainement de foot et a été aperçu proche du collège | Il est souvent en train de caresser le chat |
+| on sait que les chiens n'aiment pas les chats | Le prof a un tatouage sur les bras | Elle porte des boucles d'oreilles| Elle se teint les cheveux, sa couleur de cheveux naturelle est brun | Il est bronzé depuis son retour de vacances | Il a une cicatrice au visage | Il est atteint du syndrome de Down qui est une maladie génétique |
 
 Qui a kidnappé le chat du collège ?
 
@@ -54,7 +54,9 @@ Avec le sang et les cheveux, on aura accès à l'ADN. Cet ADN nous permettra de 
 ??? abstract "Bilan"
     
 
-    Les individus d’une même espèce partagent des caractères. Ce sont les caractères spécifiques. Il existe cependant des variations individuelles. D’autres caractères se transmettent de génération en génération, ce sont les caractères héréditaires.
+    Les individus d’une même espèce partagent des caractères. Ce sont les caractères spécifiques. 
+    Il existe cependant des variations individuelles. 
+    D’autres caractères se transmettent de génération en génération, ce sont les caractères héréditaires.
     Le phénotype d'un individu correspond à l'ensemble des caractères d'un individu, ce phénotype dépend des caractères héréditaires et de l'environnement.
 
 

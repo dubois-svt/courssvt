@@ -438,6 +438,7 @@ Calculer le grossissement : Pour savoir combien de fois on a grossi l’échanti
 4. Continuer jusqu'à revenir à la borne négative du générateur.
 
 Pour les circuit en dérivation.
+
 1. Construire la première boucle
 2. Repérer où est branché la seconde boucle
 3. Dessiner la secodne boucle.
@@ -482,18 +483,18 @@ L'ensemble doit avoir l'apparence d'un rectangle.
 </thead>
 <tbody markdown>
 <tr markdown>
-<td markdown class="tg-c3ow">![](Pictures/schemaPile.png)</td>
-<td markdown class="tg-c3ow">![](Pictures/schemaGenerateur.png)</td>
-<td markdown class="tg-c3ow">![](Pictures/schemaAmpoule.png)</td>
-<td markdown class="tg-c3ow">![](Pictures/schemaInterrupteurOuvert.png)</td>
-<td markdown class="tg-c3ow">![](Pictures/schemaInterrupteurFerme.png)</td>
-<td markdown class="tg-c3ow">![](Pictures/schemaMoteur.png)</td>
-<td markdown class="tg-c3ow">![](Pictures/schemaConducOhm.png)</td>
-<td markdown class="tg-c3ow">![](Pictures/schemaLED.png)</td>
-<td markdown class="tg-c3ow">![](Pictures/schemaAmperemetre.png)</td>
-<td markdown class="tg-c3ow">![](Pictures/schemaVoltmetre.png)</td>
-<td markdown class="tg-c3ow">![](Pictures/schemaOhmetre.png)</td>
-<td markdown class="tg-c3ow">![](Pictures/schemaFil.png)</td>
+<td markdown class="tg-c3ow">![](Pictures/schemaPile.png){: style="width:80px; flex-shrink: 0;  " }</td>
+<td markdown class="tg-c3ow">![](Pictures/schemaGenerateur.png){: style="width:80px; flex-shrink: 0;  " }</td>
+<td markdown class="tg-c3ow">![](Pictures/schemaAmpoule.png){: style="width:80px; flex-shrink: 0;  " }</td>
+<td markdown class="tg-c3ow">![](Pictures/schemaInterrupteurOuvert.png){: style="width:80px; flex-shrink: 0;  " }</td>
+<td markdown class="tg-c3ow">![](Pictures/schemaInterrupteurFerme.png){: style="width:80px; flex-shrink: 0;  " }</td>
+<td markdown class="tg-c3ow">![](Pictures/schemaMoteur.png){: style="width:80px; flex-shrink: 0;  " }</td>
+<td markdown class="tg-c3ow">![](Pictures/schemaConducOhm.png){: style="width:80px; flex-shrink: 0;  " }</td>
+<td markdown class="tg-c3ow">![](Pictures/schemaLED.png){: style="width:80px; flex-shrink: 0;  " }</td>
+<td markdown class="tg-c3ow">![](Pictures/schemaAmperemetre.png){: style="width:80px; flex-shrink: 0;  " }</td>
+<td markdown class="tg-c3ow">![](Pictures/schemaVoltmetre.jpg){: style="width:80px; flex-shrink: 0;  " }</td>
+<td markdown class="tg-c3ow">![](Pictures/schemaOhmetre.png){: style="width:80px; flex-shrink: 0;  " }</td>
+<td markdown class="tg-c3ow">![](Pictures/schemaFil.png){: style="width:80px; flex-shrink: 0;  " }</td>
 </tr>
 </tbody></table>
 
