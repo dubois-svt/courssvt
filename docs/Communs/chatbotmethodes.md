@@ -4,8 +4,10 @@ gestionGrosMots: true
 rechercheContenu: false
 
 variables:
-    _url_img: "https://chatbotmethodes-3858eb.forge.apps.education.fr/Pictures/"
+    _url_img: "Pictures/"
 ---
+
+_url_img: "https://chatbotmethodes-3858eb.forge.apps.education.fr/Pictures/"
 
 Lien vers un chatbot pour aider dans les fiches méthodes.
 
@@ -16,15 +18,6 @@ Le chatbot est réalisé avec CHatMD de Cédric Eyssette.
 
 <script id="chatmdWidgetScript" src="https://chatmd.forge.apps.education.fr/widget.min.js" data-chatbot="https://chatbotmethodes-3858eb.forge.apps.education.fr/chatbotmethodes.md"></script>
 
-
----
-clavier: true
-gestionGrosMots: true
-rechercheContenu: false
-
-variables:
-    _url_img: "https://chatbotmethodes-3858eb.forge.apps.education.fr/Pictures/"
----
 
 # Outils d'aide en Sciences
 
@@ -45,19 +38,20 @@ Que faut-il faire ?
 1. [Décrire un graphique](Décrire un graphique)
 2. [Réaliser un graphique](Réaliser un graphique)
 3. [Construire un tableau](Construire un tableau)
-4. [Réaliser un dessin ou un schéma structurel](Réaliser un dessin ou un schéma structurel)
-5. [Faire un schéma fonctionnel](Réaliser un schéma fonctionnel)
-6. [Démarche scientifique et analyse d'expérience](Démarche scientifique et analyse d'expérience)
-7. [Comparer des données]
-8. [Analyser des documents]
-9. [Construire un modèle]
-10. [Utiliser un microscope](Utiliser un microscope)
-11. [Rédiger une réponse](Rédiger une réponse/mettre en relation des informations)
-12. [Réalisation d’une préparation microscopique](Réalisation d’une préparation microscopique)
-13. [Schématisation électrique](Schématisation électrique)
-14. [Notions d'échelles spatiales et temporelles](Notions d'échelles spatiales et temporelles)
-15. [Construire des groupes emboîtés](Construire des groupes emboîtés)
-16. [Calculer une taille ou distance sur une photo ou une carte](Calculer une taille ou distance sur une photo ou une carte)
+4. [Réaliser un dessin](Réaliser un dessin)
+5. [Réaliser un schéma structurel](Réaliser un schéma structurel)
+6. [Faire un schéma fonctionnel](Réaliser un schéma fonctionnel)
+7. [Démarche scientifique et analyse d'expérience](Démarche scientifique et analyse d'expérience)
+8. [Comparer des données]
+9. [Analyser des documents]
+10. [Construire un modèle]
+11. [Utiliser un microscope](Utiliser un microscope)
+12. [Rédiger une réponse](Rédiger une réponse/mettre en relation des informations)
+13. [Réalisation d’une préparation microscopique](Réalisation d’une préparation microscopique)
+14. [Schématisation électrique](Schématisation électrique)
+15. [Notions d'échelles spatiales et temporelles](Notions d'échelles spatiales et temporelles)
+16. [Construire des groupes emboîtés](Construire des groupes emboîtés)
+17. [Calculer une taille ou distance sur une photo ou une carte](Calculer une taille ou distance sur une photo ou une carte)
 
 --- 
 <div markdown style="page-break-after: always;">
@@ -110,6 +104,7 @@ Je ne comprends pas ce qu'il faut faire dans la consigne
 --- 
 </div>
 <div markdown style="page-break-after: always;">
+
 ## Apprendre son cours
 
 La mémoire ne peut pas être efficace sur du court terme (la veille du devoir), il faut la réactiver régulièrement pour que les informations soient retenues de manière efficace sur le long terme. Si ce n'est pas le cas, les informations seront oubliées.
@@ -131,22 +126,19 @@ La mémoire ne peut pas être efficace sur du court terme (la veille du devoir),
 - Lorsqu'une évaluation est prévue prévoir trois périodes de révision minimum (1 semaine avant, 3 jours avant et la veille).
 
 --- 
+</div>
+<div markdown style="page-break-after: always;">
 
-## Réaliser un dessin ou un schéma structurel
-
-Un schéma est une représentation simplifié de la réalité. Il ne faut donc pas tout représenter. Les tailles et les formes ne sont pas forcément respectées. Il montre l'organisation, la structure d’un élément.
+## Réaliser un dessin
 
 Dans un dessin, la représentation doit être la plus fidèle possible (taille, forme ...).
 
-
-Le dessin ou le schéma se font au centre de la feuille, on représente l'objet observé ou une partie de façon assez grosse pour être lisible.
+Le dessin se fait au centre de la feuille, on représente l'objet observé ou une partie de façon assez grosse pour être lisible.
 
 Il est possible de faire un cadre avec 4 pour ne rien oublier.
 
 
-
-
-- Réaliser un schéma ou dessin propre, sans rature ou blanc.
+- Réaliser un dessin propre, sans rature ou blanc.
 
 - Mettre une légende
    - Traits fins faits à la règle
@@ -156,7 +148,37 @@ Il est possible de faire un cadre avec 4 pour ne rien oublier.
    - Les noms au bout des traits
 
 - Mettre un titre 
-   - On met un titre avec  le type de document  + ce qu’il représente (+ Mode d’obtention : microscope, loupe avec le grossissement)
+   - On met un titre avec  le type de document  (dessin) + ce qu’il représente (+ Mode d’obtention : microscope, loupe avec le grossissement)
+   -  GROSSISSEMENT / ÉCHELLE
+   Grossissement : uniquement au microscope (objectif x oculaire)
+
+   Échelle : mesurer la longueur du segment présent sur le document
+
+--- 
+</div>
+<div markdown style="page-break-after: always;">
+
+## Réaliser un schéma structurel
+
+Un schéma est une représentation simplifié de la réalité. Il ne faut donc pas tout représenter. Les tailles et les formes ne sont pas forcément respectées. Il montre l'organisation, la structure d’un élément.
+
+Le schéma se fait au centre de la feuille, on représente l'objet observé ou une partie de façon assez grosse pour être lisible.
+
+Il est possible de faire un cadre avec 4 pour ne rien oublier.
+
+- Réaliser un schéma propre sans rature ou blanc.
+
+- Mettre une légende
+   - Traits fins faits à la règle
+   - Traits parallèles (ne se croisent pas)
+   - Traits horizontaux 
+   - Traits qui sont tous alignés
+   - Les noms au bout des traits
+
+La légende peut être aussi sous la forme de figuré ou de symbole
+
+- Mettre un titre 
+   - On met un titre avec  le type de document (schéma) + ce qu’il représente (+ Mode d’obtention : microscope, loupe avec le grossissement)
    -  GROSSISSEMENT / ÉCHELLE
    Grossissement : uniquement au microscope (objectif x oculaire)
 
@@ -199,23 +221,42 @@ Un graphique se construit :
 - sur papier millimetré,
 - à partir d’un tableau de données.
 
-• Étape 1 : Grâce à la consigne, déterminer :    
+• Étape 1 : Grâce à la consigne, déterminer les deux grandeurs à reporter sur les axes :    
   - le paramètre mesuré -> ordonnée (vertical)
   - le paramètre variable -> abscisse (horizontal)
+C’est toujours l’ordonnée qui varie en fonction de l’abscisse.
 La consigne sera le plus souvent écrite avec : « paramètre mesuré EN FONCTION du paramètre variable »  
 
 • Étape 2 : Tracer le repère avec les 2 axes gradués et les légender en placant une unité
 
 
-• Étape 3 : Déterminer l'échelle :
-  - repérer pour chaque paramètre les valeurs maximales et minimales à placer
-  - trouver une graduation en adéquation avec ces valeurs  «1 en 1, 2 en 2, 5 en 5, 10 en 10, 100 en 100 »  
+• Étape 3 : Déterminer l'échelle pour graduer les axes :
+  - repérer pour chaque paramètre les valeurs maximales et minimales à placer.
+  - trouver une graduation en adéquation avec ces valeurs  «1 en 1, 2 en 2, 5 en 5, 10 en 10, 100 en 100 ».
+  - graduer les axes en respectant l'écart entre chaque graduation.
 
 • Étape 4 : Placer les points en faisant correspondre les coordonnées présentes dans le tableau de résultats. Une valeur mesurée correspond à une valeur du paramètre variable. 
 
+- Chercher sur l’axe des ordonnées la valeur et faire un trait horizontal en pointillé.
+- Chercher sur l’axe des abscisses la valeur et faire un trait vertical en pointillé.
+- Quand les deux traits se croissent, mettre un « + » (et non un point ou une croix)
+- Refaire les mêmes étapes pour chaque couple de valeur.
+
 • Étape 5 : relier les points à la main et mettre un titre
 
+
+
+• Étape 6 : Mettre un titre et le souligner.
+Exemple type : Graphique de Ordonnée en fonction de l’abscisse. (Remplacer « ordonnée et
+abscisse par les grandeurs physiques de l’exercice)
+
 ![](@{_url_img}constGraph.png)
+
+Exemple : Réaliser le graphique de l’évolution de la température en fonction du temps.
+C’est toujours l’ordonnée qui varie en fonction de l’abscisse.
+
+L’ordonnée est toujours avant le « en fonction de » : ici c’est la température.
+L’abscisse est toujours après le « en fonction de » : ici c’est le temps.
 
 --- 
 </div>
@@ -237,8 +278,15 @@ La consigne sera le plus souvent écrite avec : « paramètre mesuré EN FONCTIO
 5. Mettre un titre
 
 Exemple de schéma fonctionnel
+```mermaid
+    flowchart TD
+        A[Augmentation du nombre de carnivores] --> B[Augmentation nombre d'herbivores mangées] 
+        B --> C[Diminution du nombre de d'herbivores ] 
+        C --> D[Diminution de la quantité de végétaux mangés ]
+        D --> E[Augmentation de la végétation]
 
-![](@{_url_img}image-2.png)
+```
+Schéma fonctionnel de l'influence du nombre de carnivores sur la végétation
 
 --- 
 </div>
@@ -409,6 +457,12 @@ L'ensemble doit avoir l'apparence d'un rectangle.
 <th class="tg-c3ow" rowspan="2">Ampoule</th>
 <th class="tg-c3ow" colspan="2">Interrupteur</th>
 <th class="tg-c3ow" rowspan="2">Moteur</th>
+<th class="tg-c3ow" rowspan="2">Conducteur ohmique</th>
+<th class="tg-c3ow" rowspan="2">Diode électroluminescente (DEL) ou (LED)</th>
+<th class="tg-c3ow" rowspan="2">Ampèremètre</th>
+<th class="tg-c3ow" rowspan="2">Voltmètre</th>
+<th class="tg-c3ow" rowspan="2">Ohmètre</th>
+
 <th class="tg-c3ow" rowspan="2">Fil électrique</th>
 </tr>
 <tr>
@@ -424,6 +478,12 @@ L'ensemble doit avoir l'apparence d'un rectangle.
 <td class="tg-c3ow">![](@{_url_img}schemaInterrupteurOuvert.png)</td>
 <td class="tg-c3ow">![](@{_url_img}schemaInterrupteurFerme.png)</td>
 <td class="tg-c3ow">![](@{_url_img}schemaMoteur.png)</td>
+<td class="tg-c3ow">![](@{_url_img}schemaConducOhm.png)</td>
+<td class="tg-c3ow">![](@{_url_img}schemaLED.png)</td>
+<td class="tg-c3ow">![](@{_url_img}schemaAmperemetre.png)</td>
+<td class="tg-c3ow">![](@{_url_img}schemaVoltmetre.png)</td>
+<td class="tg-c3ow">![](@{_url_img}schemaOhmetre.png)</td>
+
 <td class="tg-c3ow">![](@{_url_img}schemaFil.png)</td>
 </tr>
 </tbody></table>

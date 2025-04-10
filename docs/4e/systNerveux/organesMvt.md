@@ -65,9 +65,9 @@ Exemple de schéma fonctionnel
 ```mermaid
     flowchart TD
         A[Augmentation du nombre de carnivores] --> B[Augmentation nombre d'herbivores mangées] 
-        B --> C[Diminutuion du nombre de d'herbivores ] 
-        C --> D[Diminutuion de la quantité de végétaux mangés ]
-        D --> E[Augmentaiton de la végétation]
+        B --> C[Diminution du nombre de d'herbivores ] 
+        C --> D[Diminution de la quantité de végétaux mangés ]
+        D --> E[Augmentation de la végétation]
 
 ```
 Schéma fonctionnel de l'influence du nombre de carnivores sur la végétation
