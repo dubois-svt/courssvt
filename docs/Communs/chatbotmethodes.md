@@ -17,7 +17,14 @@ Le chatbot est réalisé avec CHatMD de Cédric Eyssette.
 <script id="chatmdWidgetScript" src="https://chatmd.forge.apps.education.fr/widget.min.js" data-chatbot="https://chatbotmethodes-3858eb.forge.apps.education.fr/chatbotmethodes.md"></script>
 
 
+---
+clavier: true
+gestionGrosMots: true
+rechercheContenu: false
 
+variables:
+    _url_img: "https://chatbotmethodes-3858eb.forge.apps.education.fr/Pictures/"
+---
 
 # Outils d'aide en Sciences
 
@@ -49,7 +56,11 @@ Que faut-il faire ?
 12. [Réalisation d’une préparation microscopique](Réalisation d’une préparation microscopique)
 13. [Schématisation électrique](Schématisation électrique)
 14. [Notions d'échelles spatiales et temporelles](Notions d'échelles spatiales et temporelles)
+15. [Construire des groupes emboîtés](Construire des groupes emboîtés)
+16. [Calculer une taille ou distance sur une photo ou une carte](Calculer une taille ou distance sur une photo ou une carte)
+
 --- 
+<div markdown style="page-break-after: always;">
 
 ## Comprendre la consigne
 
@@ -58,7 +69,7 @@ Je ne comprends pas ce qu'il faut faire dans la consigne
 1. Commencer par lire la consigne en entier
 2. Chercher les mots difficiles et s'assurer que l'on en comprenne le sens
 3. Repérer les mots importants :
-  - Verbe d'action qui indique que faire
+  - Verbe d'action qui indique quoi faire
   - Mots indiquant la production attendue (schéma, texte, tableau ...)
   - Mots indiquant où trouver les informations
 
@@ -72,8 +83,6 @@ Je ne comprends pas ce qu'il faut faire dans la consigne
 - INDIQUER : donner une information en rédigeant une phrase.
 - IDENTIFIER/RELEVER/TIRER/TROUVER : Rechercher une information dans un document
 - DÉCRIRE : Dire ce que l’on voit dans un document sans donner d’explication.
-- FORMULER/REFORMULER : Faire une phrase avec ses mots.
-- RÉDIGER : Expliquer par l’écrit
 - LISTER/CITER : Énoncer un ou plusieurs éléments sans donner d’explications.
 - CONSTRUIRE / TRACER : À l’aide d’ustensiles spécifiques construire une représentation
 - CALCULER : Effectuer un calcul chiffré.
@@ -89,19 +98,18 @@ Je ne comprends pas ce qu'il faut faire dans la consigne
 
 - MONTRER/DÉMONTRER : Construire un raisonnement scientifique (je vois que...je sais que...j’en déduis que ...)
 - JUSTIFIER : Expliquer pourquoi on a choisi cette réponse (parce que ... car...)
-- EXPLIQUER : Expliquer les causes et les conséquences
+- EXPLIQUER : Expliquer les causes et les conséquences  (J'observe... je sais que...j'en déduis que...)
 - COMPARER : Faire une comparaison, c’est-à-dire trouver les points communs et différences entre 2 éléments.
 - DÉDUIRE : Établir une conséquence logique
 - ANALYSER : Construire un raisonnement scientifique.
-- DÉTERMINER : S’exprimer en faisant une phrase afin de résoudre un problème ou une question en se basant sur le cours ou les documents.
-- PROPOSER UNE EXPLICATION : Le phénomène est inconnu et je donne une explication possible
-- FORMULER UNE HYPOTHÈSE : Proposer une solution qui n’est pas encore démontrée, mais qui doit être possible.
-- CITER les CONSÉQUENCES VÉRIFIABLES : Chercher ce que l’on doit trouver si l’hypothèse est juste
+- DÉTERMINER : S’exprimer en faisant une phrase afin de résoudre un problème ou une question en se basant sur le cours ou les documents.  (J'observe... je sais que...j'en déduis que...)
+- FORMULER UNE HYPOTHÈSE : Proposer une solution qui n’est pas encore démontrée, mais qui doit être possible. (Je pense que… Je suppose que…)
 - CONCLURE : Faire le bilan après une explication
 </div></div>
 
 --- 
-
+</div>
+<div markdown style="page-break-after: always;">
 ## Apprendre son cours
 
 La mémoire ne peut pas être efficace sur du court terme (la veille du devoir), il faut la réactiver régulièrement pour que les informations soient retenues de manière efficace sur le long terme. Si ce n'est pas le cas, les informations seront oubliées.
@@ -109,18 +117,18 @@ La mémoire ne peut pas être efficace sur du court terme (la veille du devoir),
 
 ### En classe
 
-- Écouter attentivement
-- Participer activement
-- Prendre le cours entièrement et correctement
-- Poser des questions lors d'une difficulté de compréhension
+- Écouter attentivement.
+- Participer activement.
+- Prendre le cours entièrement et correctement.
+- Poser des questions lors d'une difficulté de compréhension.
 
 ### À la maison
 
-- Relire régulièrement le cours le soir 
+- Relire régulièrement le cours le soir.
+- Réciter plusieurs fois le cours.
 - Faire des fiches révisions, une fiche contient les idées principales du cours (définitions, mots clés ...)
-- Faire des flashcards, avec des questions portant sur le cours, pour s'entraîner
-- En cas de questions, les noter pour les poser au cours suivant
-- Lorsqu'une évaluation est prévue prévoir trois périodes de révision minimum (1 semaine avant, 3 jours avant et la veille)
+- Faire des flashcards, avec des questions portant sur le cours sur le devant de la carte et les réponses sur le dos de la carte, pour s’entraîner- En cas de questions, les noter pour les poser au cours suivant.
+- Lorsqu'une évaluation est prévue prévoir trois périodes de révision minimum (1 semaine avant, 3 jours avant et la veille).
 
 --- 
 
@@ -131,45 +139,58 @@ Un schéma est une représentation simplifié de la réalité. Il ne faut donc p
 Dans un dessin, la représentation doit être la plus fidèle possible (taille, forme ...).
 
 
-Le dessin ou le schgéma se font au centre de la feuille, on dessine l'objet observé ou une partie de façon assez grosse pour que le dessin soit lisible.
+Le dessin ou le schéma se font au centre de la feuille, on représente l'objet observé ou une partie de façon assez grosse pour être lisible.
+
+Il est possible de faire un cadre avec 4 pour ne rien oublier.
+
+
+
 
 - Réaliser un schéma ou dessin propre, sans rature ou blanc.
 
 - Mettre une légende
-   - traits fins faits à la règle
-   - traits parallèles (ne se croisent pas)
-   - traits horizontaux 
-   - traits qui sont tous alignés
-   - les noms au bout des traits
+   - Traits fins faits à la règle
+   - Traits parallèles (ne se croisent pas)
+   - Traits horizontaux 
+   - Traits qui sont tous alignés
+   - Les noms au bout des traits
 
 - Mettre un titre 
-   - on met un titre avec  le type de document  + ce qu’il représente (+ Mode d’obtention : microscope, loupe avec le grossissement)
+   - On met un titre avec  le type de document  + ce qu’il représente (+ Mode d’obtention : microscope, loupe avec le grossissement)
    -  GROSSISSEMENT / ÉCHELLE
    Grossissement : uniquement au microscope (objectif x oculaire)
 
    Échelle : mesurer la longueur du segment présent sur le document
 
 --- 
+</div>
+<div markdown style="page-break-after: always;">
 
 ## Décrire un graphique
 
 - Indiquer quel est le paramètre (ou variable) mesuré (paramètre A).
 - Expliquer en fonction de quel paramètre fixe a été mesuré le paramètre A (paramètre B).
-- Compter le nombre de segments qu’il y a dans la courbe : il faudra rédiger autant de phrases qu’il y a de segments. Rédiger une phrase par segment de courbe. Chaque phrase comporte l’un des verbes suivants : augmenter, diminuer ou rester stable.
-Chaque phrase indique le moment de début et de fin et les valeurs du phénomène mesuré.
-Remarque : c’est le phénomène mesuré sur l’axe vertical qui évolue ; il ne faut donc pas dire que la courbe augmente ou diminue, mais que la grandeur étudiée augmente ou diminue.
+- Pour les graphiques simples, sans trop de variations
+   - Compter le nombre de segments qu’il y a dans la courbe : il faudra rédiger autant de phrases qu’il y a de segments. Rédiger une phrase par segment de courbe. Chaque phrase comporte l’un des verbes suivants : augmenter, diminuer ou rester stable.
+   Chaque phrase indique le moment de début et de fin et les valeurs du phénomène mesuré.
+   Remarque : c’est le phénomène mesuré sur l’axe vertical qui évolue ; il ne faut donc pas dire que la courbe augmente ou diminue, mais que la grandeur étudiée augmente ou diminue.
+   - Pour les grpahiques plus complexes, avec beaucoup de variations:
+   Il faut donner les les minimums et maximums et décrire les tendances, par exemple, voit-on régulièrement les mêmes variations = cycle.
 
-![](Pictures/graph.png)
+![](@{_url_img}graph.png)
 
-Exemple : Ce graphique représente la température en fonction de l’heure de la journée.
-De 0 h à 6 h, la température reste stable à 8 °C.
-De 6hà14h, la température augmente de 8 à 30 °C.
-De 14 h à 24 h, la température diminue de 30 à 8 °C.
+Exemple : 
+Ce graphique représente la température en fonction de l’heure de la journée. 
+De 0 h à 6 h, la température est à 8°C, donc la température est constante à 8 °C. 
+De 6 h à 14 h, la température passe de 8 à 30°C, donc elle  augmente. 
+De 14 h à 24 h, la température passe de 30 à 8°C, donc elle diminue.
 
 
 
 
 ---
+</div>
+<div markdown style="page-break-after: always;">
 
 ## Réaliser un graphique
 
@@ -194,14 +215,15 @@ La consigne sera le plus souvent écrite avec : « paramètre mesuré EN FONCTIO
 
 • Étape 5 : relier les points à la main et mettre un titre
 
-![](Pictures/constGraph.png)
+![](@{_url_img}constGraph.png)
 
 --- 
-
+</div>
+<div markdown style="page-break-after: always;">
 
 ## Réaliser un schéma fonctionnel
 
-- Il explique le focntionement de quelque chose.
+- Il explique le fonctionement de quelque chose.
 - On utilise des formes géométriques et des flèches pour les déplacements.  
 - La légende reprend les formes utilisées et en donne leur signification.  
 - La légende peut être indiquée par des flèches, directement sur le schéma ou dans une légende à part.
@@ -216,9 +238,11 @@ La consigne sera le plus souvent écrite avec : « paramètre mesuré EN FONCTIO
 
 Exemple de schéma fonctionnel
 
-![alt text](Pictures/image-2.png)
+![](@{_url_img}image-2.png)
 
 --- 
+</div>
+<div markdown style="page-break-after: always;">
 
 ## Construire un tableau
 
@@ -240,6 +264,8 @@ Il y a deux types de tableaux :
 | **Population** | 68 millions  |  47 millions |
 
 --- 
+</div>
+<div markdown style="page-break-after: always;">
 
 ## Rédiger une réponse/mettre en relation des informations
 
@@ -263,7 +289,7 @@ Question complexe
 RÉDIGER UNE RÉPONSE SCIENTIFIQUE COMPLEXE
 
 - Étape 1 : OBSERVER
-Extraire les informations utiles des documents pour répondre à la question.
+Extraire les informations utiles des documents pour répondre à la question, en indiquant dans quel document est trouvé l'information.
 « Je vois que... », « j’observe que... », « je constate que... », « je remarque que »
 - Étape 2: INTERPRÉTER
 Lorsque c’est nécessaire ajouter vos connaissances
@@ -277,30 +303,29 @@ A la fin, relire la consigne et la réponse pour vérifier que cette réponse r�
 
 --- 
 
+</div>
+<div markdown style="page-break-after: always;">
+
 ## Démarche scientifique et analyse d'expérience
 
 La démarche scientifique est l'ensemble des étapes utilisées par les scientifiques pour répondre à un problème.
 
-1. Observation
-   Phénomène qui conduit à une question.
-2. Problème
-   Question scientifique à laquelle on veut répondre
-3. Hypothèse
-   Réponse possible au problème, la démarche scientifique permettra de la vérifier. Dans le cas d'une démarche expériementale on fera les étapes suivantes.
-4. Protocole : Étapes pour réaliser l'expérience, chaque étape contient un verbe d'action. L'expérience doit posséder deux tests minimum avec un seul paramètre variable.
+1. Observation :    Phénomène qui conduit à une question.
+2. Problème :   Question scientifique à laquelle on veut répondre
+3. Hypothèse :   Réponse possible au problème, la démarche scientifique permettra de la vérifier. Dans le cas d'une démarche expérimentale, on fera les étapes suivantes.
+4. Protocole : Étapes pour réaliser l'expérience, chaque étape contient un verbe d'action à l'infinif. L'expérience doit posséder deux tests minimum avec un seul paramètre variable.
 5. Résultats attendus : Indiquer quels devraient être les résultats pour les tests si l'hypothèse est vraie.
 6. Expérimentation : Faire l'expérience
-7. Résultats observés
-   Indiquer quels sont les résultats obtenus
-8. Interprétation
-   On compare les résultats observés avec ceux attendus pour indiquer si l'hypothèse est validée ou réfutée. Dans le cas où elle est validée on passe à la conclusion, si elle est réfutée, on en formule une nouvelle.
-9. Conclusion 
-   Répondre au problème.
+7. Résultats observés : Indiquer quels sont les résultats obtenus
+8. Interprétation : On compare les résultats observés avec ceux attendus pour indiquer si l'hypothèse est validée ou réfutée. Dans le cas où elle est validée, on passe à la conclusion, si elle est réfutée, on en formule une nouvelle.
+9. Conclusion : Répondre au problème.
 
 
-Lorsque l'on vous demande d'analyser une expérience vous devez rédiger les étapes 3, 4, 5, 7, 8 et 9.
+Lorsque l'on vous demande d'analyser une expérience, vous devez rédiger les étapes 3, 4, 5, 7, 8 et 9.
 
 --- 
+</div>
+<div markdown style="page-break-after: always;">
 
 ## Utiliser un microscope
 
@@ -308,11 +333,11 @@ Le microscope est un outil qui permet d’observer des objets ou des êtres viva
 
 C’est un outil fragile : il est donc primordial d’en prendre le plus grand soin !
 
-![Microscope](Pictures/image.png)
+![Microscope](@{_url_img}image.png)
 
 Utilisation
 
-1. On transporte toujours le microscope en le prenant par la potence avec une main en dessous
+1. On transporte toujours le microscope en le prenant par la potence avec une main et l'autre main en dessous
 2. La lame doit être bloquée par les valets sur la platine, l'objet doit être placé au dessus du trou de la platine
 3. Allumer le microscope et régler la luminosité.
 4. On commence toujours à observer à l’objectif rouge (x4)
@@ -327,32 +352,42 @@ Rangement:
 3. On range le câble soit autour du microscope, soit à l’arrière
 4. On range le microscope là où on l’a trouvé
 
-Calculer le grossissement
-Pour savoir combien de fois on a grossi l’échantillon que l’on observe, il faut regarder le grossissement de l’oculaire (généralement x10) et celui de l’objectif (x4, x10 ou x40/x60). On les multiplie alors ensemble.
+Calculer le grossissement : Pour savoir combien de fois on a grossi l’échantillon que l’on observe, il faut regarder le grossissement de l’oculaire (généralement x10) et celui de l’objectif (x4, x10 ou x40/x60). On les multiplie alors ensemble.
 
+</div>
+<div markdown style="page-break-after: always;">
 
 ## Réalisation d’une préparation microscopique 
 
-1. Déposer une goutte de d'eau ou de liquide au centre de la lame. 
-2. prélever un morceau du matériel à observer avbec des pinces et le déposer dans la goutte
+1. Déposer une goutte d'eau ou de liquide au centre de la lame. 
+2. prélever un morceau du matériel à observer avec des pinces et le déposer dans la goutte
 
 3. Prenez une lamelle par les bords entre le pouce et l'index : cela évite de mettre les doigts dessus. Appuyez-la sur la lame par un bord, près de la goutte de liquide puis descendez doucement la lamelle jusqu'à ce qu'elle touche la lame. 
 
 4. Vérifiez que le liquide est uniformément réparti sous toute la lamelle ; s'il en manque, rajoutez en une goutte sur le bord de la lamelle : elle va rentrer seule. S'il y a trop de liquide, il faut l'enlever en l'aspirant avec un papier absorbant. Placez simplement le papier absorbant sur le bord de la lamelle.
 
 
-![Schéma montrant les étapes  de réalisation d’une préparation microscopique](Pictures/image-3.png)
+![Schéma montrant les étapes  de réalisation d’une préparation microscopique](@{_url_img}image-3.png)
+
+</div>
+<div markdown style="page-break-after: always;">
 
 ## Schématisation électrique
 
-1. Représenter un grand rectangle (il symbolise le circuit, les traits symbolisent les fils)  
-2. Gommer, sur les traits du rectangle, l’emplacement des dipôles  
-3. Ajouter dans les espaces gommés, le symbole des dipôles du circuit en respectant l’ordre
+1. Représenter le générateur.
+2. Représenter le récepteur relié à la borne positive.
+3. Relier par un trait (le fil électrique) les deux dipôles .
+4. Continuer jusqu'à revenir à la borne négative du générateur.
+
+Pour les circuit en dérivation.
+1. Construire la première boucle
+2. Repérer où est branché la seconde boucle
+3. Dessiner la secodne boucle.
 
 **Attention !**
 Utiliser une règle et un crayon à papier
 Ne pas représenter de dipôle dans les angles du rectangle
-
+L'ensemble doit avoir l'apparence d'un rectangle.
 
 
 **Symboles normalisés des dipôles.**
@@ -369,174 +404,223 @@ Ne pas représenter de dipôle dans les angles du rectangle
 <table markdown class="tg">
 <thead>
 <tr>
-        <th class="tg-c3ow" rowspan="2">Pile</th>
-        <th class="tg-c3ow" rowspan="2">Générateur</th>
-        <th class="tg-c3ow" rowspan="2">Ampoule</th>
-        <th class="tg-c3ow" colspan="2">Interrupteur</th>
-        <th class="tg-c3ow" rowspan="2">Moteur</th>
-        <th class="tg-c3ow" rowspan="2">Fil électrique</th>
-    </tr>
-    <tr>
-        <th class="tg-c3ow">ouvert</th>
-        <th class="tg-c3ow">fermé</th>
-     </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td class="tg-c3ow">![](Pictures/schemaPile.png)</td>
-            <td class="tg-c3ow">![](Pictures/schemaGenerateur.png)</td>
-            <td class="tg-c3ow">![](Pictures/schemaAmpoule.png)</td>
-            <td class="tg-c3ow">![](Pictures/schemaInterrupteurOuvert.png)</td>
-            <td class="tg-c3ow">![](Pictures/schemaInterrupteurFerme.png)</td>
-            <td class="tg-c3ow">![](Pictures/schemaMoteur.png)</td>
-            <td class="tg-c3ow">![](Pictures/schemaFil.png)</td>
+<th class="tg-c3ow" rowspan="2">Pile</th>
+<th class="tg-c3ow" rowspan="2">Générateur</th>
+<th class="tg-c3ow" rowspan="2">Ampoule</th>
+<th class="tg-c3ow" colspan="2">Interrupteur</th>
+<th class="tg-c3ow" rowspan="2">Moteur</th>
+<th class="tg-c3ow" rowspan="2">Fil électrique</th>
 </tr>
-    
+<tr>
+<th class="tg-c3ow">ouvert</th>
+<th class="tg-c3ow">fermé</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tg-c3ow">![](@{_url_img}schemaPile.png)</td>
+<td class="tg-c3ow">![](@{_url_img}schemaGenerateur.png)</td>
+<td class="tg-c3ow">![](@{_url_img}schemaAmpoule.png)</td>
+<td class="tg-c3ow">![](@{_url_img}schemaInterrupteurOuvert.png)</td>
+<td class="tg-c3ow">![](@{_url_img}schemaInterrupteurFerme.png)</td>
+<td class="tg-c3ow">![](@{_url_img}schemaMoteur.png)</td>
+<td class="tg-c3ow">![](@{_url_img}schemaFil.png)</td>
+</tr>
 </tbody></table>
 
+</div>
+<div markdown style="page-break-after: always;">
+
 ## Notions d'échelles spatiales et temporelles
+<style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+    overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+    font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
 <table><thead>
-  <tr>
-    <th></th>
-    <th></th>
-    <th>symbole</th>
-  </tr></thead>
+<tr>
+<th></th>
+<th></th>
+<th>symbole</th>
+</tr></thead>
 <tbody>
-  <tr>
-    <td>milliseconde</td>
-    <td></td>
-    <td>ms/td>
-  </tr>
-  <tr>
-    <td>seconde</td>
-    <td></td>
-    <td>s</td>
-  </tr>
-  <tr>
-    <td>minute</td>
-    <td></td>
-    <td>min</td>
-  </tr>
-  <tr>
-    <td>heure</td>
-    <td></td>
-    <td>h</td>
-  </tr>
-  <tr>
-    <td>jour</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>mois</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>années</td>
-    <td></td>
-    <td>a</td>
-  </tr>
-  <tr>
-    <td>Dizaines d'années</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Centaines d'années</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Milliers d'années</td>
-    <td></td>
-    <td>ka</td>
-  </tr>
-  <tr>
-    <td>millions d'années</td>
-    <td></td>
-    <td>Ma</td>
-  </tr>
-  <tr>
-    <td>Milliards d'années</td>
-    <td></td>
-    <td>Ga</td>
-  </tr>
+<tr>
+<td>milliseconde</td>
+<td></td>
+<td>ms</td>
+</tr>
+<tr>
+<td>seconde</td>
+<td></td>
+<td>s</td>
+</tr>
+<tr>
+<td>minute</td>
+<td></td>
+<td>min</td>
+</tr>
+<tr>
+<td>heure</td>
+<td></td>
+<td>h</td>
+</tr>
+<tr>
+<td>jour</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>mois</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>années</td>
+<td></td>
+<td>a</td>
+</tr>
+<tr>
+<td>Dizaines d'années</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Centaines d'années</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Milliers d'années</td>
+<td></td>
+<td>ka</td>
+</tr>
+<tr>
+<td>millions d'années</td>
+<td></td>
+<td>Ma</td>
+</tr>
+<tr>
+<td>Milliards d'années</td>
+<td></td>
+<td>Ga</td>
+</tr>
 </tbody>
 </table>
 
 
-![](Pictures/frise-de-lhistoire-du-vivant-et-de-lunivers-frise.png)
+![Echelle temporelle](@{_url_img}frise-de-lhistoire-du-vivant-et-de-lunivers-frise.png)
 
-<table><thead>
-  <tr>
-    <th>mètres</th>
-    <th>symbole</th>
-    <th></th>
-    <th>Exemple</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>1000000000000 m</td>
-    <td></td>
-    <td></td>
-    <td></td>
+[Illustration des échelles de tailles](https://htwins.net/scale2/) @Cary Huang et Matthew Martori
+
+![Echelle de distance](@{_url_img}echellespatialle.png)
+
+<style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+    overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+    font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+    .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table markdown><thead>
+<tr>
+<th>mètres</th>
+<th></th>
+<th>symbole</th>
+<th></th>
+<th>Exemple</th>
+</tr></thead>
+<tbody markdown>
+<tr>
+<td>1 000 000 000 000</td>
+<td>10<sup>12</sup></td>
+<td>1 Tm</td>
+<td>téramètre</td>
+<td></td>
+</tr>
+<tr>
+<td>1 000 000 000</td>
+<td>10<sup>9</sup></td>
+
+<td>1Gm</td>
+<td>gigamètre</td>
+<td></td>
+</tr>
+<tr>
+<td>1 000 000</td>
+<td>10<sup>6</sup></td>
+
+<td>1Mm</td>
+<td>mégamètre</td>
+<td>Taille d'une planète</td>
   </tr>
-  <tr>
-    <td>1000000000</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1000000</td>
-    <td></td>
-    <td></td>
-    <td>Taille d'une planète</td>
-  </tr>
-  <tr>
-    <td>1000</td>
-    <td>1km</td>
-    <td>kilomètre</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>m</td>
-    <td> mètre</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>0.01</td>
-    <td>1cm</td>
-    <td>centimètre</td>
-    <td>Taille d'un organe</td>
-  </tr>
-  <tr>
-    <td>0.001<br></td>
-    <td>1mm</td>
-    <td>millimètre</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>0.000001</td>
-    <td>1µm</td>
-    <td>micromètre</td>
-    <td>Taille d'une cellule</td>
-  </tr>
-  <tr>
-    <td>0.000000001</td>
-    <td>1nm</td>
-    <td>nanomètre</td>
-    <td>Taille d'un virus</td>
-  </tr>
-  <tr>
-    <td>0.000000000001</td>
-    <td>1pm</td>
-    <td>picomètre</td>
-    <td>Taille d'une molécule</td>
-  </tr>
+<tr>
+<td>1 000</td>
+<td>10<sup>3</sup></td>
+<td>1km</td>
+<td>kilomètre</td>
+<td></td>
+
+</tr>
+<tr>
+<td>1</td>
+<td>1</td>
+<td>m</td>
+<td> mètre</td>
+<td></td>
+</tr>
+<tr>
+<td>0.01</td>
+<td>10<sup>-2</sup></td>
+
+<td>1cm</td>
+<td>centimètre</td>
+<td>Taille d'un organe</td>
+</tr>
+<tr>
+<td>0.001</td>
+<td>10<sup>-3</sup></td>
+<td>1mm</td>
+<td>millimètre</td>
+<td>grain de sable</td>
+</tr>
+<tr>
+<td>0.000001</td>
+<td>10<sup>-6</sup></td>
+<td>1µm</td>
+<td>micromètre</td>
+<td>Taille d'un virus</td>
+</tr>
+<tr>
+<td>0.000000001</td>
+<td>10<sup>-9</sup></td>
+<td>1nm</td>
+<td>nanomètre</td>
+<td>Taille d'une molécule</td>
+</tr>
+<tr>
+<td>0.000000000001</td>
+<td>10<sup>-12</sup></td>
+<td>1pm</td>
+<td>picomètre</td>
+<td>Taille d'un atome</td>
+</tr>
+<tr>
+<td>0.000000000000001</td>
+<td>10<sup>-15</sup></td>
+<td>1fm</td>
+<td>femtomètre</td>
+<td>Taille d'un proton</td>
+</tr>
 </tbody></table>
+
+</div>
+<div markdown style="page-break-after: always;">
 
 ## Construire des groupes emboîtés.
 
@@ -551,3 +635,54 @@ Les scientifiques nomment ensuite ces groupes.
 3. Repère maintenant le nouvel attribut commun au plus grand nombre d’espèces dans cette boite.
 4. Dessine une autre boite plus petite à l’intérieur de la précédente et inscrit le nom de l’attribut.
 5. Continue ainsi jusqu’à avoir utilisé tous les attributs pour que toutes les espèces soient classées dans des boîtes.
+
+
+</div>
+<div markdown style="page-break-after: always;">
+
+## Calculer une taille ou une distance sur une photo ou une carte
+
+Il faudra faire un calcul de proportionnalité avec l'échelle
+
+
+Pour vous aider il est posssible d'utiliser un de ces deux tableaux
+
+Pour les 6e, 5e et 4e, la méthode du retour à l'unité : 
+|         |Taille sur le document  | Unité | taille réelle |
+|----------|--|--|--|
+| échelle            |  |  1 |  |
+| taille ou distance |  |     |  |
+
+Pour remplir les tailles sur le document, il faut utiliser sa règle et mesurer l'échelle sur le document et la taille ou distance que l'on veut déterminer réellement.
+Pour la taille réelle de léchelle, elle est indiquée au dessus ou en dessous de la barre d'échelle
+
+À partir du rapport ou du taux dont on connait les 2 termes, obtenir un rapport ou un taux équivalent dont le dénominateur est 1
+
+Pour les 3e, la méthode du produit en croix :
+|         |Taille sur le document  | taille réelle |
+|----------|--|--|
+| échelle            |  |    |
+| taille ou distance |  |  |
+
+
+</div>
+<div markdown style="page-break-after: always;">
+
+## Les outils de mesure
+
+
+
+|  grandeur | outil   | unité  (symbole) |
+|---|----|---|
+|  distance | règle   | mètre (m)   |
+|  angle | rapporteur   | degré (°)   |
+|  température | thermomètre   | degré Celcius (°C)   |
+|  masse | balance   | gramme (g)   |
+|  intensité du courant | ampèremètre   | ampère (A)   |
+|  tension électrique | voltmètre   | volt (V)   |
+|  résistance | ohmmètre   | ohm(Ω)   |
+| luminosité | luxmètre | lux (lx) |
+| force | dynamomètre | newton (N) |
+|  temps | chronomètre | seconde (s) |
+
+</div>
