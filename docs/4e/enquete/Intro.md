@@ -3,12 +3,20 @@
 !!! note-prof
     si besoin d'infos
 ### Document d’appel :
+<div markdown style="display:flex; flex-direction: row;">
+    
+<div markdown style="display:flex; flex: 1 1 0; flex-direction: column;">
 
 ![](pictures/chat.jpg){: style="width:400px; flex-shrink: 0;  " }
+</div>
+<div markdown style="display:flex; flex: 1 1 0; flex-direction: column;">
 
 Hier, le chat du collège, Grissette, a disparu ! Elle avait été vu sur le parking du collège, des gouttes de sang et des cheveux ont été trouvés. Qui a kidnappé Grissette ?
+</div>
+<div markdown style="display:flex; flex: 2 1 0; flex-direction: column;">
 
 ![](pictures/sang.png){: style="width:400px; flex-shrink: 0;  " }
+</div></div>
 
 Une première enquête a limité les suspects à sept personnes.
 
