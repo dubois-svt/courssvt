@@ -480,21 +480,20 @@ L'ensemble doit avoir l'apparence d'un rectangle.
 <th class="tg-c3ow">fermé</th>
 </tr>
 </thead>
-<tbody>
-<tr>
-<td class="tg-c3ow">![](Pictures/schemaPile.png)</td>
-<td class="tg-c3ow">![](Pictures/schemaGenerateur.png)</td>
-<td class="tg-c3ow">![](Pictures/schemaAmpoule.png)</td>
-<td class="tg-c3ow">![](Pictures/schemaInterrupteurOuvert.png)</td>
-<td class="tg-c3ow">![](Pictures/schemaInterrupteurFerme.png)</td>
-<td class="tg-c3ow">![](Pictures/schemaMoteur.png)</td>
-<td class="tg-c3ow">![](Pictures/schemaConducOhm.png)</td>
-<td class="tg-c3ow">![](Pictures/schemaLED.png)</td>
-<td class="tg-c3ow">![](Pictures/schemaAmperemetre.png)</td>
-<td class="tg-c3ow">![](Pictures/schemaVoltmetre.png)</td>
-<td class="tg-c3ow">![](Pictures/schemaOhmetre.png)</td>
-
-<td class="tg-c3ow">![](Pictures/schemaFil.png)</td>
+<tbody markdown>
+<tr markdown>
+<td markdown class="tg-c3ow">![](Pictures/schemaPile.png)</td>
+<td markdown class="tg-c3ow">![](Pictures/schemaGenerateur.png)</td>
+<td markdown class="tg-c3ow">![](Pictures/schemaAmpoule.png)</td>
+<td markdown class="tg-c3ow">![](Pictures/schemaInterrupteurOuvert.png)</td>
+<td markdown class="tg-c3ow">![](Pictures/schemaInterrupteurFerme.png)</td>
+<td markdown class="tg-c3ow">![](Pictures/schemaMoteur.png)</td>
+<td markdown class="tg-c3ow">![](Pictures/schemaConducOhm.png)</td>
+<td markdown class="tg-c3ow">![](Pictures/schemaLED.png)</td>
+<td markdown class="tg-c3ow">![](Pictures/schemaAmperemetre.png)</td>
+<td markdown class="tg-c3ow">![](Pictures/schemaVoltmetre.png)</td>
+<td markdown class="tg-c3ow">![](Pictures/schemaOhmetre.png)</td>
+<td markdown class="tg-c3ow">![](Pictures/schemaFil.png)</td>
 </tr>
 </tbody></table>
 
