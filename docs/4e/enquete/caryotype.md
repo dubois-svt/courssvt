@@ -29,6 +29,7 @@ Les chromosomes peuvent donner une idée du sexe de l'individu, par exemple dans
 **Document 3 Les cheveux comme pièces à conviction**
 <div markdown style="display:flex; flex-direction: row;">
     
+<div markdown style="display:flex; flex: 2 1 0; flex-direction: column;">
 
     
 ![](pictures/schemaCheveux.png){: style="height:400px; flex-shrink: 0;  " }
@@ -40,12 +41,12 @@ Dans le cas du cheveu, c'est la base du bulbe qui contient des cellules.
 </div>
 </div>
 
-**Document 3 Caryotype réalisé à partir des cheveux retrouvés**
+**Document 4 Caryotype réalisé à partir des cheveux retrouvés**
 
-![](pictures/caryoSuspect.png)
+![](pictures/caryoSuspect.png){: style="width:800px; flex-shrink: 0;  " }
 
 
-**Document 4 Le syndrome de Down.**
+**Document 5 Le syndrome de Down.**
 
 Le syndrome de Down, aussi appelé trisomie 21, représente 1 cas pour 700 naissances. Les individus atteints par cette anomalie possèdent des caractéristiques physiques particulières (cou et membres courts, visage rond, yeux bridés, malformation cardiaque, etc.) et un déficit intellectuel plus ou moins important selon les individus.
 
