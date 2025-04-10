@@ -321,6 +321,29 @@ Il y a deux types de tableaux :
 | **Capitale** |  Paris | Madrid  |
 | **Population** | 68 millions  |  47 millions |
 
+Tableau comparant la France et l'Espagne
+
+
+Pour construire un tableau à double entrée :
+
+1. Il faut commencer par identifier le nombre de lignes et de colonnes en regardant 
+NB : Il faut ajouter une ligne et une colonne de plus pour ajouter les légendes.
+Exemple : Constuire un tableau pour comparer la présence des constituants (membrane, cytoplasme, noyau, ADN) des cellules animales et ceux d’une bactérie.
+Il y a 2 types de cellules et 4 composants donc le tableau fera 3 x 5.
+
+2. Choisir l’orientation du tableau pour que ce soit plus harmonieux sur la page
+
+3. Construire le tableau en traçant toutes les lignes et les colonnes : votre tableau doit être entièrement refermé pour toutes les cases.
+   - Une ligne doit toujours faire la même hauteur du début à la fin
+   - Une colonne doit toujours faire la même largeur du début à la fin
+
+4. Compléter la première ligne et la première colonne avec les titres (bien relire la question pour ne rien oublier).
+
+5. Compléter l’ensemble du tableau.
+
+6. Mettre un titre
+
+
 --- 
 </div>
 <div markdown style="page-break-after: always;">
