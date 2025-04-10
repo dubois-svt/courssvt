@@ -583,13 +583,13 @@ L'ensemble doit avoir l'apparence d'un rectangle.
 
 </div>
 <div markdown style="page-break-after: auto;">
-![Echelle temporelle](Pictures/frise-de-lhistoire-du-vivant-et-de-lunivers-frise.png)
+![Echelle temporelle](Pictures/frise-de-lhistoire-du-vivant-et-de-lunivers-frise.png){: style="width:800px; flex-shrink: 0;  " }
 </div>
 <div markdown style="page-break-after: auto;">
 [Illustration des échelles de tailles](https://htwins.net/scale2/) @Cary Huang et Matthew Martori
 </div>
 <div markdown style="page-break-after: auto;">
-![Echelle de distance](Pictures/echellespatialle.png)
+![Echelle de distance](Pictures/echellespatialle.png) {: style="width:800px; flex-shrink: 0;  " }
 </div>
 <div markdown style="page-break-after: auto;">
 <style type="text/css">
