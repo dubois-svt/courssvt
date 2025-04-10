@@ -581,13 +581,17 @@ L'ensemble doit avoir l'apparence d'un rectangle.
 </tbody>
 </table>
 
-
+</div>
+<div markdown style="page-break-after: auto;">
 ![Echelle temporelle](Pictures/frise-de-lhistoire-du-vivant-et-de-lunivers-frise.png)
-
+</div>
+<div markdown style="page-break-after: auto;">
 [Illustration des échelles de tailles](https://htwins.net/scale2/) @Cary Huang et Matthew Martori
-
+</div>
+<div markdown style="page-break-after: auto;">
 ![Echelle de distance](Pictures/echellespatialle.png)
-
+</div>
+<div markdown style="page-break-after: auto;">
 <style type="text/css">
     .tg  {border-collapse:collapse;border-spacing:0;}
     .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
