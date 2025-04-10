@@ -18,6 +18,8 @@ Le chatbot est réalisé avec CHatMD de Cédric Eyssette.
 
 <script id="chatmdWidgetScript" src="https://chatmd.forge.apps.education.fr/widget.min.js" data-chatbot="https://chatbotmethodes-3858eb.forge.apps.education.fr/chatbotmethodes.md"></script>
 
+<div markdown style="page-break-after: always;">
+
 
 # Outils d'aide en Sciences
 
@@ -30,6 +32,8 @@ Je suis un chatbot pour vous aider à créer ou analyser un document en sciences
 
 
 --- 
+</div>
+<div markdown style="page-break-after: always;">
 
 ## A Faire
 
@@ -54,7 +58,9 @@ Que faut-il faire ?
 17. [Calculer une taille ou distance sur une photo ou une carte](Calculer une taille ou distance sur une photo ou une carte)
 
 --- 
+</div>
 <div markdown style="page-break-after: always;">
+
 
 ## Comprendre la consigne
 
@@ -193,13 +199,17 @@ La légende peut être aussi sous la forme de figuré ou de symbole
 - Indiquer quel est le paramètre (ou variable) mesuré (paramètre A).
 - Expliquer en fonction de quel paramètre fixe a été mesuré le paramètre A (paramètre B).
 - Pour les graphiques simples, sans trop de variations
-   - Compter le nombre de segments qu’il y a dans la courbe : il faudra rédiger autant de phrases qu’il y a de segments. Rédiger une phrase par segment de courbe. Chaque phrase comporte l’un des verbes suivants : augmenter, diminuer ou rester stable.
-   Chaque phrase indique le moment de début et de fin et les valeurs du phénomène mesuré.
+   - Compter le nombre de segments qu’il y a dans la courbe : 
+   - il faudra rédiger autant de phrases qu’il y a de segments. Rédiger une phrase par segment de courbe. Chaque phrase comporte l’un des verbes suivants :
+     -  augmenter, 
+     -  diminuer 
+     -  ou rester stable.
+   - Chaque phrase indique le moment de début et de fin et les valeurs du phénomène mesuré.
    Remarque : c’est le phénomène mesuré sur l’axe vertical qui évolue ; il ne faut donc pas dire que la courbe augmente ou diminue, mais que la grandeur étudiée augmente ou diminue.
-   - Pour les grpahiques plus complexes, avec beaucoup de variations:
+   - Pour les graphiques plus complexes, avec beaucoup de variations:
    Il faut donner les les minimums et maximums et décrire les tendances, par exemple, voit-on régulièrement les mêmes variations = cycle.
 
-![](@{_url_img}graph.png)
+![](Pictures/graph.png)
 
 Exemple : 
 Ce graphique représente la température en fonction de l’heure de la journée. 
@@ -250,7 +260,7 @@ La consigne sera le plus souvent écrite avec : « paramètre mesuré EN FONCTIO
 Exemple type : Graphique de Ordonnée en fonction de l’abscisse. (Remplacer « ordonnée et
 abscisse par les grandeurs physiques de l’exercice)
 
-![](@{_url_img}constGraph.png)
+![](Pictures/constGraph.png)
 
 Exemple : Réaliser le graphique de l’évolution de la température en fonction du temps.
 C’est toujours l’ordonnée qui varie en fonction de l’abscisse.
@@ -381,7 +391,7 @@ Le microscope est un outil qui permet d’observer des objets ou des êtres viva
 
 C’est un outil fragile : il est donc primordial d’en prendre le plus grand soin !
 
-![Microscope](@{_url_img}image.png)
+![Microscope](Pictures/image.png)
 
 Utilisation
 
@@ -415,7 +425,7 @@ Calculer le grossissement : Pour savoir combien de fois on a grossi l’échanti
 4. Vérifiez que le liquide est uniformément réparti sous toute la lamelle ; s'il en manque, rajoutez en une goutte sur le bord de la lamelle : elle va rentrer seule. S'il y a trop de liquide, il faut l'enlever en l'aspirant avec un papier absorbant. Placez simplement le papier absorbant sur le bord de la lamelle.
 
 
-![Schéma montrant les étapes  de réalisation d’une préparation microscopique](@{_url_img}image-3.png)
+![Schéma montrant les étapes  de réalisation d’une préparation microscopique](Pictures/image-3.png)
 
 </div>
 <div markdown style="page-break-after: always;">
@@ -472,19 +482,19 @@ L'ensemble doit avoir l'apparence d'un rectangle.
 </thead>
 <tbody>
 <tr>
-<td class="tg-c3ow">![](@{_url_img}schemaPile.png)</td>
-<td class="tg-c3ow">![](@{_url_img}schemaGenerateur.png)</td>
-<td class="tg-c3ow">![](@{_url_img}schemaAmpoule.png)</td>
-<td class="tg-c3ow">![](@{_url_img}schemaInterrupteurOuvert.png)</td>
-<td class="tg-c3ow">![](@{_url_img}schemaInterrupteurFerme.png)</td>
-<td class="tg-c3ow">![](@{_url_img}schemaMoteur.png)</td>
-<td class="tg-c3ow">![](@{_url_img}schemaConducOhm.png)</td>
-<td class="tg-c3ow">![](@{_url_img}schemaLED.png)</td>
-<td class="tg-c3ow">![](@{_url_img}schemaAmperemetre.png)</td>
-<td class="tg-c3ow">![](@{_url_img}schemaVoltmetre.png)</td>
-<td class="tg-c3ow">![](@{_url_img}schemaOhmetre.png)</td>
+<td class="tg-c3ow">![](Pictures/schemaPile.png)</td>
+<td class="tg-c3ow">![](Pictures/schemaGenerateur.png)</td>
+<td class="tg-c3ow">![](Pictures/schemaAmpoule.png)</td>
+<td class="tg-c3ow">![](Pictures/schemaInterrupteurOuvert.png)</td>
+<td class="tg-c3ow">![](Pictures/schemaInterrupteurFerme.png)</td>
+<td class="tg-c3ow">![](Pictures/schemaMoteur.png)</td>
+<td class="tg-c3ow">![](Pictures/schemaConducOhm.png)</td>
+<td class="tg-c3ow">![](Pictures/schemaLED.png)</td>
+<td class="tg-c3ow">![](Pictures/schemaAmperemetre.png)</td>
+<td class="tg-c3ow">![](Pictures/schemaVoltmetre.png)</td>
+<td class="tg-c3ow">![](Pictures/schemaOhmetre.png)</td>
 
-<td class="tg-c3ow">![](@{_url_img}schemaFil.png)</td>
+<td class="tg-c3ow">![](Pictures/schemaFil.png)</td>
 </tr>
 </tbody></table>
 
@@ -572,11 +582,11 @@ L'ensemble doit avoir l'apparence d'un rectangle.
 </table>
 
 
-![Echelle temporelle](@{_url_img}frise-de-lhistoire-du-vivant-et-de-lunivers-frise.png)
+![Echelle temporelle](Pictures/frise-de-lhistoire-du-vivant-et-de-lunivers-frise.png)
 
 [Illustration des échelles de tailles](https://htwins.net/scale2/) @Cary Huang et Matthew Martori
 
-![Echelle de distance](@{_url_img}echellespatialle.png)
+![Echelle de distance](Pictures/echellespatialle.png)
 
 <style type="text/css">
     .tg  {border-collapse:collapse;border-spacing:0;}
