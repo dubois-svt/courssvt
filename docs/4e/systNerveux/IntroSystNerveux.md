@@ -44,7 +44,7 @@
         La commande du mouvement se fait grâce à différents organes :
         
         - les muscles qui sont des organes effecteurs.
-        - Le cerveau et la moelle épinière qui sont des centres nerveux.
+        - Le cerveau et la moelle spinale qui sont des centres nerveux.
         - Des organes sensoriels (par exemple, les yeux)
         
         L’information dans le corps est transmise par les nerfs.

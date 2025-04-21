@@ -8,29 +8,46 @@
 
     1. Construisez un schéma fonctionnel pour expliquer les organes utilisés par le footballeur depuis le moment où il voit le ballon jusqu'à l'instant où il frappe la balle.
 
-    2. Après avoir fait votre schéma, placer les termes suivants sur le schéma : réaction, organes sensoriels, stimulus et organes effecteurs.
+    2. Après avoir fait votre schéma, placer les termes suivants sur le schéma : réaction, organes sensoriels, sytsème nerveux central stimulus et organes effecteurs.
 
     3. Ajouter nerf sensitif et nerf moteur au bon endroit.
     
 ??? bug "Critères de réussite"
-    - 
+    - les différents organes sont placés dans le schéma
+    - l'ordre des boites est correcte
+    - le schéma fonctionnel respecte les règles
 
 
+??? abstract "Aides"
+
+    === "Aide 1"
+        Retrouve dans la consoigne le premier élément du schéma et le dernier.
+    === "Aide 2"
+        Retrouve les organes des différents documents. Dans quel ordre sont-ils utilisés ? 
+        4 organes sont à retrouver
+    === "Aide 3"
+        Le schéma fonctionnel a t'il des flèches  ? dans le bon sens ? un titre ?
+    === "Aide 4"
+        chaque éléments de la consigne 2, correspond à un élément du shéma sauf le système nerveux central qui correpond à deux éléments.
+    === "Aide 5"
+        Les nerfs sensitifs et moteur correspondent à deux flèches.      
 
 **Document 1 le système nerveux de la grenouille**
 
 ![](Pictures/schemaSystNerveuxGrenouille.png)
 
-**Document 2 Les nerfs et la moelle épinière.**
+**Document 2 Les nerfs et la moelle spinale.**
 
 Les nerfs sont reliés à différents organes de notre corps. Certains sont reliés à des organes sensoriels, ce sont les nerfs sensitifs.
 
 D'autres sont reliés à des organes effecteurs, ce sont les nerfs moteurs.
 
+Les nerfs sont reliés au système nerveux central qui comprend la moelle spinale et le cerveau.
+Le système nerveux central contient la majeure partie du système nerveux
+
 Lorsqu'un nerf est endommagé par une maladie ou un accident, il n'est plus possible de bouger le muscle relié par ce nerf moteur ou de ressentir les informations de l'organe sensoriel
 
-Lorsque la moelle épinière est endommagée, il n'est plus possible ni de ressentir, ni de bouger, certaines parties de notre corps.
-
+Lorsque la moelle spinale est endommagée, il n'est plus possible ni de ressentir, ni de bouger, certaines parties de notre corps.
 
 
 **Document 3 Activité cérébrale du footballeur lors du mouvement. Les zones du cerveau en activité sont colorées.**
@@ -45,6 +62,7 @@ Organe effecteur : organe qui effectue la réponse suite à un ou plusieurs sti
 
 Stimulus (des stimuli) : signal qui peut provoquer une réponse de l'organisme.
 
+Réaction : Réponse (d'un organe, d'un organisme) à un stiulus. 
 
 **Document 5 Réaliser un schéma fonctionnel :**
 

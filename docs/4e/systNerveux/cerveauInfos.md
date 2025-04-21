@@ -10,8 +10,18 @@
     À partir des documents, construire un schéma fonctionnel expliquant comment le cerveau traite le message nerveux sensitif pour former un message nerveux moteur, dans le cas d'un élève qui voit une balle et va frapper dedans.
     
 ??? bug "Critères de réussite"
-    - 
+    - les différentes zones sont placés dans le schéma
+    - l'ordre des boites est correcte
+    - le schéma fonctionnel respecte les règles
 
+??? abstract "Aides"
+    === "Aide 1"
+        Retrouve l'ordre des documents 2,3 et 4.
+    === "Aide 2"
+        Quelle est la première action effectuée, quelle zone du cerveau est activée ?
+    === "Aide 3"
+        Le schéma fonctionnel a t'il des flèches  ? dans le bon sens ? un titre ?
+        
 
 **Document 1 Les aires du cerveau**
 

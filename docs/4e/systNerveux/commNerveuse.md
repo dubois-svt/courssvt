@@ -12,7 +12,8 @@
     3. Recopier vos réponses dans votre cahier.
     
 ??? bug "Critères de réussite"
-    * 
+     - 2 modes des communcations sont indiquées
+     - Pour chacun, le lieu de cette communication est cité
 
 
 
@@ -48,17 +49,17 @@
 </div>
 <div markdown style="display:flex; flex-direction:column; flex : 1 1 0;">
 
-4. Les deux neurones qui communiquent ?
+1. Les deux neurones qui communiquent ?
      * Se touchent
      * Sont situés loin l’un de l’autre 
      * Sont situés très près l’un de l’autre
      * Fusionnent
-5. La communication dans le neurone du corps cellulaire au bout de l’axone est ?
+2. La communication dans le neurone du corps cellulaire au bout de l’axone est ?
      * De la lumière
      * Un influx électrique (courant électriques)
      * Des messagers chimiques (des neurotransmetteurs)
      * Des bateaux
-6. Dans la synapse la communication entre les deux neurones se fait par :
+3. Dans la synapse la communication entre les deux neurones se fait par :
      * Des messagers chimiques (des neurotransmetteurs)
      * Des bateaux
      * Un influx électrique (courant électriques)
