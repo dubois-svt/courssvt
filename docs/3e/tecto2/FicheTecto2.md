@@ -24,13 +24,21 @@
 <div markdown class="flashcard">
 
 1. 
-    - question
-    - Une ampoule
+    - Que se passe-t-il au niveau d'une dorsale océanique ?
+    - C'est une zone de divergence, l'écartement de splaques à ce niveau entraine la formation de lithopshère océanique.
 2. 
-    - Lorem ipsum ?
-    - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam non diam ut quam vehicula efficitur sit amet vitae nisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed at rutrum dui.
-3. 
-    - Question
-    - Réponse
-
+    - Que peut on voir pour l'âge des roches océaniques au niveau d'un dorsale.
+    - Plus on s'éloigne de la dorsale plus les roches océanqiues sont agées.
+3.
+    - Quel est l'impact de la subduction dans la tectonique des plaques ?
+    - La subduction permet à une plaque océanique de plonger sous une plaque continentale, entraînant des phénomènes géologiques comme la formation de fosses océaniques et de chaînes de montagnes.
+4. 
+    - Comment les différences de température à l'intérieur de la Terre influencent-elles les mouvements des plaques lithosphériques ?
+    - Les différences de température provoquent des mouvements de convection dans le manteau terrestre, où les roches chaudes montent et les roches froides descendent, entraînant le déplacement des plaques.
+5.  
+    - Pourquoi les mouvements de convergence entre deux plaques continentales entraînent-ils la formation de chaînes de montagnes ?
+    - La collision de deux plaques continentales ne permet pas à l'une de plonger sous l'autre, ce qui entraîne un plissement et un soulèvement des roches, formant ainsi des chaînes de montagnes.
+6.  
+    - Comment la radioactivité contribue-t-elle aux mouvements des plaques lithosphériques ?
+    - La radioactivité à l'intérieur de la Terre libère de la chaleur, créant des différences de température qui provoquent des mouvements de roches et, par conséquent, des mouvements des plaques.
 </div>

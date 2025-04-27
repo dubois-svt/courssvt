@@ -80,6 +80,7 @@
     -   Les roches solides et chaudes montent
     -   Les roches solides et froides descendent
 
+    Ce sont des mouvements de convection. 
     Ces mouvements, principalement les mouvements descendant au niveau des zones de subduction, provoquent des mouvements des plaques lithosphériques.
 
     <iframe title="Tectonique des Plaques" width="560" height="315" src="https://tube-sciences-technologies.apps.education.fr/videos/embed/b9e4c94c-bc5f-4849-9f63-e48b82554e56" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
