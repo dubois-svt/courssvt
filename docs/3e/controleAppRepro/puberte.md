@@ -7,9 +7,9 @@
 
 !!! warning "Consignes"
 
-    1. Ajouter une courbe représentant l’évolution de la quantité de testostérone en fonction de l’âge sur le graphique.
+    1. tracer un graphique tréprésentant l’évolution de la quantité de testostérone et de l'oestrogènbe en fonction de l’âge sur le graphique.
 
-    2. Décrire les deux courbes du graphique.
+    2. Décrire une des deux courbes du graphique.
 
     3. Répondre au problème en utilisant les documents
     
@@ -20,7 +20,7 @@
 **Document 1 ________________________________________________________________**
 
 
-![](Pictures/graphiqueQteHormone.png)
+![](Pictures/graphVide.png)
 
 **Document 2 Tableau de la quantité d’hormones sexuelles en fonction de l’âge**
 
