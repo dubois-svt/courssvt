@@ -2,7 +2,8 @@
 
 !!! note "Compétences"
 
-    Manipuler, expérimenter et Trouver et exploiter des informations 
+    - Manipuler, expérimenter 
+    - Trouver et exploiter des informations 
 
 !!! warning "Consignes"
 

@@ -2,7 +2,8 @@
 
 !!! note "Compétences"
 
-    Trouver et exploiter des informations 
+    - Trouver et exploiter des informations 
+    - Utiliser des outils mathématiques
 
 !!! warning "Consignes"
 

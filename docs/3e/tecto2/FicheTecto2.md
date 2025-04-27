@@ -3,19 +3,20 @@
 
 ## Compétences travaillées dans la séquence
 - Retenir des idées essentielles d’une leçon
-- Formuler une problématique
-- Argumenter
 - Trouver et exploiter des informations
-- Proposer une démarche expérimentale
 - Utiliser des outils mathématiques
 - Manipuler, expérimenter
 - Analyser des résultats
 - Organiser un travail en groupe
-- Réaliser un schéma, un graphique
-- Utiliser l'outil numérique
 
-## Site internet
+##  À savoir 
 
+- décrire un document
+- calculer une vitesse
+- expliquer un phénomène géologique à partir de documents
+- comparer un modèle et la réalité
+- faire la distinction entre les différents mouvements géologiques et leur conséquence sur le relief
+- comprendre le moteur de la tectonique des plaques
 
 
 ## Flashcards
@@ -25,11 +26,11 @@
 
 1. 
     - Que se passe-t-il au niveau d'une dorsale océanique ?
-    - C'est une zone de divergence, l'écartement de splaques à ce niveau entraine la formation de lithopshère océanique.
+    - C'est une zone de divergence, l'écartement des plaques à ce niveau entraine la formation de lithosphère océanique.
 2. 
-    - Que peut on voir pour l'âge des roches océaniques au niveau d'un dorsale.
-    - Plus on s'éloigne de la dorsale plus les roches océanqiues sont agées.
-3.
+    - Que peut-on voir pour l'âge des roches océaniques au niveau d'une dorsale.
+    - Plus on s'éloigne de la dorsale plus les roches océaniques sont agées.
+3. 
     - Quel est l'impact de la subduction dans la tectonique des plaques ?
     - La subduction permet à une plaque océanique de plonger sous une plaque continentale, entraînant des phénomènes géologiques comme la formation de fosses océaniques et de chaînes de montagnes.
 4. 
