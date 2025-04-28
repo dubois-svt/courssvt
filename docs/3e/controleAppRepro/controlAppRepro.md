@@ -7,8 +7,8 @@
 !!! warning "Consignes"
 
     1. Déterminer les différents organes et hormones impliqués dans le fonctionnement de l’appareil reproducteur en indiquant leur effet.
-
-    2. Construire un schéma fonctionnel qui montre le contrôle du fonctionnement de l’appareil reproducteur.
+    2. Construire un schéma fonctionnel qui montre le contrôle du fonctionnement de l’appareil reproducteur de l'homme.
+    3. Construire un schéma fonctionnel qui montre le contrôle du fonctionnement de l’appareil reproducteur de la femme.
     
 ??? bug "Critères de réussite"
     - 
@@ -45,7 +45,7 @@
 
 L’hypophyse est une petite glande située à la base du cerveau. Elle peut être visualisée grâce à une imagerie par résonance magnétique (IRM) du cerveau.
 
-L’hypophyse est un organe producteur d’hormones (les hormones hypophysaires).
+L’hypophyse est un organe producteur d’hormones, les hormones hypophysaires, la LH et la FSH.
 
 L’hypophyse libère les hormones qu’elle fabrique dans la circulation sanguine.
 

@@ -9,7 +9,7 @@
 
     
 
-![](Pictures/Sans titre.jpg)
+![](Pictures/footIA.jpg){: style="width:400px; flex-shrink: 0;"}
 
 ## Séance 1 : Le mouvement
 
@@ -102,7 +102,7 @@ Le message passe de neurone en neurone jusqu’aux muscles.
 ![](Pictures/schemaCommNerveuse.png)
 
 !!! question "Problématique"
-    Comment se réalise la communication nerveuse dans le corps  ?
+    Comment se réalise la communication nerveuse dans le corps ?
 
 
 

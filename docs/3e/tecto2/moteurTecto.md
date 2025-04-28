@@ -8,14 +8,14 @@
 
 !!! warning "Consignes"
 
-    1. Compléter le tableau du document 2, avec les mots suivants :(1 point)
+    1. Compléter le tableau du document 2, avec les mots suivants :(0,5 point)
     Source de chaleur, Rien, Roches de la lithosphère et Roches de l’asthénosphère, pour comparer le modèle et la réalité. 
     2. Réaliser le protocole et décrire ce qui se passe dans le modèle pendant les deux phases d’observations. (0,5 point)
-    5. Expliquer comment la température peut être responsable des mouvements de matière verticalement. (1 point)
-    6. Comparer le poids des deux éponges dans le document 4, que peut on conclure de la masse volumique de ces deux époonges
-    7. Expliquer pourquoi la lithosphère océanique va plonger dans le document 5  (1 point)
-    8. Expliquer le mouvement des stations GPS vers la droite dans le document 5 (1 point)
-    9. Proposer deux critiques qui peuvent être faites sur le modèle par rapport à la réalité. (0,5 point)
+    3. Expliquer comment la température peut être responsable des mouvements de matière verticalement. (1 point)
+    4. Comparer le poids des deux éponges dans le document 4, que peut-on conclure de la masse volumique de ces deux éponges. (0,5 point)
+    5. Expliquer pourquoi la lithosphère océanique va plonger dans le document 5  (1 point)
+    6. Expliquer le mouvement des stations GPS vers la droite dans le document 5 (1 point)
+    7. Proposer deux critiques qui peuvent être faites sur le modèle par rapport à la réalité. (0,5 point)
 
     
 ??? bug "Critères de réussite"
@@ -78,9 +78,9 @@ La masse volumique et donc la densité peut varier en fonction de différents pa
 
 <div markdown style="display:flex; flex-direction;row;flex: 1 1 0;">
 
-![masse d'une éponge sèche](<Pictures/banlance eponge seche.png>){: style="width:400px; flex-shrink: 0;  " }
+![masse d'une éponge sèche](<Pictures/banlance eponge seche.png>){: style="width:400px; flex-shrink: 0;"}
 
-![masse d'une éponge humide](<Pictures/banlance eponge humide.png>){: style="width:400px; flex-shrink: 0;  " }
+![masse d'une éponge humide](<Pictures/banlance eponge humide.png>){: style="width:400px; flex-shrink: 0;"}
 </div>
 
 Les deux éponges gardent le même volume, 850 cm³.
@@ -110,62 +110,44 @@ Les deux éponges gardent le même volume, 850 cm³.
 
 ??? note-prof "Correction de l’activité "
 
+    Consigne 1 : Compléter le tableau du document 2, avec les mots suivants : Source de chaleur, Rien, Roches de la lithosphère et Roches de l’asthénosphère, pour comparer le modèle et la réalité. (0,5 point)
 
-    Consigne 1 : Compléter le tableau du document 2, avec les mots
-    suivants : Source de chaleur, Rien, Roches de la lithosphère et Roches
-    de l’asthénosphère, pour comparer le modèle et la réalité. (0,5 point)
-
-    |                   |                           |
-    |-------------------|---------------------------|
     | Élément du modèle | Élément dans la réalité   |
+    |-------------------|---------------------------|
     | Bécher            | rien                      |
     | Huile colorée     | Roches de l’asthénosphère |
     | Huile non colorée | Roches de la lithosphère  |
     | Bougie            | Source de chaleur         |
 
-    Consigne 2 : Réaliser le protocole et décrire ce qui se passe dans le
-    modèle pendant les phases d’observations. (1 point)
+    Consigne 2 : Réaliser le protocole et décrire ce qui se passe dans le modèle pendant les phases d’observations. (1 point)
 
-    Avant d’allumer la bougie, rien ne se passe, les huiles ne bougent pas
-    et les papiers non plus.
+    Avant d’allumer la bougie, rien ne se passe, les huiles ne bougent pas.
 
-    Après avoir allumé la bougie, l’huile colorée commence par monter dans
-    l’huile non colorée, puis ensuite, cette huile colorée commence a
-    redescendre. Les papiers à la surface de l’huile commence à se déplacer.
+    Après avoir allumé la bougie, l’huile colorée commence par monter dans l’huile non colorée, puis, cette huile colorée commence à redescendre.
 
-    Consigne 3 : Expliquer comment la température peut être responsable des
-    mouvements de matière. (1 point)
+    Consigne 3 : Expliquer comment la température peut être responsable des mouvements de matière. (1 point)
 
-    La source de chaleur réchauffe l’huile colorée. La densité de l’huile
-    colorée va donc diminuer ce qui va entraîner, une remontée de l’huile
-    vers la surface. L’huile colorée à la surface va se refroidir, la
-    densité va donc diminuer, et l’huile colorée va redescendre dans le
-    bécher.
+    La source de chaleur réchauffe l’huile colorée. La densité de l’huile colorée va donc diminuer ce qui va entraîner, une remontée de l’huile vers la surface. L’huile colorée à la surface va se refroidir, la densité va donc diminuer, et l’huile colorée va redescendre dans le bécher.
 
-    Les mouvements sont donc dus au changement de température qui entraîne
-    des changements de densité.
+    Les mouvements sont donc dus au changement de température qui entraîne des changements de densité.
 
-    Consigne 4 : Expliquer comment la radioactivité est à l’origine des
-    mouvements des plaques. (1 point)
+    Consigne 4 : Comparer le poids des deux éponges dans le document 4, que peut-on conclure de la masse volumique de ces deux éponges. (0,5 point)
 
-    La radioactivité libère de l’énergie qui réchauffe les roches à
-    l’intérieur de la Terre. 
-    
-    Consigne 5 : Indiquer sur le document 6, par des flèches les mouvements
-    verticaux au niveau de la dorsale atlantique et de la zone de
-    subduction. (0,5 point)
+    On voit que l'éponge humide est plus lourde que l'éponge sèche. Or deux ont un volume identique, donc la masse volumique de l'éponge humide est plus importante que celle de l'éponge sèche.
 
-    ![](Pictures/schemaDynInt.jpg)
+    Consigne 5 : Expliquer pourquoi la lithosphère océanique va plonger dans le document 5  (1 point)
 
-    Consigne 6 : Proposer deux critiques qui peuvent être faites sur le modèle par rapport à la réalité. (1 point)
+    Dans le document 5, on voit que plus on s'éloigne de la dorsale, plus la lithosphère océanique est plus froide, la densité de cette loithosphère va donc augmenter. De plus, on voit que plus on s'éloigne de la dorsale, plus la lithosphère est hydratée, on va vu précédemment que cette hydratation entrainait une augmentation de la masse volumique et donc de la densité.
+    La lithosphère océanique est donc plus dense, et cette augmentation de densité va entrainer le plongement de la plaque 
 
-    1.  Dans le modèle on utilise de l’huile pour modéliser les roches de
-        l’intérieur de la Terre, mais les roches sont solides alors que
-        l’huile est liquide.
+    Consigne 6 :  Expliquer le mouvement des stations GPS vers la droite dans le document 5 (1 point)
 
-    2.  Dans le modèle la source de chaleur est uniquement en bas, alors que
-        dans la réalité la radioactivité est partout.
+    Puisque la plaque océanique plonge à droite, le reste de la plaque est tiré vers la droite donc les stations GPS vont aller vers la droite. 
 
-    3.  Dans le modèle, les mouvements se déroulent en quelques minutes
-        alors que dans la réalité, ils se déroulent sur des milliers
-        d’années.
+    Consigne 7 : Proposer deux critiques qui peuvent être faites sur le modèle par rapport à la réalité. (1 point)
+
+    1.  Dans le modèle on utilise de l’huile pour modéliser les roches de l’intérieur de la Terre, mais les roches sont solides alors que l’huile est liquide.
+
+    2.  Dans le modèle la source de chaleur est uniquement en bas, alors que dans la réalité la radioactivité est partout.
+
+    3.  Dans le modèle, les mouvements se déroulent en quelques minutes alors que dans la réalité, ils se déroulent sur des milliers d’années.

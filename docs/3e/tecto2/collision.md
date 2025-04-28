@@ -81,6 +81,6 @@ Protocole :
 </table>
 
 ??? note-prof "ressources"
-    [https://www.pedagogie.ac-nantes.fr/html/peda/svt/collision_subd/Le_ph%C3 %A9nom%C3 %A8ne_de_collision\_-\_SVT_NANTES.html](https://www.pedagogie.ac-nantes.fr/html/peda/svt/collision_subd/Le_phénomène_de_collision_-_SVT_NANTES.html)
+    [source document inde](https://www.pedagogie.ac-nantes.fr/html/peda/svt/collision_subd/Le_phénomène_de_collision_-_SVT_NANTES.html)
 
     ![](Pictures/schemaCollisionHimalaya.png)

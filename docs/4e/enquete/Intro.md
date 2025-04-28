@@ -171,12 +171,12 @@ Vous devez donc lui expliquer comment l'information génétique est transmise de
     Lors de la fécondation, les informations génétiques des deux cellules reproductrices se réunissent au hasard, la cellule-œuf obtenue contient donc 46 chromosomes. (23 du père et 23 de la mère)    Pour chaque gène, un des allèles provient de la mère, l'autre du père.
 
     Les cellules reproductrices d'un individu étant différentes génétiquement, ses enfants seront différents. Chaque individu issu de la reproduction sexuée est unique. (Dans un couple il peut y avoir  70 mille milliards de cellules-œufs différentes)
-œuf
+
 ## Séance 6 transmission conforme de l'information génétique de la cellule-œuf au reste de l'organisme : la mitose 
 
 Au cours de l'enquête, vous vous heurtez aux parents des suspects. Tous ne croient pas à la fiabilité des preuves que vous avancez et plus particulièrement au fait que les cheveux retrouvés sur la scène de crimes puissent réellement fournir l'information génétique du coupable.
 
-La mère d'Amina vous retrouve et vous dit ;œuf
+La mère d'Amina vous retrouve et vous dit :
 " Je suis convaincue que ma fille est innocente. En plus l'information génétique se trouve dans la cellule-œuf donc je ne vois pas comment un cheveu peut vous donner l'ADN du coupable ".
 
 Vous cherchez donc à lui expliquer comment on peut passer d'une unique cellule-œuf dont le noyau contient l'information génétique à un individu contenant des milliards de cellules ayant la même information génétique.
@@ -202,5 +202,13 @@ Rédiger un texte accompagne d'un schéma à la mère d'Amina grâce auxquels vo
 
     Les deux cellules-filles reçoivent le même nombre de paires de chromosomes identiques à ceux de la cellule-mère. 
 
-Séance 7 : Une autre source de diversité les mutations
+## Séance 7 : Une autre source de diversité les mutations
 
+Les analyses détaillées de l'ADN du coupable viennent d'arriver. Il s'agit du dernier indice de l'enquête.
+Les résultats sont surprenant et modifient les conclusions de l'enquête.
+
+!!! question "Problématique"
+
+    Comment des modifications de l'ADN  peuvent-elles avoir des conséquences ?
+
+[Activité Mutations](../mutations)
