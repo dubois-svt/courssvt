@@ -26,14 +26,17 @@ Le 26 décembre 2019 en Asie s’est produit un phénomène rare que l’on appe
 **Document 1 modélisation d'une éclipse de Lune**
 
 On veut modéliser ce qui se passe dans une éclipse de Lune. La lune est un objet diffusant, lors d'une éclipse de Lune, celle-ci devient moins lumineuse pendant quelques heures. 
-Un modèle est un représentation simplifiée de la réalité dans le but d'expliquer un phénomène ou de tester des hypothèses.
+Un modèle est une représentation simplifiée de la réalité dans le but d'expliquer un phénomène ou de tester des hypothèses.
 
-Dans notre modèle,nous aurons le matériel suivant.
+Dans notre modèle, nous aurons le matériel suivant.
 
 - Une source lumineuse
 - une grosse boule 
 - une petite boule
 - le banc d'optique
+
+L'espace entre la grosse boule et la lampe doit être environ de 15 cm.
+L'espace entre la petite boule et la grosse boule de 5 cm.
 
 **Document 2 Représentation d'une éclipse de Lune**
 
