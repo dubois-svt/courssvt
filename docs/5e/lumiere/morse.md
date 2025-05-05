@@ -6,7 +6,7 @@
 
 !!! warning "Consignes"
 
-    1. Trouver le code Morse pour les mots suivants : SOS, CABLE, GENERATEUR
+    1. Trouver le code Morse pour les mots suivants : SOS, CABLE.
     2. Indiquer ce que signifie le message suivant : −−· −−− −−− −··  ·−·· ··− −·−· −·− 
     3. Réaliser le schéma électrique d'un système pour envoyer des messages morse.
     4. Réaliser le circuit électrique.
