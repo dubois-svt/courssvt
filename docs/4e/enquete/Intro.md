@@ -66,7 +66,7 @@ Avec le sang et les cheveux, on aura accès à l'ADN. Cet ADN nous permettra de 
 
 
 Le laboratoire a fait une première analyse des cheveux retrouvés.
-Ils ont pu récuperer de l'ADN et voir cette ADN sous la forme de chromosomes. Ils ont réalisé un caryotype.
+Ils ont pu récuperer de l'ADN et voir cet ADN sous la forme de chromosomes. Ils ont réalisé un caryotype.
 
 
 
@@ -127,6 +127,9 @@ Grâce aux gouttes de sang, on va pouvoir faire un test, pour connaitre le group
 
 L'information génétique présente sur les chromosomes permet de donner les caractères héréditaires. Ces informations composent les gènes. 
 
+!!! question "Problématique"
+    Comment une information, comme le groupe sanguin, est organisée dans les chromosomes ?    
+
 ??? abstract "Bilan"
     Un gène est une portion de chromosomes (donc d’ADN) située à un emplacement précis.
     Il porte une information génétique qui détermine un caractère héréditaire ou une partie d'un caractère. 
@@ -139,8 +142,6 @@ L'information génétique présente sur les chromosomes permet de donner les car
 
     Le génome humain = ensemble des gènes portés par les chromosomes de l’homme contiendrait 20 000 à 25 000 gènes
 
-!!! question "Problématique"
-    Comment une information, comme le groupe sanguin, est organisée dans les chromosomes ?    
 
 [Activité Le groupe sanguin](../grpSang)
 
@@ -239,7 +240,7 @@ Rédiger un texte accompagne d'un schéma à la mère d'Amina grâce auxquels vo
 ## Séance 7 : Une autre source de diversité les mutations
 
 Les analyses détaillées de l'ADN du coupable viennent d'arriver. Il s'agit du dernier indice de l'enquête.
-Les résultats sont surprenant et modifient les conclusions de l'enquête.
+Les résultats sont surprenants et modifient les conclusions de l'enquête.
 
 !!! question "Problématique"
 

@@ -30,7 +30,7 @@ Dans ce test, on veut repérer un morceau particulier du chromosome Y qui s'appe
 
 **Document 3 Expérience de transgenèse montrant le rôle de SRY**
 
-Les scientifiques ont transféré un gène du chromosome Y sur un chromosome X dans le but de connaitre le rôle du gène SRY. La transgenèse et le fait d'implanter artificiellement un gène, c'est-à-dire un morceau d'ADN porteur d'une information génétique, dans un être vivant, d'une espèce différente ou de la même espèce. L'individu obtenu est appelé Organsime Génétiquement Modifié, ou OGM.
+Les scientifiques ont transféré un gène du chromosome Y sur un chromosome X dans le but de connaitre le rôle du gène SRY. La transgenèse et le fait d'implanter artificiellement un gène, c'est-à-dire un morceau d'ADN porteur d'une information génétique, dans un être vivant, d'une espèce différente ou de la même espèce. L'individu obtenu est appelé Organisme Génétiquement Modifié, ou OGM.
 
 ![](pictures/trangenese.png)
 
