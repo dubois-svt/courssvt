@@ -8,21 +8,30 @@
 
 !!! warning "Consignes"
 
-    1. Faire un schéma d'une cellule en indiquant les différents éléments de celle-ci. 
-    2. Expliquer à l'aide du doc 1, comment on peut être sûr que l'information génétique est dans la cellule.
-    3. Indiquer la provenance des différents éléments ayant formé l’embryon de la vache clonée.
-    4. Comparer le veau cloné aux deux vaches de départ.
-    5. Où se trouve l’information génétique.
+    1. Expliquer à l'aide du doc 1, comment on peut être sûr que l'information génétique est dans la cellule.
+    2. A partir des résultats de l'expérience, indiquer où se trouve l'information génétique en justifiant votre réponse.
+    
+??? bug "Aides"
+
+    - Indiquer la provenance des différents éléments ayant formé l’embryon de la vache clonée.
+    - Comparer le veau cloné aux deux vaches de départ.
 
 
 **Document 1 Localisation de l'information génétique**
+<div markdown style="display:flex; flex-direction: row;">
 
-![](pictures/devCellOeuf.png)
+<div markdown style="display:flex;  flex: 1 1 0; flex-direction: row;">
 
 L’information génétique se transmet de génération en génération et permet le développement de notre corps. 
+Lors de la reproduction sexuée, un nouvel individu est géné issu d'une cellule unique.
 Une cellule-œuf d'être humain donnera toujours un individu avec des caractères d'être humain ; une cellule-œuf de lapin donnera toujours un individu avec des caractères de lapin.
+</div>
 
+<div markdown style="display:flex;  flex: 1 1 0; flex-direction: row;">
+![alt text](image-3.png)
+</div>
 
+</div>
 **Document 2 Une expérience de clonage.**
 
 ![](pictures/clonage.png)
