@@ -8,11 +8,12 @@
 
 !!! warning "Consignes"
 
-    1. Expliquer à l'aide du doc 1, comment on peut être sûr que l'information génétique est dans la cellule.
-    2. Indiquer la provenance des différents éléments ayant formé l’embryon de la vache clonée.
-    3. Comparer le veau cloné aux deux vaches de départ.
-    4. Où se trouve l’information génétique.
-    5. faire un schéma d'une cellule en indiquant les différents éléments de celle-ci. 
+    1. Faire un schéma d'une cellule en indiquant les différents éléments de celle-ci. 
+    2. Expliquer à l'aide du doc 1, comment on peut être sûr que l'information génétique est dans la cellule.
+    3. Indiquer la provenance des différents éléments ayant formé l’embryon de la vache clonée.
+    4. Comparer le veau cloné aux deux vaches de départ.
+    5. Où se trouve l’information génétique.
+
 
 **Document 1 Localisation de l'information génétique**
 

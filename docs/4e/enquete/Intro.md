@@ -52,15 +52,21 @@ Avec le sang et les cheveux, on aura accès à l'ADN. Cet ADN nous permettra de 
     
 
     Les individus d’une même espèce partagent des caractères. Ce sont les caractères spécifiques. 
-    Il existe cependant des variations individuelles. 
-    D’autres caractères se transmettent de génération en génération, ce sont les caractères héréditaires.
-    Le phénotype d'un individu correspond à l'ensemble des caractères d'un individu, ce phénotype dépend des caractères héréditaires et de l'environnement.
+
+    Il existe cependant des variations individuelles. Ce qui permet une biodiversité génétique des espèces.
+
+    Des caractères se transmettent de génération en génération, ce sont les caractères héréditaires.
+
+    Le phénotype d'un individu correspond à l'ensemble des caractères d'un individu visible à différentes échelles.
+    Ce phénotype dépend des caractères héréditaires et de l'environnement.
 
 
 
 ## Séance 2 : Les caryotypes
 
-Le laboratoire a fait une première analyse des cheveux retrouvés, ils ont réalisé un caryotype.
+
+Le laboratoire a fait une première analyse des cheveux retrouvés.
+Ils ont pu récuperer de l'ADN et voir cette ADN sous la forme de chromosomes. Ils ont réalisé un caryotype.
 
 
 
@@ -73,19 +79,45 @@ Le laboratoire a fait une première analyse des cheveux retrouvés, ils ont réa
 
 
 ??? abstract "Bilan"
+    === "De quoi parler dans le bilan ? Quels mots clés ?"
 
-    L’information génétique permet la réalisation des phénotypes héréditaires. L’information génétique se trouve dans le noyau des cellules.
 
-    Dans les noyaux des cellules ont trouve de l'ADN qui compose les chromosomes.
-    C’est l’ADN et donc les chromosomes qui sont à l’origine des caractères héréditaires. Ce sont le support de l’information génétique. On retrouve des chromosomes et donc de l’ADN chez tous les êtres vivants. L’ADN est un caractère partagé par tous les êtres vivants, c’est donc un indice de la parenté des êtres vivants.
+    === "Bilan à trous"
+        L’information génétique permet la réalisation des phénotypes héréditaires. 
+        
+        L’information génétique se trouve sous la forme d'ADN dans le noyau des cellules.
+        L'ADN compose les ..................
+        
+        C’est l’ADN et donc les chromosomes qui sont à l’origine des caractères .......................... Ce sont le support de l’information génétique. On retrouve des chromosomes et donc de l’ADN chez tous les êtres vivants. 
+        
+        L’ADN est un caractère partagé par tous les êtres vivants, c’est donc un indice de la parenté des êtres vivants.
 
-    Les chromosomes du noyau d’une cellule peuvent être étudiés en réalisant un caryotype (=ensemble des chromosomes d’une cellule en division rangés par paires et classés par taille décroissante).
+        Les chromosomes du noyau d’une cellule peuvent être étudiés en réalisant un ............................... (=ensemble des chromosomes d’une cellule en division rangés par paires et classés par taille décroissante).
+        
+        Le nombre de chromosomes est variable en fonction de l’espèce. Toutes les cellules d’un individu ont les mêmes chromosomes. Toutes les cellules humaines contiennent les mêmes ....... chromosomes soit ...... paires.
+
+        Une paire de chromosomes détermine le sexe de l’individu, ce sont les chromosomes sexuels. (Homme Chromosome ....... et chromosome ......  et Femme .... chromosomes ..... ) Les autres sont appelés des chromosomes homologues.
+
+        Un nombre anormal de chromosomes peut empêcher le développement de l’embryon ou entraine des caractères différents chez l’individu (ex : trisomie 21).
+
+    === "Bilan"
     
-    Le nombre de chromosomes est variable en fonction de l’espèce. Toutes les cellules d’un individu ont les mêmes chromosomes. Toutes les cellules humaines contiennent les mêmes 46 chromosomes soit 23 paires.
+        L’information génétique permet la réalisation des phénotypes héréditaires. 
+        
+        L’information génétique se trouve sous la forme d'ADN dans le noyau des cellules.
+        L'ADN compose les chromosomes.
+        
+        C’est l’ADN et donc les chromosomes qui sont à l’origine des caractères héréditaires. Ce sont le support de l’information génétique. On retrouve des chromosomes et donc de l’ADN chez tous les êtres vivants. 
+        
+        L’ADN est un caractère partagé par tous les êtres vivants, c’est donc un indice de la parenté des êtres vivants.
 
-    Une paire de chromosomes détermine le sexe de l’individu, ce sont les chromosomes sexuels. (Homme XY et Femme XX) Les autres sont appelés des chromosomes homologues.
+        Les chromosomes du noyau d’une cellule peuvent être étudiés en réalisant un caryotype (=ensemble des chromosomes d’une cellule en division rangés par paires et classés par taille décroissante).
+        
+        Le nombre de chromosomes est variable en fonction de l’espèce. Toutes les cellules d’un individu ont les mêmes chromosomes. Toutes les cellules humaines contiennent les mêmes 46 chromosomes soit 23 paires.
 
-    Un nombre anormal de chromosomes peut empêcher le développement de l’embryon ou entraine des caractères différents chez l’individu (trisomie 21).
+        Une paire de chromosomes détermine le sexe de l’individu, ce sont les chromosomes sexuels. (Homme Chromosome X et chromosome Y  et Femme 2 chromosomes X ) Les autres sont appelés des chromosomes homologues.
+
+        Un nombre anormal de chromosomes peut empêcher le développement de l’embryon ou entraine des caractères différents chez l’individu (trisomie 21).
 
 [Activité Exercices](../exoChromosomes)
 

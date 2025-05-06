@@ -18,7 +18,8 @@
     - 
 
 Le 26 décembre 2019 en Asie s’est produit un phénomène rare que l’on appelle “cercle de feu”. Dans l’est de l’Arabie saoudite, à Al-Hufuf, on a pu observer ceci :
-![](pictures/eclipseAlHufuf.png)
+
+![](pictures/eclipseAlHufuf.png){: style="width:400px; flex-shrink: 0;  " }
 
 !!! question "Problématique"
     Comment peut-on en obtenir une telle photographie ?
