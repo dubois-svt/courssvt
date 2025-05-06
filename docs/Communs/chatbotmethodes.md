@@ -450,9 +450,6 @@ Calculer le grossissement : Pour savoir combien de fois on a grossi l’échanti
 
 ![Schéma montrant les étapes  de réalisation d’une préparation microscopique](Pictures/image-3.png)
 
-</div>
-<div markdown style="page-break-after: always;">
-
 ## Schématisation électrique
 
 1. Représenter le générateur.
@@ -612,7 +609,7 @@ L'ensemble doit avoir l'apparence d'un rectangle.
 [Illustration des échelles de tailles](https://htwins.net/scale2/) @Cary Huang et Matthew Martori
 </div>
 <div markdown style="page-break-after: auto;">
-![Echelle de distance](Pictures/echellespatialle.png) {: style="width:800px; flex-shrink: 0;  " }
+![Echelle de distance](Pictures/echellespatialle.png){: style="width:800px; flex-shrink: 0;  " }
 </div>
 <div markdown style="page-break-after: auto;">
 <style type="text/css">

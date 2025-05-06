@@ -87,6 +87,8 @@ Le laboratoire a fait une première analyse des cheveux retrouvés, ils ont réa
 
     Un nombre anormal de chromosomes peut empêcher le développement de l’embryon ou entraine des caractères différents chez l’individu (trisomie 21).
 
+[Activité Exercices](../exoChromosomes)
+
 ## Séance 3 : Les groupes sanguins : gènes 
 
 Grâce aux gouttes de sang, on va pouvoir faire un test, pour connaitre le groupe sanguin du coupable.
