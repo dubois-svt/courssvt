@@ -23,15 +23,18 @@
 <div markdown style="display:flex;  flex: 1 1 0; flex-direction: row;">
 
 L’information génétique se transmet de génération en génération et permet le développement de notre corps. 
-Lors de la reproduction sexuée, un nouvel individu est géné issu d'une cellule unique.
+Lors de la reproduction sexuée, un nouvel individu est issu d'une cellule unique.
 Une cellule-œuf d'être humain donnera toujours un individu avec des caractères d'être humain ; une cellule-œuf de lapin donnera toujours un individu avec des caractères de lapin.
 </div>
 
 <div markdown style="display:flex;  flex: 1 1 0; flex-direction: row;">
-![alt text](image-3.png)
+
+![](pictures/schemaCellule.png)
+
 </div>
 
 </div>
+
 **Document 2 Une expérience de clonage.**
 
 ![](pictures/clonage.png)
