@@ -24,8 +24,10 @@
 ![](pictures/materielCellulePhotoVolt.png)
 
 
-**Document 2 Dégradation et pollution.**
+**Document 2 symbole normalisé d'une cellule photovoltaïque.**
+
 On donne le symbole de la cellule photovoltaïque :
+
 ![](pictures/schemaCellulePhotoVolt.png){:style="width:250px;"}
 
 
