@@ -7,7 +7,7 @@
 
 !!! warning "Consignes"
 
-    1. A l'aide du document 4, compléter le tableau du document 2 représentant les hématies en y ajoutant les différents marqueurs en respectant le code donné dans le document 4
+    1. A l'aide des documents 2 et 3, compléter le tableau du document 3 représentant les hématies en y ajoutant les différents marqueurs en respectant le code donné dans le document 3
     2. À l’aide des documents proposés, identifier le groupe sanguin du coupable.
 
 
@@ -24,25 +24,21 @@
     
 ??? bug "Critères de réussite"
 
-??? bug "Coups de pouce"    
-
-    - Placer le gène ABO
-  
-    Pour représenter un gène sur chromosome il faut :
-
-    1. identifier la paire de chromosomes portant ce gène (et la légender sur le schéma)
-    2. Repérer la localisaiton de ce gène sur les chromosomes
-    3. Placer le gène surle chromosome en le représentant par un trait de couleur.
-
-    Attention : un gène est présent en ..... exemplauire sur les chromosomes d'une même paire (=chromosome ....................)
-
 
 **Document 1 Le sang**
 
 Le sang est un tissu liquide composé de plasma et cellules diverses. Il contient en particulier les globules rouges, dont la fonction principale est le transport de dioxygène dans tout l'organisme. 
 Les globules rouges des Mammifères (donc des Humains) n'ont pas de noyau. Les globules rouges des Mammifères sont appelés hématies.
 
-**Document 2 les groupes sanguins du système ABO**
+**Document 2 Vidéo sur les groupes sanguins**
+
+<iframe title="Les groupes ABO" width="560" height="315" src="https://tube-sciences-technologies.apps.education.fr/videos/embed/t4LQkQQ1CAwEtATxyqT5HJ" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
+
+
+[Vidéo sur les groupes sanguins(source: Sciences et avenir)](https://www.sciencesetavenir.fr/videos/2-minutes-pour-comprendre-les-groupes-sanguins_5qmk3u)
+
+**Document 3 les groupes sanguins du système ABO**
+
 
 La découverte des groupes sanguins, en 1909, a permis de comprendre pourquoi certaines transfusions sanguines se terminaient par la mort des patients. On sait aujourd’hui qu’il existe 4 groupes sanguins, A, B, AB et O. 
 Dans certains mélanges de sang, les globules rouges se rassemblaient en paquet au lieu de rester en suspension. Les groupes sanguins dépendent de la présence de molécules particulières sur les hématies, ces molécules sont des antigènes. Les humains peuvent avoir des antigènes A (symbolisé ![](pictures/marqueurA.png)), des antigènes B (symbolisé ![](pictures/marqueurB.png)) ou aucun des deux.
@@ -53,11 +49,16 @@ Dans certains mélanges de sang, les globules rouges se rassemblaient en paquet 
 | Fréquence dans la population | 45% | 9% | 3% | 43% |
 
 
-**Document 3 Les anticorps**
+**Document 4 Les anticorps et identifications des groupes sanguins**
 
 Les anticorps sont des molécules qui se lient à des antigènes spécifiquement. Lorsqu’ils se fixent à des antigènes, ils forment une agglutination (des petits paquets). Cette agglutination permet de neutraliser les antigènes et le corps étranger auquel ils sont fixés. S’il y a agglutination, c’est donc que l’anticorps et l’antigène correspondent.
 
-**Document 4 Protocole d’identification du groupe sanguin.**
+On utilise cette agglutination pour connaitre les groupes sanguins.
+Si on mélange des anticorps anti A avec du sang et qu'il y a agglutination, alors cela veut dire qu'il y a des antigènes A.
+Si on mélange des anticorps anti B avec du sang et qu'il y a agglutination, alors cela veut dire qu'il y a des antigènes B.
+Si aucun des deux anticorps ne réagit, cela signifie qu'il n'y a pas d'antigènes.
+
+**Document 5 Protocole d’identification du groupe sanguin.**
 
 Pour des raisons sanitaires, vous ne manipulerez pas de vrai sang, mais un mélange de produits chimiques qui montrent le comportement du sang dans le vrai protocole.
 
@@ -72,13 +73,8 @@ Pour identifier le groupe sanguin d’un individu, et donc connaître les moléc
 ??? note-prof "Correction"
 
     Consigne 1 :
-    On voit qu’il y a une agglutination en présence d’anticorps anti A, il y a donc des antigènes A sur les globules rouges. Il n’y a pas d’agglutination en présence d’anticorps anti B, il n’y a donc pas d’antigène B.
-    La personne a donc seulement des antigènes A, elle est donc de groupe sanguin A.
-
-    Consigne 2 :
-    La personne étant de groupe sanguin A, elle a forcément au moins un allèle A. Elle ne peut pas avoir d’allèle B, car sinon elle serait AB. Le second allèle peut soit être un deuxième 1 ou bien un allèle O, car O est récessif.
-    ![](pictures/correctAlleleGrpSang1.png)
-    ![](pictures/correctAlleleGrpSang2.png)
+    On voit qu’il y a une agglutination en présence d’anticorps anti B, il y a donc des antigènes B sur les globules rouges. Il n’y a pas d’agglutination en présence d’anticorps anti A, il n’y a donc pas d’antigène A.
+    La personne a donc seulement des antigènes B, elle est donc de groupe sanguin B.
 
 
 
