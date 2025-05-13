@@ -1,4 +1,4 @@
-# Activité : Le groupe sanguin
+# Activité : Le groupe sanguin et l'ADN
 
 !!! note "Compétences"
 
