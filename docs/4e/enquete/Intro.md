@@ -11,7 +11,7 @@
 </div>
 <div markdown style="display:flex; flex: 1 1 0; flex-direction: column;">
 
-Hier, le chat du collège, Grissette, a disparu ! Elle avait été vu sur le parking du collège, des gouttes de sang et des cheveux ont été trouvés. Qui a kidnappé Grissette ?
+Hier, le chat du collège, Grissette, a disparu ! Elle avait été vue sur le parking du collège, des gouttes de sang et des cheveux ont été trouvés. Qui a kidnappé Grissette ?
 </div>
 <div markdown style="display:flex; flex: 2 1 0; flex-direction: column;">
 
