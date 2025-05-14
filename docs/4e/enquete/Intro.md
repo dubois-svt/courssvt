@@ -83,35 +83,24 @@ Ils ont pu récuperer de l'ADN et voir cet ADN sous la forme de chromosomes. Ils
 
 
     === "Bilan à trous"
-        L’information génétique permet la réalisation des phénotypes héréditaires. 
-        
-        L’information génétique se trouve sous la forme d'ADN dans le noyau des cellules.
-        L'ADN compose les ..................
-        
-        C’est l’ADN et donc les chromosomes qui sont à l’origine des caractères .......................... Ce sont le support de l’information génétique. On retrouve des chromosomes et donc de l’ADN chez tous les êtres vivants. 
-        
-        L’ADN est un caractère partagé par tous les êtres vivants, c’est donc un indice de la parenté des êtres vivants.
-
-        Les chromosomes du noyau d’une cellule peuvent être étudiés en réalisant un ............................... (=ensemble des chromosomes d’une cellule en division rangés par paires et classés par taille décroissante).
-        
+        L’information génétique permet la réalisation des phénotypes héréditaires et donc des caractères ..........................
+        L’information génétique se trouve sous la forme d'ADN dans le noyau des cellules. L'ADN compose les ...............…, ce sont le support de l’information génétique. 
+        On retrouve des chromosomes et donc de l’ADN chez tous les êtres vivants. L’ADN est un caractère partagé par tous les êtres vivants, c’est donc un indice de la parenté des êtres vivants.
+        Les chromosomes du noyau d’une cellule peuvent être étudiés en réalisant un ............................... (=ensemble des chromosomes d’une cellule rangés par paires et classés par taille décroissante).
         Le nombre de chromosomes est variable en fonction de l’espèce. Toutes les cellules d’un individu ont les mêmes chromosomes. Toutes les cellules humaines contiennent les mêmes ....... chromosomes soit ...... paires.
-
-        Une paire de chromosomes détermine le sexe de l’individu, ce sont les chromosomes sexuels. (Homme Chromosome ....... et chromosome ......  et Femme .... chromosomes ..... ) Les autres sont appelés des chromosomes homologues.
-
-        Un nombre anormal de chromosomes peut empêcher le développement de l’embryon ou entraine des caractères différents chez l’individu (ex : trisomie 21).
+        Une paire de chromosomes détermine le sexe de l’individu, ce sont les chromosomes sexuels. (Homme Chromosome ....... et chromosome ...... et Femme .... chromosomes ..... ) Les autres sont appelés des chromosomes homologues.
+        Un nombre anormal de chromosomes peut empêcher le développement de l’embryon ou entraîne des caractères différents chez l’individu (ex : trisomie 21).
 
     === "Bilan"
     
-        L’information génétique permet la réalisation des phénotypes héréditaires. 
+        L’information génétique permet la réalisation des phénotypes héréditaires et donc  des caractères héréditaires. 
         
         L’information génétique se trouve sous la forme d'ADN dans le noyau des cellules.
-        L'ADN compose les chromosomes.
+        L'ADN compose les chromosomes, ce sont le support de l’information génétique. 
         
-        C’est l’ADN et donc les chromosomes qui sont à l’origine des caractères héréditaires. Ce sont le support de l’information génétique. On retrouve des chromosomes et donc de l’ADN chez tous les êtres vivants. 
-        
-        L’ADN est un caractère partagé par tous les êtres vivants, c’est donc un indice de la parenté des êtres vivants.
+        On retrouve des chromosomes et donc de l’ADN chez tous les êtres vivants. L’ADN est un caractère partagé par tous les êtres vivants, c’est donc un indice de la parenté des êtres vivants.
 
-        Les chromosomes du noyau d’une cellule peuvent être étudiés en réalisant un caryotype (=ensemble des chromosomes d’une cellule en division rangés par paires et classés par taille décroissante).
+        Les chromosomes du noyau d’une cellule peuvent être étudiés en réalisant un caryotype (=ensemble des chromosomes d’une cellule rangés par paires et classés par taille décroissante).
         
         Le nombre de chromosomes est variable en fonction de l’espèce. Toutes les cellules d’un individu ont les mêmes chromosomes. Toutes les cellules humaines contiennent les mêmes 46 chromosomes soit 23 paires.
 
