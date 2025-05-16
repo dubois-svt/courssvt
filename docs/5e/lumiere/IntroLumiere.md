@@ -122,7 +122,7 @@ Afin de revaloriser un terrain de stockage de déchets jusque dans les années 9
 
 ??? abstract "Bilan"
 
-    Une éclipse correspond à disparition totale ou partielle d'un astre.
+    Une éclipse correspond à la disparition totale ou partielle d'un astre.
     Cela est dû à la présence d'un autre astre entre l'astre caché et l'observateur.
     Dans le cas d'une éclipse lunaire, la Lune devient moins visible car le Soleil, la Terre et la Lune sont alignés et l'ombre de la Terre est projeté sur la Lune.
     Dans le cas d'une éclipse solaire, le Soleil devient moins visible car le Soleil, la Lune et la Terre sont alignés et l'ombre de la Lune est projeté sur la Terre.
