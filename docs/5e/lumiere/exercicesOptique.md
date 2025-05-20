@@ -38,16 +38,23 @@ La lumière provenant de Soleil met environ 8 min et 20 secondes pour nous parve
 
 Voici une liste d’objets : Flamme, écran de télévision, écran de cinéma, éclair d’orage, filament d’une lampe, étoile, Vénus, Soleil, bougie, tableau blanc, mur.
 
-
 ## Exercice 4
 
-!!! warning "Consignes"
-    Indiquer si l’œil peut voir le point lumineux S. Justifier sa réponse.
- 
-![](pictures/exoEcranOeil.png)
+![](pictures/imageExo11.png)
 
+!!! warning "Consignes"
+    1. Trace les rayons lumineux permettant à l'œil de voir le nid ?
+    2. Trace l'ombre de l'arbre sur le mur ?
 
 ## Exercice 5
+
+
+Une voiture thermique possède un moteur à explosion qui va convertir l'énergie chimique stockée dans le pétrole en énergie mécanique. Le moteur n'est pas parfait et a donc des pertes sous la forme d'énergie thermique.
+
+!!! warning "Consigne"
+    Faire le schéma de la chaine énergétique de la situation décrite ci-dessus
+
+## Exercice 6
 
 !!! warning "Consignes"
     1. Expliquer pourquoi la figurine est visible alors qu’elle n’est pas éclairée (située dans le faisceau de la lumière émise par la lampe).
@@ -56,7 +63,17 @@ Voici une liste d’objets : Flamme, écran de télévision, écran de cinéma, 
 
 ![](pictures/exoFigurineEcran.png)
 
- ## Exercice 6
+## Exercice 7
+
+!!! warning "Consignes"
+    Indiquer si l’œil peut voir le point lumineux S. Justifier sa réponse.
+ 
+![](pictures/exoEcranOeil.png)
+
+
+
+
+## Exercice 8
 
 !!! warning "Consignes"
 
@@ -65,21 +82,22 @@ Voici une liste d’objets : Flamme, écran de télévision, écran de cinéma, 
 ![](pictures/imagesQCm.png)
 ![](pictures/exoChoixRayons.png)
 
-## Exercice 7
+## Exercice 9
 
 !!! warning "Consignes"
     Citer deux sources de lumière primaire sur cette photo
 
 ![](pictures/exoSourcesLumieres.png)
 
-## Exercice 8
+## Exercice 10
 
 !!! warning "Consignes"
     compléter la grille de mots croisés
 
 ![](pictures/motsCroises.png)
 
-## Exercice 9
+## Exercice 11
+
 Deux pièces d’échec A et B sont placées d’un côté d’un écran en carton blanc. Deux autres C et D de l’autre côté. Une lampe de poche est placée devant l’écran.
 
 !!! warning "Consignes"
@@ -89,7 +107,7 @@ Deux pièces d’échec A et B sont placées d’un côté d’un écran en cart
 ![](pictures/ExoPionsEcran.png)
 
 
-## Exercice 10
+## Exercice 12
 Une nuit de pleine lune, Charlotte remarque qu’elle peut voir un arbre planté au fond du jardin même si toutes les lumières sont éteintes.
 
 !!! warning "Consignes"
@@ -97,3 +115,4 @@ Une nuit de pleine lune, Charlotte remarque qu’elle peut voir un arbre planté
     2. Trouver le chemin de la lumière qui permet à Charlotte de voir l’arbre la nuit.
 
 ![](pictures/exoCharlotteNuit.png)
+

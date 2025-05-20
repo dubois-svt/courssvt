@@ -3,18 +3,17 @@
 
 ## Compétences travaillées dans la séquence
 - Retenir des idées essentielles d’une leçon
-- Formuler une problématique
 - Argumenter
 - Trouver et exploiter des informations
-- Proposer une démarche expérimentale
-- Utiliser des outils mathématiques
-- Manipuler, expérimenter
 - Analyser des résultats
-- Organiser un travail en groupe
 - Réaliser un schéma, un graphique
-- Utiliser l'outil numérique
 
-## Site internet
+## À savoir faire
+
+- analyser une expérience
+- Reconnaitre des caractères héréditaires et non héréditaires
+- Lire et analyser un caryotype
+- 
 
 
 
@@ -24,13 +23,27 @@
 <div markdown class="flashcard">
 
 1. 
-    - question
-    - Une ampoule
+    - Qu'est-ce qu'un caractère spécifique ?
+    - C'est un caractère que tous les individus d'une même espèce partagent.
 2. 
-    - Lorem ipsum ?
-    - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam non diam ut quam vehicula efficitur sit amet vitae nisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed at rutrum dui.
+    - Que signifie la biodiversité génétique ?
+    - C'est la variation des caractères entre les individus d'une même espèce.
 3. 
-    - Question
-    - Réponse
-
+    - Qu'est-ce qu'un caractère héréditaire ?
+    - C'est un caractère qui se transmet de génération en génération.
+4.  
+    - De quoi dépend le phénotype d'un individu ?
+    - Il dépend des caractères héréditaires et de l'environnement.
+5.  
+    - Où trouve-t-on l'information génétique chez les êtres vivants ?
+    - L'information génétique se trouve dans le noyau des cellules sous la forme d'ADN
+6.  
+    - Qu'est-ce qu'un chromosome ?
+    - C'est une structure visible dans la cellule qui est composé d'ADN.
+7.   
+    - Combien de chromosomes ont toutes les cellules humaines ?
+    - Toutes les cellules humaines ont 23 paires de chromosomes.
+8.  
+    - Que détermine une paire de chromosomes sexuels ?
+    - Elle détermine le sexe de l'individu.
 </div>
