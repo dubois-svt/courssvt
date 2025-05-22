@@ -2,7 +2,8 @@
 
 !!! note "Compétences"
 
-    Interpréter 
+    - Interpréter 
+    - Faire un schéma fonctionnel
 
 !!! warning "Consignes"
 
