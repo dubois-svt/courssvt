@@ -1,21 +1,20 @@
-# Activité : Importance du tri des déchets
+# Activité : Transmission des allèles à la descendance
 
 !!! note "Compétences"
 
-    Interpréter 
+    Argumenter 
 
 !!! warning "Consignes"
 
     1. Comparer le caryotype des cellules somatiques et des gamètes. 
     2. Indiquer comment s'appelle la formation des cellules reproductrices.
-    3. Découper et remettre d, document 4
-    4. Compléter le document 6
-    5. Faire un tableau de croisement
-    6. Répondre à l'avocat
+    3. Pour chacun des deux parents d'Amina, compléter le document 6 en répresenter leur chromosomes 9 et leurs chromosomes sexuels.
+    4. Faire un tableau de croisement
+    5. Répondre à l'avocat
     
 ??? bug "Critères de réussite"
     
-    - Realiser un tableua de croisement, c'est représenter les chromosomes présents dans les gamètes des deux parents et en déduire les combinaisons pouvant se former lors de la fécondation.
+    - Realiser un tableau de croisement, c'est représenter les chromosomes présents dans les gamètes des deux parents et en déduire les combinaisons pouvant se former lors de la fécondation.
 
     [exercie de croisement 1 ](https://www.viasvt.vivelessvt.com/garcon-fille/fille-garcon.html)
     [Exercice de croisement 2](https://www.viasvt.vivelessvt.com/brassage-fecondation/brassage-fecondation.html)
@@ -36,23 +35,23 @@ Lors de la création des gamètes, il existe un phénomène appelé "Méiose" qu
 
 Pour le représenter, on considère une cellule à 4 chromosomes pour simplifier.
 
-La formation des gamètes permet donc le mélange des informations génétiques. C'est pour cela qu'un frère et une sœur, bien qu'ayant les mêmes parents, n'ont pas les mêmes caractères. Grâce à ce mélange chaque ovule ou spermatozoïde est unique. 
+La formation des gamètes permet donc le mélange des informations génétiques. Les chromosomes de chaque paire se répartissent au hasard. Avec 23 paires de chromosomes, il y a plus de 8 millions de gamètes différents pour un individu.
 
 ![](pictures/schrepartAlleles.png)
 
-**Document 4 Étapes de la méiose**
-
-![alt text](pictures/etapesMeiose.png)
-
-
-
 **Document 4 la fécondation et la formation de la cellule-œuf**
 
-SCHEMA FECONDATION A FAIRE
+Lors de la fécondation un spermatozoïde et un ovule vont fusionner pou former une cellule-œuf. Ces deux gamètes
+Chacun des deux gamètes contient 23 chromosomes, un seul de chaque paire. La cellule-œuf va donc avoir un chromosome de chacun des deux parents pour chaque paire.
+
+Avec 8,3 millions de gamètes différents pour un individu, la fécondation peut former 70 mille milliards de cellules-œufs différentes. C'est pour cela qu'un frère et une sœur, bien qu'ayant les mêmes parents, n'ont pas les mêmes caractères. Grâce à ce mélange chaque ovule ou spermatozoïde est unique. 
 
 **Document 5 Réaliser un tableau de croisement**
 
-[Video à regarder](https://www.youtube.com/watch?app=desktop&v=J1hJQd-MD1k&t=1s)
+<div markdown style="display:flex; flex-direction:row;">
+<div markdown style="display:flex; flex-direction:column;">
+
+[Vidéo à regarder](https://www.youtube.com/watch?app=desktop&v=J1hJQd-MD1k&t=1s)
 
 La méiose permet la formation de gamètes (ovules ou spermatozoïdes). La répartition aléatoire des chromosomes permet la fabrication de gamètes différents. Lors de la fécondation les gamètes se rencontrent pour former un nouvel individu.
 
@@ -65,8 +64,13 @@ Un génotype s'écrit entre parenthèses : (bleu//marron) La double barre repré
 Un phénotype s'écrit entre crochet [yeux marrons].
 
 Génotype : ensemble de l'information génétique d'un individu.
+</div>
+<div markdown style="display:flex; flex-direction:column;">
 
-TABLEAU CROISEMENT EXEMPLE POUR CHROMOSOMES SEXUELS
+
+![Exemple de tableau de croissement](pictures/tabCroiss.png)
+</div>
+</div>
 
 **Document 6 Génotype et phénotype des parents d'Amina**
 

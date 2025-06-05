@@ -269,3 +269,22 @@ Les résultats sont surprenants et modifient les conclusions de l'enquête.
     Comment des modifications de l'ADN  peuvent-elles avoir des conséquences ?
 
 [Activité Mutations](../mutations)
+
+??? abstract "Bilan"
+
+    Une mutation est une modification de l’ADN d’un gène. Elles sont rares. Elles peuvent être à l’origine de nouveaux caractères et modifier le phénotype.
+
+  
+    Les mutations peuvent arriver naturellement ou être provoquées par des agents mutagènes (UV, virus …) 
+    
+    Ces mutations se font au hasard et donc le nouveau caractère peut être bénéfique, sans conséquence ou létal.
+    Les mutations ne peuvent être transmises à la descendance uniquement lorsqu’elles se font dans les cellules reproductrices.
+
+    Définitions.
+
+    - Mutation : Modification de l’information génétique portée par l’ADN, à l’origine de nouveaux allèles.
+    - Cellule somatique : Cellule ne donnant pas de cellules reproductrices
+    - Cellule germinale : Cellule donnant des cellules reproductrices.
+
+
+

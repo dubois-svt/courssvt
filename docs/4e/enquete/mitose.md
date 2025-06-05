@@ -6,10 +6,10 @@
 
 !!! warning "Consignes"
 
-    1. Compléter les légende sdu document 2
-    2. A l'aide du document 3 , réaliser sur une feuille de papier millimétré le graphique représentant l'évolution de la quanté d'ADN en fonction du temps dans une cellules
-    3. Explqiuer en un phrase le processus illustré dans le document 4
-    4. Décrire en une phrase ce qui se apsse pour chacune des étapes illustrés dans le doicuyment 2.
+    1. Compléter les légendes du document 2
+    2. A l'aide du document 3 , réaliser sur une feuille de papier millimétré le graphique représentant l'évolution de la quanté d'ADN en fonction du temps dans une cellule
+    3. Expliquer en un phrase le processus illustré dans le document 4
+    4. Décrire en une phrase ce qui se passe pour chacune des étapes illustrés dans le document 2.
     5. Compléter le schéma du document 1 
     6. Rédiger un texte pour répondre à la mère d'Amina
     

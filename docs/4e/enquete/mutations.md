@@ -6,7 +6,10 @@
 
 !!! warning "Consignes"
 
-    1. 
+    1. Indiquer quelle est lma modigfivation de l'information génétique du coupable et en donner les conséquences.
+    2. Donner la définition de mutation.
+    3. Expliquer es conséuqnces des mutations sur les caractères des individus
+    4. En déduire le nom du coupable définitif.
     
 ??? bug "Critères de réussite"
     - 
@@ -47,15 +50,15 @@ Lorsqu'une telle mutation a lieu dans une cellule reproductrice, et que celle-ci
 
 ??? note-prof "correction"
 
-    Consigne 1 : j'observe dans les documents 1 et 2 que le caryotype du coupable possède deux chrosmosoime X, mais que l'in des chromosome X possède une variation génétique rare appelée " translocation du gène SRY". Le gène SRY n'est normalement pas présent sur les chromosomes X. On le trouve sur le chromsome Y. 
+    Consigne 1 : j'observe dans les documents 1 et 2 que le caryotype du coupable possède deux chromosomes X, mais que l'un des chromosome X possède une variation génétique rare appelée " translocation du gène SRY". Le gène SRY n'est normalement pas présent sur les chromosomes X. On le trouve sur le chromsome Y. 
     J'observe dans le document 3 qu'un souriceau femelle possédant un chrolmoisome X possèdant le gène SRY développe des testicules lors de soin développement embryonnaire.
     J'en déduis que le gène SRY intervuient dans la mise en place de certains caractères sexuels primaires masculins.
-    J'en conclue que le coupable possède un caryotype féminoin mais avec un chromosome X ^possédant le gène SRY, donc le coupable possède des caractères masculins.
+    J'en conclue que le coupable possède un caryotype féminoin mais avec un chromosome X possédant le gène SRY, donc le coupable possède des caractères masculins.
 
     Consigne 2 : une mutation est une modification de l'ADN d'une cellule
 
-    Consigne 3 : les muations peuvent entrainer des mdoifications durables des caractères héréditaires lorsqu'elles touchent l'AZDN des cellules reproductrices.
+    Consigne 3 : les mutations peuvent entrainer des modifications durables des caractères héréditaires lorsqu'elles touchent l'ADN des cellules reproductrices.
 
     Consigne 4 : J'observe que le coupable possède une mutaiton sur le chromosome X. Il a le gène SRY sur ce chromosome entainant la mise en place de castères sexuels primauires mascualin(comme les testicules).
-    Je sais que malgré la présence de deux chromosomes C dans son caryotype l'individu est de phénomtype masculin. Je saus également qu'il est de groupe sanguin B. 
+    Je sais que malgré la présence de deux chromosomes X dans son caryotype l'individu est de phénotype masculin. Je saus également qu'il est de groupe sanguin B. 
     J'en déduis que le coupable est Kévin.
