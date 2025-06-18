@@ -18,13 +18,17 @@
 [Activité Les familles d'objets techniques](../famillesObj)
 
 
-<a id="bilan1"></a>
+
 
 ??? abstract "Bilan"
+
+    <a markdown id="bilan1">
+
     Les objets techniques peuvent être regroupés dans des familles d’objets. 
     Une famille d'objets regroupe les objets qui ont la même fonction d’usage.
 
 
+    </a>
 
 ## Séance 2 : Évolution d'une famille d'objets et lignées
 
@@ -34,9 +38,11 @@
 [Activité Évolution de la photographie](../evolPhoto)
 
 
-<a id="bilan2"></a>
 
 ??? abstract "Bilan"
+
+    <a id="bilan2">
+
     Une lignée d’objets montre dans un ordre chronologique, du plus ancien au plus récent, les objets d’une même famille qui fonctionnent sur le même principe technique.
     
     Pour répondre à nos besoins, les objets évoluent sans cesse, Les découvertes, les inventions et les innovations permettent les évolutions technologiques. Elles marquent de nettes améliorations dans de nombreux domaines, on appelle cela des ruptures technologiques. 
@@ -45,7 +51,11 @@
     - Une invention est une nouvelle technique ou un nouveau matériau mis au point en utilisant une découverte.
     - Une innovation est la commercialisation d’un objet technique que l’on a créé ou fait évoluer grâce à une invention.
 
-    Le contexte historique, social, environnemental, scientifique et économique permet d’expliquer l’évolution des objets.
+    Le contexte historique, social, environnemental, scientifique et économique 
+    permet d’expliquer l’évolution des objets.
+
+    </a>
+
 
 ## Séance 3 : Cycle de vie, impacts sociétaux et environnementaux 
 
@@ -58,12 +68,11 @@
 
 
 
-<a id="bilan3"></a>
-
 
 ??? abstract "Bilan"
 
     
+    <a id="bilan3">
 
     Le cycle de vie d’un objet est une succession de 5 étapes : 
 
@@ -79,6 +88,7 @@
     
     ![](pictures/cycleVieObj.png)
 
+    </a>
 
 
 ## Séance 4 : Exercices

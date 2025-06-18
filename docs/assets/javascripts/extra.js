@@ -25,17 +25,24 @@ function printDiv() {
 function getParameterByName(url = window.location.href)
 {
     var regex = new RegExp('[?]' + '([a-z]*)'), results = regex.exec(url);
-    console.log('results', results)
 
-    if (!results) 
+    if (!results) {
         return null;
-    if (!results[1]) 
+        }
+
+    if (!results[1]) {
         return '';
-    return decodeURIComponent(results[1].replace(/\+/g, ' '));
+        }
+
+    if (results[1]) {
+        return decodeURIComponent(results[1].replace(/\+/g, ' '));
+        }
+
 
 }
 var param = getParameterByName();
-console.log('param', param)
+
+
 
 if (param == 'prof')
 {
@@ -43,5 +50,5 @@ if (param == 'prof')
 }
 else {
     document.getElementsByClassName("note-prof")[0].style.display = "none";
-}
 
+}

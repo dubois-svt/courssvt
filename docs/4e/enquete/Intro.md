@@ -46,12 +46,11 @@ Avec le sang et les cheveux, on aura accès à l'ADN. Cet ADN nous permettra de 
 [Activité Les caractères héréditaires](../caractHered)
 
 
-<a id="bilan1"></a>
 
 
 ??? abstract "Bilan"
     
-
+    <a id="bilan1">
     Les individus d’une même espèce partagent des caractères. Ce sont les caractères spécifiques. 
 
     Il existe cependant des variations individuelles. Ce qui permet une biodiversité génétique des espèces.
@@ -61,7 +60,7 @@ Avec le sang et les cheveux, on aura accès à l'ADN. Cet ADN nous permettra de 
     Le phénotype d'un individu correspond à l'ensemble des caractères d'un individu visible à différentes échelles.
     Ce phénotype dépend des caractères héréditaires et de l'environnement.
 
-
+    </a>
 
 ## Séance 2 : Les caryotypes
 
@@ -76,11 +75,14 @@ Ils ont pu récuperer de l'ADN et voir cet ADN sous la forme de chromosomes. Ils
     
 [Activité Le caryotype](../caryotype)
 
-<a id="bilan2"></a>
+
 
 
 
 ??? abstract "Bilan"
+
+    <a id="bilan2">
+
     === "De quoi parler dans le bilan ? Quels mots clés ?"
 
 
@@ -116,6 +118,8 @@ Ils ont pu récuperer de l'ADN et voir cet ADN sous la forme de chromosomes. Ils
 
         Un nombre anormal de chromosomes peut empêcher le développement de l’embryon ou entraine des caractères différents chez l’individu (trisomie 21).
 
+    </a>
+
 [Activité Exercices](../exoChromosomes)
 
 ## Séance 3 : Les groupes sanguins : gènes 
@@ -127,10 +131,13 @@ L'information génétique présente sur les chromosomes permet de donner les car
 !!! question "Problématique"
     Comment une information, comme le groupe sanguin, est organisée dans les chromosomes ?    
 
-<a id="bilan3"></a>
+
 
 
 ??? abstract "Bilan"
+    
+    <a id="bilan3">
+
     Un gène est une portion de chromosomes (donc d’ADN) située à un emplacement précis.
     Il porte une information génétique qui détermine un caractère héréditaire ou une partie d'un caractère. 
 
@@ -142,6 +149,8 @@ L'information génétique présente sur les chromosomes permet de donner les car
 
     Le génome humain = ensemble des gènes portés par les chromosomes de l’homme contiendrait 20 000 à 25 000 gènes
 
+    </a>
+    
 
 [Activité Le groupe sanguin](../grpSang)
 
@@ -155,9 +164,12 @@ Un des parents indique que votre raisonnement est incorrect, si tous les humains
 [Activité Le groupe sanguin et les allèles](../grpSangAlleles)
 
 
-<a id="bilan4"></a>
+
 
 ??? abstract "Bilan"
+
+    <a id="bilan4">
+
     === "De quoi parler dans le bilan ? Quels mots clés ?"
 
 
@@ -206,6 +218,7 @@ Un des parents indique que votre raisonnement est incorrect, si tous les humains
 
         [Vidéo bilan ](https://www.youtube.com/watch?%E2%80%A6&v=H9tz0GJNw2c&feature=youtu.be)
 
+    </a>
 
 
 ## Séance 5 : Transmission de l'information génétique à la naissance : méiose et fécondation source de diversité
@@ -224,10 +237,12 @@ Vous devez donc lui expliquer comment l'information génétique est transmise de
 
 [Activité Transmission des gènes](../transmissionGènes)
 
-<a id="bilan5"></a>
 
 
 ??? abstract "Bilan"
+
+    <a id="bilan5">
+
 
     Les spermatozoïdes et les ovules sont des gamètes (=cellules reproductrices).
 
@@ -238,6 +253,8 @@ Vous devez donc lui expliquer comment l'information génétique est transmise de
     Lors de la fécondation, les informations génétiques des deux cellules reproductrices se réunissent au hasard, la cellule-œuf obtenue contient donc 46 chromosomes. (23 du père et 23 de la mère)    Pour chaque gène, un des allèles provient de la mère, l'autre du père.
 
     Les cellules reproductrices d'un individu étant différentes génétiquement, ses enfants seront différents. Chaque individu issu de la reproduction sexuée est unique. (Dans un couple il peut y avoir  70 mille milliards de cellules-œufs différentes)
+
+    </a>
 
 ## Séance 6 transmission conforme de l'information génétique de la cellule-œuf au reste de l'organisme : la mitose 
 
@@ -257,9 +274,11 @@ Rédiger un texte accompagne d'un schéma à la mère d'Amina grâce auxquels vo
 [Activité Conservation de l'information génétique](../mitose)
 
 
-<a id="bilan6"></a>
 
 ??? abstract "Bilan"
+
+    <a id="bilan6">
+
     La division cellulaire permet la formation de nouvelles cellules qui vont permettre la formation d'un nouvel être vivant et le renouvellement de ses cellules.
 
     La division cellulaire (ou multiplication cellulaire ou mitose) d'une cellule-mère donne deux cellules-filles identiques.
@@ -269,6 +288,8 @@ Rédiger un texte accompagne d'un schéma à la mère d'Amina grâce auxquels vo
     Lors de la division cellulaire, les deux parties de chaque chromosome double se séparent et se répartissent dans les deux cellules-filles.
 
     Les deux cellules-filles reçoivent le même nombre de paires de chromosomes identiques à ceux de la cellule-mère. 
+    
+    </a>
 
 ## Séance 7 : Une autre source de diversité les mutations
 
@@ -282,6 +303,8 @@ Les résultats sont surprenants et modifient les conclusions de l'enquête.
 [Activité Mutations](../mutations)
 
 ??? abstract "Bilan"
+
+    <a id="bilan7">
 
     Une mutation est une modification de l’ADN d’un gène. Elles sont rares. Elles peuvent être à l’origine de nouveaux caractères et modifier le phénotype.
 
@@ -298,4 +321,4 @@ Les résultats sont surprenants et modifient les conclusions de l'enquête.
     - Cellule germinale : Cellule donnant des cellules reproductrices.
 
 
-
+    </a>
