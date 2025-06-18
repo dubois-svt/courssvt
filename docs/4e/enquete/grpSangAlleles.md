@@ -6,8 +6,8 @@
 
 !!! warning "Consignes"
 
-    1. Représenter la ou les paires de chromosomes 9 pour chaque groupe sanguin.
-    2. Indiquer les paires de chromosomes 9 pour le suspect.
+    1. Représenter la ou les paires de chromosomes associées à chaque groupe sanguin ABO.
+    2. Retrouver les allèles du groupe sanguin ABO possédés par le coupable.
 
 
 

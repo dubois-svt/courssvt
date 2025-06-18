@@ -286,10 +286,12 @@ nav :
         - Propagation de la lumière : 5e/lumiere/propagLumiere.md
         - Eclipse : 5e/lumiere/eclipse.md
 
-        - Communiquer en morse : 5e/lumiere/morse.md
+       
         - Conversion d’énergie et unité : 5e/lumiere/chaineEnergetique.md
         - Exercices : 5e/lumiere/exercicesOptique.md
         - Fiche de révision : 5e/lumiere/Fiche.md
+        - Bonus Communiquer en morse : 5e/lumiere/morse.md
+        
       - Séquence le risque volcanique :
           - Introduction : 5e/volcans/IntroVolcans.md
           - Volcans : 5e/volcans/volcans.md

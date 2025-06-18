@@ -114,7 +114,15 @@ Afin de revaloriser un terrain de stockage de déchets jusque dans les années 9
     
 
 
-## Séance 5 : Communication avec de la lumière.
+
+   
+
+## Séance 5 : Exercices
+
+[Activité Exercices sur l'optique](../exercicesOptique)
+
+
+## Séance 6 : Activité BONUS : Communication avec de la lumière.
 
 Dans le film Ponyo sur la falaise des studios Ghibli, Sosuke utilise une lampe pour communiquer avec son père Koichi, un marin en mission, passant devant sa maison. Ils utilisent le code Morse. 
 Créé dans les années 1840 par Samuel F.B. Morse, le code Morse est un mode de communication qui remplace les lettres de l’alphabet par des points et des tirets, sonores ou lumineux. Les marins peuvent s’en servir pour communiquer à distance d’un navire à un autre ou d’un navire à la terre. Le message en morse peut être transmis au moyen de faisceaux lumineux ou d’un télégraphe, ou d’un émetteur radio.
@@ -127,16 +135,3 @@ Créé dans les années 1840 par Samuel F.B. Morse, le code Morse est un mode de
 ![](pictures/codeMorse.png){:style="width:300px;"}
 
 [Activité Communiquer en morse](../morse)
-
-
-
-
-??? abstract "Bilan"
-
-    Le code Morse permet de transmettre un texte à l’aide d’impulsions courtes et longues par des signes, un son, un geste ou une lumière.
-
-    La lumière permet ici la transmission d’informations.    
-
-## Séance 6 : Exercices
-
-[Activité Exercices sur l'optique](../exercicesOptique)

@@ -10,6 +10,9 @@
 
 ## À savoir faire
 
+- Modéliser un phénomène astronomique
+- Tracer des rayons lumineux
+- Représenter une chaine énergétique
 
 
 ## Flashcards
