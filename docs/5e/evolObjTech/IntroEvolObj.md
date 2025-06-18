@@ -61,7 +61,9 @@
 
 
 
-<a markdown id="bilan3">!!! abstract "Bilan" </a>
+<a markdown id="bilan3">
+
+!!! abstract "Bilan"
     Le cycle de vie d’un objet est une succession de 5 étapes : 
 
     - l’extraction des matières premières, 
@@ -75,6 +77,8 @@
     Des solutions existent : comme le développement durable qui consiste à répondre aux besoins du présent sans compromettre la capacité des générations futures à répondre à leurs propres besoins. Il doit permettre le développement économique et social et le respect de l’environnement.
 
     ![](pictures/cycleVieObj.png)
+
+ </a>
 
 ## Séance 4 : Exercices
 
