@@ -1,7 +1,5 @@
 # Séquence : Évolution des objets techniques et cycle de vie
 
-[Section Title](#bilan3)
-
 !!! note-prof
     si besoin d'infos
 
@@ -20,7 +18,7 @@
 [Activité Les familles d'objets techniques](../famillesObj)
 
 
-
+<a id="bilan1"></a>
 
 ??? abstract "Bilan"
     Les objets techniques peuvent être regroupés dans des familles d’objets. 
@@ -36,7 +34,7 @@
 [Activité Évolution de la photographie](../evolPhoto)
 
 
-
+<a id="bilan2"></a>
 
 ??? abstract "Bilan"
     Une lignée d’objets montre dans un ordre chronologique, du plus ancien au plus récent, les objets d’une même famille qui fonctionnent sur le même principe technique.

@@ -46,6 +46,7 @@ Avec le sang et les cheveux, on aura accès à l'ADN. Cet ADN nous permettra de 
 [Activité Les caractères héréditaires](../caractHered)
 
 
+<a id="bilan1"></a>
 
 
 ??? abstract "Bilan"
@@ -75,6 +76,7 @@ Ils ont pu récuperer de l'ADN et voir cet ADN sous la forme de chromosomes. Ils
     
 [Activité Le caryotype](../caryotype)
 
+<a id="bilan2"></a>
 
 
 
@@ -125,6 +127,9 @@ L'information génétique présente sur les chromosomes permet de donner les car
 !!! question "Problématique"
     Comment une information, comme le groupe sanguin, est organisée dans les chromosomes ?    
 
+<a id="bilan3"></a>
+
+
 ??? abstract "Bilan"
     Un gène est une portion de chromosomes (donc d’ADN) située à un emplacement précis.
     Il porte une information génétique qui détermine un caractère héréditaire ou une partie d'un caractère. 
@@ -149,6 +154,8 @@ Un des parents indique que votre raisonnement est incorrect, si tous les humains
 
 [Activité Le groupe sanguin et les allèles](../grpSangAlleles)
 
+
+<a id="bilan4"></a>
 
 ??? abstract "Bilan"
     === "De quoi parler dans le bilan ? Quels mots clés ?"
@@ -217,6 +224,9 @@ Vous devez donc lui expliquer comment l'information génétique est transmise de
 
 [Activité Transmission des gènes](../transmissionGènes)
 
+<a id="bilan5"></a>
+
+
 ??? abstract "Bilan"
 
     Les spermatozoïdes et les ovules sont des gamètes (=cellules reproductrices).
@@ -247,6 +257,7 @@ Rédiger un texte accompagne d'un schéma à la mère d'Amina grâce auxquels vo
 [Activité Conservation de l'information génétique](../mitose)
 
 
+<a id="bilan6"></a>
 
 ??? abstract "Bilan"
     La division cellulaire permet la formation de nouvelles cellules qui vont permettre la formation d'un nouvel être vivant et le renouvellement de ses cellules.

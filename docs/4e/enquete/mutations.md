@@ -6,9 +6,9 @@
 
 !!! warning "Consignes"
 
-    1. Indiquer quelle est lma modigfivation de l'information génétique du coupable et en donner les conséquences.
+    1. Indiquer quelle est la modification de l'information génétique du coupable et en donner les conséquences.
     2. Donner la définition de mutation.
-    3. Expliquer es conséuqnces des mutations sur les caractères des individus
+    3. Expliquer es conséquences des mutations sur les caractères des individus
     4. En déduire le nom du coupable définitif.
     
 ??? bug "Critères de réussite"
@@ -28,7 +28,7 @@ L'analyse génétique du coupable montre qu'il possède une variation génétiqu
 
 Dans ce test, on veut repérer un morceau particulier du chromosome Y qui s'appelle le gène SRY. Ce morceau est hachuré sur l'image (SRY = sex-determining region of Y)
 
-![alt text](image-2.png)
+![](image-2.png)
 23e paire de chromosome d'un homme témoin à gauche et du coupable à droite
 
 **Document 3 Expérience de transgenèse montrant le rôle de SRY**
@@ -42,7 +42,7 @@ Les scientifiques ont transféré un gène du chromosome Y sur un chromosome X d
 
 Il arrive que l'ADN subisse des modifications naturelles qui affectent certains gènes. Ces modifications se produisent au hasard et sont appelées mutations. De nouveaux allèles sont ainsi créés. Certaines mutations peuvent être à l'origine de caractères héréditaires nouveaux.
 
-Lorsqu'une telle mutation a lieu dans une cellule reproductrice, et que celle-ci réalise la fécondation, le futur individu présentera un caractère nouveau, qu'il transmettra possiblement à son tour aux générations suivantes. 
+Lorsqu'une telle mutation a lieu dans une cellule reproductrice, et que celle-ci réalise la fécondation, le futur individu présentera un nouveau caractère, qu'il transmettra possiblement à son tour aux générations suivantes. 
 
 
 ![](pictures/devenirMutations.png)
