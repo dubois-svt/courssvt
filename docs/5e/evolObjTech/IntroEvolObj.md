@@ -61,9 +61,11 @@
 
 
 
-<a id="bilan3"></a>
 
-!!! abstract "Bilan"
+??? abstract "Bilan"
+
+    <a id="bilan3">
+
     Le cycle de vie d’un objet est une succession de 5 étapes : 
 
     - l’extraction des matières premières, 
@@ -71,10 +73,11 @@
     - la distribution (transport + stockage), 
     - l’utilisation et 
     - la fin de vie.
-    - 
+  
     Toutes les étapes du cycle de vie d’un objet ont des impacts environnementaux (sur la nature : épuisement des ressources, pollutions de l’air, des eaux et du sol...) et sociétaux négatifs (sur l’être humain : santé, conditions de travail...). 
 
     Des solutions existent : comme le développement durable qui consiste à répondre aux besoins du présent sans compromettre la capacité des générations futures à répondre à leurs propres besoins. Il doit permettre le développement économique et social et le respect de l’environnement.
+    </a>
 
     ![](pictures/cycleVieObj.png)
 
