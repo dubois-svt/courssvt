@@ -213,7 +213,7 @@ Sa mère étant A et son père AB, il explique qu'elle ne peut être que de grou
 Vous devez donc lui expliquer comment l'information génétique est transmise des parents aux enfants, pour lui montrer qu'elle peut être de groupe sanguin B.
 
 !!! question "Problématique"
-    Comment l'information génétique est-elle transmise des parents ou enfants ?
+    Comment l'information génétique est-elle transmise des parents aux enfants ?
 
 [Activité Transmission des gènes](../transmissionGènes)
 
