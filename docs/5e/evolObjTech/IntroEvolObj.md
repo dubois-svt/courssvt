@@ -61,7 +61,7 @@
 
 
 
-<a markdown id="bilan3">
+<a id="bilan3"></a>
 
 !!! abstract "Bilan"
     Le cycle de vie d’un objet est une succession de 5 étapes : 
@@ -78,7 +78,7 @@
 
     ![](pictures/cycleVieObj.png)
 
- </a>
+
 
 ## Séance 4 : Exercices
 
