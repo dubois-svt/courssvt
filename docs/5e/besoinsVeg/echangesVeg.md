@@ -27,7 +27,7 @@ L'astronaute Mark Watney cultive des pommes de terre pour survivre sur Mars. Tr�
 Le site [THYP](https://thyp.netlify.app/) permet de simuler différentes expériences.
 
 <div markdown style="display:flex; flex-direction:row;">
-<div markdown style="display:flex; flex:2 1 0;">
+<div markdown style="display:flex; flex:3 1 0;">
 Pour travailler sur les plantes plantes et parexemple analyser la sève des plantes, on trouve un jeune plant de tomate. 
 </div>
 <div markdown style="display:flex; flex:1 1 0;">
@@ -37,7 +37,7 @@ Pour travailler sur les plantes plantes et parexemple analyser la sève des plan
 </div>
 
 <div markdown style="display:flex; flex-direction:row;">
-<div markdown style="display:flex; flex:2 1 0;">
+<div markdown style="display:flex; flex:3 1 0;">
 Pour travailler sur les gaz échangés par lesêtres vivants, on trouve une enceinte dans laquelle on peut mettre différents êtres vivants et différentes sondes de mesures. 
 </div>
 <div markdown style="display:flex; flex:1 1 0;">
@@ -52,17 +52,17 @@ Pour travailler sur les gaz échangés par lesêtres vivants, on trouve une ence
 
 **Document 3 Sécurité incendie**
 
-Lors d'un incendie, il est conseillé de fermer les portes et les fenêtres si on a le temps, pour éviter l'entrée de dioxygène qui est un comburant.
- Un comburant permet la combustion des objets. Une combustion vive forme une flamme ou une explosion.
+
 
 <div markdown style="display:flex; flex-direction:row;">
 <div markdown style="display:flex; flex:1 1 0;">
 
-![](pictures/symboleComburant.png)fenêtres
+![Symbole d'un comburant](pictures/symboleComburant.png){: style="width:50px; flex-shrink: 0;  " }
 </div>
 <div markdown style="display:flex; flex:3 1 0;">
 
-Le dioxygène est un gaz pouvant provoquer des explosions ou incendies en présence d'un combustible.
+Lors d'un incendie, il est conseillé de fermer les portes et les fenêtres si on a le temps, pour éviter l'entrée de dioxygène qui est un comburant.
+ Un comburant permet la combustion des objets. Une combustion vive forme une flamme ou une explosion.
 </div>
 
 
