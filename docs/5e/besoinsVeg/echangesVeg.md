@@ -27,7 +27,7 @@ Le site [THYP](https://thyp.netlify.app/) permet de simuler différentes expéri
 
 <div markdown style="display:flex; flex-direction:row;">
 <div markdown style="display:flex; flex:3 1 0;">
-Pour travailler sur les plantes plantes et parexemple analyser la sève des plantes, on trouve un jeune plant de tomate. 
+Pour travailler sur les plantes plantes et par exemple analyser la sève des plantes, on trouve un jeune plant de tomate. 
 </div>
 <div markdown style="display:flex; flex:1 1 0;">
 ![](pictures/plantThyp.png){: style="width:50px; flex-shrink: 0;  " }
@@ -37,7 +37,7 @@ Pour travailler sur les plantes plantes et parexemple analyser la sève des plan
 
 <div markdown style="display:flex; flex-direction:row;">
 <div markdown style="display:flex; flex:3 1 0;">
-Pour travailler sur les gaz échangés par lesêtres vivants, on trouve une enceinte dans laquelle on peut mettre différents êtres vivants et différentes sondes de mesures. 
+Pour travailler sur les gaz échangés par les êtres vivants, on trouve une enceinte dans laquelle on peut mettre différents êtres vivants et différentes sondes de mesures. 
 </div>
 <div markdown style="display:flex; flex:1 1 0;">
 ![](pictures/biolabThyp.png){: style="width:50px; flex-shrink: 0;  " }
