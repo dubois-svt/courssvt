@@ -5,20 +5,14 @@
     Extraire et mettre en relation 
 
 !!! warning "Consignes"
-    1. A l'aide du site [THYP](https://thyp.netlify.app/), identifier les gaz échangées par les plantes à la lumière.
-    2. A l'aide du site [THYP](https://thyp.netlify.app/), identifier les gaz échangées par les plantes à l'obscurité.
-    3. En comparant les sèves produites par la plantes à la lumière et à l'obscurité, indiquer ce que fabrique une plante à la lumière.
+    1. À l'aide du site [THYP](https://thyp.netlify.app/), identifier les gaz échangés par les plantes à la lumière.
+    2. À l'aide du site [THYP](https://thyp.netlify.app/), identifier les gaz échangés par les plantes à l'obscurité.
+    3. En comparant les sèves produites par la plante à la lumière et à l'obscurité, indiquer ce que fabrique une plante à la lumière.
     4. Expliquez l'origine de l'explosion de la serre de Mark.
     
 
 ??? bug "Critères de réussite"
-    - identifier les gaz échangés par les feuilles à la lumière
-    - identifier les gaz échangés par les feuilles à l'obscurité
-    - identifier les gaz échangés par les autres organes
-    - indiquer la caractéristique du dioxygène
-    - que fabrique une plante à la lumière 
-    - Indiquer comment sont absorbés les gaz
-    - Indiquer comment est absorbée l'eau
+au
 
 
 
@@ -56,21 +50,15 @@ Pour travailler sur les gaz échangés par lesêtres vivants, on trouve une ence
 
 
 
+**Document 3 Sécurité incendie**
 
-
-
-
-
-
-**Document 4 Sécurité incendie**
-
-Lors d'un oincendie, il est conseillé de fermer les portes et les fenpetres si on a le temps, pour éviter l'entrée de dioxygène qui est un comburant.
+Lors d'un incendie, il est conseillé de fermer les portes et les fenêtres si on a le temps, pour éviter l'entrée de dioxygène qui est un comburant.
  Un comburant permet la combustion des objets. Une combustion vive forme une flamme ou une explosion.
 
 <div markdown style="display:flex; flex-direction:row;">
 <div markdown style="display:flex; flex:1 1 0;">
 
-![](pictures/symboleComburant.png)
+![](pictures/symboleComburant.png)fenêtres
 </div>
 <div markdown style="display:flex; flex:3 1 0;">
 
@@ -81,12 +69,6 @@ Le dioxygène est un gaz pouvant provoquer des explosions ou incendies en prése
 </div>
 
 
-**Document 6 Qu'est-ce que la photosynthèse ?**
+**Document 4 Qu'est-ce que la photosynthèse ?**
 
-Contrairement aux animaux qui se nourrissent directement de matière organique, les végétaux ne prélèvent que de la matière minérale pour vivre. Une transformation se déroule au niveau des feuilles : c'est la photosynthèse. L'eau puisée dans le sol et le dioxyde de carbone de l'atmosphère sont transformés sous l'action de la lumière et forment des sucres (matière organique). Cette réaction produit un déchet que les plantes évacuent dans l'atmosphère : le dioxygène.
-
-
-**Document 7 Vocabulaire**
-
-- L'amidon : matière organique de la catégorie des glucides. 
-- La photosynthèse : fabrication de matière organique par une feuille verte éclairée.
+Contrairement aux animaux qui se nourrissent directement de matière organique, les végétaux ne prélèvent que de la matière minérale pour vivre. Une transformation se déroule au niveau des feuilles : c'est la photosynthèse. L'eau puisée dans le sol et le dioxyde de carbone de l'atmosphère sont transformés sous l'action de la lumière et forment des sucres (matière organique). Cette transformation produit un déchet que les plantes évacuent dans l'atmosphère : le dioxygène.
