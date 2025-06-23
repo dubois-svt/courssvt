@@ -97,10 +97,12 @@ table, th, td {
   body {
     font-family: Luciole, sans-serif !important;
 
+
   }
+
   @page {
     size: a4 portrait;
-    margin: 10mm 10mm 25mm 10mm;
+    margin: 5mm 5mm 5mm 5mm;
     counter-increment: page;
     font-family: Luciole, sans-serif !important;
     /**         font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -129,7 +131,7 @@ table, th, td {
     font-size:medium;
     font-weight: bold;
   }
-  
+
   
   table,
   table tr td,
