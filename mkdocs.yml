@@ -226,94 +226,80 @@ nav :
       #- Séquence Écosystème : 
       #- Séquence Place des êtres vivants dans les chaînes alimentaires :
       #- Séquence Conséquences des actions humaines sur l’environnement :
-          
-  - 5e :
+
+
+  - 5e Technologie :
       - Séquence La programmation :
-          - Introduction : 5e/programmation/IntroProg.md
-          - Initiation à la programmation : 5e/programmation/initProg.md
-          - Drone pour l'agriculture :  5e/programmation/etudesObjets1.md
-          - Robot aspirateur : 5e/programmation/etudesObjets2.md
-          - Programmation d'un robot : 5e/programmation/progmBot.md
-          - Exercices sur la programmation : 5e/programmation/exosProg.md
-          - Fiche de révision : 5e/programmation/FicheProg.md
-      - Séquence mécanique :
-          - Introduction : 5e/mouvements/IntroMeca.md
-          - Trajectoire et mouvement : 5e/mouvements/trajectoire.md
-          - Vitesse et mouvement :  5e/mouvements/vitesse.md
-          - Référentiel :  5e/mouvements/referentiel.md
-          - Exercices sur la mécanique: 5e/mouvements/exercices.md
-          - Fiche de révision : 5e/mouvements/FicheMeca.md
-      - Séquence Les besoins de nos organes :
-          - Introduction : 5e/besoinsOrganes/IntroOrganes.md
-          - Notre corps lors d'un effort : 5e/besoinsOrganes/effortsPhysiques.md
-          - Echanges Gazeux : 5e/besoinsOrganes/echangesGazAni.md
-          - Système circulatoire des animaux : 5e/besoinsOrganes/systCircu.md
-          - Besoins des cellules : 5e/besoinsOrganes/nutriCellAni.md
-          - Exercices : 5e/besoinsOrganes/exercices.md
-          - Fiche de révision : 5e/besoinsOrganes/Fiche.md
+          - Introduction : 5eTechno/programmation/IntroProg.md
+          - Initiation à la programmation : 5eTechno/programmation/initProg.md
+          - Drone pour l'agriculture :  5eTechno/programmation/etudesObjets1.md
+          - Robot aspirateur : 5eTechno/programmation/etudesObjets2.md
+          - Programmation d'un robot : 5eTechno/programmation/progmBot.md
+          - Exercices sur la programmation : 5eTechno/programmation/exosProg.md
+          - Fiche de révision : 5eTechno/programmation/FicheProg.md
       - Séquence Construire une école :
-          - Introduction : 5e/constructionEcole/Intro_Construire_Ecole.md
-          - Cahier des charges d'une salle de classe: 5e/constructionEcole/cahierCharges.md
-          - Modélisation 3D d'une salle de classe : 5e/constructionEcole/Modelisation.md
-          - Exercice : 5e/constructionEcole/exoConstructionEcole.md
-          - Fiche de révision : 5e/constructionEcole/FicheConstruction.md
-      - Séquence Électricité :
-          - Introduction : 5e/electricite/IntroElectricite.md
-          - Modélisation d'une lampe de poche : 5e/electricite/modelisationLampe.md
-          - Intensité du courant électrique :  5e/electricite/intensiteCourant.md
-          - Circuit électrique d’une salle de classe : 5e/electricite/installElectrique.md
-          - Exercices : 5e/electricite/exercicesElectricite.md
-          - Fiche de révision : 5e/electricite/FicheElectricite.md
-      - Séquence Le risque sismique : 
-          - Introduction : 5e/seismes/IntroSeismes.md
-          - Séismes : 5e/seismes/seismes.md
-          - Modélisation d'un séisme :  5e/seismes/modelRuptureRoches.md
-          - Propagation des ondes sismiques : 5e/seismes/propagOndes.md
-          - Gestion du risque sismique : 5e/seismes/risquesSismiques.md
-          - Exercices : 5e/seismes/exoSeismes.md
-          - Fiche de révision : 5e/seismes/FicheSeismes.md
-      - Séquence Le système digestif :
-          - Introduction : 5e/systDigestif/IntroDigestion.md
-          - Etude de la digestion : 5e/systDigestif/etudeDigestion.md
-          - Digestion chimique des aliments :  5e/systDigestif/digestionChimique.md
-          - Absorption intestinale :  5e/systDigestif/absorptionIntestinale.md
-          - Maladies et nutrition : 5e/systDigestif/actionContreFaim.md
-          - Exercices sur la digestion : 5e/systDigestif/exercicesDigestion.md
-          - Fiche de révision : 5e/systDigestif/Fiche.md
-      - Séquence Optique :
-        - Introduction : 5e/lumiere/IntroLumiere.md
-        - Sources de lumière : 5e/lumiere/sourcesLumineuses.md
-        - Propagation de la lumière : 5e/lumiere/propagLumiere.md
-        - Eclipse : 5e/lumiere/eclipse.md
-
-       
-        - Conversion d’énergie et unité : 5e/lumiere/chaineEnergetique.md
-        - Exercices : 5e/lumiere/exercicesOptique.md
-        - Fiche de révision : 5e/lumiere/Fiche.md
-        - Bonus Communiquer en morse : 5e/lumiere/morse.md
-        
-      - Séquence le risque volcanique :
-          - Introduction : 5e/volcans/IntroVolcans.md
-          - Volcans : 5e/volcans/volcans.md
-          - Modélisation d'une éruption :  5e/volcans/eruption.md
-          - Gestion du risque volcanique : 5e/volcans/risquesVolcans.md
-          - Fiche de révision : 5e/volcans/FicheVolcans.md
-
+          - Introduction : 5eTechno/constructionEcole/Intro_Construire_Ecole.md
+          - Cahier des charges d'une salle de classe: 5eTechno/constructionEcole/cahierCharges.md
+          - Modélisation 3D d'une salle de classe : 5eTechno/constructionEcole/Modelisation.md
+          - Exercice : 5eTechno/constructionEcole/exoConstructionEcole.md
+          - Fiche de révision : 5eTechno/constructionEcole/FicheConstruction.md
       - Séquence Evolution des objets techniques et cycle de vie :
-        - Introduction : 5e/evolObjTech/IntroEvolObj.md
-        - Familles d'objets : 5e/evolObjTech/famillesObj.md
-        - Evolution de la photographie : 5e/evolObjTech/evolPhoto.md
-        - Cycle de vie des objets : 5e/evolObjTech/cycleVieObj.md
-        - Exercices : 5e/evolObjTech/exercicesObjetsTech.md
-        - Fiche de révision : 5e/evolObjTech/Fiche.md
+        - Introduction : 5eTechno/evolObjTech/IntroEvolObj.md
+        - Familles d'objets : 5eTechno/evolObjTech/famillesObj.md
+        - Evolution de la photographie : 5eTechno/evolObjTech/evolPhoto.md
+        - Cycle de vie des objets : 5eTechno/evolObjTech/cycleVieObj.md
+        - Exercices : 5eTechno/evolObjTech/exercicesObjetsTech.md
+        - Fiche de révision : 5eTechno/evolObjTech/Fiche.md
 
+  - 5e SVT :
+
+      - Séquence Les besoins de nos organes :
+          - Introduction : 5eSVT/besoinsOrganes/IntroOrganes.md
+          - Notre corps lors d'un effort : 5eSVT/besoinsOrganes/effortsPhysiques.md
+          - Echanges Gazeux : 5eSVT/besoinsOrganes/echangesGazAni.md
+          - Système circulatoire des animaux : 5eSVT/besoinsOrganes/systCircu.md
+          - Besoins des cellules : 5eSVT/besoinsOrganes/nutriCellAni.md
+          - Exercices : 5eSVT/besoinsOrganes/exercices.md
+          - Fiche de révision : 5eSVT/besoinsOrganes/Fiche.md
+
+
+      - Séquence Le risque sismique : 
+          - Introduction : 5eSVT/seismes/IntroSeismes.md
+          - Séismes : 5eSVT/seismes/seismes.md
+          - Modélisation d'un séisme :  5eSVT/seismes/modelRuptureRoches.md
+          - Propagation des ondes sismiques : 5eSVT/seismes/propagOndes.md
+          - Gestion du risque sismique : 5eSVT/seismes/risquesSismiques.md
+          - Exercices : 5eSVT/seismes/exoSeismes.md
+          - Fiche de révision : 5eSVT/seismes/FicheSeismes.md
+      - Séquence Le système digestif :
+          - Introduction : 5eSVT/systDigestif/IntroDigestion.md
+          - Etude de la digestion : 5eSVT/systDigestif/etudeDigestion.md
+          - Digestion chimique des aliments :  5eSVT/systDigestif/digestionChimique.md
+          - Absorption intestinale :  5eSVT/systDigestif/absorptionIntestinale.md
+          - Maladies et nutrition : 5eSVT/systDigestif/actionContreFaim.md
+          - Microbiote :  5eSVT/systDigestif/microbiote.md
+          - Exercices sur la digestion : 5eSVT/systDigestif/exercicesDigestion.md
+          - Fiche de révision : 5eSVT/systDigestif/Fiche.md
+      - Séquence le risque volcanique :
+          - Introduction : 5eSVT/volcans/IntroVolcans.md
+          - Volcans : 5eSVT/volcans/volcans.md
+          - Modélisation d'une éruption :  5eSVT/volcans/eruption.md
+          - Gestion du risque volcanique : 5eSVT/volcans/risquesVolcans.md
+          - Fiche de révision : 5eSVT/volcans/FicheVolcans.md
       - Séquence La nutrition des végétaux :
-        - Introduction : 5e/besoinsVeg/IntroVeg.md
-        - Une agriculture explosive : 5e/besoinsVeg/echangesVeg.md
-        - L’approvisionnement des organes des végétaux : 5e/besoinsVeg/approVeg.md
-        - Fiche de révision : 5e/besoinsVeg/Fiche.md
+        - Introduction : 5eSVT/besoinsVeg/IntroVeg.md
+        - Une agriculture explosive : 5eSVT/besoinsVeg/echangesVeg.md
+        - L’approvisionnement des organes des végétaux : 5eSVT/besoinsVeg/approVeg.md
+        - Fiche de révision : 5eSVT/besoinsVeg/Fiche.md
 
-      #- Séquence Techno 4 :
+      - Séquence biodiversité :
+        - Introduction : 5eSVT/biodiv/IntroBiodiv.md
+        - Echelles de biodiversité : 5eSVT/biodiv/IntroBiodiv.md
+        - Relations intersécifiques : 5eSVT/biodiv/IntroBiodiv.md
+        - activités humaines et modifications de l'environnement (foret) : 5eSVT/biodiv/IntroBiodiv.md
+        - activités humaines et modifications de l'environnement (plastique) : 5eSVT/biodiv/IntroBiodiv.md
+        - Fiche de révision : 5eSVT/biodiv/Fiche.md
+
       #- Séquence Masse et volume:
       #- Séquence Biodiversité et activités humaines : 
 
@@ -478,6 +464,34 @@ nav :
           - Exercices : 3e/mecaEvol/exercices.md
 
           - Fiche Révision : 3e/mecaEvol/Fiche.md
+
+
+  - 5e Sciences Physiques :   
+
+      - Séquence mécanique :
+          - Introduction : 5ePhys/mouvements/IntroMeca.md
+          - Trajectoire et mouvement : 5ePhys/mouvements/trajectoire.md
+          - Vitesse et mouvement :  5ePhys/mouvements/vitesse.md
+          - Référentiel :  5ePhys/mouvements/referentiel.md
+          - Exercices sur la mécanique: 5ePhys/mouvements/exercices.md
+          - Fiche de révision : 5ePhys/mouvements/FicheMeca.md
+      - Séquence Électricité :
+          - Introduction : 5ePhys/electricite/IntroElectricite.md
+          - Modélisation d'une lampe de poche : 5ePhys/electricite/modelisationLampe.md
+          - Intensité du courant électrique :  5ePhys/electricite/intensiteCourant.md
+          - Circuit électrique d’une salle de classe : 5ePhys/electricite/installElectrique.md
+          - Exercices : 5ePhys/electricite/exercicesElectricite.md
+          - Fiche de révision : 5ePhys/electricite/FicheElectricite.md
+      - Séquence Optique :
+        - Introduction : 5ePhys/lumiere/IntroLumiere.md
+        - Sources de lumière : 5ePhys/lumiere/sourcesLumineuses.md
+        - Propagation de la lumière : 5ePhys/lumiere/propagLumiere.md
+        - Eclipse : 5ePhys/lumiere/eclipse.md
+        - Conversion d’énergie et unité : 5ePhys/lumiere/chaineEnergetique.md
+        - Exercices : 5ePhys/lumiere/exercicesOptique.md
+        - Fiche de révision : 5ePhys/lumiere/Fiche.md
+        - Bonus Communiquer en morse : 5ePhys/lumiere/morse.md
+
 
   - Fiches Méthodes : Communs/chatbotmethodes.md
   - chatbot : https://chatbotmethodes-3858eb.forge.apps.education.fr/chatbotmethodes.md
