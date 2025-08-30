@@ -41,6 +41,8 @@
 ## Séance 2 : Les familles d’objets 
 
 !!! question "Problématique"
+
+    Cours de 
     Qu'est-ce qu'une famille d'objets ?
 
 [Activité Les familles d'objets techniques](../famillesObj)

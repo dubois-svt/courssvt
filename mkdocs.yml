@@ -229,7 +229,7 @@ nav :
 
 
   - 5e Technologie :
-      - Séquence Evolution des objets techniques et cycle de vie :
+      - Séquence Les objets et les systèmes technologiques :
         - Introduction : 5eTechno/OST/IntroOST.md
         - Fonctions des OST : 5eTechno/OST/fonctions.md
         - Familles d'objets : 5eTechno/OST/famillesObj.md
@@ -449,12 +449,10 @@ nav :
           - Mécanismes évolutifs : 3e/mecaEvol/mecaEvol.md
           - Théorie de l'évolution: 3e/mecaEvol/theorieEvol.md
           - Exercices : 3e/mecaEvol/exercices.md
-
           - Fiche Révision : 3e/mecaEvol/Fiche.md
 
 
-  - 5e Sciences Physiques :   
-
+  - 5e Sciences Physiques :
       - Séquence mécanique :
           - Introduction : 5ePhys/mouvements/IntroMeca.md
           - Trajectoire et mouvement : 5ePhys/mouvements/trajectoire.md
@@ -512,6 +510,7 @@ nav :
   - Fiches Méthodes : Communs/chatbotmethodes.md
   - chatbot : https://chatbotmethodes-3858eb.forge.apps.education.fr/chatbotmethodes.md
   - about.md
+  - Communs/bookmarks.md
 
 plugins:
     - search
