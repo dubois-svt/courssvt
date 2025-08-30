@@ -9,9 +9,7 @@
 
     1. Peut-on dire qu'Aristote était un photographe ? Justifier. 
     2. Parmi les personnages cités, qui est l’inventeur de la photographie ? Justifier. 
-    3. Quelle invention a permis la photographie papier ? 
-    4. Comparer l’aspect de l’appareil de Nicéphore Nièpce (1827) au MAVICA (1981). Quels sont les innovations de l'appareil de Sony? 
-    5. Représenter sans soucis d’échelle, une lignée d’objet regroupant 4 appareils photo.
+    3. Représenter sans soucis d’échelle, une lignée d’objet regroupant 4 appareils photo.
     
 ??? bug "Critères de réussite"
     - 
@@ -21,16 +19,6 @@
 **Document 1 Définitions.**
 
 - Une lignée d’objets est une suite chronologique d’objets techniques répondant à un même besoin et mettant en œuvre (ou en évidence) le même principe technique (ou principe de fonctionnement).
-- L’invention est une création comme un nouvel objet, un nouveau procédé ou un nouveau système d'exploitation. L'invention fait suite à tout un processus de recherche, de travail et la fabrication de prototypes. 
-- L’innovation est l'amélioration d'une invention existante à laquelle on apporte un progrès technique ou technologique.
-
-Les découvertes, les inventions et les innovations permettent les évolutions technologiques. Elles marquent de nettes améliorations dans de nombreux domaines, on appelle cela des ruptures technologiques. 
-
-
-
-
-
-
 
 
 **Document 2 La photographie.**
@@ -59,7 +47,27 @@ L’invention du premier appareil photographique repose sur des principes optiqu
 <div markdown style="display:flex; flex: 2 1 0; flex-direction:row">
 
 
-Dans l’un de ses ouvrages le philosophe grec Aristote (384-322 av. J-C) décrit le principe de la chambre noire et du sténopé. Cela consiste à faire passer de la lumière dans une pièce obscure par un petit trou. L’image extérieure est projetée de manière inversée sur le mur opposé. Aristote se sert de la chambre noire pour observer une éclipse solaire.
+Dans l’un de ses ouvrages le philosophe grec Aristote (384-322 av. J-C) décrit le principe de la chambre noire et du sténopé. Cela consiste à faire passer de la lumière dans une pièce obscure par un petit trou. L’image extérieure est projetée de manière inversée sur le mur opposé. Aristote se sert de la chambre noire pour observer en direct une éclipse solaire. (On ne doit pas observer directement l'éclipse sans système de protection ou de projection, la lumière pourrait brûler la rétine)
+
+</div>
+
+</div>
+
+- 1000 : Le sténopé - Alhazen.
+
+<div markdown style="display:flex; flex-direction:row">
+
+
+
+<div markdown style="display:flex; flex: 1 1 0; flex-direction:row">
+
+![](pictures/cameraOsbcura.png)
+
+</div>
+
+<div markdown style="display:flex; flex: 2 1 0; flex-direction:row">
+
+Alhazem invente le premier sténopé. Il décrit les principes physiques qui permettent la projection de l'image.
 
 </div>
 
@@ -74,15 +82,16 @@ Dans l’un de ses ouvrages le philosophe grec Aristote (384-322 av. J-C) décri
 
 <div markdown style="display:flex; flex: 1 1 0; flex-direction:row">
 
-![](pictures/cameraOsbcura.png)
+
+![](pictures/cameraObscuraVinci.png)
 
 </div>
 
 <div markdown style="display:flex; flex: 2 1 0; flex-direction:row">
 
 
-Le célèbre inventeur italien Léonard de Vinci reprend les travaux de ses prédécesseurs en créant une boîte noire appelée “camera obscura” en latin. Léonard de Vinci suggère que cette invention pourrait aider les artistes à reproduire des paysages.
-
+Le célèbre inventeur italien Léonard de Vinci reprend les travaux de ses prédécesseurs en fabriquant une boîte noire appelée “camera obscura” en latin. Léonard de Vinci suggère que cette invention pourrait aider les artistes à reproduire des paysages. 
+Il est le premier à comparer ce mécanisme optique à la vision humaine.
 </div>
 
 </div>
@@ -188,6 +197,26 @@ Après les innovations de Kodak, l’appareil photographique se démocratise pro
 <div markdown style="display:flex; flex: 2 1 0; flex-direction:row">
 
 L’ingénieur Oskar Barnack construit pour l’entreprise allemande Leitz, un appareil photographique léger et robuste : le Leica I. Cet appareil utilise un nouveau format de film 35 mm plutôt utilisé pour le cinéma, mais le principe technique utilisé reste le même. Sa petite taille et sa qualité lui offrent un très grand succès auprès des journalistes reporters. 
+
+</div>
+
+</div>
+
+- 1990 : Les appareils jetables
+
+<div markdown style="display:flex; flex-direction:row">
+
+<div markdown style="display:flex; flex: 1 1 0; flex-direction:row">
+
+![](pictures/kodakJetable.jpg){: style="width:300px"}
+
+
+</div>
+
+<div markdown style="display:flex; flex: 2 1 0; flex-direction:row">
+
+Au cours du 20ᵉ siècle, les appareils photos grand public voient leur taille diminuer.
+Dans les années 90, des appareils jetables très simples sont commercialisées. Après avoir pris les photos, l'appareil doit être donné à un laboratoire photo va développer les photos. L'appareil est lui jeté. D'un point de vue écologique ces appareils sont assez polluants.
 
 </div>
 
