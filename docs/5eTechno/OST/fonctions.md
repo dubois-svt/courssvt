@@ -20,20 +20,23 @@
 **Document 1 Définitions.**
 
 - Fonction d'usage : Fonction principale de l'objet, on l'exprime généralement par un verbe à l'infinitif.
+- Principe technique : Principe général expliquant le fonctionnement d'un objet, il repose sur des connaissances scientifiques et technologiques.
 - Fonction technique : rôle d'un ou plusieurs composants de l'objet permettant d'assurer la fonction d'usage, on l'exprime habituellement par un verbe à l'infinitif.
-- Principe technique : Principe général qui régit le fonctionnement d'un objet, il repose sur des lois, règles et connaissances scientifiques et technologique
+- Solution technique : Composants de l'objet permettant d'assurer une fonction technique.
 
 **Document 2 Tableau récapitulatif**
 <table><thead>
   <tr>
     <th>Objet technique</th>
     <th>Fonction d'usage</th>
+    <th>Principe technique</th>
     <th>Fonctions techniques</th>
-    <th>Principes techniques</th>
+    <th>Solutions techniques</th>
   </tr></thead>
 <tbody>
   <tr>
     <td rowspan="3">Vélo à freins à patins</td>
+    <td rowspan="3"></td>
     <td rowspan="3"></td>
     <td>avancer</td>
     <td></td>
@@ -49,6 +52,7 @@
   <tr>
     <td rowspan="3">Vélo électrique à freins à disques</td>
     <td rowspan="3"></td>
+    <td rowspan="3"></td>
     <td>avancer</td>
     <td></td>
   </tr>
@@ -61,15 +65,17 @@
     <td></td>
   </tr>
   <tr>
-    <td>stylo à bille</td>
+    <td>Portemine</td>
     <td></td>
-    <td></td>
+    <td>dépot de graphite sur la feuille</td>
+    <td>Avoir une mine fine</td>
     <td></td>
   </tr>
   <tr>
-    <td>crayon à papier</td>
+    <td>Crayon à papier</td>
     <td></td>
-    <td></td>
+    <td>dépot de graphite sur la feuille</td>
+    <td>Avoir une mine fine</td>
     <td></td>
   </tr>
   <tr>
@@ -77,9 +83,11 @@
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>montre</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -102,7 +110,7 @@
 
 <div markdown style="display: flex; flex-direction:row" > 
 
-![stylo bille](pictures/styloBille.png){: style="width:300px"}
+![Portemine](pictures/portemine.png){: style="width:300px"}
 ![Crayon à papier](pictures/crayonPapier.png){: style="width:300px"}
 </div>
 
