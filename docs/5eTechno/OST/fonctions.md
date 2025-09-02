@@ -6,7 +6,7 @@
 
 !!! warning "Consignes"
 
-    1. Compléter le tableau du document 2, en présentant pour les différents objets la fonction d'usage, les fonctions techniques et les principes techniques associés
+    1. Compléter le document 3, en présentant, pour le Belem,  les différentes fonctions assurées.
     
 ??? bug "Critères de réussite"
     - 
@@ -16,107 +16,22 @@
 <div markdown style="page-break-after: always;">
 
 
+**Document 1 Le Belem**
+<div markdown style="display: flex; flex-direction:row" > 
 
-**Document 1 Définitions.**
+Le Belem (1896) est le dernier trois-mâts barque français à coque en acier, un des plus anciens trois-mâts en Europe en état de naviguer et le plus grand voilier français. Il a porté ce nom jusqu’en 1921, a changé de nom et s’appelle de nouveau Belem depuis 1979. Le Belem fait l’objet d’un classement au titre des monuments historiques depuis le 27 février 1984. 
+
+![](pictures/bateau.png)
+
+</div>
+
+**Document 2 Définitions.**
 
 - Fonction d'usage : Fonction principale de l'objet, on l'exprime généralement par un verbe à l'infinitif.
 - Principe technique : Principe général expliquant le fonctionnement d'un objet, il repose sur des connaissances scientifiques et technologiques.
 - Fonction technique : rôle d'un ou plusieurs composants de l'objet permettant d'assurer la fonction d'usage, on l'exprime habituellement par un verbe à l'infinitif.
 - Solution technique : Composants de l'objet permettant d'assurer une fonction technique.
 
-**Document 2 Tableau récapitulatif**
-<table><thead>
-  <tr>
-    <th>Objet technique</th>
-    <th>Fonction d'usage</th>
-    <th>Principe technique</th>
-    <th>Fonctions techniques</th>
-    <th>Solutions techniques</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td rowspan="3">Vélo à freins à patins</td>
-    <td rowspan="3"></td>
-    <td rowspan="3"></td>
-    <td>avancer</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>tourner</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>freiner</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td rowspan="3">Vélo électrique à freins à disques</td>
-    <td rowspan="3"></td>
-    <td rowspan="3"></td>
-    <td>avancer</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>tourner</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>freiner</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Portemine</td>
-    <td></td>
-    <td>dépot de graphite sur la feuille</td>
-    <td>Avoir une mine fine</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Crayon à papier</td>
-    <td></td>
-    <td>dépot de graphite sur la feuille</td>
-    <td>Avoir une mine fine</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>cadran solaire</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>montre</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</tbody>
-</table>
+**Document 3 Description des fonctions du Belem**
+![](pictures/focntionsBelem.png)
 
-</div>
-
-<div markdown style="page-break-after: always;">
-
-
-**Document 3 Différents objets techniques.**
-
-<div markdown style="display: flex; flex-direction:row" > 
-
-![Vélo avec des freins à patins](pictures/velo_patins.png){: style="width:300px"}
-![Vélo électrique avec des freins à disques](pictures/veloDisque.jpeg){: style="width:300px"}
-</div>
-
-<div markdown style="display: flex; flex-direction:row" > 
-
-![Portemine](pictures/portemine.png){: style="width:300px"}
-![Crayon à papier](pictures/crayonPapier.png){: style="width:300px"}
-</div>
-
-<div markdown style="display: flex; flex-direction:row" > 
-
-![cadran solaire](pictures/cadranSolaire.png){: style="width:300px"}
-![montre](pictures/montre.jpg){: style="width:300px"}
-</div>
-</div>
