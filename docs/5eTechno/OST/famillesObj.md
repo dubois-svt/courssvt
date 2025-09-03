@@ -11,10 +11,15 @@
     3. Proposer 2 OST qui appartiendraient aux familles d'OST identifiées précédemment.
     
 ??? bug "Critères de réussite"
-    - 
+    - Avoir compris ce qu'est une famille
+    - Avoir classer correctement les objets
 
+**Document 1 Définitions**
 
-**Document 1 Exemples d'objets techniques**
+- Fonction principale: Fonction de l'objet, on l'exprime généralement par un verbe à l'infinitif. On parle parfois de fonction d'usage.
+- Une famille d’objets regroupe les objets techniques qui remplissent la même fonction principale (on parle parfois de fonction d’usage).
+
+**Document 2 Exemples d'objets techniques**
 
 
 <div markdown style="display: flex; flex-direction:row" > 
@@ -49,8 +54,6 @@
 
 </div>
 
-**Document 2 Définitions**
 
-Une famille d’objets regroupe les objets techniques qui remplissent la même fonction principale (on parle parfois de fonction d’usage).
 
 

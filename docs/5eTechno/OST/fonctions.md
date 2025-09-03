@@ -27,7 +27,7 @@ Le Belem (1896) est le dernier trois-mâts barque français à coque en acier, u
 
 **Document 2 Définitions.**
 
-- Fonction d'usage : Fonction principale de l'objet, on l'exprime généralement par un verbe à l'infinitif.
+- Fonction principale: Fonction de l'objet, on l'exprime généralement par un verbe à l'infinitif. On parle parfois de fonction d'usage.
 - Principe technique : Principe général expliquant le fonctionnement d'un objet, il repose sur des connaissances scientifiques et technologiques.
 - Fonction technique : rôle d'un ou plusieurs composants de l'objet permettant d'assurer la fonction d'usage, on l'exprime habituellement par un verbe à l'infinitif.
 - Solution technique : Composants de l'objet permettant d'assurer une fonction technique.

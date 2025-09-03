@@ -54,15 +54,12 @@ Les océans se sont formés il y a 4,4 Ga. Pendant la majorité de l’histoire
 «Eh bien l’homme, il prend son temps… et les premiers hominidés ne datent que de 7 millions d’années… 
 Le titre de plus ancien hominidé est actuellement détenu par Sahelanthropus tchadensis, qui vivait dans ce qui est l’actuel Tchad.
 Toumaï : son surnom est bien trouvé, car il veut dire « Espoir de vie » dans un dialecte tchadien. Pour l’instant, une quinzaine d’espèces d’hominidés ont été décrites. Quant à Homo sapiens, c’est-à-dire vous et moi… ses premiers pas sur Terre ont dû avoir lieu il y a environ 300 000 ans. Depuis cette époque, des espèces d’hominidés ont disparu, comme Néandertal, Homo floresiensis, ou l’homme de Dénisova. Nous sommes maintenant sur Terre les seuls représentants de l’espèce humaine… » 
+
 </div>
+
 ![Crâne de Sahelanthropus tchandensis](Pictures/CraneSahelanthropustchandensis.jpg){: style="width:300px; float:left" }
+
 </div>
-
-
-<div markdown style="display: flex; flex-direction:row" > 
-
-<div markdown style="display: flex; flex-direction:column" > 
-
 
 
 **Document 5 Apparition et disparition des dinosaures**  
