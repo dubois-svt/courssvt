@@ -6,7 +6,7 @@
 
 !!! warning "Consignes"
 
-    1. Compléter les documents 1 et 2, expliquer ce que l'on peut observer pour la fréquence cardiaque pendant un effort et après un effort.
+    1. Compléter le document 2, expliquer ce que l'on peut observer pour la fréquence cardiaque pendant un effort et après un effort.
     2. A l'aide du document 3, expliquer comment varie la fréquence respiratoire lors d'un effort.
     3. A l'aide du document 3, expliquer comment varie le volume d'air utilisé lors d'un effort.
     4. A l'aide des document 4 et 5, expliquer comment varie le débit sanguin lors d'un effort.
@@ -51,6 +51,8 @@ Protocole expérimental pour l'étude de l'impact de l'activité physique sur la
 ![](pictures/pouls.png)
 </div>
 </div>
+
+**Document 2 Mesure des la fréquence cardiaque**
 
 | | Élève 1 | Élève 2 |
 |--|--|--|
