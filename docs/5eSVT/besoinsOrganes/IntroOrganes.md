@@ -76,6 +76,9 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
 
     === "Bilan"
 
+        <a markdown id="bilan2">
+
+
         La respiration est un échange gazeux avec le milieu.
         Les organismes prélèvent du dioxygène dans leur milieu (aérien ou aquatique) et rejettent du dioxyde de carbone.
 
@@ -83,6 +86,7 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
         La respiration est possible dans l'eau grâce à des branchies. Les animaux respirent dans l'air grâce à des poumons ou à des trachées.
         Les trachées amènent directement l'air jusqu'aux organes, tandis que les poumons et les branchies sont des surfaces d'échange des gaz entre l'extérieur et le sang.
 
+        </a>
 
 ## Séance 3 : L’approvisionnement des organes des animaux.
 
@@ -109,6 +113,9 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
         En se relâchant, le cœur se remplit de liquide. En se contractant, le cœur propulse le liquide dans les artères.
 
     === "Bilan"
+
+        <a markdown id="bilan3">
+
         Les nutriments, les déchets et les gaz (dioxygène et dioxyde de carbone) sont transportés dans un liquide appelé sang ou hémolymphe.
         Ce liquide circule dans un système circulatoire qui peut être fermé ou ouvert sur l'intérieur du corps de l'animal.
 
@@ -120,6 +127,8 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
 
         Le liquide circulant est mis en mouvement par un muscle creux : le cœur.
         En se relâchant, le cœur se remplit de liquide. En se contractant, le cœur propulse le liquide dans les artères.
+
+        </a>
 
     **Document 5 : Représentation schématique de la circulation sanguine**
     ![](pictures/schemaDoubleCirculation.png)
@@ -148,14 +157,14 @@ Les réserves glucidiques sont marquées en rose, les noyaux en noir. Les muscle
 ??? abstract "Bilan"
 
 
-    Lors de la respiration cellulaire, les cellules animales consomment du dioxygène et des
-    nutriments pour fonctionner et produire de l'énergie.
-    Ces éléments sont apportés aux cellules par le sang ou l'hémolymphe, qui arrive dans les
-    tissus par les capillaires sanguins.
-    Le fonctionnement de la cellule et la respiration cellulaire produisent des déchets comme le
-    dioxyde de carbone et l'urée. Ceux-ci sont rejetés dans le sang puis éliminés hors de
-    l'organisme par les échanges respiratoires et les reins.
+    <a markdown id="bilan4">
 
+    Lors de la respiration cellulaire, les cellules animales consomment du dioxygène et des nutriments pour fonctionner et produire de l'énergie.
+    Ces éléments sont apportés aux cellules par le sang ou l'hémolymphe, qui arrive dans les tissus par les capillaires sanguins.
+    Le fonctionnement de la cellule et la respiration cellulaire produisent des déchets comme le dioxyde de carbone et l'urée. Ceux-ci sont rejetés dans le sang puis éliminés hors de l'organisme par les échanges respiratoires et les reins.
+
+    </a>
+    
 ## Séance 5 : Exercices sur l'effort
 
 
