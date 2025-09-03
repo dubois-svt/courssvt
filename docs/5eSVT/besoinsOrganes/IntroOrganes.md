@@ -26,7 +26,9 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
 
 
 ??? abstract "Bilan"
-    === "De quoi parler dans le bilan ? Quels mots clés ?"
+
+    <a markdown id="bilan1">
+
 
     === "Bilan à trous"
         Lors d’un effort physique, les besoins des muscles en nutriments et en dioxygène ....................
@@ -40,7 +42,6 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
   
     === "Bilan"
 
-        <a markdown id="bilan1">
 
         Lors d’un effort physique, les besoins des muscles en nutriments et en dioxygène augmentent.
 
@@ -51,7 +52,7 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
         - La fréquence cardiaque augmente, afin de faire davantage circuler ce sang oxygéné dans le corps
         - Les modifications du débit sanguin permettent d’orienter davantage ce sang vers les muscles qui en ont besoin en plus grande quantité.
         
-        </a>
+    </a>
 
 ## Séance 2 : Les échanges gazeux des animaux.
 
