@@ -68,6 +68,8 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
 
 ??? abstract "Bilan"
 
+    <a markdown id="bilan2">
+
     === "Bilan à trous"
         La ................... est un échange gazeux avec le milieu.
         Les organismes prélèvent du ................... dans leur milieu (aérien ou aquatique) et rejettent du ....................
@@ -78,7 +80,7 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
 
     === "Bilan"
 
-        <a markdown id="bilan2">
+        
 
 
         La respiration est un échange gazeux avec le milieu.
@@ -88,7 +90,7 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
         La respiration est possible dans l'eau grâce à des branchies. Les animaux respirent dans l'air grâce à des poumons ou à des trachées.
         Les trachées amènent directement l'air jusqu'aux organes, tandis que les poumons et les branchies sont des surfaces d'échange des gaz entre l'extérieur et le sang.
 
-        </a>
+    </a>
 
 ## Séance 3 : L’approvisionnement des organes des animaux.
 
@@ -99,7 +101,8 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
 
 
 ??? abstract "Bilan"
-    === "De quoi parler dans le bilan ? Quels mots clés ?"
+
+    <a markdown id="bilan3">
 
     === "Bilan à trous"
         Les nutriments, les déchets et les gaz (dioxygène et dioxyde de carbone) sont transportés dans un liquide appelé ............... ou ...................
@@ -116,7 +119,6 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
 
     === "Bilan"
 
-        <a markdown id="bilan3">
 
         Les nutriments, les déchets et les gaz (dioxygène et dioxyde de carbone) sont transportés dans un liquide appelé sang ou hémolymphe.
         Ce liquide circule dans un système circulatoire qui peut être fermé ou ouvert sur l'intérieur du corps de l'animal.
@@ -130,7 +132,7 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
         Le liquide circulant est mis en mouvement par un muscle creux : le cœur.
         En se relâchant, le cœur se remplit de liquide. En se contractant, le cœur propulse le liquide dans les artères.
 
-        </a>
+    </a>
 
     **Document 5 : Représentation schématique de la circulation sanguine**
     ![](pictures/schemaDoubleCirculation.png)
