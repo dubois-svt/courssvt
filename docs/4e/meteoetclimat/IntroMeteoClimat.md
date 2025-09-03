@@ -22,7 +22,8 @@
 
 
 ??? abstract "Bilan"
-    === "De quoi parler dans le bilan ? Quels mots clés ?"
+
+    <a markdown id="bilan1">
 
     === "Bilan à trous"
 
@@ -65,6 +66,7 @@
     
         - On peut étudier le climat du  passé, du  présent et du futur
 
+    </a>
 
 <div style="page-break-after: always;"></div>
 
@@ -90,7 +92,8 @@ Pour étudier le climat actuel, il faut étudier la météo
 
 
 ??? abstract "Bilan"
-    === "De quoi parler dans le bilan ? Quels mots clés ?"
+    
+    <a markdown id="bilan2">
 
     === "Bilan à trous"
 
@@ -103,6 +106,8 @@ Pour étudier le climat actuel, il faut étudier la météo
         Pour décrire le temps qu’il fait à un instant donné, on peut utiliser des stations météorologiques. Ces instruments mesurent des paramètres météorologiques indispensables pour décrire le temps (température, pression, précipitation, direction, vitesse du vent…).
 
         Pour prévoir le temps qu’il fera dans les prochains jours, les météorologues utilisent des modèles de prévision numérique du temps. Ce sont des logiciels complexes qui simulent comment le temps va évoluer, à partir des données enregistrées.
+
+    </a>
 
 ??? abstract "Notes supplémentaires"
 
@@ -127,7 +132,8 @@ Pour étudier le climat actuel, il faut étudier la météo
 
 
 ??? abstract "Bilan"
-    === "De quoi parler dans le bilan ? Quels mots clés ?"
+    
+    <a markdown id="bilan3">
 
     === "Bilan à trous"
 
@@ -149,6 +155,8 @@ Pour étudier le climat actuel, il faut étudier la météo
         Tandis qu’aux pôles, l’angle entre les rayons solaires et le sol est plus faible, donc les rayons s’étalent sur une grande surface, il y a moins d’énergie, il fait donc plus froid. 
         
         L’énergie solaire est inégalement répartie à la surface du globe ce qui explique les différents climats.
+
+    </a>
 
 ??? note
     Un petit mot sur les saisons Différence d’énergie reçue au sol en France (43 ° N), en été et en hiver. Notez l’angle d’incidence en fonction de la saison.
