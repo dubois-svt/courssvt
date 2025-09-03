@@ -51,6 +51,7 @@
 
 **Document 2 Définitions**
 
-Une famille d’objets regroupe les objets techniques qui remplissent la même fonction principale (on parle parfois de fonction d’usage).
+- Fonction principale: Fonction de l'objet, on l'exprime généralement par un verbe à l'infinitif. On parle parfois de fonction d'usage.
+- Une famille d’objets regroupe les objets techniques qui remplissent la même fonction principale (on parle parfois de fonction d’usage).
 
 
