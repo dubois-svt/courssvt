@@ -14,6 +14,7 @@
 ## Séance 1 : Les modifications de l'organisme lors d’un effort
 
 Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100m en 10 sec. Après ces 10 secondes, les athlètes sont épuisés et s’allongent sur le sol.
+
 ![Final 100m Hommes JO 2024 (FranceTV))](pictures/fin100m.png)
 
 
@@ -26,7 +27,8 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
 
 
 ??? abstract "Bilan"
-    === "De quoi parler dans le bilan ? Quels mots clés ?"
+
+    <a markdown id="bilan1">
 
     === "Bilan à trous"
     
@@ -41,7 +43,7 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
   
     === "Bilan"
 
-        <a markdown id="bilan1">
+        
 
         Lors d’un effort physique, les besoins des muscles en nutriments et en dioxygène augmentent.
 
@@ -52,7 +54,7 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
         - La fréquence cardiaque augmente, afin de faire davantage circuler ce sang oxygéné dans le corps
         - Les modifications du débit sanguin permettent d’orienter davantage ce sang vers les muscles qui en ont besoin en plus grande quantité.
         
-        </a>
+    </a>
 
 ## Séance 2 : Les échanges gazeux des animaux.
 
@@ -65,7 +67,6 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
 
 
 ??? abstract "Bilan"
-    === "De quoi parler dans le bilan ? Quels mots clés ?"
 
     === "Bilan à trous"
         La ................... est un échange gazeux avec le milieu.
