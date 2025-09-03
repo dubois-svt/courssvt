@@ -11,7 +11,8 @@
     3. Proposer 2 OST qui appartiendraient aux familles d'OST identifiées précédemment.
     
 ??? bug "Critères de réussite"
-    - 
+    - Avoir compris ce qu'est une famille
+    - Avoir classer correctement les objets
 
 **Document 1 Définitions**
 
