@@ -70,7 +70,7 @@
 
 <div style="page-break-after: always;"></div>
 
-[Activité Une vague de froid](../exodiffmeteoclimat)
+
 
 
 ## Séance 2 : Les stations météos
@@ -164,3 +164,6 @@ Pour étudier le climat actuel, il faut étudier la météo
 
 <div style="page-break-after: always;"></div>
 
+## Séance 4 : Exercices
+
+[Activité Une vague de froid](../exodiffmeteoclimat)

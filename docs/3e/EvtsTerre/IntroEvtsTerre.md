@@ -45,7 +45,7 @@
 
         L’espèce humaine (Homo sapiens) est apparue très récemment il y a environ **300 000 ans**.
 
-        Définition fossile : Reste ou trace d’êtres vivants (animaux, végétaux, bactéries**…**) conservés dans la roche.
+        Définition fossile : Reste ou trace d’êtres vivants (animaux, végétaux, bactéries…) conservés dans la roche.
 
     </a>
 
@@ -63,7 +63,7 @@ Différence météo et climat
 <div markdown style="display: flex; flex-direction:column; margin-right:20px" > 
 
 **Document 1 : Carte du climat** **en France présentant les températures moyennes sur une période de 30 ans (1981 – 2010)**
-![Moyenne des températures annuelles mesurées entre 1981 et 2010 © MeteoNews](Pictures/carteClimat.png){:style="width:400px; "}
+![Moyenne des températures annuelles mesurées entre 1981 et 2010 © MeteoNews](Pictures/carteClimat.png){:style="width:400px;"}
 
 </div>
 
@@ -71,7 +71,7 @@ Différence météo et climat
 
 
 **Document 2 : Carte météo présentant le relevé de températures du jeudi 24 août 2023 à 23 h**
-![Températures mesurées par les stations météorologiques © Infoclimat](Pictures/carteMeteo.png){:style="width:400px;" }
+![Températures mesurées par les stations météorologiques © Infoclimat](Pictures/carteMeteo.png){:style="width:400px;"}
 
 </div>
 </div>

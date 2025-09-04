@@ -134,7 +134,7 @@ nav :
         - Révolution et rotation : 6e/MouvementTerre/RevolRotation.md
         - Vitesse de la Terre: 6e/MouvementTerre/Vitesse.md
         - Exercice vitesse de la Lune : 6e/MouvementTerre/VitesseExerciceLune.md
-        - Exercices vitesser : 6e/MouvementTerre/VitesseExercices.md
+        - Exercices vitesse : 6e/MouvementTerre/VitesseExercices.md
         - Fiche Révision : 6e/MouvementTerre/FicheMvtTerre.md
       - Séquence Rotation de la Terre:
         - Introduction: 6e/rotationTerre/IntroRotationTerre.md
@@ -294,9 +294,9 @@ nav :
       - Séquence Météo et climat :
             - Introduction : 4e/meteoetclimat/IntroMeteoClimat.md
             - Différence Météo/Climat : 4e/meteoetclimat/diffmeteoclimat.md
-            - Vague de froid: 4e/meteoetclimat/exodiffmeteoclimat.md
             - Utiliser une station météo : 4e/meteoetclimat/stationMeteo.md
             - Répartition des climats : 4e/meteoetclimat/repartClimats.md
+            - Exercices : 4e/meteoetclimat/exos.md
             - Fiche de révision : 4e/meteoetclimat/FicheMeteoClimat.md
       - Séquence dynamique masses d'air et d'eau:
             - Introduction : 4e/mouvAirEaux/IntroDynAirEau.md
