@@ -30,6 +30,7 @@ Les êtres humains ont besoin de : se nourrir, s’abriter, se vêtir, se laver
     Les objets techniques peuvent être regroupés dans des familles d’objets. 
     Une famille d'OST regroupe les objets qui ont la même fonction principale.
 
+    Un OST est un objet ou système technique.
 
     </a>
 
@@ -86,6 +87,14 @@ On cherche à comprendre l’évolution des voitures. Pour cela, on parlera de l
     Le contexte permet d’expliquer l’évolution des objets.
 
     </a>
+
+
+## Séance 4 : Choix d'un OST.
+
+On souhaite installer dans une salle de bain, un meuble pour machine à laver permettant d’avoir de l’espace de rangement supplémentaire. Dans notre recherche, nous nous sommes imposés des contraintes. L’OST doit s’installer aisément, résister à l’humidité de la salle de bain, avec des matériaux renouvelables et durables et dont le prix reste abordable.
+
+[Activité Exercices](../choixOST)
+
 
 ## Séance 5 : Exercices
 
