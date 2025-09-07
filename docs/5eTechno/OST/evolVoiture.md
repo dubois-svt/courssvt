@@ -68,4 +68,4 @@
 ![](pictures/fonctionMoteurElec.png)
 
 
-</div>s
+</div>
