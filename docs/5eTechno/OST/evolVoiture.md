@@ -2,8 +2,8 @@
 
 !!! note "Compétences"
 
-    extraire et mettre en relation
-    argumenter 
+    - extraire et mettre en relation
+    - argumenter 
 
 !!! warning "Consignes"
 
@@ -52,9 +52,16 @@
 </div>
 </div>
 
+
+<div markdown style="page-break-after: always;">
+
 **Document 2 3 lignées de voitures.**
 
 ![](pictures/ligneeVierge.png){:style="width:800px; "}
+
+</div>
+
+<div markdown style="page-break-after: always;">
 
 
 **Document 3 Principe de fonctionnement des différentes voitures**
@@ -67,5 +74,16 @@
 
 ![](pictures/fonctionMoteurElec.png)
 
+
+</div>
+
+</div>
+
+
+<div markdown style="page-break-after: always;">
+
+**Document 4 Définitions.**
+
+- Une lignée d’objets est une suite chronologique d’objets techniques répondant à un même besoin et mettant en œuvre (ou en évidence) le même principe technique (ou principe de fonctionnement).
 
 </div>

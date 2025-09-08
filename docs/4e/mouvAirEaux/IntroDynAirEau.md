@@ -75,6 +75,8 @@ https://classic.nullschool.net/fr/#2020/02/27/1500Z/wind/surface/level/overlay=m
     Quel est l’impact des courants océaniques sur les climats ?
 
 [Activité Impact sur le climat des dynamiques de masses d'air et d'eau](../courantsClimat)
+[Activité Impact sur le climat des dynamiques de masses d'air et d'eauV2](../courantsClimatV2)
+
 
 ??? abstract "Bilan"
     === "De quoi parler dans le bilan ? Quels mots clés ?"

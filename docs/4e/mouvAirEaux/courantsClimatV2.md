@@ -11,7 +11,7 @@
     - trouver des éléments expliquant le climat de Paris
     - trouver des éléments expliquant le climat de Montréal
 
-**Document 1 : L'oscillation Nord-Atlantique**
+**Document 1 L'oscillation Nord-Atlantique**
 
 La circulation atmosphérique au-dessus de l'Atlantique nord montre une alternance rapide de dépressions et d'anticyclones. Cependant, on remarque qu'en moyenne on retrouve des dépressions dans la région islandaise et un anticyclone autour des Açores (îles protaugaises). 
 L'indice de l'oscillation nord-atlantique est donc calculé chaque année à partir de la différence de pression entre Lisbonne (Portugal) et Reykjavik (Islande), en prenant la variation de l'écart de pression entre ces deux points par rapport à la moyenne. 
@@ -20,13 +20,11 @@ Un indice ONA très positif est relié à une circulation zonale (d'ouest en est
 
 Par contre, quand l'indice est négatif, la circulation d'ouest est plus faible ou plus au sud donnant des hivers froids et les dépressions se dirigent alors vers le bassin méditerranéen. Si l'indice est très négatif, les hivers sont particulièrement froids sur l'Europe du Nord et les précipitations sont déplacées vers la Mer Méditerranée et l'Afrique du Nord.
 
-Amérique
-
 L'influence sur l'Amérique du Nord est vérifiable. Dans la phase positive, sur le nord et l'est du Canada ainsi que sur le Groenland, les hivers sont plutôt froids et secs. Le long de la côte Est des États-Unis, ils sont plutôt doux et humides. En effet, un creux barométrique d'altitude se forme le long de la côte et les vents deviennent du sud-ouest, empêchent la descente d'air arctique le long de la côte.
 
 Par contre les hivers de phase négative, le flux zonal se retrouve plus au nord. Le Groenland voit des hivers plutôt doux et la côte Est du continent nord-américain subit plus d'épisodes froids et de chutes de neige, dont de nombreuses tempêtes du Cap Hatteras et continentales. Ainsi, l'hiver très neigeux connu en 2007-2008 sur la côte Est américaine, le Québec et les provinces de l'Atlantique, après plusieurs années très douces, est relié à un changement dans l'indice ONA de positif à négatif5. En effet, durant la phase négative les dépressions hivernales passent plus au sud que pendant la phase positive et la région n'entre pas dans le secteur chaud du système. Les précipitations restent donc surtout en neige5. 
 
-**Document 2 : deux régions du monde**
+**Document 2 Deux régions du monde**
 
 <table border="1">
   <thead>

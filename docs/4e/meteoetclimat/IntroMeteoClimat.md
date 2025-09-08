@@ -5,16 +5,16 @@
 
 
 
-    
-### Document d’appel :
-![](Pictures/photoInodation.png)
-![](Pictures/cyclone.png)
-![](Pictures/secheresse.png)
+
+![source : svtlyceedevienne.com](image.png)
+
 
 ## Séance 1 : Différence entre météo et climat
 
 !!! question "Problématique"
     Quelle est la différence entre météorologie et climat ?
+
+
 
 [Activité Différence entre météo et climat](../diffmeteoclimat)
 
