@@ -15,6 +15,7 @@
     - Avoir identifié les paramètres permettant de savoir la quantité de nuages et la quantité de pluie.
 
 
+<div markdown style="page-break-after: always;">
 
 
 
@@ -22,6 +23,9 @@
 
 ![](Pictures/stationMeteo.png){: style="width:3000px";} 
 
+</div>
+
+<div markdown style="page-break-after: always;">
 
 **Document 2 Mesure d’une station météo installée à Paris (5e arrondissement) (www.meteoalecole.org).**
 
@@ -117,6 +121,8 @@
   </tr>
 </tbody>
 </table>
+
+</div>
 
 !!! note-prof "correction"
     ![Alt text](Pictures/correctionStationMeteo.png)

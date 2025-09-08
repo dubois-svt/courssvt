@@ -18,6 +18,9 @@
     - faire le lien entre intensité lumineuse et température.(0.75 point)
     - Lier les différents éléments de réponse. (1 point)
 
+
+<div markdown style="page-break-after: always;">
+
 <div markdown style="display:flex; flex-direction:row;">
 
 <div markdown style="display:flex; flex-direction:column; width: 65%;">
@@ -39,6 +42,11 @@ Le climat chaud ou intertropical correspond à des températures moyennes annuel
 </div>
 </div>
 
+</div>
+
+<div markdown style="page-break-after: always;">
+
+
 **Document 2 : Modélisation de la répartition de l'énergie solaire sur Terre**
 L'énergie solaire est une source d'énergie importante. Plus les rayons solaires sont concentrés plus, il fera chaud.
 
@@ -56,6 +64,10 @@ Matériel :
 5. Compter le nombre approximatif de petits carreaux à l’intérieur de la tache ;  
 6. Compléter le tableau (voir doc. 4) à l’aide des observations ;  
    **Répéter les opérations 3 à 6 pour la zone 2 (voir doc. 1).**
+
+</div>
+<div markdown style="page-break-after: always;">
+
 
 **Document 3 : du modèle à la réalité (à compléter)**
 <table>
@@ -85,6 +97,9 @@ Matériel :
 </tbody>
 </table>
 
+</div>
+<div markdown style="page-break-after: always;">
+
 **Document 4 : tableau des observations (à compléter)**
 
 <table >
@@ -113,7 +128,7 @@ Matériel :
 </tbody>
 </table>
 
-
+</div>
 
 
 

@@ -23,45 +23,7 @@ En langage simple, le système informatique est l’ensemble des équipements qu
 
 [Activité les données informatiques](../famillesObj)
 
-séance 1 les fichiers et arborescence
 
-Consigne 1 : À partir de l'image montrant plein de fichiers différents indiquer, quels sont les 3 moyens d'identifier un fichier.
-![alt text](image.png)
-Consigne 2 : classer par taille les moyens de stockage
-
-disquette 3,5 pouce 1,4 Mo
-CD 700 Mo
-DVD 4,7 Go
-Disque dur 1 To
-Clé USB 64 Go
-Blu-ray 100 Go
-
-1 ko  = 1000 o
-1Mo = 1000ko
-1Go = 1000 Mo
-1To = 1000Go
-
-
-consigne : parmi les chemins suivants lequel correspond au fichier de l'image. Indiquer le dossier, le sous dossier, le nom du fichier et l'extension
-
-
-**Sous un ordinateur Linux macOS**
-/home/prof/Téléchargement/vacances.pdf
-/home/prof/Téléchargement/vacances.png
-/home/prof/Archives/vacances.pdf
-/home/prof/Photos/listePhoto.csv
-/home/prof/Documents/parcours.odt
-/home/prof/Musiques/générique.mp3
-/home/prof/Vidéos/souvenirs.mp4
-
-**Sous un ordinateur Windows**
-c:\prof\Téléchargement\vacances.pdf
-c:\prof\Téléchargement\vacances.png
-c:\prof\Archives\vacances.pdf
-c:\prof\Photos\listePhoto.csv
-c:\prof\Documents\parcours.odt
-c:\prof\Musiques\générique.mp3
-c:\prof\Vidéos\souvenirs.mp4
 
 
 
