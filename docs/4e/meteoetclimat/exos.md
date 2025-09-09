@@ -6,6 +6,7 @@ lang: FRENCH
 # Activité : Exercices.
 
 <div markdown style="page-break-after: always;">
+    
 ## Exercice 1 : une vague de froid
 !!! note "Compétences"
 
@@ -57,6 +58,7 @@ Celui-ci devrait encore perdurer quelques jours. Le service national de météor
     Niveau TB : Très bonne maitrise : L’erreur est relevée et expliquée à l’aide des éléments de cours. Autonomie
 
 </div>    
+
 <div markdown style="page-break-after: always;">
     
 ## Exercice 2 : la météo à Paris
