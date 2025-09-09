@@ -12,7 +12,7 @@
 ## Séance 1 : Différence entre météo et climat
 
 !!! question "Problématique"
-    Quelle est la différence entre météorologie et climat ?
+    Quelle est la différence entre météorologie et climatologie ?
 
 
 
