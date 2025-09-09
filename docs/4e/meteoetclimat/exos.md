@@ -72,6 +72,7 @@ Celui-ci devrait encore perdurer quelques jours. Le service national de météor
 **Document Données issues d'une station météo à Paris (source : https://www.infoclimat.fr)**
 
 | jour | heure | température (°C) | précipitation (mm) | Radiations solaires (W/m2) | pression (hPa) | vent (km/h) |
+|--|---|----|----|-----|----|-----|
 | 29/08/2025 | 16 h 00 | 24,9 | 3,4 | 16 | 998,7 | 3,2 |
 | 30/08/2025 | 14 h 00 | 23,9 | 0 | 258 | 1008,2 | 8 |
 | 30/08/2025 | 14 h 00 | 26,3 | 0 | 745 | 1014,6 | 3,2 |
