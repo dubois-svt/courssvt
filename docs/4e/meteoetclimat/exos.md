@@ -14,7 +14,7 @@ lang: FRENCH
 
 !!! warning "Consignes"
 
-    À partir de vos connaissances, vous argumenterez pour expliquer l’erreur commise par Donald Trump.
+    À partir de vos connaissances, vous argumenterez pour expliquer l’erreur commise par Donald J. Trump.
     
 ??? bug "Critères de réussite"
     - avoir identifié les durées des phénomènes dont parle le tweet
