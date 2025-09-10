@@ -49,7 +49,7 @@ En langage simple, le système informatique est l’ensemble des équipements qu
 <div style="page-break-after: always;"></div>
 
 
-## Séance 2 : les fonctions d'un OST
+## Séance 2 : cybesécurité
 
 !!! question "Problématique"
     Comment décrire les fonctions et principes techniques d’un OST ?
@@ -62,13 +62,18 @@ En langage simple, le système informatique est l’ensemble des équipements qu
 ??? abstract "Bilan"
 
     <a markdown id="bilan2">
-    On parle de fonction principale pour décrire la fonction de l’OST qui est la plus visible et la plus importante pour les utilisateurs.
 
-    La manière dont fonctionne un objet technique est appelée principe technique
+    ### La cybersécurité
 
-    Pour fonctionner, un objet technique possède plusieurs fonctions techniques (comme se "diriger", "freiner" ...)
+    la cybersécurité consiste à protéger les matériels informatiques ainsi que nos données personnelles contre les attaques malveillantes. Lors de vos connexions, des virus peuvent infecter votre ordinateur et de petits fichiers, nommées cookies, sont enregistrés par votre navigateur pour vous proposer des publicités ciblées.
 
-    Pour une même fonction technique, il existe différents solutions techniques.
+    Il faut alors protéger son matériel informatique en isntallant das antivirus. Il faut également protéger ses données personnelle en utilisant des mots de passe robustes et différents pour chaque compte ou appareil, ne pas les partager et se déconnecter avant de quitter l'application.
+
+    ## la cyberviolence
+
+    Les cybervioloences sont des actes malveillants, intentionnels, commis dans le monde numérique, par un ou plusieurs peronneles dans le but de nuire ç un individu comme l'userpation d'identité, le fmaing (qui consiste à envyer un nombre de messsages insultants et menaçants à une personne ou un groupe de personnes), le partage indélicat de pohtos ou des insultes. Ces actes sontpunissables par la loi (peine de prison et amende)
+
+    Il faut donc bien réfléchir à ce que l'on publie sur les réseaux. Si on est victime, la première chose à faire et de prévenir un adulte de confiance.
 
     </a>
 

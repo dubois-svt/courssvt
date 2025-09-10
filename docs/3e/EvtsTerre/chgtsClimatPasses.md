@@ -6,8 +6,6 @@
 !!! warning "Consignes"
     1. À l’aide des documents, montrer que le climat à Vallon-Pont-d’Arc le climat a changé entre aujourd'hui et il y a 30 000 ans et expliquer comment les scientifiques ont pu le savoir.
 
-    2. À l’aide des documents, montrer que le climat à Blaye le climat a changé entre aujourd'hui et il y a 40 Ma et expliquer comment les scientifiques ont pu le savoir.
-
 ??? bug "Critères de réussite"
     - Pour chaque ville, avoir relevé le climat actuel
     - Pour chaque ville, avoir relevé un indice datant de l'époque étudiée
@@ -16,10 +14,10 @@
 
 
 
-**Document 1 Climat actuel à Vallon-Pont-d’Arc et à Blaye**  
+**Document 1 Climat actuel à Vallon-Pont-d’Arc**  
 
 Aujourd’hui, le climat à Vallon-Pont-d’Arc est un climat méditerranéen avec des hivers doux et des étés chauds.
-Aujourd’hui, le climat à Blaye est un climat océanique avec des hivers doux et des étés frais.
+
 
 <div markdown style="display: flex; flex-direction:row" > 
 
@@ -47,35 +45,6 @@ Les toundras sont des formations végétales que l’on observe dans les région
 Les toundras sont constituées de pelouses d’herbes, de mousses et de lichens, sans
 arbres. 
 
-<div markdown style="display: flex; flex-direction:row" > 
-![Fossile d'un cypraeoidea](Pictures/cypraeoideaFossile.jpg)
-
-
-
-<div markdown style="display: flex; flex-direction:column; margin-left:10px; margin-right: 10px; max-width:50%" > 
-
-**Document 4 Des fossiles à Blaye**  
-On retrouve, dans les roches datant de l’éocène (50 à 33 Ma), des fossiles Cypraeoidea et des Echinolampas.
-
-</div>
-
-![Fossile d'un echinolampas](Pictures/echnilampasfossile.jpg)
-
-
-
-</div>
-
-
-
-**Document 5 Les Cypraeoidea et les Echinolampas actuels.**  
-
-Actuellement, la majorité de ces êtres vivants vivent dans des climats
-tropicaux, c’est-à-dire des climats plutôt chauds.
-
-**Document 6 L’actualisme**
-
-Les fossiles nous permettent d’avoir des renseignements sur les conditions du milieu dans le passé. Si le fossile est proche de ce à quoi ressemble un être vivant actuel, on admet que le milieu de vie de
-l’être vivant fossile doit être proche de celui de l’être vivant actuel.
 
 <table>
 <tbody>
