@@ -5,7 +5,8 @@ lang: FRENCH
 
 # Activité : Exercices.
 
-
+<div markdown style="page-break-after: always;">
+    
 ## Exercice 1 : une vague de froid
 !!! note "Compétences"
 
@@ -13,7 +14,7 @@ lang: FRENCH
 
 !!! warning "Consignes"
 
-    À partir de vos connaissances, vous argumenterez pour expliquer l’erreur commise par Donald Trump.
+    À partir de vos connaissances, vous argumenterez pour expliquer l’erreur commise par Donald J. Trump.
     
 ??? bug "Critères de réussite"
     - avoir identifié les durées des phénomènes dont parle le tweet
@@ -56,6 +57,10 @@ Celui-ci devrait encore perdurer quelques jours. Le service national de météor
     Niveau S : Maitrise satisfaisante : L’erreur est relevée et expliquée à l’aide des éléments de cours.
     Niveau TB : Très bonne maitrise : L’erreur est relevée et expliquée à l’aide des éléments de cours. Autonomie
 
+</div>    
+
+<div markdown style="page-break-after: always;">
+    
 ## Exercice 2 : la météo à Paris
 
 !!! note "Compétences"
@@ -72,6 +77,9 @@ Celui-ci devrait encore perdurer quelques jours. Le service national de météor
 **Document Données issues d'une station météo à Paris (source : https://www.infoclimat.fr)**
 
 | jour | heure | température (°C) | précipitation (mm) | Radiations solaires (W/m2) | pression (hPa) | vent (km/h) |
+|--|---|----|----|-----|----|-----|
 | 29/08/2025 | 16 h 00 | 24,9 | 3,4 | 16 | 998,7 | 3,2 |
 | 30/08/2025 | 14 h 00 | 23,9 | 0 | 258 | 1008,2 | 8 |
 | 30/08/2025 | 14 h 00 | 26,3 | 0 | 745 | 1014,6 | 3,2 |
+
+</div>
