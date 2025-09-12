@@ -360,10 +360,10 @@ Les lampes à diodes électroluminescentes (DEL) équipent plus souvent les nouv
 <td>En 1990, la Seiko Receptor est la première montre connectée à recevoir des textos (SMS).</td>
 </tr>
 <tr markdown>
-<td markdown>![](image.png)</td>
-<td markdown>![](image-1.png)</td>
-<td markdown>![](image-2.png)</td>
-<td markdown>![](image-3.png)</td>
+<td markdown>![](image.png){: style="width:300px"}</td>
+<td markdown>![](image-1.png){: style="width:300px"}</td>
+<td markdown>![](image-2.png){: style="width:300px"}</td>
+<td markdown>![](image-3.png){: style="width:300px"}</td>
 </tr>
 </tbod>
 </tabl>
