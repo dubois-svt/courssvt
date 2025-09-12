@@ -1,6 +1,45 @@
 # Activité : Exercice d’application
 
-# Exercice 1 Les fonctions d'un OST
+## Exercice 1 : Fonction principale
+
+!!! note "Compétences"
+
+    Trouver et utiliser des informations 
+
+!!! warning "Consignes"
+
+    1. Compléter le tableau suivant.  
+
+   
+??? bug "Critères de réussite"
+    - 
+
+| Nom de l’objet  | Fonction principale (ou besoin)  |
+|--|--|
+| Une lampe de poche  |   |
+|  |  Se protéger de la pluie |
+| Un réfrigérateur |  |
+| Un vélo  |    |
+|  |  Afficher l’heure |
+
+
+## Exercice 2 : Familles d’objet 
+
+
+
+!!! note "Compétences"
+
+    Trouver et utiliser des informations 
+
+!!! warning "Consignes"
+
+    1. Donner 4 objets appartenant aux familles suivantes :  
+    • Objets répondant au besoin : conserver des aliments.
+    • Objets répondant au besoin : se protéger du Soleil.  
+    • Objets répondant au besoin : écrire. 
+
+
+# Exercice 3 Les fonctions d'un OST
 
 !!! note "Compétences"
 
@@ -118,7 +157,7 @@
 </div>
 </div>
 
-## Exercice 2 Lignée d'objets 
+## Exercice 4 Lignée d'objets 
 
 !!! note "Compétences"
 
@@ -298,44 +337,6 @@ Les lampes à diodes électroluminescentes (DEL) équipent plus souvent les nouv
 
 ![](pictures/friseFamilleLampe.png)
 
-
-## Exercice 3 : Fonction principale
-
-!!! note "Compétences"
-
-    Trouver et utiliser des informations 
-
-!!! warning "Consignes"
-
-    1. Compléter le tableau suivant.  
-
-   
-??? bug "Critères de réussite"
-    - 
-
-| Nom de l’objet  | Fonction principale (ou besoin)  |
-|--|--|
-| Une lampe de poche  |   |
-|  |  Se protéger de la pluie |
-| Un réfrigérateur |  |
-| Un vélo  |    |
-|  |  Afficher l’heure |
-
-
-## Exercice 4 : Familles d’objet 
-
-
-
-!!! note "Compétences"
-
-    Trouver et utiliser des informations 
-
-!!! warning "Consignes"
-
-    1. Donner 4 objets appartenant aux familles suivantes :  
-    • Objets répondant au besoin : conserver des aliments.
-    • Objets répondant au besoin : se protéger du Soleil.  
-    • Objets répondant au besoin : écrire. 
 
 
 ## Exercice 5 : Lignées d’objets
