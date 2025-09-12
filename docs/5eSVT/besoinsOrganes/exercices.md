@@ -1,6 +1,6 @@
 # Activité : Exercices sur l'effort physique
 
-
+<div style="page-break-after: always;">
 ## Exercice 1 calculer une fréquence cardiaque à partir d'un électrocardiogramme
 
 !!! warning "Consignes"
@@ -19,8 +19,29 @@ Le cœur bat périodiquement, c'est-à-dire que les battements se répètent dan
 ![Patient 2](pictures/ECGpatient2.png){: style="padding: 5px;"}
 
 </div>
+</div>
+<div style="page-break-after: always;">
+    
+## Exercice 2 La fréquence respiratoire
 
-## Exercice 2 Représenter l’évolution de la fréquence cardiaque 	
+!!! warning "Consignes"
+    1. Comment évolue la fréquence respiratoire au cours d’un effort ? 
+    2. Comment évolue la fréquence respiratoire après un effort ?
+    3. Que peux-tu constater quand tous ont pris 2 minutes de repos ?
+
+
+
+On mesure la fréquence cardiaque et la fréquence respiratoire de quelques élèves au repos et en activité (15 flexions-extensions des jambes en 30 secondes).
+
+| élèves | Lucas | Youssra | Julie | 
+|---|---|---|---|
+| fréquence respiratoire au repos | 15 | 18 | 21 | 
+| fréquence respiratoire pendant une activité physique | 29 | 28 | 34 | 
+| Fréquence respiratoire après 2 minutes de repos | 15 | 18 | 21 | 
+
+</div>
+<div style="page-break-after: always;">
+## Exercice 3 Représenter l’évolution de la fréquence cardiaque 	
 
 Trois élèves font un footing d’échauffement pendant 4 minutes et un capteur enregistre les battements cardiaques ramenés à une valeur par minute. (unité bat./min)
 
@@ -31,7 +52,6 @@ Trois élèves font un footing d’échauffement pendant 4 minutes et un capteur
     2. Indiquer par une flèche rouge à quel moment commence l'exercice physique et par une flèche verte à quel moment il termine 
 
 
-![](pictures/graphFreqCard.png)
 
 
 <table>
@@ -90,20 +110,7 @@ Trois élèves font un footing d’échauffement pendant 4 minutes et un capteur
 </table>
 
 
-## Exercice 3 La fréquence respiratoire
+![](pictures/graphFreqCard.png)
 
-!!! warning "Consignes"
-    1. Comment évolue la fréquence respiratoire au cours d’un effort ? 
-    2. Comment évolue la fréquence respiratoire après un effort ?
-    3. Que peux-tu constater quand tous ont pris 2 minutes de repos ?
-
-
-
-On mesure la fréquence cardiaque et la fréquence respiratoire de quelques élèves au repos et en activité (15 flexions-extensions des jambes en 30 secondes).
-
-| élèves | Lucas | Youssra | Julie | 
-|---|---|---|---|
-| fréquence respiratoire au repos | 15 | 18 | 21 | 
-| fréquence respiratoire pendant une activité physique | 29 | 28 | 34 | 
-| Fréquence respiratoire après 2 minutes de repos | 15 | 18 | 21 | 
+<div style="page-break-after: always;">
 
