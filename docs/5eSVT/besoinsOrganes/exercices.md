@@ -21,6 +21,7 @@ Le cœur bat périodiquement, c'est-à-dire que les battements se répètent dan
 
 </div>
 </div>
+
 <div markdown style="page-break-after: always;">
     
 ## Exercice 2 La fréquence respiratoire
@@ -41,6 +42,7 @@ On mesure la fréquence cardiaque et la fréquence respiratoire de quelques él�
 | Fréquence respiratoire après 2 minutes de repos | 15 | 18 | 21 | 
 
 </div>
+
 <div markdown style="page-break-after: always;">
     
 ## Exercice 3 Représenter l’évolution de la fréquence cardiaque 	
@@ -52,8 +54,6 @@ Trois élèves font un footing d’échauffement pendant 4 minutes et un capteur
     Les 3 courbes sont à réaliser sur le même graphique. Pour les différencier, vous repasserez la courbe de Pierre en bleu, celle d'Inès en vert et celle de Nath en rouge.
 
     2. Indiquer par une flèche rouge à quel moment commence l'exercice physique et par une flèche verte à quel moment il termine 
-
-
 
 
 <table>
@@ -114,5 +114,4 @@ Trois élèves font un footing d’échauffement pendant 4 minutes et un capteur
 
 ![](pictures/graphFreqCard.png)
 
-<div style="page-break-after: always;">
-
+</div>
