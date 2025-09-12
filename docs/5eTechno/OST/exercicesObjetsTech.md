@@ -1,4 +1,4 @@
-# Activité : Exercice d’application
+# Activité : Exercices d’application
 
 ## Exercice 1 : Fonction principale
 
@@ -10,9 +10,6 @@
 
     1. Compléter le tableau suivant.  
 
-   
-??? bug "Critères de réussite"
-    - 
 
 | Nom de l’objet  | Fonction principale (ou besoin)  |
 |--|--|
@@ -34,9 +31,10 @@
 !!! warning "Consignes"
 
     1. Donner 4 objets appartenant aux familles suivantes :  
-    • Objets répondant au besoin : conserver des aliments.
-    • Objets répondant au besoin : se protéger du Soleil.  
-    • Objets répondant au besoin : écrire. 
+    
+    - Objets répondant au besoin : conserver des aliments.
+    - Objets répondant au besoin : se protéger du Soleil.  
+    - Objets répondant au besoin : écrire. 
 
 
 # Exercice 3 Les fonctions d'un OST
@@ -49,16 +47,7 @@
 
     1. Compléter le tableau du document 1, en présentant pour les différents objets la fonction d'usage, les fonctions techniques et les principes techniques associés
     
-??? bug "Critères de réussite"
-    - 
-
-
-
 <div markdown style="page-break-after: always;">
-
-
-
-
 
 **Document 1 Tableau récapitulatif**
 <table><thead>
