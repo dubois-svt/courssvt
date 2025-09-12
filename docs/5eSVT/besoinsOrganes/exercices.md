@@ -1,6 +1,7 @@
 # Activité : Exercices sur l'effort physique
 
-<div style="page-break-after: always;">
+<div markdown style="page-break-after: always;">
+    
 ## Exercice 1 calculer une fréquence cardiaque à partir d'un électrocardiogramme
 
 !!! warning "Consignes"
@@ -20,7 +21,7 @@ Le cœur bat périodiquement, c'est-à-dire que les battements se répètent dan
 
 </div>
 </div>
-<div style="page-break-after: always;">
+<div markdown style="page-break-after: always;">
     
 ## Exercice 2 La fréquence respiratoire
 
@@ -40,7 +41,7 @@ On mesure la fréquence cardiaque et la fréquence respiratoire de quelques él�
 | Fréquence respiratoire après 2 minutes de repos | 15 | 18 | 21 | 
 
 </div>
-<div style="page-break-after: always;">
+<div markdown style="page-break-after: always;">
 ## Exercice 3 Représenter l’évolution de la fréquence cardiaque 	
 
 Trois élèves font un footing d’échauffement pendant 4 minutes et un capteur enregistre les battements cardiaques ramenés à une valeur par minute. (unité bat./min)
