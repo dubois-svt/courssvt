@@ -42,6 +42,7 @@ On mesure la fréquence cardiaque et la fréquence respiratoire de quelques él�
 
 </div>
 <div markdown style="page-break-after: always;">
+    
 ## Exercice 3 Représenter l’évolution de la fréquence cardiaque 	
 
 Trois élèves font un footing d’échauffement pendant 4 minutes et un capteur enregistre les battements cardiaques ramenés à une valeur par minute. (unité bat./min)
