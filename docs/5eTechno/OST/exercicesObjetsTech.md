@@ -101,20 +101,20 @@
 
 <div markdown style="display: flex; flex-direction:row" > 
 
-![Vélo avec des freins à patins](pictures/velo_patins.png){: style="width:300px"}
-![Vélo électrique avec des freins à disques](pictures/veloDisque.jpeg){: style="width:300px"}
+![Vélo avec des freins à patins](pictures/velo_patins.png){: style="width:200px"}
+![Vélo électrique avec des freins à disques](pictures/veloDisque.jpeg){: style="width:200px"}
 </div>
 
 <div markdown style="display: flex; flex-direction:row" > 
 
-![Portemine](pictures/portemine.png){: style="width:300px"}
-![Crayon à papier](pictures/crayonPapier.png){: style="width:300px"}
+![Portemine](pictures/portemine.png){: style="width:200px"}
+![Crayon à papier](pictures/crayonPapier.png){: style="width:200px"}
 </div>
 
 <div markdown style="display: flex; flex-direction:row" > 
 
-![cadran solaire](pictures/cadranSolaire.png){: style="width:300px"}
-![montre](pictures/montre.jpg){: style="width:300px"}
+![cadran solaire](pictures/cadranSolaire.png){: style="width:200px"}
+![montre](pictures/montre.jpg){: style="width:200px"}
 </div>
 </div>
 
@@ -314,6 +314,7 @@ Les lampes à diodes électroluminescentes (DEL) équipent plus souvent les nouv
     - 
 
 | Nom de l’objet  | Fonction principale (ou besoin)  |
+|--|--|
 | Une lampe de poche  |   |
 |  |  Se protéger de la pluie |
 | Un réfrigérateur |  |
@@ -360,10 +361,10 @@ Les lampes à diodes électroluminescentes (DEL) équipent plus souvent les nouv
 <td>En 1990, la Seiko Receptor est la première montre connectée à recevoir des textos (SMS).</td>
 </tr>
 <tr markdown>
-<td markdown>![](image.png){: style="width:300px"}</td>
-<td markdown>![](image-1.png){: style="width:300px"}</td>
-<td markdown>![](image-2.png){: style="width:300px"}</td>
-<td markdown>![](image-3.png){: style="width:300px"}</td>
+<td markdown>![](image.png){: style="width:200px"}</td>
+<td markdown>![](image-1.png){: style="width:200px"}</td>
+<td markdown>![](image-2.png){: style="width:200px"}</td>
+<td markdown>![](image-3.png){: style="width:200px"}</td>
 </tr>
 </tbod>
 </tabl>
