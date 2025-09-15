@@ -166,6 +166,8 @@ Un élève de 13 ans a une compétition sportive organisé dans un mois. Il souh
 
     Le dopage peut lui aussi avoir des conséquences néfastes sur la santé.
 
+    ![](image-4.png)
+    ![](image-5.png)
 
     </a>
 
