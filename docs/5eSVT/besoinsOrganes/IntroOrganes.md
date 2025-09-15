@@ -40,9 +40,9 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
         - La ................... augmente, permettant d’enrichir le sang en dioxygène.
         - La ................... augmente, afin de faire davantage circuler ce sang oxygéné dans le corps
         - Les modifications du ................... permettent d’orienter davantage ce sang vers les muscles qui en ont besoin en plus grande quantité.
-
-        Lors d'un effort, le corps chauffe. pour se refroidir, il va ..................., ce qui nous fait perdre de l'eau.
   
+        Lors d'un effort, le corps chauffe. pour se refroidir, il va transpirer ce qui nous fait perdre de l'eau.
+
     === "Bilan"
 
         
@@ -55,7 +55,7 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
         - La fréquence respiratoire augmente, permettant d’enrichir le sang en dioxygène.
         - La fréquence cardiaque augmente, afin de faire davantage circuler ce sang oxygéné dans le corps
         - Les modifications du débit sanguin permettent d’orienter davantage ce sang vers les muscles qui en ont besoin en plus grande quantité.
-
+        
         Lors d'un effort, le corps chauffe. pour se refroidir, il va transpirer ce qui nous fait perdre de l'eau.
 
     </a>
@@ -83,9 +83,6 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
         Les trachées amènent directement l'air jusqu'aux organes, tandis que les poumons et les branchies sont des surfaces d'échange des gaz entre l'extérieur et le sang.
 
     === "Bilan"
-
-        
-
 
         La respiration est un échange gazeux avec le milieu.
         Les organismes prélèvent du dioxygène dans leur milieu (aérien ou aquatique) et rejettent du dioxyde de carbone.
@@ -123,7 +120,6 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
 
     === "Bilan"
 
-
         Les nutriments, les déchets et les gaz (dioxygène et dioxyde de carbone) sont transportés dans un liquide appelé sang ou hémolymphe.
         Ce liquide circule dans un système circulatoire qui peut être fermé ou ouvert sur l'intérieur du corps de l'animal.
 
@@ -142,6 +138,37 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
     ![](pictures/schemaDoubleCirculation.png)
 
 <div style="page-break-after: always;"></div>
+
+
+
+## Séance 4 : Améliorer ses capacités physiques
+
+Un élève de 13 ans a une compétition sportive organisé dans un mois. Il souhaite amélkiorer ses résultats pour gagner cette compétition.
+
+
+!!! question "Problématique"
+    Quelles sont les attitudes à suivre pour améliorer ses performances ?
+
+
+
+[Activité Les performances sportives](../perfSport)
+
+??? abstract "Bilan"
+
+
+    <a markdown id="bilan4">
+
+    Le corps humain des limites. L'activité cardio-repsiratoires ne peut pas augmenter indéfiniment. 
+    
+    Les capacités cardiaques et respiratoires peuvent être augmentées en suivant un entrainement. Ce qui est bénéfique pour la santé sur le long terme.
+
+    Mais un surentrainement peut causer de graves dommages au corps.
+
+    Le dopage peut lui aussi avoir des conséquences néfastes sur la santé.
+
+
+    </a>
+
 
 
 ## Séance 4 : La nutrition des cellules animales
