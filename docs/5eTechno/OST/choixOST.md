@@ -6,7 +6,7 @@
 
 !!! warning "Consignes"
 
-    1. Hachurer la zone qui pourra accueillir le meuble sur le plan du Doc. 1.
+    1. Hachurer la zone qui pourra accueillir le meuble sur le plan du document 2.
     2. Quelle est la fonction principale du meuble ? 
     3. Quel matériau ne conviendrait pas pour le meuble de la salle de bain ?
     4. Choisir un meuble. Argumenter votre choix en donnant au moins 5 arguments.
@@ -19,7 +19,13 @@
 
 <div markdown style="page-break-after: always;">
 
-**Document 1 Plan de la salle de bain (en cm).**
+**Document 1 Besoin d'un nouvel objet**
+
+On souhaite installer dans une salle de bain, un meuble pour machine à laver permettant d’avoir de l’espace de rangement supplémentaire. Dans notre recherche, nous nous sommes imposés des contraintes. L’OST doit s’installer aisément, résister à l’humidité de la salle de bain, avec des matériaux renouvelables et durables et dont le prix reste abordable.
+
+
+
+**Document 2 Plan de la salle de bain (en cm).**
 
 ![](pictures/planSDB.png)
 
@@ -27,7 +33,7 @@
 
 </div>
 
-**Document 2 Extrait du site LeroyMerlin.fr.**
+**Document 3 Extrait du site LeroyMerlin.fr.**
 
 <table markdown >
 <tbody markdown >
@@ -82,7 +88,7 @@
 
 
 
-**Document 3 Quelques caractéristiques de matériaux**
+**Document 4 Quelques caractéristiques de matériaux**
 
 
 <table  markdown  style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 100%" class="tg"><colgroup><col style="width: 20%"><col style="width: 20%"><col style="width: 20%"><col style="width: 20%"><col style="width: 20%"></colgroup>
@@ -110,7 +116,7 @@
 <td style="background-color:#C5E0B4;border-color:inherit;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> <span style="font-style:normal">Oui</span><span style="background-color:#C5E0B4"> 			</span></td><td style="background-color:#C5E0B4;border-color:inherit;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> <span style="font-style:normal">Recyclable à l’infini</span><span style="background-color:#C5E0B4"> 			</span></td></tr>
 </tbody></table>
 
-**Document 4 Impact environnemental des matériaux**
+**Document 5 Impact environnemental des matériaux**
 
 
 
