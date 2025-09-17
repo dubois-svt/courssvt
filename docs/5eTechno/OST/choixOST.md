@@ -23,6 +23,8 @@
 
 On souhaite installer dans une salle de bain, un meuble pour machine à laver permettant d’avoir de l’espace de rangement supplémentaire. Dans notre recherche, nous nous sommes imposés des contraintes. L’OST doit s’installer aisément, résister à l’humidité de la salle de bain, avec des matériaux renouvelables et durables et dont le prix reste abordable.
 
+</div>
+<div markdown style="page-break-after: always;">
 
 
 **Document 2 Plan de la salle de bain (en cm).**
@@ -30,8 +32,9 @@ On souhaite installer dans une salle de bain, un meuble pour machine à laver pe
 ![](pictures/planSDB.png)
 
 
-
 </div>
+<div markdown style="page-break-after: always;">
+
 
 **Document 3 Extrait du site LeroyMerlin.fr.**
 
@@ -86,6 +89,9 @@ On souhaite installer dans une salle de bain, un meuble pour machine à laver pe
 </tbody>
 </table>
 
+</div>
+<div markdown style="page-break-after: always;">
+
 
 
 **Document 4 Quelques caractéristiques de matériaux**
@@ -115,6 +121,10 @@ On souhaite installer dans une salle de bain, un meuble pour machine à laver pe
 <tr><td style="border-color:inherit;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> Recyclage 			</td><td style="background-color:#F8CBAD;border-color:inherit;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> <span style="font-style:normal">Difficile</span><span style="background-color:#F8CBAD"> 			</span></td><td style="background-color:#C5E0B4;border-color:inherit;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> <span style="font-style:normal">Oui</span><span style="background-color:#C5E0B4"> 			</span></td>
 <td style="background-color:#C5E0B4;border-color:inherit;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> <span style="font-style:normal">Oui</span><span style="background-color:#C5E0B4"> 			</span></td><td style="background-color:#C5E0B4;border-color:inherit;border-style:solid;border-width:1px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> <span style="font-style:normal">Recyclable à l’infini</span><span style="background-color:#C5E0B4"> 			</span></td></tr>
 </tbody></table>
+
+</div>
+<div markdown style="page-break-after: always;">
+
 
 **Document 5 Impact environnemental des matériaux**
 
@@ -147,4 +157,5 @@ L’aluminium est produit à partir d’une roche, la bauxite. Il faut 4 à 5 to
 ![](pictures/mineAlu.png){:style="max-width:300px; max-height:150px; "}
 </div>
 
+</div>
 
