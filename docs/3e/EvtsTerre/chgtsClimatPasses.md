@@ -46,36 +46,6 @@ Les toundras sont constituées de pelouses d’herbes, de mousses et de lichens,
 arbres. 
 
 
-<table>
-<tbody>
-<tr class="odd">
-<td colspan=4>Extraire et mettre en relation des informations pour répondre à un problème</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Niveau I : Maîtrise insuffisante</td>
-<td>Niveau F : Maîtrise fragile</td>
-<td>Niveau S : Maîtrise satisfaisante</td>
-<td>Niveau TB : Très bonne maîtrise</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>Le climat actuel est trouvé et les indices sur le climat passé sont
-données</td>
-<td>Le climat actuel est trouvé et les indices sur le climat passé sont
-données.<br />
-Le climat passé est trouvé. Une phrase compare les deux climats.<br />
-</td>
-<td>Le climat actuel est trouvé et les indices sur le climat passé sont
-données.<br />
-Le climat passé est trouvé. Une phrase compare les deux climats.<br />
-Autonomie</td>
-</tr>
-</tbody>
-</table>
-
 !!!note-prof "Correction :"
 
     A Blaye, on a trouvé des fossiles qui datent de 50Ma. Ces fossiles ont
