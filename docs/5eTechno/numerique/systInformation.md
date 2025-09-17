@@ -11,6 +11,10 @@
     1. À partir de l'image montrant plein de fichiers différents indiquer, quels sont les 3 moyens d'identifier un fichier.
     2. Classer par taille les moyens de stockage.
     3. Parmi les chemins du document 4, lequel correspond au fichier de l'image. Indiquer le dossier, le sous dossier, le nom du fichier et l'extension
+    4. A partir des informations du document 5 :
+        - indiquer si le comptable peut lire  dossier accueil
+        - indiquer si le chef peut lire le dossier privé
+        - indiquer si le informaticien peut lire le dossier comptabilité
     
 ??? bug "Critères de réussite"
     - 
@@ -44,7 +48,7 @@ Il existe énormément de types de fchiers différents.
 
 **Document 2 Des fichiers informatiques**
 
-![alt text](image.png)
+![](image.png)
 
 </div>
 
@@ -70,36 +74,33 @@ Blu-ray 100 Go
 **Document 4 : des chemins dans l'arborescence dans un système d'information.**
 
 **Sous un ordinateur Linux macOS**
-/home/prof/Téléchargement/vacances.pdf
-/home/prof/Téléchargement/vacances.png
-/home/prof/Archives/vacances.pdf
-/home/prof/Photos/listePhoto.csv
-/home/prof/Documents/parcours.odt
-/home/prof/Musiques/générique.mp3
-/home/prof/Vidéos/souvenirs.mp4
+
+- /home/prof/Téléchargement/vacances.pdf
+- /home/prof/Téléchargement/vacances.png
+- /home/prof/Archives/vacances.pdf
+- /home/prof/Photos/listePhoto.csv
+- /home/prof/Documents/parcours.odt
+- /home/prof/Musiques/générique.mp3
+- /home/prof/Vidéos/souvenirs.mp4
 
 **Sous un ordinateur Windows**
-c:\prof\Téléchargement\vacances.pdf
-c:\prof\Téléchargement\vacances.png
-c:\prof\Archives\vacances.pdf
-c:\prof\Photos\listePhoto.csv
-c:\prof\Documents\parcours.odt
-c:\prof\Musiques\générique.mp3
-c:\prof\Vidéos\souvenirs.mp4
+
+- c:\prof\Téléchargement\vacances.pdf
+- c:\prof\Téléchargement\vacances.png
+- c:\prof\Archives\vacances.pdf
+- c:\prof\Photos\listePhoto.csv
+- c:\prof\Documents\parcours.odt
+- c:\prof\Musiques\générique.mp3
+- c:\prof\Vidéos\souvenirs.mp4
 
 **Document 5 Un système d'information d'une entreprise**
 
 une entreprise a un espace de stockage accessoible en ligne  partagé avec différents employé
 
-liste dossier d'une employé
+liste dossier d'une employé : 
 - Accueil (lecture pour tous, écriture : pour RH)
 - Comptabilité (lecture pour chef et comptable, écriture : pour comptable)
 - Privé (lecture pour comptable, écriture : pour comptable)
 
 
 
-
-indiquer si le comptable peut lire  dossier accueil
-indiquer si le chef peut lire le dossier privé*
-
-indiquer si le informaticien peut lire le dossier comptabilité
