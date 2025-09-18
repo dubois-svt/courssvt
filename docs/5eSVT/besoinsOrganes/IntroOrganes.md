@@ -143,10 +143,12 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
 
 ## Séance 4 : Améliorer ses capacités physiques
 
-Un élève de 13 ans a une compétition sportive organisé dans un mois. Il souhaite amélkiorer ses résultats pour gagner cette compétition.
+Le cross du collège se déroulera bientôt. Pour vous préparez, les enseignants d'EPS vous font calculer votre VMA. (Vitesse Maximale Aerobie)
+A quoi correspond cette vitesse et comment l'améliorer pour l'année prochaine.
 
 
 !!! question "Problématique"
+    Comment augmenter sa VMA ?
     Quelles sont les attitudes à suivre pour améliorer ses performances ?
 
 

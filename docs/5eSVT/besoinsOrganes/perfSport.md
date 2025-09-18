@@ -7,18 +7,22 @@
 
 !!! warning "Consignes"
 
-    Expliquer en texte ou sous la forme d'une carte mentale, en quoi un entrainement sportif régulier est important, mais qu'il est nécessaire de le faire correctement
+    Expliquer en texte ou sous la forme d'une carte mentale, en quoi un entrainement sportif régulier est important, mais qu'il est nécessaire de le faire correctement.
     
 ??? bug "Critères de réussite"
     
+**Document 1 La VMA Vitessee Moyenne Aérobie**
 
+La vitesse moyenne aérobie correspond à la vitesse maximale à laquelle une personne consomme le maximum de dioxygène que son système respiratoire peut apporter, VO~2~Max.$
 
-**Document 1 Des limites physiologiques.**
+A sa VMA, un individu peut courrir entre 4 et 8 minutes.
+
+**Document 2 Des limites physiologiques.**
 <div markdown style="display: flex; flex-direction: row">
 
 <div markdown style="display: flex; flex-direction: column">
 
-Tout individu a une consommation maximale de dioxygène à l’effort, ou VO2max. Un effort ne peut durer plus de quelques minutes à cette valeur et cesse rapidement si l’intensité de l’exercice augmente. Cette valeur est mesurée lors d’un test réalisé sous contrôle médical.
+Tout individu a une consommation maximale de dioxygène à l’effort, ou VO~2~Max. Un effort ne peut durer plus de quelques minutes à cette valeur et cesse rapidement si l’intensité de l’exercice augmente. Cette valeur est mesurée lors d’un test réalisé sous contrôle médical.
 
 ![](image.png)
 </div>
@@ -35,8 +39,8 @@ La fréquence cardiaque maximale peut être estimée en soustrayant l’âge de 
 
 </div>
 
-**Document 2 Effet de l'entrainement sur les liùmites physiologiques**
-Une VO2max élevée améliore les performances, en augmentant la quantité de dioxygène fournie aux muscles.
+**Document 3 Effet de l'entrainement sur les liùmites physiologiques**
+Une VO~2~Max élevée améliore les performances, en augmentant la quantité de dioxygène fournie aux muscles.
 Une diminution de la féquence cardiaque unduit une rédution considérable du travail quotidien du muscle cardiaque
 
 Il a été montré qu'un fréquence cardique bassediminue de six fois le risque demourir d'une maladie cardio-vaculaire comme l'infarctus du myocarde.
@@ -51,13 +55,13 @@ Il a été montré qu'un fréquence cardique bassediminue de six fois le risque 
 
 
 
-**Document 3 Les effets de l’entrainement sur les capacités musculaires.**
+**Document 4 Les effets de l’entrainement sur les capacités musculaires.**
 
 Avec ou sans entraînement, le cœur est un muscle « infatigable » : il fonctionne en permanence et chaque contraction est suivie par un relâchement permettant sa récupération (et son remplissage).
 Les muscles squelettiques (biceps par exemple) permettent les mouvements. Ils se fatiguent.
 Mais si tu t’entraînes régulièrement à faire un même exercice physique, tu constateras que cet exercice devient de plus en plus facile. Avec l’entraînement, les muscles gagnent en force (et en masse), ainsi qu’en endurance.
 
-**Document 4 Les effets de deux semaines de surentrainement chez des cyclistes.**
+**Document 5 Les effets de deux semaines de surentrainement chez des cyclistes.**
 
 | Paramètre mesuré | Entrainement normal | Après 2 semaines de surentrainement |
 |---|---|---|
@@ -70,7 +74,7 @@ L’entrainement au-delà des limites de l’organisme, le surentrainement, est 
 
 
 
-**Document 5 Le dopage avec l’EPO**
+**Document 6 Le dopage avec l’EPO**
 
 L’EPO (érythropoïétine) est une substance naturellement présente dans l’organisme. On sait aussi fabriquer de l’EPO artificielle. Dans les années 2000, l’EPO artificielle a été utilisée comme molécule dopante par certains sportifs.
 L’EPO est responsable de la viscosité (plus un liquide est visqueux moins il s’écoule) du sang. Cette viscosité peut conduire à l’obstruction des vaisseaux sanguins, et dans certains cas à des arrêts cardiaques.

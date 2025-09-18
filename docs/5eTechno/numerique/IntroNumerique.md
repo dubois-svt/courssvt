@@ -78,63 +78,11 @@ En langage simple, le système informatique est l’ensemble des équipements qu
     </a>
 
 
+https://www.ssi.economie.gouv.fr/motdepasse
 
-## Séance 3 : Évolution d'une famille d'objets et lignées
+view.genially.com/66474a537609460014772eec
+college.hachette-education.com/ressources/0002017890737/techno5e_genially10/
 
-Les OST évoluent en fonction des besoins et des nouvelles connaissances.
-On cherche à comprendre l’évolution des voitures. Pour cela, on parlera de lignée d’OST. Pour une même famille d’OST, il existe plusieurs lignées : c’est-à-dire une suite chronologique d’objets qui utilisent le même principe technique (principe qui explique le fonctionnement d’un OST, se reposant sur des connaissances scientifiques) pour satisfaire une même fonction principale. 
+mot de passe : Cyber3000 –> chatmd.forge.apps.education.fr/#https://codimd.apps.education.fr/s/OHLvgSE1a
 
-!!! question "Problématique"
-    Comment évolue une famille d'objets avec différentes lignées ? 
-    Comment expliquer l’évolution technologique d’un objet ?
-
-[Activité Évolution de la voiture](../evolVoiture)
-
-
-
-
-
-??? abstract "Bilan"
-
-    <a id="bilan3">
-
-    Une lignée d’objets montre dans un ordre chronologique, du plus ancien au plus récent, les OST d’une même famille qui fonctionnent sur le même principe technique.
-    
-    Pour répondre à nos besoins, les objets évoluent sans cesse.
-    Le contexte permet d’expliquer l’évolution des objets.
-
-    </a>
-
-
-## Séance 4 : Choix d'un OST.
-
-On souhaite installer dans une salle de bain, un meuble pour machine à laver permettant d’avoir de l’espace de rangement supplémentaire. Dans notre recherche, nous nous sommes imposés des contraintes. L’OST doit s’installer aisément, résister à l’humidité de la salle de bain, avec des matériaux renouvelables et durables et dont le prix reste abordable.
-
-
-!!! question "Problématique"
-    Comment choisir un OST ?
-
-
-[Activité Choix d'un OST](../choixOST)
-
-
-
-??? abstract "Bilan"
-
-    <a id="bilan4">
-
-    Différents objets peuvent répondre au besoin d'un utilisateur.
-
-    Il est dont amené à faire un choix en fonction de critères qui précisent ses attentes. Ils peuvent être liés au prix, à la couleur, aux matériaux, à l'énergie, aux performances techniques de l'objet, ...
-
-
-    </a>
-
-
-## Séance 5 : Exercices
-
-    
-[Activité Exercices](../exercicesObjetsTech)
-
-
-
+https://nuage03.apps.education.fr/index.php/s/eB87Po9gwzHEQgi
