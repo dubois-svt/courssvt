@@ -14,10 +14,11 @@
             "scope": "workspace"
         }
     },
-    "languageToolLinter.external.url": "https://ortho.kaeell.fr/v2",
+    "languageToolLinter.external.url": "https://ortho.kaeell.fr",
     "languageToolLinter.plainText.languageIds": [
         "plaintext",
         "markdown"
     ],
-    "languageToolLinter.serviceType": "external"
+    "languageToolLinter.serviceType": "external",
+    "languageToolLinter.smartFormat.onSave": true
 }
