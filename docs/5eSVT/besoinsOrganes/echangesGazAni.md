@@ -112,13 +112,10 @@ L’air est un mélange de plusieurs gaz que l’on peut détecter avec différe
 </div>
 
 </div>
+
 <div markdown style="page-break-after: always;">
-
-
 <div markdown style="display: flex; flex-direction:row;">
 <div markdown style="display: flex; flex: 1 1 0; flex-direction:column; margin-right:5px;">
-
-
 
 **Document 2 Les variations de la teneur en dioxygène dans l’eau en présence ou non d’un criquet.**
 
@@ -126,16 +123,11 @@ L’air est un mélange de plusieurs gaz que l’on peut détecter avec différe
 
 On mesure, à l’aide d’un oxymètre, la quantité de dioxygène dissous dans l’air d’une enceinte contenant ou non des criquets.
 
-
 </div>
 
 
-</div>
-<div markdown style="page-break-after: always;">
-    
+   
 <div markdown style="display: flex; flex: 1 1 0; flex-direction:column; margin-left:5px;">
-
-
 
 
 **Document 3 Des tests de la présence de dioxyde de carbone en présence ou non de criquets.**
@@ -156,7 +148,7 @@ L’eau de chaux dans les deux enceintes est incolore au début de l’expérien
     
 **Document 4 Les trachées d’un criquet**
 
-![](pictures/tracheesInsectes.png){: style="width: 800px;"}
+![](pictures/tracheesInsectes.png){: style="width: 1000px;"}
 
 Chez les insectes, l’air circule dans un réseau de trachées. Chaque organe de l’animal est connecté aux trachées par de petites trachéoles.
 Le réseau de trachée peut représenter un volume d’air égale à la moitié du volume total de l’insecte.
@@ -209,8 +201,6 @@ L’air est un mélange de plusieurs gaz que l’on peut détecter avec différe
 
 </div>
 
-</div>
-<div markdown style="page-break-after: always;">
 
 <div markdown style="display: flex; flex: 1 1 0; flex-direction:column; margin-left:5px;">
 
