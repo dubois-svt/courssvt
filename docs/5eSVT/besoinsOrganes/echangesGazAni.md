@@ -137,13 +137,11 @@ On mesure, à l’aide d’un oxymètre, la quantité de dioxygène dissous dan
 L’eau de chaux, un liquide incolore, se trouble et devient blanchâtre en présence de dioxyde de carbone.
 L’eau de chaux dans les deux enceintes est incolore au début de l’expérience et la photo ci-contre représente les résultats au bout de 30 minutes.
 
-
-
-
 </div>
 
 </div>
 </div>
+
 <div markdown style="page-break-after: always;">
     
 **Document 4 Les trachées d’un criquet**
@@ -154,6 +152,7 @@ Chez les insectes, l’air circule dans un réseau de trachées. Chaque organe 
 Le réseau de trachée peut représenter un volume d’air égale à la moitié du volume total de l’insecte.
 
 </div>
+
 <div markdown style="page-break-after: always;">
 
 **Document 5  Les échanges**
@@ -189,6 +188,7 @@ L’air est un mélange de plusieurs gaz que l’on peut détecter avec différe
 </div>
 
 </div>
+
 <div markdown style="page-break-after: always;">
 
 <div markdown style="display: flex; flex-direction:row;">
@@ -216,6 +216,8 @@ Le bleu de méthylène devient incolore lorsque le milieu est dépourvu de dioxy
 </div>
 
 </div>
+
+
 <div markdown style="page-break-after: always;">
 
 **Document 4 Une observation de branchies de truite**
@@ -231,17 +233,16 @@ Chaque filament branchial est couvert de fines lamelles contenant des petits vai
 
 
 </div>
-
 <div markdown style="display: flex; flex: 1 1 0; flex-direction:column;">
 
 ![](pictures/branchesPoissons2.png)
 
 
 </div>
-
 </div>
 
 </div>
+
 <div markdown style="page-break-after: always;">
 
 **Document 5 Les échanges**
