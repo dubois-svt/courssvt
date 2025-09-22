@@ -8,12 +8,9 @@
 
 !!! warning “Consignes”
 
-    1. Pour chacune des situations du doc 1, dire s'il sa'agit de cyberharcélement
-    1. Que faire en cas de cyberviolence ?
-    2. Comment les cookies peuvent-ils être une menace à la vie privée
-    3. d'après le doucment, combien de temps votre mot de pass principal peut il être cracké
-    4. Pourquoi un mot de passe unique peut-il être dangereux
-    5. Sur quel site des résultats de la recherche vous téléchargeriez le logiciel VLC ?
+    1. d'après le doucment, combien de temps votre mot de pass principal peut il être cracké
+    2. Pourquoi un mot de passe unique peut-il être dangereux
+    3. Sur quel site des résultats de la recherche vous téléchargeriez le logiciel VLC ?
     
 ??? bug “Critères de réussite”
     - 
@@ -21,36 +18,6 @@
 
 
 <div markdown style="page-break-after: always;">
-
-**Document 1 les données informatiques**
-
-pourcentage cyberviolence (1/4 collégiens) harcélement 1/5 collégien en 2021-2022
-
-video sur lumni
-https://www.lumni.fr/video/cyberharcelement
-
-
-questions QCM
-
-
-Dire une fois à quelqu’un que vous n’êtes pas d’accord avec lui.
-
-Se regrouper avec des ami(e)s pour se moquer d’une personne.
-
-Diffuser des vraies photos de quelques sans lui demander sans accord
-
-Faire des commentaires sur une photo en évitant d’être désagréable.
-
-Faire un commentaire désagréable à chaque fois que l’on parle d’une personne
-
-
-Créer un groupe pour s’entraider. 
-
-Utiliser le compte de quelqu’un d’autre et en profiter pour insulter tout le monde en se faisant passer pour lui.
-
-**Document 2 cookies et traces sur internet**
-
-https://www.lumni.fr/video/donnees-personnelles-et-reseaux-sociaux
 
 **document 3 mots de passe simplicité et mot de passe unique**
 
@@ -96,7 +63,7 @@ On parle souvent de sauvergades 3 2 1, avec 3 copies en tout :
 - une sauvergade sur un disque externe (disque dur, clé USB, DVD) 
 - une sauvegarde présente à un autre endroit (pour éviter le vol ou la destruction de la sauvergade en même temps que celui de l’appareil.)
 
-Document 6 Source possibles pour télécharger le 
+**Document 6 Source possibles pour télécharger le logiciel VLC**
  
 Si on recherche sur un moteur de recherche à télécharger le logiciel VLC de Videolan, on obtient les résultats suivants.
 

@@ -1,23 +1,23 @@
 # Séquence : Usages et impacts sociétaux du numérique
 
 !!! note-prof
-    si besoin d'infos
+    si besoin d’infos
 
 
-!!! question "Problématique"
-    Quel est l'impact du numérique dans nos vies ?
+!!! question “Problématique”
+    Quel est l’impact du numérique dans nos vies ?
 
     
 
 
-## Séance 1 : Les systèmes d'informations
+## Séance 1 : Les systèmes d’informations
 
 
 En langage simple, le système informatique est l’ensemble des équipements qui font fonctionner l’ordinateur, et le système d’information est les données que nous stockons dans l’ordinateur sous la forme de divers formats de fichiers.
 
 
 
-!!! question "Problématique"
+!!! question “Problématique”
 
     Comment sont organisées les donénes stockées dans un système inforamtique ?
 
@@ -29,7 +29,7 @@ En langage simple, le système informatique est l’ensemble des équipements qu
 
 
 
-??? abstract "Bilan"
+??? abstract “Bilan”
 
     <a markdown id="bilan1">
     Les données sont simplement des informations.
@@ -49,33 +49,57 @@ En langage simple, le système informatique est l’ensemble des équipements qu
 <div style="page-break-after: always;"></div>
 
 
-## Séance 2 : cybesécurité
-
-!!! question "Problématique"
-    Comment décrire les fonctions et principes techniques d’un OST ?
-
-[Activité Les fonctions d'un OST](../fonctions)
+## Séance 2 : Le numérique dans notre vie
 
 
+![alt text](image-8.png)
+![alt text](image-10.png)
+
+!!! question “Problématique”
+    comment le numérique peut-il avoir un impact dans notre vie ?
+
+[Activité Vie et numérique](../cyberviolence)
 
 
-??? abstract "Bilan"
+
+
+??? abstract “Bilan”
 
     <a markdown id="bilan2">
 
-    ### La cybersécurité
+
+    Les cybervioloences sont des actes malveillants, intentionnels, commis dans le monde numérique, par un ou plusieurs peronneles dans le but de nuire à un individu comme l'userpation d'identité, l'envoi de messsages insultants et menaçants à une personne ou un groupe de personnes, le partage indélicat de photos ou des insultes. Ces actes sont punissables par la loi (peine de prison et amende)
+
+    Il faut donc bien réfléchir à ce que l'on publie sur les réseaux. Si on est victime ou témoin, la première chose à faire et de prévenir un adulte de confiance.
+
+    Lorsque l'on utilise internet des informations sont diffusées.
+    Volontairement (photos, messages), qui peuvent rester en ligne et nous échapper.
+    Involontairement, lmes cookies qui stockent des informations sur nous (sites visités, zone géographique, informations personnelles), beaucoup de cookies sont utilisées pour le ciblage publicitaire.
+
+    </a>
+
+
+## Séance 3 : Cybersécurité
+
+!!! question “Problématique”
+    Quels sont les points de vigilance pour ne pas mettre en danger ses données informatiques ?
+
+[Activité Cybersécurité](../cybersecu)
+
+
+
+
+??? abstract “Bilan”
+
+    <a markdown id="bilan3">
+
 
     la cybersécurité consiste à protéger les matériels informatiques ainsi que nos données personnelles contre les attaques malveillantes. Lors de vos connexions, des virus peuvent infecter votre ordinateur et de petits fichiers, nommées cookies, sont enregistrés par votre navigateur pour vous proposer des publicités ciblées.
 
     Il faut alors protéger son matériel informatique en isntallant das antivirus. Il faut également protéger ses données personnelle en utilisant des mots de passe robustes et différents pour chaque compte ou appareil, ne pas les partager et se déconnecter avant de quitter l'application.
 
-    ## la cyberviolence
-
-    Les cybervioloences sont des actes malveillants, intentionnels, commis dans le monde numérique, par un ou plusieurs peronneles dans le but de nuire ç un individu comme l'userpation d'identité, le fmaing (qui consiste à envyer un nombre de messsages insultants et menaçants à une personne ou un groupe de personnes), le partage indélicat de pohtos ou des insultes. Ces actes sontpunissables par la loi (peine de prison et amende)
-
-    Il faut donc bien réfléchir à ce que l'on publie sur les réseaux. Si on est victime, la première chose à faire et de prévenir un adulte de confiance.
-
     </a>
+
 
 
 https://www.ssi.economie.gouv.fr/motdepasse

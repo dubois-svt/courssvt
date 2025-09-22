@@ -1,32 +1,32 @@
 # Séquence : Les besoins de nos organes
 
 !!! note-prof
-    si besoin d'infos
+    si besoin d’infos
 
 
-!!! question "Problématique"
+!!! question “Problématique”
     Comment nos organes sont-ils approvisionnés ? 
 
     
 
 
 
-## Séance 1 : Les modifications de l'organisme lors d’un effort
+## Séance 1 : Les modifications de l’organisme lors d’un effort
 
 Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100m en 10 sec. Après ces 10 secondes, les athlètes sont épuisés et s’allongent sur le sol.
 
 ![Final 100m Hommes JO 2024 (FranceTV))](pictures/fin100m.png)
 
 
-!!! question "Problématique"
+!!! question “Problématique”
     Quelles sont les modifications de l’organisme lors d’un effort ?
 
-[Activité Notre corps lors d'un effort](../effortsPhysiques)
+[Activité Notre corps lors d’un effort](../effortsPhysiques)
 
 
 
 
-??? abstract "Bilan"
+??? abstract “Bilan”
 
     <a markdown id="bilan1">
 
@@ -62,7 +62,7 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
 
 ## Séance 2 : Les échanges gazeux des animaux.
 
-!!! question "Problématique"
+!!! question “Problématique”
     Quels sont les échanges de matière réalisés lorsqu’un animal respire ?
     
 [Activité Les échanges gazeux lors de la respiration](../echangesGazAni)
@@ -70,7 +70,7 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
 
 
 
-??? abstract "Bilan"
+??? abstract “Bilan”
 
     <a markdown id="bilan2">
 
@@ -95,13 +95,13 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
 
 ## Séance 3 : L’approvisionnement des organes des animaux.
 
-!!! question "Problématique"
+!!! question “Problématique”
     Comment les nutriments et les gaz sont-ils transportés jusqu’aux organes ?
     
 [Activité système circulatoire des animaux](../systCircu)
 
 
-??? abstract "Bilan"
+??? abstract “Bilan”
 
     <a markdown id="bilan3">
 
@@ -143,11 +143,11 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
 
 ## Séance 4 : Améliorer ses capacités physiques
 
-Le cross du collège se déroulera bientôt. Pour vous préparez, les enseignants d'EPS vous font calculer votre VMA. (Vitesse Maximale Aerobie)
-A quoi correspond cette vitesse et comment l'améliorer pour l'année prochaine.
+Le cross du collège se déroulera bientôt. Pour vous préparer, les enseignants d’EPS vous font calculer votre VMA. (Vitesse Maximale Aerobie)
+À quoi correspond cette vitesse et comment l’améliorer pour l’année prochaine.
 
 
-!!! question "Problématique"
+!!! question “Problématique”
     Comment augmenter sa VMA ?
     Quelles sont les attitudes à suivre pour améliorer ses performances ?
 
@@ -155,7 +155,7 @@ A quoi correspond cette vitesse et comment l'améliorer pour l'année prochaine.
 
 [Activité Les performances sportives](../perfSport)
 
-??? abstract "Bilan"
+??? abstract “Bilan”
 
 
     <a markdown id="bilan4">
@@ -173,38 +173,8 @@ A quoi correspond cette vitesse et comment l'améliorer pour l'année prochaine.
 
     </a>
 
-
-
-## Séance 4 : La nutrition des cellules animales
-
-
-Observation d’un muscle avant (à gauche) et après (à droite) un effort physique de quelques minutes au microscope optique.
-Les réserves glucidiques sont marquées en rose, les noyaux en noir. Les muscles sont capables de réaliser des efforts plus longs que quelques minutes grâce à un apport de matière organique.
-
-
-![](pictures/consoGlucCellMuscle.png)
-
-!!! question "Problématique"
-    Comment les cellules peuvent-elles s’approvisionner en gaz et en nutriments, et évacuer leurs déchets ?
-
-
-
-
-[Activité La nutrition des cellules animales](../nutriCellAni)
-
-
-??? abstract "Bilan"
-
-
-    <a markdown id="bilan4">
-
-    Lors de la respiration cellulaire, les cellules animales consomment du dioxygène et des nutriments pour fonctionner et produire de l'énergie.
-    Ces éléments sont apportés aux cellules par le sang ou l'hémolymphe, qui arrive dans les tissus par les capillaires sanguins.
-    Le fonctionnement de la cellule et la respiration cellulaire produisent des déchets comme le dioxyde de carbone et l'urée. Ceux-ci sont rejetés dans le sang puis éliminés hors de l'organisme par les échanges respiratoires et les reins.
-
-    </a>
     
-## Séance 5 : Exercices sur l'effort
+## Séance 5 : Exercices sur l’effort
 
 
 

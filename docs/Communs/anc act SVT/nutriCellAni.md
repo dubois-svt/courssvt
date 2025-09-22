@@ -1,12 +1,41 @@
+## Séance 4 : La nutrition des cellules animales
+
+
+Observation d’un muscle avant (à gauche) et après (à droite) un effort physique de quelques minutes au microscope optique.
+Les réserves glucidiques sont marquées en rose, les noyaux en noir. Les muscles sont capables de réaliser des efforts plus longs que quelques minutes grâce à un apport de matière organique.
+
+
+![](pictures/consoGlucCellMuscle.png)
+
+!!! question “Problématique”
+    Comment les cellules peuvent-elles s’approvisionner en gaz et en nutriments, et évacuer leurs déchets ?
+
+
+
+
+[Activité La nutrition des cellules animales](../nutriCellAni)
+
+
+??? abstract “Bilan”
+
+
+    <a markdown id="bilan4">
+
+    Lors de la respiration cellulaire, les cellules animales consomment du dioxygène et des nutriments pour fonctionner et produire de l'énergie.
+    Ces éléments sont apportés aux cellules par le sang ou l'hémolymphe, qui arrive dans les tissus par les capillaires sanguins.
+    Le fonctionnement de la cellule et la respiration cellulaire produisent des déchets comme le dioxyde de carbone et l'urée. Ceux-ci sont rejetés dans le sang puis éliminés hors de l'organisme par les échanges respiratoires et les reins.
+
+    </a>
+    
 # Activité : La nutrition des cellules animales
 
-!!! note "Compétences"
+!!! note “Compétences”
 
     - Extraire et mettre en relation 
     - Utiliser des outils mathématiques
 
 
-!!! warning "Consignes"
+!!! warning “Consignes”
 
     1. Présentez les échanges entre une cellule et son milieu de vie.
     2. Présentez, sous la forme d'un schéma, les échanges entre les cellules et le sang et la réaction ayant lieu dans la cellule.
@@ -14,7 +43,7 @@
     4. Indiquez de quelles molécules proviennent le dioxyde de carbone et l’urée.
 
     
-??? bug "Critères de réussite"
+??? bug “Critères de réussite”
     - identifier les échanges gazeux
     - représenter ces échanges sous une forme compréhensible par tous
     - communiquer mes conclusions en les argumentant
@@ -34,11 +63,11 @@ Les échanges entre le sang et les cellules sont possibles, car les capillaires 
 **Document 2 Le devenir des nutriments absorbés par les cellules**
 
 Les nutriments absorbés par la cellule servent à produire ses propres molécules qui lui permettent de fonctionner ou de se multiplier grâce à des réactions chimiques. 
-La respiration cellulaire est une réaction chimique qui permet aux cellules d'avoir de l’énergie en transformant des nutriments et du dioxygène en dioxyde de carbone et en eau.
+La respiration cellulaire est une réaction chimique qui permet aux cellules d’avoir de l’énergie en transformant des nutriments et du dioxygène en dioxyde de carbone et en eau.
 
 **Document 3 Une observation au microscope électronique à balayage d’un capillaire sanguin coupé au niveau d’un muscle**
 
-![](pictures/photoCapillaireMEB.png){: style="width: 300px;"}
+![](pictures/photoCapillaireMEB.png){: style=“width: 300px;”}
 
 **Document 4 Le devenir des molécules utilisées par les cellules**
 
