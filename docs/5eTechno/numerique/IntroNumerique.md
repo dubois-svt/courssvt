@@ -21,17 +21,13 @@ En langage simple, le système informatique est l’ensemble des équipements qu
 
     Comment sont organisées les donénes stockées dans un système inforamtique ?
 
-[Activité les données informatiques](../famillesObj)
-
-
-
-
-
+[Activité les données informatiques](../systInformation)
 
 
 ??? abstract “Bilan”
 
     <a markdown id="bilan1">
+
     Les données sont simplement des informations.
 
     De différents types, elles sont stockées dans des fichiers  que l'on peut identifier grâce à leur icône, leur nom, leu extension qui précise leur format
@@ -46,7 +42,7 @@ En langage simple, le système informatique est l’ensemble des équipements qu
 
     </a>
 
-<div style="page-break-after: always;"></div>
+<div style="break-inside: avoid;"></div>
 
 
 ## Séance 2 : Le numérique dans notre vie
@@ -66,7 +62,6 @@ En langage simple, le système informatique est l’ensemble des équipements qu
 ??? abstract “Bilan”
 
     <a markdown id="bilan2">
-
 
     Les cybervioloences sont des actes malveillants, intentionnels, commis dans le monde numérique, par un ou plusieurs peronneles dans le but de nuire à un individu comme l'userpation d'identité, l'envoi de messsages insultants et menaçants à une personne ou un groupe de personnes, le partage indélicat de photos ou des insultes. Ces actes sont punissables par la loi (peine de prison et amende)
 
