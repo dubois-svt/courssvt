@@ -20,6 +20,7 @@
 
 ## Équipe 1 : Les échanges gazeux respiratoires d’une souris
 
+<div markdown style="page-break-after: always;">
 
 **Document 1 La composition de l’air.**
 
@@ -39,6 +40,9 @@ L’air est un mélange de plusieurs gaz que l’on peut détecter avec différe
 
 </div>
 
+</div>
+<div markdown style="page-break-after: always;">
+
 **Document 2 Les mesures des échanges gazeux chez une souris.**
 
 ![](pictures/echangesGazSouris.png)
@@ -47,7 +51,8 @@ On mesure la teneur en dioxyde de carbone et en dioxygène dans l’air d’un
 
 <div markdown style="display: flex; flex-direction:row;">
 <div markdown style="display: flex; flex: 1 1 0; flex-direction:column; margin-right:5px;">
-
+</div>
+<div markdown style="page-break-after: always;">
 
 **Document 3 L’organisation des poumons chez les mammifères**
 
@@ -59,7 +64,8 @@ Lors de l’inspiration, le diaphragme, situé sous les poumons, se contracte. L
 </div>
 <div markdown style="display: flex; flex: 1 1 0; flex-direction:column; margin-left:5px;">
 
-
+</div>
+<div markdown style="page-break-after: always;">
 
 
 **Document 4 Le détail des alvéoles à l’intérieur des poumons**
@@ -70,6 +76,8 @@ Chaque bronchiole débouche sur de minuscules alvéoles dont la fine paroi con
 
 </div>
 </div>
+</div>
+<div markdown style="page-break-after: always;">
 
 **Document 5  Les échanges**
 
@@ -77,10 +85,13 @@ Les échanges entre un organe et le sang se font plus facilement si  différente
 
 - la surface doit être grande
 - la distance entre le sang et l'organe doit être faible (épaisseur)
-  
+
+</div>
+
 
 ## Équipe 2 : Les échanges gazeux respiratoires des criquets
 
+<div markdown style="page-break-after: always;">
 
 **Document 1 La composition de l’air.**
 
@@ -100,8 +111,14 @@ L’air est un mélange de plusieurs gaz que l’on peut détecter avec différe
 
 </div>
 
+</div>
+<div markdown style="page-break-after: always;">
+
+
 <div markdown style="display: flex; flex-direction:row;">
 <div markdown style="display: flex; flex: 1 1 0; flex-direction:column; margin-right:5px;">
+
+
 
 **Document 2 Les variations de la teneur en dioxygène dans l’eau en présence ou non d’un criquet.**
 
@@ -111,6 +128,11 @@ On mesure, à l’aide d’un oxymètre, la quantité de dioxygène dissous dan
 
 
 </div>
+
+
+</div>
+<div markdown style="page-break-after: always;">
+    
 <div markdown style="display: flex; flex: 1 1 0; flex-direction:column; margin-left:5px;">
 
 
@@ -129,13 +151,18 @@ L’eau de chaux dans les deux enceintes est incolore au début de l’expérien
 </div>
 
 </div>
-
+</div>
+<div markdown style="page-break-after: always;">
+    
 **Document 4 Les trachées d’un criquet**
 
-![](pictures/tracheesInsectes.png)
+![](pictures/tracheesInsectes.png){: style="width: 800px;"}
 
 Chez les insectes, l’air circule dans un réseau de trachées. Chaque organe de l’animal est connecté aux trachées par de petites trachéoles.
 Le réseau de trachée peut représenter un volume d’air égale à la moitié du volume total de l’insecte.
+
+</div>
+<div markdown style="page-break-after: always;">
 
 **Document 5  Les échanges**
 
@@ -143,11 +170,13 @@ Les échanges entre un organe et le sang se font plus facilement si  différente
 
 - la surface doit être grande
 - la distance entre le sang et l'organe doit être faible (épaisseur)
-  
+
+</div>
 
 ## Équipe 3 : Les échanges gazeux respiratoires des poissons
 
 
+<div markdown style="page-break-after: always;">
 
 **Document 1 La composition de l’air.**
 
@@ -167,6 +196,9 @@ L’air est un mélange de plusieurs gaz que l’on peut détecter avec différe
 
 </div>
 
+</div>
+<div markdown style="page-break-after: always;">
+
 <div markdown style="display: flex; flex-direction:row;">
 <div markdown style="display: flex; flex: 1 1 0; flex-direction:column; margin-right:5px;">
 
@@ -176,6 +208,9 @@ L’air est un mélange de plusieurs gaz que l’on peut détecter avec différe
 
 
 </div>
+
+</div>
+<div markdown style="page-break-after: always;">
 
 <div markdown style="display: flex; flex: 1 1 0; flex-direction:column; margin-left:5px;">
 
@@ -189,6 +224,9 @@ Le bleu de méthylène devient incolore lorsque le milieu est dépourvu de dioxy
 </div>
 
 </div>
+
+</div>
+<div markdown style="page-break-after: always;">
 
 **Document 4 Une observation de branchies de truite**
 
@@ -213,10 +251,16 @@ Chaque filament branchial est couvert de fines lamelles contenant des petits vai
 
 </div>
 
+</div>
+<div markdown style="page-break-after: always;">
+
 **Document 5 Les échanges**
 
 Les échanges entre un organe et le sang se font plus facilement si  différentes conditions sont réunis :
 
 - la surface doit être grande
 - la distance entre le sang et l'organe doit être faible (épaisseur)
+
+</div>
+
   
