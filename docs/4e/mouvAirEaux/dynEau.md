@@ -5,12 +5,10 @@
     - Interpréter des résultats 
 
 !!! warning "Consignes"
-    Réaliser chaque modélisation et valider les différentes hypothèses
+    Pour chaque modélisation, donner l'hypothèse qui peut-être testée, faire la modélisation et à partir des résultats conclure sur la validité de l'hypothèse.
     
 ??? bug "Critères de réussite"
-    - indiquer pour chaque modélisation l'hypothèse testée.
-    - indiquer pour chaque modélisation le type de mouvement vertical ou horizontal et sens du mouvement
-    - indiquer pour chaque modélisation la validité de l'hypothèse
+
 
 
 **Document 1 : Modélisation 1**
