@@ -7,7 +7,7 @@
 
 !!! warning "Consignes"
     1. Faire un schéma des mouvements d'air dans la modélisation. (2,5 points)
-    2. Expliquer dans quelle direction va aller le vent sur le document 1. (2,5 points)
+    2. tracer la direction du vent sur le document 1 et l'expliquer . (2,5 points)
 
 ??? bug "critères de réussite"
     - indiquer les mouvements verticaux dans le modèle 
