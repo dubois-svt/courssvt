@@ -48,22 +48,20 @@ parle alors de convection.
 </thead>
 <tbody>
   <tr>
-    <td>Température</td>
+    <td rowspan="2">Température</td>
     <td>Eau froide à 2 °C</td>
     <td>0,999 941</td>
   </tr>
   <tr>
-    <td></td>
     <td>Eau chaude à 40 °C</td>
     <td>0,992 22</td>
   </tr>
   <tr>
-    <td>Salinité</td>
+    <td rowspan="2">Salinité</td>
     <td>Eau douce</td>
     <td>0,999 099</td>
   </tr>
   <tr>
-    <td></td>
     <td>Eau salée</td>
     <td>0,999 765</td>
   </tr>
