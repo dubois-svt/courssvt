@@ -13,8 +13,6 @@
 
 **Document 1 Protocole pour la modélisation 1**
 
-Protocole :
-
 1.  Déposer une goutte d'eau colorée à la surface d'une cuvette d'eau.  
 2.  Observer pendant 30 secondes   
 3.  Déposer une goutte d'eau colorée à la surface d'une cuvette d'eau.  
