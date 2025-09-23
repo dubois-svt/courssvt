@@ -36,7 +36,8 @@ L'air froid, plus dense, est plus lourd que l'air chaud. L'air froid descend et 
 
 2. Allumer le cône d'encens.
 
-??? note-prof 'barème
+??? note-prof barème
+
     1. 
        1. 0,5 schéma
        2. 0,25 titre
