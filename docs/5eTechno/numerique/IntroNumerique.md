@@ -45,7 +45,7 @@ En langage simple, le système informatique est l’ensemble des équipements qu
 <div style="break-inside: avoid;"></div>
 
 
-## Séance 2 : Le numérique dans notre vie
+## Séance 2 : la cyberviolence
 
 
 ![alt text](image-8.png)
@@ -67,10 +67,6 @@ En langage simple, le système informatique est l’ensemble des équipements qu
 
     Il faut donc bien réfléchir à ce que l'on publie sur les réseaux. Si on est victime ou témoin, la première chose à faire et de prévenir un adulte de confiance.
 
-    Lorsque l'on utilise internet des informations sont diffusées.
-    Volontairement (photos, messages), qui peuvent rester en ligne et nous échapper.
-    Involontairement, lmes cookies qui stockent des informations sur nous (sites visités, zone géographique, informations personnelles), beaucoup de cookies sont utilisées pour le ciblage publicitaire.
-
     </a>
 
 
@@ -84,6 +80,12 @@ En langage simple, le système informatique est l’ensemble des équipements qu
 
 
 
+
+
+
+https://www.lumni.fr/video/donnees-personnelles-et-reseaux-sociaux
+
+
 ??? abstract “Bilan”
 
     <a markdown id="bilan3">
@@ -92,6 +94,10 @@ En langage simple, le système informatique est l’ensemble des équipements qu
     la cybersécurité consiste à protéger les matériels informatiques ainsi que nos données personnelles contre les attaques malveillantes. Lors de vos connexions, des virus peuvent infecter votre ordinateur et de petits fichiers, nommées cookies, sont enregistrés par votre navigateur pour vous proposer des publicités ciblées.
 
     Il faut alors protéger son matériel informatique en isntallant das antivirus. Il faut également protéger ses données personnelle en utilisant des mots de passe robustes et différents pour chaque compte ou appareil, ne pas les partager et se déconnecter avant de quitter l'application.
+
+    Lorsque l'on utilise internet des informations sont diffusées.
+    Volontairement (photos, messages), qui peuvent rester en ligne et nous échapper.
+    Involontairement, lmes cookies qui stockent des informations sur nous (sites visités, zone géographique, informations personnelles), beaucoup de cookies sont utilisées pour le ciblage publicitaire.
 
     </a>
 
