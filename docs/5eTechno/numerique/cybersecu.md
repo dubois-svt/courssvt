@@ -8,7 +8,7 @@
 
 !!! warning “Consignes”
 
-    1. d'après le doucment, combien de temps votre mot de pass principal peut il être cracké
+    1. d'après le doucment, combien de temps votre mot de passe principal peut il être cracké
     2. Pourquoi un mot de passe unique peut-il être dangereux
     3. Sur quel site des résultats de la recherche vous téléchargeriez le logiciel VLC ?
     
@@ -19,34 +19,42 @@
 
 <div markdown style="page-break-after: always;">
 
-**document 3 mots de passe simplicité et mot de passe unique**
+**Document 1 Temps de résistance des mots de passe**
 
-Rang	Mot de passe	Temps pour craquer
-1	123456	< 1 seconde
-2	123456789	< 1 seconde
-3	azerty	< 1 seconde
-4	admin	< 1 seconde
-5	1234561	1 seconde
-6	azertyuiop	1 minute
-7	loulou	< 1 seconde
-8	000000	< 1 seconde
-9	doudou	< 1 seconde
-10	password	< 1 seconde
-11	marseille	1 jour
-12	motdepasse	14 heures
-13	12345678	< 1 seconde
-14	chouchou	< 1 seconde
-15	soleil	< 1 seconde
-16	cheval	2 minutes
-17	12345	< 1 seconde
-18	Password	< 1 seconde
-19	bonjour	< 1 seconde
-20	1234567891	< 1 seconde
+![Combien-de-temps-pour-pirater-un-mot-de-passe-en-2024](https://github.com/user-attachments/assets/7e4cb6c6-fcf5-4d41-90e9-b105fde986f2)
 
 
-**Document Fuite de données et risques pour toutes les données**
 
-La Commission nationale de l’informatique et des libertés (Cnil) a enregistré l’an dernier 5.629 notifications de violations de données, soit 20% de plus qu’en 2023, a-t-elle détaillé dans son rapport annuel
+**document 2 mots de passe les plus utilisés en France en 2024**
+
+| Rang | Mot de passe | Temps pour craquer |
+|--------|--------------|--------------------|
+| 1      | 123456       | < 1 seconde        |
+| 2      | 123456789    | < 1 seconde        |
+| 3      | azerty       | < 1 seconde        |
+| 4      | admin        | < 1 seconde        |
+| 5      | 1234561      | 1 seconde          |
+| 6      | azertyuiop   | 1 minute           |
+| 7      | loulou       | < 1 seconde        |
+| 8      | 000000       | < 1 seconde        |
+| 9      | doudou       | < 1 seconde        |
+| 10     | password     | < 1 seconde        |
+| 11     | marseille    | 1 jour             |
+| 12     | motdepasse   | 14 heures          |
+| 13     | 12345678     | < 1 seconde        |
+| 14     | chouchou     | < 1 seconde        |
+| 15     | soleil       | < 1 seconde        |
+| 16     | cheval       | 2 minutes          |
+| 17     | 12345        | < 1 seconde        |
+| 18     | Password     | < 1 seconde        |
+| 19     | bonjour      | < 1 seconde        |
+| 20     | 1234567891   | < 1 seconde        |
+
+
+**Document 3 Fuite de données et risques pour toutes les données**
+
+La Commission nationale de l’informatique et des libertés (Cnil) a enregistré l’an dernier 5.629 notifications de violations de données, soit 20% de plus qu’en 2023, a-t-elle détaillé dans son rapport annuel.
+Certains sites, comme https://haveibeenpwned.com/, permettent de savoir si notre adresse mail fait partie des fuites de donénes et quelles sont les donénes qui ont été dérobées
 
 **Document 4 Virus hacking**
 
