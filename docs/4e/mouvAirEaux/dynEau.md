@@ -11,7 +11,7 @@
 
 
 
-**Document 1 : Modélisation 1**
+**Document 1 Protocole pour la modélisation 1**
 
 Protocole :
 
@@ -23,8 +23,7 @@ Protocole :
 6.  Souffler à la surface de l'eau.  
 
 
-
-**Document 2 : La densité des liquides.**
+**Document 2 La densité des liquides.**
 
 La densité, au sens le plus courant, exprime le rapport de la masse d'un objet à celle qu'aurait le même volume constitué d'eau pure.
 
@@ -66,9 +65,7 @@ parle alors de convection.
 </tbody>
 </table>
 
-**Document 3 : Modélisation 2**
-
-Protocole :
+**Document 3 Protocole pour la modélisation 2**
 
 1.  Remplir un bécher avec de l'eau chaude et un bécher d'eau froide.
 2.  Colorer les deux avec deux couleurs différentes.
@@ -78,9 +75,7 @@ Protocole :
 6.  Observer sans manipuler le montage
 
 
-**Document 4 : Modélisation 3**
-
-Protocole :
+**Document 4 Protocole pour la modélisation 3**
 
 1.  Remplir un bécher avec de l'eau douce et un bécher d'eau salée.
 2.  Colorer les deux avec deux couleurs différentes.
