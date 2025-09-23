@@ -312,7 +312,9 @@ nav :
             - Introduction : 4e/mouvAirEaux/IntroDynAirEau.md
             - Dynamique des masses d'eaux : 4e/mouvAirEaux/dynEau.md
             - Dynamique des masses d'air: 4e/mouvAirEaux/dynAir.md
-            - Impact sur le climat : 4e/mouvAirEaux/courantsClimat.md
+            - Impact sur le climat : 4e/mouvAirEaux/courantsClimatV2.md
+            - Exercice : 4e/mouvAirEaux/courantsClimat.md
+
             - Fiche de révision : 4e/mouvAirEaux/FicheDynAirEau.md
       - Séquence Une ressource naturelle, l'eau :
             - Introduction : 4e/ressourceNaturelleEau/IntroEau.md
