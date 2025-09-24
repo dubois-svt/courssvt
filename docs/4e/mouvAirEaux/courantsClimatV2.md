@@ -3,7 +3,7 @@
 !!! note "Compétences"
     - trouver et utiliser des informations
 
-!!! warning Consigne
+!!! warning "Consigne"
     À partir des documents, montrer que le climat au Québec et en Islande dépend des courants atmosphériques
 
 ??? bug "Critères de réussite"

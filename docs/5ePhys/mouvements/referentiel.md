@@ -29,7 +29,7 @@ S’intéressant à deux astres en particulier, le Soleil et la Lune, les premie
 </div>
 <div markdown style="flex : 1 1 0; flex-direction: column";>
 
-![](Pictures/phasesLune.jpg){: style=“width: 500px"}
+![](Pictures/phasesLune.jpg){: style="width: 500px"}
 </div>
 </div>
 
@@ -41,7 +41,7 @@ Ces observations cycliques sont considérées alors comme élégantes, jolies. C
 </div>
 <div markdown style="flex : 1 1 0; flex-direction: column";>
 
-![](Pictures/systGeocentrique.png){: style=“width: 300px"}
+![](Pictures/systGeocentrique.png){: style="width: 300px"}
 
 </div>
 </div>
@@ -86,7 +86,7 @@ En étudiant le mouvement de ces planètes, les astronomes se sont rendu compte 
 
 <div markdown style="flex : 1 1 0; flex-direction: column";>
 
-![](Pictures/copernic.jpg){: style=“width: 100px"}
+![](Pictures/copernic.jpg){: style="width: 100px"}
 
 </div>
 
@@ -111,7 +111,7 @@ Initialement prêtre pour l’Église, Kepler reprend les travaux de Copernic en
 </div>
 <div markdown style="flex : 1 1 0; flex-direction: column";>
 
-![](Pictures/kepler.jpg){: style=“width: 100px"}
+![](Pictures/kepler.jpg){: style="width: 100px"}
 
 </div></div>
 
@@ -129,7 +129,7 @@ Au XXe siècle, Einstein commence à parler de relativité et affirme que : pou
 <div markdown style="flex : 1 1 0; flex-direction: column";>
 
 
-![](Pictures/photoEinstein.jpg){: style=“width: 100px"}
+![](Pictures/photoEinstein.jpg){: style="width: 100px"}
 </div></div>
 
 **Document 6 le référentiel**

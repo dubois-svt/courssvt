@@ -22,7 +22,7 @@
 [Activité L’histoire de la Terre](../HistoireTerre)
 
 
-??? abstract “Bilan”
+??? abstract "Bilan"
 
     <a markdown id="bilan1">
 
@@ -65,7 +65,7 @@ Différence météo et climat
 <div markdown style="display: flex; flex-direction:column; margin-right:20px" > 
 
 **Document 1 : Carte du climat** **en France présentant les températures moyennes sur une période de 30 ans (1981 – 2010)**
-![Moyenne des températures annuelles mesurées entre 1981 et 2010 © MeteoNews](Pictures/carteClimat.png){:style=“width:400px;”}
+![Moyenne des températures annuelles mesurées entre 1981 et 2010 © MeteoNews](Pictures/carteClimat.png){:style="width:400px;"}
 
 </div>
 
@@ -73,12 +73,12 @@ Différence météo et climat
 
 
 **Document 2 : Carte météo présentant le relevé de températures du jeudi 24 août 2023 à 23 h**
-![Températures mesurées par les stations météorologiques © Infoclimat](Pictures/carteMeteo.png){:style=“width:400px;”}
+![Températures mesurées par les stations météorologiques © Infoclimat](Pictures/carteMeteo.png){:style="width:400px;"}
 
 </div>
 </div>
 
-!!! abstract “Définitions”
+!!! abstract "Définitions"
     En météorologie :
     On décrit les paramètres météo (températures, précipitations, vents…) qu’il fait à un instant donné.  
     On prévoit comment les paramètres météo évolueront dans les prochains
@@ -90,7 +90,7 @@ Différence météo et climat
     On décrit l’évolution des climats dans le passé.  
     On prévoit l’évolution des climats dans le futur.
 
-!!! question “Problématique”
+!!! question "Problématique"
     Comment montrer que le climat a changé dans le passé ?
 
 [Activité les changements climatiques passés](../chgtsClimatPasses)
@@ -98,7 +98,7 @@ Différence météo et climat
 
 
 
-??? abstract “Bilan”
+??? abstract "Bilan"
 
     <a markdown id="bilan2">
 
@@ -128,7 +128,7 @@ Le phénomène actuel est un consensus scientifique. Les scientifiques ont tous 
 
 ![© NAWAK - Licence : Tous droits réservés](Pictures/caricatureTrumClimat.png)
 
-!!! question “Problématique”
+!!! question "Problématique"
     Quels sont les arguments pour montrer que le réchauffement existe ?
 
 [Activité Changement climatique actuel](../chgtClimatActuel)
@@ -137,7 +137,7 @@ Le phénomène actuel est un consensus scientifique. Les scientifiques ont tous 
 ![](Pictures/graphTempMoyenne.png)
 
 
-??? abstract “Bilan”
+??? abstract "Bilan"
 
     <a markdown id="bilan3">
 
