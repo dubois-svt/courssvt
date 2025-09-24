@@ -20,5 +20,4 @@
         "markdown"
     ],
     "languageToolLinter.serviceType": "external",
-    "languageToolLinter.smartFormat.onSave": true
 }

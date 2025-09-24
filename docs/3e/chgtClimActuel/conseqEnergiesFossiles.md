@@ -23,8 +23,7 @@
     </tr>
     <tr>
     <td><p>L’élève est pleinement engagé dans sa parole.</p>
-    <p>La voix est assez forte et claire et la parole n’est ni trop lente ni
-    trop rapide.</p></td>
+    <p>La voix est assez forte et claire et la parole n’est ni trop lente ni    trop rapide.</p></td>
     <td><p>L’élève parvient à susciter l’intérêt.</p>
     <p>La prise de parole est affirmée, cependant quelques variations dans
     l’utilisation de la voix.</p></td>

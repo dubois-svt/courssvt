@@ -4,7 +4,7 @@
     si besoin d’infos
 
 
-!!! question “Problématique”
+!!! question "Problématique"
 
     Comment nos organes sont-ils approvisionnés ? 
 
@@ -19,7 +19,7 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
 ![Final 100m Hommes JO 2024 (FranceTV))](pictures/fin100m.png)
 
 
-!!! question “Problématique”
+!!! question "Problématique"
 
     Quelles sont les modifications de l’organisme lors d’un effort ?
 
@@ -28,7 +28,7 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
 
 
 
-??? abstract “Bilan”
+??? abstract "Bilan"
 
     <a markdown id="bilan1">
 
@@ -64,7 +64,7 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
 
 ## Séance 2 : Les échanges gazeux des animaux.
 
-!!! question “Problématique”
+!!! question "Problématique"
 
     Quels sont les échanges de matière réalisés lorsqu’un animal respire ?
     
@@ -73,7 +73,7 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
 
 
 
-??? abstract “Bilan”
+??? abstract "Bilan"
 
     <a markdown id="bilan2">
 
@@ -98,14 +98,14 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
 
 ## Séance 3 : L’approvisionnement des organes des animaux.
 
-!!! question “Problématique”
+!!! question "Problématique"
 
     Comment les nutriments et les gaz sont-ils transportés jusqu’aux organes ?
     
 [Activité système circulatoire des animaux](../systCircu)
 
 
-??? abstract “Bilan”
+??? abstract "Bilan"
 
     <a markdown id="bilan3">
 
@@ -151,7 +151,7 @@ Le cross du collège se déroulera bientôt. Pour vous préparer, les enseignant
 À quoi correspond cette vitesse et comment l’améliorer pour l’année prochaine.
 
 
-!!! question “Problématique”
+!!! question "Problématique"
 
     Comment augmenter sa VMA ?
     Quelles sont les attitudes à suivre pour améliorer ses performances ?
@@ -160,7 +160,7 @@ Le cross du collège se déroulera bientôt. Pour vous préparer, les enseignant
 
 [Activité Les performances sportives](../perfSport)
 
-??? abstract “Bilan”
+??? abstract "Bilan"
 
 
     <a markdown id="bilan4">
