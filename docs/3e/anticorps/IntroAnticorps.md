@@ -1,11 +1,13 @@
 # Séquence : Les anticorps
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment les anticorps permettent une protection avec les micro-organismes ?
 
 ## Séance 1 : Les acteurs du système immunitaire
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment les lymphocytes B et les anticorps permettent de lutter contre l’infection ?
 
 En février 2014, une épidémie de fièvre hémorragie due au virus Ebola s’est déclenchée dans les forêts de Guinée. Elle s’est propagée en Sierra Leone et au Liberia. Cette fièvre peut atteindre 90 % de mortalité dans les populations qui la contractent. Cependant, une étude menée en 2010 a montré que 15,3 % de la population gabonaise possèdent des anticorps dirigés contre le virus sans jamais avoir eu de fièvre hémorragique. Un médecin d’origine gabonaise envisage de se porter volontaire pour une mission humanitaire en Sierra Leone.
@@ -16,10 +18,10 @@ En février 2014, une épidémie de fièvre hémorragie due au virus Ebola s’e
 
 
 
-??? abstract Bilan
+??? abstract "Bilan"
     === "De quoi parler dans le bilan ? Quels mots clés ?"
 
-    === Bilan à trous
+    === "Bilan à trous"
         Lors d’une infection, les lymphocytes B qui ont été activés après la reconnaissance d’un .........., vont se .............. 
 
         Ces lymphocytes B produisent des .................. qui reconnaissent de manière spécifique l’........................ (fragment de micro-organisme entraînant une réponse immunitaire) qui a initié leur formation.
@@ -57,7 +59,8 @@ En février 2014, une épidémie de fièvre hémorragie due au virus Ebola s’e
 
 ## Séance 2 : La vaccination
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment expliquer l’intérêt de la vaccination ?
 
 
@@ -65,11 +68,11 @@ En février 2014, une épidémie de fièvre hémorragie due au virus Ebola s’e
 
 
 
-??? abstract Bilan
+??? abstract "Bilan"
     === "De quoi parler dans le bilan ? Quels mots clés ?"
 
 
-    === Bilan à trous
+    === "Bilan à trous"
 
         La vaccination consiste à injecter un vaccin, c’est-à-dire une forme atténuée ou bien des parties d’un micro-organisme pathogène pour activer la ............... ....................
 
@@ -77,7 +80,7 @@ En février 2014, une épidémie de fièvre hémorragie due au virus Ebola s’e
 
         À l’échelle de la population, la vaccination permet d’éviter la propagation des pathogènes.
 
-    === Bilan
+    === "Bilan"
         La vaccination consiste à injecter un vaccin, c’est-à-dire une forme atténuée ou bien des parties d’un micro-organisme pathogène pour activer la mémoire immunitaire.
 
         La 1re rencontre avec un antigène, contenu ici dans un vaccin, déclenche la formation de lymphocyte smémoires qui constituent la mémoire immunitaire. Ils permettent une réponse plus forte et plus rapide lors du 2e contact avec l’antigène, le protégeant ainsi de la maladie = Prévention.
@@ -96,7 +99,8 @@ En février 2014, une épidémie de fièvre hémorragie due au virus Ebola s’e
 ![](Pictures/campagneSidaFrance.png){: style="width: 600px;"}
 ![](Pictures/nbCasSida2016.jpg){: style="width: 600px;"}
 
-!!! question Problématique
+!!! question "Problématique"
+
     Quelles sont les conséquences du VIH ?
 
 Paul a eu une relation non protégée lors d’une soirée. Il s’inquiète sur les risques de contamination et pendant 1 mois il se sent bien. Alors il pense ne rien avoir, Paul est rassuré !
@@ -113,11 +117,11 @@ TPE, traitement post-exposition, dit aussi « traitement d’urgence » qui doit
 Tasp (Treatment as Prevention) : sous traitement, la quantité de virus dans l’organisme devient extrêmement faible, on parle de « charge virale indétectable ». Lorsque la charge virale est indétectable et que la personne séropositive continue de prendre son traitement correctement, les études ont démontré que le VIH ne peut plus se transmettre aux partenaires sexuels-les, même lors de rapports sans préservatif.
 
 
-??? abstract Bilan
+??? abstract "Bilan"
     === "De quoi parler dans le bilan ? Quels mots clés ?"
 
 
-    === Bilan à trous
+    === "Bilan à trous"
         Le SIDA est causé par un virus, le .............
 
         Il se transmet par voie ............ ou ...............
@@ -130,7 +134,7 @@ Tasp (Treatment as Prevention) : sous traitement, la quantité de virus dans l�
 
         Pour savoir si l’on est atteint par le virus un simple dépistage suffit, il s'agit d'un test pour détecter les anticorps anti-VIH qui se créent suite à l'infection.
 
-    === Bilan
+    === "Bilan"
         Le SIDA est causé par un virus, le VIH.
 
         Il se transmet par voie sanguine ou sexuelle.

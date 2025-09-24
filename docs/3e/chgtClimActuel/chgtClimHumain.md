@@ -1,16 +1,16 @@
 # Activité : Le changement climatique d’origine anthropique
 
-!!! note Compétences
+!!! note "Compétences"
 
     - Trouver et utiliser des informations
     - Produire un schéma fonctionnel 
 
-!!! warning Consignes
+!!! warning "Consignes"
     1. Expliquer les différences de températures de surfaces dans le tableau du document 2.
     2. Expliquer l’impact de l’être humain sur l’évolution de la concentration en dioxyde de carbone dans le document 5
     3. À l’aide d’un schéma fonctionnel, montrer les impacts des activités humaines sur la température de la Terre.
    
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - Trouver une différence entre les différents astres en dehors de la température.
     - Avoir montré que l'être humain a un impact sur la concentration de CO₂
     - Le schéma fonctionnel doit contenir les idées essentielles de chaque réponse précédente.

@@ -1,15 +1,15 @@
 # Activité : Le VIH et le SIDA
 
-!!! note Compétences
+!!! note "Compétences"
 
     - Trouver et extraire des informations
     - Utiliser l'outil mathématique 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     Expliquez-lui ce qu’est le SIDA s’il a raison d’être rassuré ? Que lui conseillerez-vous ?
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     Expliquer les différents modes de transmission
     Expliquer quels sont les dégâts faits par le micro-organisme et pourquoi lors de la dernière phase le corps n’a plus de défense immunitaire
     Expliquer la mort des patients malades.

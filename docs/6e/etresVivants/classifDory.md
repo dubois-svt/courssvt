@@ -3,17 +3,17 @@
 Dans le dessin animé, Le monde de Dory, le poisson-chirurgien, part à la recherche de ses parents. Ce qu’elle ignore, c’est que toutes les espèces ont un lien de parenté.
 
 
-!!! note Compétences
+!!! note "Compétences"
 
     Communiquer sous différentes formes  
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. À partir du jeu de carte et des documents 1,2 et 3, classer les êtres vivants.
     2. À l’aide de votre travail précédent et du document 4, dessiner sur votre cahier les groupes emboîtés réalisés
     3. À partir de votre travail précédent, expliquer pourquoi on peut dire que Dory a des liens de parentés avec toutes les espèces présentes et avec quelle espèce ses liens de parenté sont le plus fort.
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 

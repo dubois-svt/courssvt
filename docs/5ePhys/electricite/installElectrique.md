@@ -1,11 +1,11 @@
 # Activité : Circuit électrique d’une salle de classe
 
 
-!!! note Compétences
+!!! note "Compétences"
     - Trouver et utiliser des informations
     - Manipuler
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     ## Le circuit dit "en série"
 
@@ -24,7 +24,7 @@
     7.  Expliquer pourquoi le circuit du document 3 ne respecterait pas les contraintes
 
 
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     
 
 

@@ -1,11 +1,11 @@
 # Activité : Lutter contre l'infection
 
-!!! note Compétences
+!!! note "Compétences"
 
     - réaliser un schéma fonctionnel
     - trouver et exploiter des informations 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. expliquer par un schéma fonctionnel, comment le système immunitaire est réagit lors de la détection d’un micro-organisme. (Documents 1, 2 et 3)
 
@@ -13,7 +13,7 @@
     
     3. Quelle particularité des lymphocytes T tueurs est mise en évidence dans les documents 5 et 6 ?
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 

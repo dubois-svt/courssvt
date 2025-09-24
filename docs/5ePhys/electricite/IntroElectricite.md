@@ -2,21 +2,23 @@
 
 L'électricité est une énergie que l'on utilise tous les jours. Une de ces utilisations est l'éclairage. 
 
-!!! question Problématique
+!!! question "Problématique"
+
     De quoi a-t-on besoin pour assurer l’éclairage électrique d’une pièce ?    
 
 ## Séance 1 : Modélisation d'une lampe de poche
 
 C’est en 1879 que l’Américain Thomas Edison provoque une révolution dans le quotidien des gens. Grâce à lui, les bougies et les lampes à pétrole qui provoquaient de nombreux incendies dans les foyers ont été remplacées par les premières ampoules électriques. Aujourd’hui, une simple pression sur un bouton et nous pouvons avoir de la lumière.
 
-!!! question Problématique
+!!! question "Problématique"
+
     Quels sont les composants électriques constituant la lampe aujourd'hui ?  
     Comment modéliser un circuit électrique ?
 
 
 [Activité sur la modélisation d'une lampe](../modelisationLampe)
 
-??? abstract Bilan
+??? abstract "Bilan"
     Un circuit électrique est une chaîne d'objets électriques. Il contient :
 
     - un générateur qui fournit l'énergie électrique
@@ -75,13 +77,14 @@ C’est en 1879 que l’Américain Thomas Edison provoque une révolution dans l
 
 En 1820, André-Marie Ampère, physicien français, théorise ce que l’on appelle aujourd’hui : le courant électrique. Jusqu’au début du XIXe siècle, les physiciens pensaient que de l’électricité était un fluide qui circulait dans un circuit. Aujourd’hui, nous savons que l’électricité est due au déplacement de charges électriques appelées électrons.
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment mesurer l’intensité du courant électrique présent dans un circuit ?
 
 
 [Activité sur l'intensité du courant électrique](../intensiteCourant)
 
-??? abstract Bilan
+??? abstract "Bilan"
     L’intensité du courant électrique est la quantité de charges électriques (électrons) qui se déplacent pendant un temps donné. 
 
     Les électrons se déplacent de la borne négative à la borne positive. Par convention, on note le sens du courant électrique de la borne + à la borne -.
@@ -108,7 +111,7 @@ Il doit y avoir un interrupteur pour allumer et éteindre les deux ampoules en m
 
 [Activité sur l'installation électrique d'une pièce](../installElectrique)
 
-??? abstract Bilan
+??? abstract "Bilan"
     Tout comme un interrupteur, une ampoule grillée (ou tout autre dipôle défectueux) ouvre le circuit. Le courant ne peut plus circuler
 
  

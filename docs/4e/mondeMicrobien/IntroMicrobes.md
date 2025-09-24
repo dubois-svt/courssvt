@@ -11,14 +11,16 @@ Le téléphone portable, plus sale que la cuvette des w.c.
 Le combiné contiendrait cinq cents fois plus de bactéries qu’un siège de toilette. Et vous, lavez-vous votre téléphone portable ?
 Par Laura Thouny, L’express, publié le 16/07/2010 
 
-!!! question Problématique
+!!! question "Problématique"
+
     Quel est l'impact des micro-organismes sur notre vie ?
     
 
 
 ## Séance 1 : Les micro-organismes
 
-!!! question Problématique
+!!! question "Problématique"
+
     Que sont les micro-organismes ?
 
 [Activité Les micro-organismes](../microbes)
@@ -28,10 +30,10 @@ Par Laura Thouny, L’express, publié le 16/07/2010
     ![](pictures/photoMicrobes.png)
     ![](pictures/echelleVivant.png)
 
-??? abstract Bilan
+??? abstract "Bilan"
     === "De quoi parler dans le bilan ? Quels mots clés ?"
 
-    === Bilan à trous
+    === "Bilan à trous"
 
         Les micro-organismes sont des êtres vivants microscopiques. Les micro-organismes sont présents dans tous les milieux de l’environnement. 
 
@@ -43,7 +45,7 @@ Par Laura Thouny, L’express, publié le 16/07/2010
 
         Il existe beaucoup de micro-organismes différents. Certains sont utiles pour l’être humain, d’autres sont pathogènes (= responsable de maladies). 
 
-    === Bilan
+    === "Bilan"
 
         Les micro-organismes sont des êtres vivants microscopiques. Les micro-organismes sont présents dans tous les milieux de l’environnement. 
 
@@ -58,16 +60,17 @@ Par Laura Thouny, L’express, publié le 16/07/2010
 
 ## Séance 2 Le microbiote.
 
-!!! question Problématique
+!!! question "Problématique"
+
     Quel est l’impact du microbiote sur notre santé ?
 
 [Activité Le rôle du microbiote](../microbiote)
 
 
-??? abstract Bilan
+??? abstract "Bilan"
     === "De quoi parler dans le bilan ? Quels mots clés ?"
 
-    === Bilan à trous
+    === "Bilan à trous"
         La plupart des micro-organismes hébergés par l’être humain ne sont pas dangereux et contribuent à nous maintenir en bonne santé. L’ensemble de ces bactéries forme le ..................
         On retrouve des micro-organismes dans différents organes : tube digestif, peau, vagin…
 
@@ -76,7 +79,7 @@ Par Laura Thouny, L’express, publié le 16/07/2010
 
         Certaines bactéries du microbiote pourraient influencer notre comportement, notre mode d’alimentation.
 
-    === Bilan
+    === "Bilan"
 
         La plupart des micro-organismes hébergés par l’être humain ne sont pas dangereux et contribuent à nous maintenir en bonne santé. L’ensemble de ces bactéries forme le microbiote.
         On retrouve des micro-organismes dans différents organes : tube digestif, peau, vagin…
@@ -88,16 +91,17 @@ Par Laura Thouny, L’express, publié le 16/07/2010
 
 ## Séance 3 : Limiter les risques de contamination
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment limiter les risques de contamination ?
 
 [Activité Les risques de contamination](../asepsieAntisepsie)
 
 
-??? abstract Bilan
+??? abstract "Bilan"
     === "De quoi parler dans le bilan ? Quels mots clés ?"
 
-    === Bilan à trous
+    === "Bilan à trous"
 
         La transmission des micro-organismes peut se faire d’un individu à l’autre (toux, rapports sexuels…) ou par l’intermédiaire de l’eau, des aliments ou de contacts avec des objets contaminés.
 
@@ -111,7 +115,7 @@ Par Laura Thouny, L’express, publié le 16/07/2010
 
         Définition : muqueuses : ce sont des tissus recouvrant les parties ................... du corps en contact avec ..................
 
-    === Bilan
+    === "Bilan"
 
         La transmission des micro-organismes peut se faire d’un individu à l’autre (toux, rapports sexuels…) ou par l’intermédiaire de l’eau, des aliments ou de contacts avec des objets contaminés.
 
@@ -126,7 +130,8 @@ Par Laura Thouny, L’express, publié le 16/07/2010
 
 ## Séance 4 : Les antibiotiques
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment les antibiotiques aident-ils à lutter contre certaines maladies ? 
 
 [Activité Les antibiotiques](../antibio)
@@ -134,17 +139,17 @@ Par Laura Thouny, L’express, publié le 16/07/2010
 [Activité Combattre une infection : une angine](../tpAngine)
 
 
-??? abstract Bilan
+??? abstract "Bilan"
     === "De quoi parler dans le bilan ? Quels mots clés ?"
 
-    === Bilan à trous
+    === "Bilan à trous"
 
         Les antibiotiques sont des substances qui permettent ........................ Ils sont donc un moyen efficace de lutter contre .......................
         Les antibiotiques n’ont aucun effet sur les .........................
         
         Une mauvaise utilisation des antibiotiques peut entraîner une résistance des ................... aux antibiotiques, ceux-ci peuvent donc devenir moins efficaces. De plus ces antibiotiques peuvent ................. le microbiote intestinal de l’être humain.
 
-    === Bilan à trous
+    === "Bilan à trous"
         Les antibiotiques sont des substances qui permettent l’élimination des bactéries. Ils sont donc un moyen efficace de lutter contre l’infection.
         Les antibiotiques n’ont aucun effet sur les virus.
         

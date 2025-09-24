@@ -1,16 +1,16 @@
 # Activité : Réservoirs d'eau sur Terre
 
-!!! note Compétences
+!!! note "Compétences"
 
     Utiliser l'outil mathématique
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Indiquer dans quels réservoirs l’être humain peut récupérer dont il a besoin. (document 1)
     2. Calculer le volume d’eau douce disponible pour l’être humain (document 1)
     3. Déterminer la proportion d’eau douce disponible sur le volume d’eau total. Exprimer cette proportion en pourcentage. (documents 1 et 2)
 
-??? bug Critères de réussite
+??? bug "Critères de réussite"
 
 
 

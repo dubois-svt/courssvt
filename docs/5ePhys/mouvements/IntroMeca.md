@@ -5,7 +5,8 @@
 
 La mécanique est une branche de la physique consacrée à l'étude du mouvement. Elle permet d'étudier le déplacement d'un objet.
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment décrire le mouvement d’un objet ? 
 
     
@@ -17,7 +18,7 @@ La mécanique est une branche de la physique consacrée à l'étude du mouvement
 
 Le mouvement d’un objet correspond à sa trajectoire et sa vitesse. On peut suivre la trajectoire d’un objet en pointant, image par image, à intervalle de temps régulier, sa position dans l’espace. Un objet qui se déplace suit une trajectoire, c’est-à-dire qu’il suit une succession ponctuelle de plusieurs positions dans l’espace. On repère ces positions sur une chronophotographie.
 
-??? abstract Bilan
+??? abstract "Bilan"
 
     Le mouvement est le déplacement au cours du temps d'un objet dans
     l'espace.
@@ -38,7 +39,8 @@ Le mouvement d’un objet correspond à sa trajectoire et sa vitesse. On peut su
     -   un cercle ou un arc de cercle, le mouvement est circulaire
     -   une courbe quelconque, le mouvement est curviligne
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment analyser la trajectoire d’un objet ?
 
 
@@ -54,7 +56,8 @@ Le mouvement d’un objet correspond à sa trajectoire et sa vitesse. On peut su
 
 Un mouvement s'étudie pleinement grâce à une chronophotographie. Cette dernière nous donne non seulement une information sur la position de l'objet dont on étudie le mouvement, mais aussi une information sur le temps de parcours. En effet, chaque image, chaque position, est représentée à intervalle de temps réguliers. Autrement dit, on peut connaître le temps qui sépare deux positions. Si on connaît la distance séparant deux points et la durée du parcours entre ces deux points, on peut déterminer une vitesse.
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment analyser le mouvement d'un objet grâce à une chronophotographie ?
     
 [Activité Vitesse et mouvement](../vitesse)
@@ -62,7 +65,7 @@ Un mouvement s'étudie pleinement grâce à une chronophotographie. Cette derni�
 
 
 
-??? abstract Bilan
+??? abstract "Bilan"
     La vitesse correspond au rapport de la distance par un temps.
 
     $v = \frac{distance}{variation temps} =\frac{d}{Δt}$
@@ -118,7 +121,8 @@ Un mouvement s'étudie pleinement grâce à une chronophotographie. Cette derni�
 
 Un phénomène que nous pouvons voir tous les jours, c'est le lever et le coucher du Soleil. De fait, on observe le Soleil se déplacer dans le ciel se levant à l'est et se couchant à l'ouest. On observe donc le Soleil en mouvement.
 
-!!! question Problématique
+!!! question "Problématique"
+
     Pourquoi dit-on alors que c'est la Terre qui tourne autour du Soleil ?
 
 **Document 1 mouvement depuis deux points de vue différents**
@@ -129,7 +133,7 @@ Un phénomène que nous pouvons voir tous les jours, c'est le lever et le couche
 
 
 
-??? abstract Bilan
+??? abstract "Bilan"
     Un mouvement peut être perçu différemment en fonction de l’endroit où on se situe pour l’observer. Cet endroit est appelé référentiel. 
 
 ## Séance 4 : Exercices

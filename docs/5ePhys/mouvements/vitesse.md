@@ -1,17 +1,17 @@
 # Activité : Vitesse et mouvement
 
-!!! note Compétences
+!!! note "Compétences"
 
     - Trouver et extraire des informations 
     - utiliser l'outil mathématique
     - argumenter
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. A partir des photographies du document 3, déterminer le type de mouvement de ces objets.
     2. En utilisant les documents 4,5 et 6, est-ce que l’automobiliste risque une contravention ? Si oui, laquelle ? Justifier votre réponse
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - avoir trouvé la vitesse maximale autorisée
     - avoir calculé la vitesse de l’automobiliste en m/s
     - avoir converti la vitesse en km/s puis en km/h

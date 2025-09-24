@@ -1,14 +1,14 @@
 # Activité : Différence entre météo et climat
 
 
-!!! note Compétences
+!!! note "Compétences"
     - Trouver et utiliser des informations
  
 
-!!! warning Consignes
+!!! warning "Consignes"
     En utilisant les documents ci-dessous, expliquer la différence entre « météo » et « climat ».
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - comparer les deux documents climat et trouver des points communs
     - comparer les deux documents météo et trouver des points communs
     - comparer les documents climat et météo et trouver une différence

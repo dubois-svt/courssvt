@@ -1,12 +1,12 @@
 # Activité : L’impact des courants atmosphériques sur le climat
 
-!!! note Compétences
+!!! note "Compétences"
     - trouver et utiliser des informations
 
 !!! warning Consigne
     À partir des documents, montrer que le climat au Québec et en Islande dépend des courants atmosphériques
 
-??? bug critères de réussite
+??? bug "Critères de réussite"
     - à quoi correspond l’indice ONA
     - identifier les années à indice négatif et positif
     - comparer ces années entre elles 

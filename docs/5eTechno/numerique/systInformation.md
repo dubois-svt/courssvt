@@ -2,11 +2,11 @@
 
 
 
-!!! note Compétences
+!!! note "Compétences"
 
     Interpréter 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. À partir de l'image montrant plein de fichiers différents indiquer, quels sont les 3 moyens d'identifier un fichier.
     2. Classer par taille les moyens de stockage.
@@ -16,7 +16,7 @@
         - indiquer si le chef peut lire le dossier privé
         - indiquer si le informaticien peut lire le dossier comptabilité
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 

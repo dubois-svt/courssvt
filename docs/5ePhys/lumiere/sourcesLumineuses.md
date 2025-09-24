@@ -1,17 +1,17 @@
 # Activité : Sources lumineuses
 
-!!! note Compétences
+!!! note "Compétences"
 
     - Trouver et utiliser des informations
     - Proposer un protocole expérimental 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Comparer la théorie de Démocrite et d’Euclide. 
     2. Rédiger un protocole expérimental que Alhazen a pu suivre pour réaliser ses conclusions.
     3. Classer les objets du document 2 selon la description d’Alhazen
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 

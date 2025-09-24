@@ -1,16 +1,16 @@
 # Activité : Le système circulatoire
 
-!!! note Compétences
+!!! note "Compétences"
 
     Trouver et utiliser des informations
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Compléter le tableau  du document 1, en indiquant pour chaque rôle les différents composants du système circulatoire des différents êtres vivants.
     2. En une phrase, indiquer la différence principale entre le système circulatoire des humains et des crevettes.
 
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 **Document 1 Tableau comparant le système circulatoire d'un vertébré et d'un arthropode**

@@ -1,10 +1,10 @@
 # Activité : Collecter, trier et analyser des données
 
-!!! note Compétences
+!!! note "Compétences"
 
     Argumenter 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Hachurer la zone qui pourra accueillir le meuble sur le plan du document 2.
     2. Quelle est la fonction principale du meuble ? 
@@ -12,7 +12,7 @@
     4. Choisir un meuble. Argumenter votre choix en donnant au moins 5 arguments.
 
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 

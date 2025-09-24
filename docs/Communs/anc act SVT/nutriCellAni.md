@@ -7,7 +7,8 @@ Les réserves glucidiques sont marquées en rose, les noyaux en noir. Les muscle
 
 ![](pictures/consoGlucCellMuscle.png)
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment les cellules peuvent-elles s’approvisionner en gaz et en nutriments, et évacuer leurs déchets ?
 
 
@@ -16,7 +17,7 @@ Les réserves glucidiques sont marquées en rose, les noyaux en noir. Les muscle
 [Activité La nutrition des cellules animales](../nutriCellAni)
 
 
-??? abstract Bilan
+??? abstract "Bilan"
 
 
     <a markdown id="bilan4">
@@ -29,13 +30,13 @@ Les réserves glucidiques sont marquées en rose, les noyaux en noir. Les muscle
     
 # Activité : La nutrition des cellules animales
 
-!!! note Compétences
+!!! note "Compétences"
 
     - Extraire et mettre en relation 
     - Utiliser des outils mathématiques
 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Présentez les échanges entre une cellule et son milieu de vie.
     2. Présentez, sous la forme d'un schéma, les échanges entre les cellules et le sang et la réaction ayant lieu dans la cellule.
@@ -43,7 +44,7 @@ Les réserves glucidiques sont marquées en rose, les noyaux en noir. Les muscle
     4. Indiquez de quelles molécules proviennent le dioxyde de carbone et l’urée.
 
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - identifier les échanges gazeux
     - représenter ces échanges sous une forme compréhensible par tous
     - communiquer mes conclusions en les argumentant

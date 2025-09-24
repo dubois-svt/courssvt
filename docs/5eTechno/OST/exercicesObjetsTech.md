@@ -2,11 +2,11 @@
 
 ## Exercice 1 : Fonction principale
 
-!!! note Compétences
+!!! note "Compétences"
 
     Trouver et utiliser des informations 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Compléter le tableau suivant.  
 
@@ -24,11 +24,11 @@
 
 
 
-!!! note Compétences
+!!! note "Compétences"
 
     Trouver et utiliser des informations 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Donner 4 objets appartenant aux familles suivantes :  
     
@@ -39,11 +39,11 @@
 
 # Exercice 3 Les fonctions d'un OST
 
-!!! note Compétences
+!!! note "Compétences"
 
     Extraire et utiliser des informations 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Compléter le tableau du document 1, en présentant pour les différents objets la fonction d'usage, les fonctions techniques et les principes techniques associés
     
@@ -148,11 +148,11 @@
 
 ## Exercice 4 Lignée d'objets 
 
-!!! note Compétences
+!!! note "Compétences"
 
     Trouver et utiliser des informations 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. A quelle famille appartiennent ces objets ? 
     2. Placer tous les objets sur la frise chronologique.
@@ -166,7 +166,7 @@
     7. Expliquer en quoi les ampoules LED ont tout de même un impact écologique  et comment le limiter
 
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 
@@ -332,11 +332,11 @@ Les lampes à diodes électroluminescentes (DEL) équipent plus souvent les nouv
 
 
 
-!!! note Compétences
+!!! note "Compétences"
 
     Trouver et utiliser des informations 
 
-!!! warning Consignes
+!!! warning "Consignes"
     1. Identifier la fonction principale de la famille d’objet.
     2. Classer ces objets en deux lignées d’objets.
     3. Recherche ce qui différencie ces deux lignées d’objets.

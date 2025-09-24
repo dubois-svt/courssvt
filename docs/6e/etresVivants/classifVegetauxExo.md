@@ -1,15 +1,15 @@
 # Activité : Exercice classification des végétaux.
 
-!!! note Compétences
+!!! note "Compétences"
 
     Communiquer sous différentes formes  
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. En utilisant les documents et le matériel, proposer une classification des végétaux.
     2. Sachant que le sapin est dans le même groupe de que le pin sylvestre, citer les attributs que possède le sapin.
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 

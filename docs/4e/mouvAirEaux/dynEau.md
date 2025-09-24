@@ -1,13 +1,13 @@
 # Activité : La dynamique des masses d'eau
 
-!!! note Compétences
+!!! note "Compétences"
     - Manipuler
     - Interpréter des résultats 
 
-!!! warning Consignes
+!!! warning "Consignes"
     Pour chaque modélisation, donner l'hypothèse qui peut-être testée, faire la modélisation et à partir des résultats conclure sur la validité de l'hypothèse.
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
 
 
 

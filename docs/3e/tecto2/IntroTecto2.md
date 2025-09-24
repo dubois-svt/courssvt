@@ -4,7 +4,8 @@
     si besoin d'infos
 
 
-!!! question Problématique
+!!! question "Problématique"
+
     Quelles sont les conséquences des mouvements de la tectonique des plaques ?
 
     Quel est le moteur de la tectonique des plaques?
@@ -15,7 +16,8 @@
 ## Séance 1 : Les divergences
 
 
-!!! question Problématique
+!!! question "Problématique"
+
     Quelles sont les conséquences des mouvements de divergence ?
 
 [Activité Les conséquences de la divergence](../divergences)
@@ -23,7 +25,7 @@
 
 
 
-??? abstract Bilan
+??? abstract "Bilan"
     ![](Pictures/schemaDynDorsale.png)
 
     Les mouvements de divergence entre deux plaques lithosphériques ayant lieu au niveau des dorsales océaniques permettent la formation de lithosphère océanique. Cette limite est caractérisée par un volcanisme effusif.
@@ -35,7 +37,8 @@
 ## Séance 2 : Les convergences
 
 
-!!! question Problématique
+!!! question "Problématique"
+
     Quelles sont les conséquences des mouvements de convergence ?
 
 [Activité La subduction](../subduction)
@@ -43,7 +46,7 @@
 
 [Activité La collision](../collision)
 
-??? abstract Bilan
+??? abstract "Bilan"
 
     La convergence de deux plaques lithosphériques dont l’une est océanique, entraîne le plongement (subduction) de la plaque océanique sous l’autre plaque, au niveau d’une fosse océanique Cette limite est caractérisée par un volcanisme explosif.
 
@@ -63,12 +66,13 @@
 ## Séance 3 : Le moteur de la tectonique des plaques
 
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment expliquer les mouvements des plaques lithosphériques ?
 
 [Activité Le moteur des mouvements](../moteurTecto)
 
-??? abstract Bilan
+??? abstract "Bilan"
 
     Il existe des différences de températures entre les roches présente à l’intérieur de la Terre.
 

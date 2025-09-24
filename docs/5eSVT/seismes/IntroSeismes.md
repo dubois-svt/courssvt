@@ -8,7 +8,8 @@ Le danger du séisme vient essentiellement des effondrements des bâtiments ne r
 
 <iframe title="séismes en direct" width="560" height="315" src="https://tube-sciences-technologies.apps.education.fr/videos/embed/ea2c76b5-3284-46ac-a7dd-244485871796" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 
-!!! question Problématique
+!!! question "Problématique"
+
     À quoi sont dus les séismes ? 
     Comment s’en protéger ?
 
@@ -18,14 +19,15 @@ Le danger du séisme vient essentiellement des effondrements des bâtiments ne r
 
 ## Séance 1 : Les séismes
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment se manifeste un séisme ?
 
 
 [Activité Décrire un séisme](../seismes)
 
 
-??? abstract Bilan
+??? abstract "Bilan"
     Un séisme ou tremblement de terre se manifeste par des vibrations brèves (courtes) et brutales. Les séismes peuvent être à l’origine de déformation du paysage, de dégâts plus ou moins importants et de morts.
     Un séisme peut être décrit par sa magnitude et son intensité.
 
@@ -33,28 +35,30 @@ Le danger du séisme vient essentiellement des effondrements des bâtiments ne r
 
 ## Séance 2 : Modéliser un séisme
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment modéliser un séisme ?
 
 
 [Activité Modéliser une rupture de roche](../modelRuptureRoches)
 
 
-??? abstract Bilan
+??? abstract "Bilan"
     Les roches subissent des forces et accumulent des tensions. Les roches se déforment et peuvent casser (=rupture), des failles se forment et séparent des blocs de roches.
     Le déplacement de ces blocs, le long de la faille, libère des ondes qui se propagent dans le sol. Ces ondes provoquent des secousses appelées tremblement de terre ou séisme.
 
 
 ## Séance 3 : Les ondes sismiques
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment se propagent les ondes sismiques ? 
 
 [Activité Propagation des ondes sismiques et intensité](../propagOndes)
 
 
 
-??? abstract Bilan
+??? abstract "Bilan"
 
     Le foyer sismique est le point d’origine des ondes sismiques.
     Ces ondes sismiques se propagent dans toutes les directions.
@@ -67,7 +71,8 @@ Le danger du séisme vient essentiellement des effondrements des bâtiments ne r
 
 ## Séance 4 : Le risque sismique
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment gérer le risque sismique ?
 
 
@@ -75,7 +80,7 @@ Le danger du séisme vient essentiellement des effondrements des bâtiments ne r
 [Activité Gestion d'un risque sismique](../risquesSismiques)
 
 
-??? abstract Bilan
+??? abstract "Bilan"
     Les phénomènes sismiques peuvent exposer les populations humaines à un risque.
 
     Un risque est évalué en tenant compte de son aléa (sa probabilité de survenir) et de la vulnérabilité des enjeux (sensibilité au risque des biens et des humains).

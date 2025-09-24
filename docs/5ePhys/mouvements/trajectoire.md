@@ -1,15 +1,15 @@
 # Activité : Trajectoire et mouvement
 
-!!! note Compétences
+!!! note "Compétences"
 
     Trouver et extraire des informations 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. À partir des photographies du document 2, décrire le type de mouvement de ces 3 objets, en vous aidant des informations du tableau.
     2. Le robot a été programmé pour effectuer différents mouvements en fonction du bouton sur lequel on appuie. Pour chaque bouton, indiquer en justifiant le type de mouvement dans le document 3.
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 

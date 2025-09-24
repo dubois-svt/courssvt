@@ -1,17 +1,17 @@
 # Activité : La place de l’être humain
 
-!!! note Compétences
+!!! note "Compétences"
 
     Trouver et utiliser des documents 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Complétez l’arbre de parenté du document 3 à l’aide des informations du document 2, entourer le groupe des primates.
     2. Justifier la place de l’être humain dans le groupe des primates.
     3. À partir de la lecture de l’arbre du document 3, expliquer pourquoi on peut affirmer que l’être humain ne descend pas du chimpanzé, mais que le chimpanzé est notre plus proche parent actuel.
     4. Peut-on dire que l’australopithèque est l’ancêtre du genre Homo ou qu’Homo neanderthalensis est l’ancêtre d’Homo sapiens ? Justifier.
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 

@@ -1,15 +1,15 @@
 # Activité : Traitement des informations par le cerveau
 
-!!! note Compétences
+!!! note "Compétences"
 
     Construire un schéma fonctionnel
  
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     À partir des documents, construire un schéma fonctionnel expliquant comment le cerveau traite le message nerveux sensitif pour former un message nerveux moteur, dans le cas d'un élève qui voit une balle et va frapper dedans.
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - les différentes zones sont placés dans le schéma
     - l'ordre des boites est correcte
     - le schéma fonctionnel respecte les règles

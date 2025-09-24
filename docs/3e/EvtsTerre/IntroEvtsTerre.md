@@ -6,7 +6,8 @@
 ### Document d’appel :
 ![](Pictures/BDVoyageTemps.png)
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment était la Terre avant que les êtres humains y soient présents ?
     
 
@@ -14,17 +15,18 @@
 ## Séance 1 : L’histoire de la Terre
 
 
-!!! question problématique
+!!! question "Problématique"
+
      Quels sont les grands événements ayant eu lieu dans l’histoire de la Terre ?
 
 [Activité L’histoire de la Terre](../HistoireTerre)
 
 
-??? abstract Bilan
+??? abstract “Bilan”
 
     <a markdown id="bilan1">
 
-    === Bilan à trous
+    === "Bilan à trous"
 
         La Terre s’est formée il y a ____________________________. Les ____________________________ sont datées de 3,5 Ga.
 
@@ -36,7 +38,7 @@
 
         Définition fossile : Reste ou trace ____________________________ (animaux, végétaux, bactéries**…**) conservés dans la ____________________________.
 
-    === Bilan
+    === "Bilan"
         La Terre s’est formée il y a 4,6 milliards d’années (Ga). Les premières traces d’êtres vivants sont datées de 3,5 Ga.
 
         Des évènements géologiques et biologiques ont affecté la surface de la Terre en modifiant les milieux et les conditions de vie.
@@ -76,7 +78,7 @@ Différence météo et climat
 </div>
 </div>
 
-!!! abstract Définitions
+!!! abstract “Définitions”
     En météorologie :
     On décrit les paramètres météo (températures, précipitations, vents…) qu’il fait à un instant donné.  
     On prévoit comment les paramètres météo évolueront dans les prochains
@@ -88,7 +90,7 @@ Différence météo et climat
     On décrit l’évolution des climats dans le passé.  
     On prévoit l’évolution des climats dans le futur.
 
-!!! question Problématique 
+!!! question “Problématique”
     Comment montrer que le climat a changé dans le passé ?
 
 [Activité les changements climatiques passés](../chgtsClimatPasses)
@@ -96,18 +98,18 @@ Différence météo et climat
 
 
 
-??? abstract Bilan
+??? abstract “Bilan”
 
     <a markdown id="bilan2">
 
-    === Bilan à trous
+    === "Bilan à trous"
         À l’échelle des temps géologiques, le climat change, selon la position de la Terre dans l’espace et son inclinaison.
 
         Les changements climatiques peuvent être montrés grâce aux ____________________________ ou ________________________________.
 
         Ces changements climatiques passés ont provoqué des variations de la répartition des êtres vivants.
 
-    === Bilan
+    === "Bilan"
         À l’échelle des temps géologiques, le climat change, selon la position de la Terre dans l’espace et son inclinaison.
 
         Les changements climatiques peuvent être montrés grâce aux fossiles que l’on retrouve ou aux traces laissées par nos ancêtres.
@@ -126,7 +128,7 @@ Le phénomène actuel est un consensus scientifique. Les scientifiques ont tous 
 
 ![© NAWAK - Licence : Tous droits réservés](Pictures/caricatureTrumClimat.png)
 
-!!! question Problématique 
+!!! question “Problématique”
     Quels sont les arguments pour montrer que le réchauffement existe ?
 
 [Activité Changement climatique actuel](../chgtClimatActuel)
@@ -135,17 +137,17 @@ Le phénomène actuel est un consensus scientifique. Les scientifiques ont tous 
 ![](Pictures/graphTempMoyenne.png)
 
 
-??? abstract Bilan
+??? abstract “Bilan”
 
     <a markdown id="bilan3">
 
-    === Bilan à trous
+    === "Bilan à trous"
     
         Depuis la ____________________, on observe une __________________ plus rapide de la température moyenne à la surface de la Terre que celles constatées durant ces 500 000 dernières années
 
         De nombreux indices montrent que jamais dans l’histoire du climat, la température n’a augmenté aussi rapidement qu’actuellement. (ex: )
 
-    === Bilan
+    === "Bilan"
 
         Depuis la deuxième moitié du 19e siècle, on observe une augmentation plus rapide de la température moyenne à la surface de la Terre que celles constatées durant ces 500 000 dernières années
         De nombreux indices montrent que jamais dans l’histoire du climat, la température n’a augmenté aussi rapidement qu’actuellement. (enregistrement températures, date des vendanges, fonte des glaces...)

@@ -1,17 +1,17 @@
 # Activité : Conservation des aliments
 
-!!! note Compétences
+!!! note "Compétences"
 
     - Manipuler
     - Trouver et extraire des informations 
 
-!!! warning Consignes
+!!! warning "Consignes"
     1. Compléter la recette de saumure et la préparer.
     2. Comparer la méthode de conservation de légumes par saumure à un légume frais
     3. En utilisant le matériel à disposition, expliquer pourquoi il peut être dangereux de laisser un produit congelé en dehors du congélateur pendant plus de 30 minutes.
     
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - Mesurer combien de sel est nécessaire pour arriver à saturation dans 10ml d'eau
     - Préparer une saumure de concombre
     - Comparer après une semaine un concombre en saumure et un frais

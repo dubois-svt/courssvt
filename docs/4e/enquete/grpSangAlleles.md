@@ -1,10 +1,10 @@
 # Activité : Le groupe sanguin et l'ADN
 
-!!! note Compétences
+!!! note "Compétences"
 
     - extraire et mettre en relation des informations  
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Représenter la ou les paires de chromosomes associées à chaque groupe sanguin ABO.
     2. Retrouver les allèles du groupe sanguin ABO possédés par le coupable.
@@ -12,7 +12,7 @@
 
 
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
 
 ??? bug "Coups de pouce"    
 

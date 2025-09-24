@@ -1,17 +1,17 @@
 # Activité : Combattre une infection : une angine
 
-!!! note Compétences
+!!! note "Compétences"
 
     Interpréter 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. analyser le document 1 et justifier le choix du médecin de ne pas prescrire d’antibiotique automatiquement. (1 point)
     2. à l’aide du document 2, déterminer l’origine de l’angine de Léa en justifiant.(1 point)
     3. Réaliser l’antibiogramme et faire un schéma des résultats observés(1,5 points)  
     4. Rédiger l’ordonnance qui conviendra à Léa en incluant la description et les explications de l’antibiogramme. (1,5 points)
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 

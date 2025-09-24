@@ -1,14 +1,14 @@
 # Activité : Les fonctions d'un OST
 
-!!! note Compétences
+!!! note "Compétences"
 
     Extraire et utiliser des informations 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Compléter le document 3, en présentant, pour le Belem,  les différentes fonctions assurées.
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 

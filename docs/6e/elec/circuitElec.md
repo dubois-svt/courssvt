@@ -1,17 +1,17 @@
 # Activité : Circuit électrique
 
-!!! note Compétences
+!!! note "Compétences"
 
     - Manipuler
     - Schématiser 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Faire le circuit électrique du document 1
     2. Faire un schéma du circuit en suivant les règles du document 2 et 3
     3. Faire un schéma de la chaine énergétique
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 

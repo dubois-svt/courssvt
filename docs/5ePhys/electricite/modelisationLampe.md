@@ -1,10 +1,10 @@
 # Activité : Modélisation d'une lampe de poche
 
 
-!!! note Compétences
+!!! note "Compétences"
     - Trouver et utiliser des informations
 
-!!! warning Consignes
+!!! warning "Consignes"
     1. Indiquer une utilité pour chaque composant de la lampe du document 1 
 
     2. Dans la liste suivante, indiquer pour chaque composants s'il s'agit de récepteurs, de générateurs ou d'aucun des deux:
@@ -18,7 +18,7 @@
 
     6. Complète le tableau du document 8 en fonction de ce qu’il manque
 
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - avoir répondu aux questions
     - connaître les règles pour faire un schéma de circuit électrique
     - avoir représenté correctement les symboles pour représenter les éléments dans un schéma électrique

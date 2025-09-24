@@ -1,16 +1,16 @@
 # Activité : Evolution des populations et sélection naturelle
 
-!!! note Compétences
+!!! note "Compétences"
 
     - Interpréter 
     - Utiliser l'outil numérique
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. . A l’aide du site internet, [https://www.pedagogie.ac-nice.fr/wp-content/uploads/sites/5/productions/phalenes/](https://www.pedagogie.ac-nice.fr/wp-content/uploads/sites/5/productions/phalenes/), réaliser le protocole  du document 1.
     2. A l’aide de la simulation, des documents et des graphiques obtenus, expliquer l’évolution de la population de phalènes dans la région de Manchester.
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 

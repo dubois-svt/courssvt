@@ -1,12 +1,12 @@
 # Activité : Le moteur du mouvement des plaques lithosphériques
 
-!!! note Compétences
+!!! note "Compétences"
 
     - trouver et utiliser des informations (3,4,5),
     - Interpréter et exploiter des résultats (1,2,6) 
     - Mettre en œuvre un protocole. 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Compléter le tableau du document 2, avec les mots suivants :(0,5 point)
     Source de chaleur, Rien, Roches de la lithosphère et Roches de l’asthénosphère, pour comparer le modèle et la réalité. 
@@ -18,7 +18,7 @@
     7. Proposer deux critiques qui peuvent être faites sur le modèle par rapport à la réalité. (0,5 point)
 
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 **Document 1 : Protocole d’un modèle montrant les mouvements à l’intérieur de la Terre**

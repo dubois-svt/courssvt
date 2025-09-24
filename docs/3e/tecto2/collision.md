@@ -1,18 +1,18 @@
 # Activité : Les conséquences de la convergence, la collision.
 
-!!! note Compétences
+!!! note "Compétences"
 
     - Manipuler, expérimenter 
     - Trouver et exploiter des informations 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. À l’aide des informations des documents 1 et 2, compléter le tableau du document 3.
     2. Faire la manipulation du document 2
     3. En utilisant les informations des documents, expliquer ce qui se passe au niveau de cette zone.
     4. Quel indice devrait être trouvé dans la chaîne de l’Himalaya si le modèle est correct.
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 

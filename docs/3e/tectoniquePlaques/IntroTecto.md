@@ -5,7 +5,8 @@
     si besoin d'infos
 
 
-!!! question Problématique
+!!! question "Problématique"
+
     Qu'est-ce que la tectonique des plaques ?
     Qu'est-ce qu'une plaque ?
 
@@ -16,7 +17,8 @@
 
 ## Séance 1 : Répartition des séismes et des volcans
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment sont répartis les séismes et les volcans à la surface de la Terre ?
 
 [Activité Répartition des séismes et des volcans](../repartSeismesVolcans)
@@ -24,7 +26,7 @@
 
 
 
-??? abstract Bilan
+??? abstract "Bilan"
 
     La surface rocheuse de la Terre est nommée lithosphère. Cette lithosphère est rigide et découpée en plaques appelées plaques lithosphériques (ou plaques tectoniques).
     
@@ -49,7 +51,8 @@
 
 ## Séance 2 : Les mouvements à la surface de la Terre
 
-!!! question Problématique
+!!! question "Problématique"
+
     Quels types de mouvements se produisent à la surface de la Terre ?
 
 [Activité Les mouvements à la surface de la Terre](../mvtsSurfaceTerre)
@@ -57,7 +60,7 @@
 
 
 
-??? abstract Bilan
+??? abstract "Bilan"
 
     Ces plaques sont en mouvements les unes par rapport aux autres :
 
@@ -68,14 +71,15 @@
 
     - Elles peuvent aussi coulisser l’une par rapport à l’autre (décrochement)
     
-??? abstract Bilan
+??? abstract "Bilan"
 
     Il existe trois types de limites de plaques : 
     - divergentes (où les plaques s'écartent), - convergentes (où elles se rapprochent) - et transformantes (où elles coulissent horizontalement l'une par rapport à l'autre).
 
 ## Séance 3 : Histoire des sciences et tectoniques des plaques
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment les scientifiques ont mis en évidence la tectonique des plaques ?
 
 [Activité Histoire de la construction d’une théorie de la tectonique des plaques](../histoireTectonique)
@@ -83,7 +87,7 @@
 
 
 
-??? abstract Bilan
+??? abstract "Bilan"
     La théorie de la tectonique des plaques a été émise à la fin des années 1960 grâce à de meilleures connaissances de la surface de la Terre. Cette théorie est issue de la théorie de la dérive des continents élaborée par Wegener au début du 20e siècle.
     Cette théorie explique que les plaques lithosphériques sont en mouvements les unes par rapport aux autres (pas seulement les continents) et que les volcans et les séismes sont dus aux déplacements de ces plaques lithosphériques.
 

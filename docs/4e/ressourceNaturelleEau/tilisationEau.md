@@ -1,15 +1,15 @@
 # Activité : Utilisation de l'eau
 
-!!! note Compétences
+!!! note "Compétences"
 
     Utiliser l'outil mathématique
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Calculer le volume d’eau utilisée par l’alimentation en France et par les bains et les douches. (documents 1 et 2)
     2. Calculer combien d'eau peut être économiser en France par an en limitant l'utilisation d'eau lors du brossage de dents (document 3)
 
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     Quantité d'eau consommée par une personne qui coupe le robinet à chaque brossage : 
     Quantité d'eau consommée par une personne qui ne coupe pas le robinet à chaque brossage : 
 

@@ -1,16 +1,16 @@
 # Activité : La levure et la pâte à pain.
 
-!!! note Compétences
+!!! note "Compétences"
 
     Interpréter 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. À partir des documents, proposer une expérience permettant de vérifier qu les lévures sont responsables du gonflement de la pâte à pain, appeler le professeur pour vérification. 
     2. Réaliser l’expérience.
     3. Analyse l’expérience du document 4.
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - Analyser l'expérience en respectant les différentes étapes:
 
         - hypothèse

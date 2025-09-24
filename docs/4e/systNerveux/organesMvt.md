@@ -1,10 +1,10 @@
 # Activité : Les organes du mouvement
 
-!!! note Compétences
+!!! note "Compétences"
 
     Construire un schéma fonctionnel 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Construisez un schéma fonctionnel pour expliquer les organes utilisés par le footballeur depuis le moment où il voit le ballon jusqu'à l'instant où il frappe la balle.
 
@@ -12,7 +12,7 @@
 
     3. Ajouter nerf sensitif et nerf moteur au bon endroit.
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - les différents organes sont placés dans le schéma
     - l'ordre des boites est correcte
     - le schéma fonctionnel respecte les règles

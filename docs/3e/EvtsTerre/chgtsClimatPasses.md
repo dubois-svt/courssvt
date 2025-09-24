@@ -1,12 +1,12 @@
 # Activité : Les changements climatiques passés
 
-!!! note Compétences
+!!! note "Compétences"
     - trouver et utiliser des informations
 
-!!! warning Consignes
+!!! warning "Consignes"
     1. À l’aide des documents, montrer que le climat à Vallon-Pont-d’Arc le climat a changé entre aujourd'hui et il y a 30 000 ans et expliquer comment les scientifiques ont pu le savoir.
 
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - Pour chaque ville, avoir relevé le climat actuel
     - Pour chaque ville, avoir relevé un indice datant de l'époque étudiée
     - Pour chaque ville, avoir déterminé le climat passé à partir des informations de l'indice.

@@ -1,16 +1,16 @@
 # Activité : Observation de l’épiderme d’un triton
 
-!!! note Compétences
+!!! note "Compétences"
 
     - Observation au microscope 
     - réaliser un dessin d’observation 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Observer une lame de mue de triton au microscope.
     2. Réaliser le dessin de ton observation en utilisant les informations des documents 1 et 2.
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 **Document 1 : Observation au microscope.**

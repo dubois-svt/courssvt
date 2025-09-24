@@ -1,15 +1,15 @@
 # Activité : Programmer un robot
 
-!!! note Compétences
+!!! note "Compétences"
 
     Passer d'un langage à un autre
     Utiliser l'outil numérique 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     Pour chaque défi du document 3 compléter l’algorigramme correspondant et programmer le robot pour qu’il réalise le défi.
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 **Document 1 Le rover Curiosity**

@@ -1,6 +1,6 @@
 # Activité : Les propriétés des matériaux
 
-!!! note Compétences
+!!! note "Compétences"
     - Interpréter des résultats de façon raisonnée et en tirer des conclusions en mobilisant des arguments scientifiques.  
     - Relier des connaissances acquises en sciences et technologie à des questions de santé, de sécurité et d’environnement.
 
@@ -9,7 +9,8 @@
 Actuellement, de plus en plus de personnes s'essayent à la cuisine moléculaire, l'une des techniques est la cuisine à l'azote. Cette technique consiste à plonger les aliments dans de l'azote liquide à -196°C.
 Comme pour la préparation du caramel, le choix de l'ustensile est très important pour éviter des blessures. 
 
-!!! question Problématique
+!!! question "Problématique"
+
 
     Un cuisinier dispose de deux pinces, une en bois et l'autre en métal. Laquelle choisir ?
 
@@ -43,7 +44,8 @@ Etape 4 : Toucher les deux manches et comparer la température que vous ressente
 Les centres de tri des déchets traitent des milliers de tonnes de déchets chaque année. Le but est de séparer les différents types de déchets pour les envoyer dans des usines de recyclage afin que nouveaux objets soient fabriqués.
 L'une des étapes est l'overband qui est un aimant puissant.
 
-!!! question Problématique
+!!! question "Problématique"
+
 
     Quels sont les objets issus des poubelles de recyclage que cet aimant permet de trier ?
 

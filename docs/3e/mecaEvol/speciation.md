@@ -1,15 +1,15 @@
 # Activité : Evolution et nouvelles espèces
 
-!!! note Compétences
+!!! note "Compétences"
 
     Trouver et utiliser des informations 
     Construire un schema fonctionnel
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     Construire un schéma fonctionnel qui montre comment à partir d’une population une nouvelle espèce peut apparaître.
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
 
     - Expliquer pourquoi on peut dire que les deux populations de moustiques appartiennent à des espèces différentes
     - Représenter les différents évènements qui ont eu lieu

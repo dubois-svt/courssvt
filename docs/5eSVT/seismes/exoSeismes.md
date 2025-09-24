@@ -1,15 +1,15 @@
 # Activité : Exercice
 
-!!! note Compétences
+!!! note "Compétences"
 
     - Utiliser l'outil mathématique 
 
-!!! warning Consignes
+!!! warning "Consignes"
     Calculer la vitesse des ondes sismiques en km/s
     
 
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
 
 
 **Document 1 Sismogrammes du séisme du 6 février 2008 enregistrés à Marie-Galante et en Martinique**

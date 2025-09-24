@@ -1,12 +1,12 @@
 # Activité : Le changement climatique actuel
 
-!!! note Compétences
+!!! note "Compétences"
     - argumenter
 
-!!! warning Consignes
+!!! warning "Consignes"
     À partir des documents, donner des arguments montrant le réchauffement climatique actuel.
 
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - avoir montré avec le document le changement climatique actuel.
     - expliquer ce que l'on observe sur les photos du document 2. 
     - expliquer le lien avec le réchauffement climatique.

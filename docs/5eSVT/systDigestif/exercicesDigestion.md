@@ -2,15 +2,15 @@
 
 
 ## Exercice 1
-!!! note Compétences
+!!! note "Compétences"
     - Réaliser un graphique
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. À partir du document 1, trace un graphique de la quantité de glucose dans le sang en fonction du temps après l'ingestion
 
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 
@@ -28,14 +28,14 @@ On donne à un individu un plat de pâtes à manger. Puis l’on suit la quantit
 
 ## Exercice 2 
 
-!!! note Compétences
+!!! note "Compétences"
     - Interpréter
 
-!!! warning Consignes
+!!! warning "Consignes"
     1. Rappeler les étapes de l'analyse d'expérience
     2. L'expérience de Beaumont est incomplète, faire l'analyse de l'expérience de Beaumont en complétant les éléments manquants
 
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - avoir fait l'analyse d'expérience
         - hypothèse
         - protocole

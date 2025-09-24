@@ -1,6 +1,6 @@
 # Activité : Exercices de révision sur les graphiques
 
-!!! note Compétences
+!!! note "Compétences"
     - Trouver et utiliser des informations
     - Construire un graphique
     - Décrire un graphique
@@ -13,7 +13,7 @@
 
 ## Exercice 1
 
-!!! warning Consignes
+!!! warning "Consignes"
     
     1. Indiquer ce que représente l’ordonnée du graphique.
     2. Indiquer ce que représente l’abscisse du graphique.
@@ -48,7 +48,7 @@ En hiver, les sarcelles d’hiver sont présentes dans des aires d’hivernage a
 
 ## Exercice 2
 
-!!! warning Consignes
+!!! warning "Consignes"
     
     1. À l’aide du tableau ci-dessus, construire le graphique représentant l’évolution de la masse de la marmotte en fonction du temps.
     2. Décrire le graphique obtenu.

@@ -1,11 +1,11 @@
 # Activité : Étude d’objets programmés, le cas d'un drone pour l'agriculture
 
-!!! note Compétences
+!!! note "Compétences"
 
     - Trouver et utiliser des informations
     - Passer d'un langage à un autre. 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Expliquer pourquoi l’emploi des drones est un progrès pour l’agriculture.
 
@@ -13,7 +13,7 @@
 
     3. À l’aide du document 4, compléter le programme du document 5.
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 

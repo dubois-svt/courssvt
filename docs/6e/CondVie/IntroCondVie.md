@@ -16,12 +16,14 @@ La planète Terre est la seule planète du système solaire à présenter de la 
 
 
 
-!!! question Problématique
+!!! question "Problématique"
+
     Pourquoi ne peux pas vivre sur une autre planète? Quelles sont les conditions nécessaires à la vie?
 
 ## Séance 1 : Les conditions de vie sur Terre 
 
-!!! question Problématique
+!!! question "Problématique"
+
     Pourquoi ne peux pas vivre sur une autre planète? Quelles sont les conditions nécessaires à la vie?
 
 [Activité Condition nécessaire à la vie](../conditionVie)
@@ -29,7 +31,7 @@ La planète Terre est la seule planète du système solaire à présenter de la 
 
 
 
-??? abstract Bilan
+??? abstract "Bilan"
 
     Pour pouvoir vivre sur une planète, il faut regrouper les conditions nécessaires au fonctionnement des cellules :
 
@@ -43,13 +45,14 @@ La planète Terre est la seule planète du système solaire à présenter de la 
 
 ## Séance 2 : L'eau dans les êtres vivants
 
-!!! question Problématique
+!!! question "Problématique"
+
     En quoi l’eau liquide est importante pour la vie ?
 
 [Activité L’eau, un composant des êtres vivants](../VivantetEau)
 
 
-??? abstract Bilan
+??? abstract "Bilan"
     Tous les êtres vivants contiennent de l’eau à l’état liquide et ont besoin d’eau ou d’aliments contenant de l’eau.
 
 ## Séance 3 : La température de changement d'état
@@ -58,12 +61,13 @@ La planète Terre est la seule planète du système solaire à présenter de la 
 
 Le verglas est une couche de glace qui se forme sur le sol à une température inférieure à zéro degrés Celsius (°C). Chaque année, de nombreux accidents sont dus à la présence de verglas sur la route. Pour pallier ce problème, la neige est souvent déblayée et on projette du sel sur la route.
 
-!!! question Problématique
+!!! question "Problématique"
+
     Pourquoi projeter du sel sur la route lorsqu’il y a du verglas ?
 
 [Activité Les changement d'état de l'eau](../chgtEtatEau)
 
-??? abstract Bilan
+??? abstract "Bilan"
 
     L'état physique (solide, liquide ou gaz) d'un corps dépend de sa température.
 
@@ -78,7 +82,8 @@ Le verglas est une couche de glace qui se forme sur le sol à une température i
 
 ## Séance 4 : Les besoins d'un végétal
 
-!!! question Problématique
+!!! question "Problématique"
+
     Quels sont les besoins des plantes ?
 
 [Activité Les besoins nutritifs des végétaux](../besoinVeg)
@@ -89,7 +94,7 @@ Le verglas est une couche de glace qui se forme sur le sol à une température i
 
 
 
-??? abstract Bilan
+??? abstract "Bilan"
     Pour se grandir et se développer, les plantes ont besoin de lumière et de matière minérale (dioxyde de carbone, eau et sels minéraux). Les plantes sont des producteurs primaires : à partir de la matière minérale, elles vont fabriquer de la matière organique.
     
     La majorité des graines ont besoin d’eau et de chaleur pour germer.

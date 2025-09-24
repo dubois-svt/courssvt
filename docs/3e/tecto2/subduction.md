@@ -1,17 +1,17 @@
 # Activité : Les conséquences de la convergence, la subduction.
 
-!!! note Compétences
+!!! note "Compétences"
 
     Trouver et exploiter des informations 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Décrire comment varie la profondeur des séismes de A vers B sur le document 2 
     2. Représenter sur le graphique du document 2, la lithosphère en vous aidant des informations du document 3
     3. en utilisant les informations du document 3, expliquer pourquoi il est étonnant d’avoir des foyers sismiques à cette profondeur
     4. en utilisant les informations des documents 1, 2 et 3, expliquer ce qui se passe au niveau de cette zone.
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 

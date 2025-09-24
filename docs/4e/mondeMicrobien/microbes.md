@@ -1,15 +1,15 @@
 # Activité : Les micro-organismes 
 
-!!! note Compétences
+!!! note "Compétences"
 
     - Construire un tableau 
     - utiliser l'outil mathématique
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Construire un tableau présentant les différents micro-organismes, en indiquant leur hôte ou milieu de vie, leur taille, leur action et leur type (virus, champignons ou bactéries)
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 

@@ -1,15 +1,15 @@
 # Activité : Révolution et Rotation
 
-!!! note Compétences
+!!! note "Compétences"
     - Utiliser l'outil numérique
     - Trouver et exploiter des informations
 
-!!! warning Consignes
+!!! warning "Consignes"
     Consigne 1 : À l’aide des documents 2 et 3, donner une définition de « année ».  
     Consigne 2 : Comment appelle-t-on habituellement une rotation pour la Terre ?   
     Consigne 3 : En vous aidant des documents 4, compléter les cases manquantes des tableaux du document 3.
 
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - Définir ce qu'est une année
         - Définir ce qu'est une révolution
     - Définir ce qu'est une rotation

@@ -1,10 +1,10 @@
 # Activité : Exercice d’application
 
-!!! note Compétences
+!!! note "Compétences"
 
     Trouver et utiliser des informations 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. A quelle famille appartiennent ces objets ? 
     2. Placer tous les objets sur la frise chronologique.
@@ -15,7 +15,7 @@
     7. Expliquer en quoi les ampoules LED ont tout de même un impact écologique  et comment le limiter
 
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 

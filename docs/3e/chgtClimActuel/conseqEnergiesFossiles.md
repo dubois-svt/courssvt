@@ -1,14 +1,14 @@
 # Activité : Les conséquences de l’exploitation des énergies fossiles.
 
-!!! note Compétences
+!!! note "Compétences"
 
     trouver et utiliser des informations
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     A partir de l’exploitation des différents documents, présenter, sous forme d’un audio de 2 minutes maximum, les conséquences de l’exploitation des énergies fossiles. 
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
 
     <table>
     <thead><tr><th colspan = 4>

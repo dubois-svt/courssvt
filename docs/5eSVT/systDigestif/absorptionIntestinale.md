@@ -1,18 +1,18 @@
 # Activité : Absorption intestinale
 
-!!! note Compétences
+!!! note "Compétences"
 
     - Interpréter
     - Réaliser un graphique
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. À partir du document 1, trace un graphique de la quantité de nutriments présents dans le tube digestif en fonction de la distance à la bouche.
 
     2. À partir des informations, indiquer ce que deviennent les nutriments présents dans le tube digestif.
 
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 

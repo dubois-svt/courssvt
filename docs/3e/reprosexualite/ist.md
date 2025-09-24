@@ -1,14 +1,14 @@
 # Activité : IST
 
-!!! note Compétences
+!!! note "Compétences"
 
     Construire un tableau 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     À partir des documents, construire un tableau présentant pour chaque maladie, le type du microbe, le sexe des individus touchés, les symptômes, les moyens de protections.
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 

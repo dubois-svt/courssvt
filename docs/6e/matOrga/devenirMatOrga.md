@@ -1,17 +1,17 @@
 # Activité : Le devenir de la matière organique
 
-!!! note Compétences
+!!! note "Compétences"
 
     - Interpréter 
     - Argumenter
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Montrer l'importance des champignons et des bactéries dans la décomposition
     2. Expliquer ce que devient la matière organique décomposée
     3. Expliquer pourquoi le compost peut favoriser le développement des plantes
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 

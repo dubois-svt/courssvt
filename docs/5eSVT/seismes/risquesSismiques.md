@@ -1,10 +1,10 @@
 # Activité : Gestion d'un risque sismique
 
-!!! note Compétences
+!!! note "Compétences"
 
     - Trouver et utiliser des informations 
 
-!!! warning Consignes
+!!! warning "Consignes"
     
     1. En utilisant les documents, compléter le tableau du document 4 pour caractériser le risque sismique pour les quatre zones étudiées (Alaska ; Haïti ; Inde ; Japon).
     2. Classer en 3 catégories (Prévision de l'aléa, mesures de protection et mesures de prévention) dans un tableau, les exemples de mesures proposés.
@@ -12,7 +12,7 @@
     3. A partir de la vidéo du document 5, expliquer pourquoi y a-t-il eu beaucoup de victimes lors du séisme de Kobe, au Japon. (Votre réponse doit comporter au minimum 3 facteurs pouvant expliquer ce tragique évènement)
 
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
 
 
 **Document 1 Prévision, protection et prévention d'un risque**

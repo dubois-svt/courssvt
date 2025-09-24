@@ -1,16 +1,16 @@
 # Activité : Les familles d’objets
 
-!!! note Compétences
+!!! note "Compétences"
 
     Trouver et utiliser des informations 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Indiquer pour chaque objet la fonction principale à laquelle il répond.
     2. Classer les OST en trois familles.
     3. Proposer 2 OST qui appartiendraient aux familles d'OST identifiées précédemment.
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - Avoir compris ce qu'est une famille
     - Avoir classer correctement les objets
 

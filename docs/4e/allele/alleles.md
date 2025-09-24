@@ -1,20 +1,20 @@
 # Activité : Les allèles
 
-!!! note Compétences
+!!! note "Compétences"
 
     - Schématiser
     - Trouver et utiliser des informations
 
 
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 
 
 ## Exercice 1 : L’origine d’une maladie génétique, la drépanocytose.
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Représenter les chromosomes 11 et les allèles portés d’une personne malade.
     2. Représenter les chromosomes 11 et les allèles portés par une personne non malade, puis justifier votre réponse.
@@ -26,7 +26,7 @@ L’allèle A est dominant.
 
 ## Exercice 2 : Le daltonisme, un défaut de la vision des couleurs.
 
-!!! warning Consignes
+!!! warning "Consignes"
     1. Représenter les chromosomes sexuels avec le gène et l’allèle pour un garçon daltonien et pour un garçon ayant une vision normale.
     2. Faire le même travail pour une fille.
     Certaines personnes ont une perception différente des couleurs, elles sont daltoniennes.
@@ -35,7 +35,7 @@ L’un des gènes impliqués dans la vision des couleurs est localisé vers l’
 
 ## Exercice 3 : Les lapins albinos.
 
-!!! warning Consignes
+!!! warning "Consignes"
     1. Rappeler les définitions de gènes et d’allèles. 
     2. Combien de fois chaque gène est-il présent dans une cellule ?
     3. Représenter la ou les possibilités de chromosomes 1 pour un lapin ayant des poils colorés.

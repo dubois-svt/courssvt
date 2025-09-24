@@ -1,11 +1,11 @@
 # Activité : Modéliser un séisme
 
-!!! note Compétences
+!!! note "Compétences"
 
     - trouver et utiliser des informations 
     - Modéliser un phénomène
 
-!!! warning Consignes
+!!! warning "Consignes"
 
 
     1. À partir de l’analyse des documents 1, 2 et 3, construire un schéma fonctionnel expliquant ce qui provoque un séisme.
@@ -13,7 +13,7 @@
     3. Réaliser la modélisation.
     4. Expliquer l’intérêt du modèle dans cette activité et donner une ou deux critiques qui pourrait être faite.
 
-??? bug Critères de réussite
+??? bug "Critères de réussite"
 
     Pour chacun des documents 1, 2 et 3 : relever les différents événements ayant lieu dans le déclenchement d'un séisme.
 

@@ -1,17 +1,17 @@
 # Activité : La diversité intraspécifique des chats
 
-!!! note Compétences
+!!! note "Compétences"
 
     - Trouver et extraire des informations / 
     - Réaliser un tableau 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. A l’aide des documents, complète le tableau qui permet de classer les chats selon différents critères.
     2. Expliquer pourquoi l'on peut dire qu'il existe une diversité dans l'espèce des chats
 
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 

@@ -1,10 +1,10 @@
 # Activité : Transmission des allèles à la descendance
 
-!!! note Compétences
+!!! note "Compétences"
 
     Argumenter 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Comparer le caryotype des cellules somatiques et des gamètes. 
     2. Indiquer comment s'appelle la formation des cellules reproductrices.
@@ -12,7 +12,7 @@
     4. Faire un tableau de croisement
     5. Répondre à l'avocat
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     
     - Realiser un tableau de croisement, c'est représenter les chromosomes présents dans les gamètes des deux parents et en déduire les combinaisons pouvant se former lors de la fécondation.
 

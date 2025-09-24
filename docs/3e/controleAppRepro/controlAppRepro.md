@@ -1,17 +1,17 @@
 # Activité : Le contrôle du fonctionnement de l’appareil reproducteur
 
-!!! note Compétences
+!!! note "Compétences"
 
     - Interpréter 
     - Faire un schéma fonctionnel
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Déterminer les différents organes et hormones impliqués dans le fonctionnement de l’appareil reproducteur en indiquant leur effet.
     2. Construire un schéma fonctionnel qui montre le contrôle du fonctionnement de l’appareil reproducteur de l'homme.
     3. Construire un schéma fonctionnel qui montre le contrôle du fonctionnement de l’appareil reproducteur de la femme.
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 

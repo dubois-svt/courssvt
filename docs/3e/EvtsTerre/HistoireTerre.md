@@ -1,13 +1,13 @@
 # Activité : L'histoire de la Terre
 
-!!! note Compétences
+!!! note "Compétences"
     - Trouver et utiliser des informations
     - Représenter des données sous différentes formes
 
-!!! warning Consignes
+!!! warning "Consignes"
     À partir des informations des différents documents, réaliser une frise chronologique montrant les évènements ayant eu lieu dans l’histoire de la vie et de la Terre. (1 cm = 200 Ma)
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - Avoir tracé la frise (un trait avec une flèche)
     - Avoir gradué la frise tous les 500 Ma
     - Avoir placé 8 événements

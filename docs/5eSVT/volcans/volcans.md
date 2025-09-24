@@ -1,14 +1,14 @@
 # Activité : Les volcans
 
-!!! note Compétences
+!!! note "Compétences"
 
     Construire un tableau 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     À partir des différents documents, construire un tableau comparant les volcans Kilauea et Karymski du point de vue du type de volcanisme, de la formation de l’édifice volcanique, des produits émis, du diamètre du volcan (large ou étroit) et de la hauteur du volcan (grand ou petit). 
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - C'est un tableau a 6 colonnes et 3 lignes.
 
 

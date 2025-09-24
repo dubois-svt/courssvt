@@ -1,10 +1,10 @@
 # Activité : Exercice classification phylogène
 
-!!! note Compétences
+!!! note "Compétences"
 
     Communiquer sous différentes formes  
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Réaliser un arbre de parenté à partir de la collection : MNHN GAC Collège avec les espèces : bactérie, criquet, écrevisse, grenouille, homme, fougère et les caractères suivants : cellule, carapace articulée, reproduction sexuée, vertèbre, chlorophylle.
     2. Déterminer quelle est l'espèce qui a le plus de lien de parenté avec l'Homme.
@@ -12,7 +12,7 @@
     4. Quel est le caractère propre à la fougère?
 
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 **Document Fiche méthode du logiciel Phylogène**

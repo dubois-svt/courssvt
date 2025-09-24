@@ -1,17 +1,17 @@
 # Activité : Cahier des charges
 
-!!! note Compétences
+!!! note "Compétences"
     - Trouver et utiliser des informations
 
 
 Vous êtes responsable du projet de rénovation d’une salle de sciences. Vous allez devoir compléter votre cahier des charges d'après les textes de recommandations et proposer un croquis d'une salle de classe.
 
-!!! warning Consignes
+!!! warning "Consignes"
     1. Compléter le titre du document 4 et les titres des colonnes, en vous aidant du document 1.  
     2. Compléter le cahier des charges en retrouvant les éléments manquants.  
     3. Réaliser un croquis rapide de la salle de classe.
 
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - Avoir complété le tableau du document 4
     - Avoir proposé un croquis de la salle de classe
     - Avoir mis une légende et un titre au croquis

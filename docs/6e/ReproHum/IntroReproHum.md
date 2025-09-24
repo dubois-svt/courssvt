@@ -14,7 +14,8 @@
 
 ## Séance 1 : La puberté
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment se manifeste la puberté ?
 
 [Activité La puberté](../puberte)
@@ -22,7 +23,7 @@
 
 
 
-??? abstract Bilan
+??? abstract "Bilan"
     Un être humain devient capable de se reproduire à partir de la puberté, car les organes reproducteurs deviennent fonctionnels et produisent des cellules reproductrices.
 
     Lors de la puberté, le corps subit des transformations, ce sont les caractères sexuels secondaires.
@@ -36,7 +37,8 @@
 
 ## Séance 2 : Reproduction et grossesse
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment se développent les êtres humains ?
     
 [Activité Le développement des êtres humains](../repro)
@@ -44,7 +46,7 @@
 
 
 
-??? abstract Bilan
+??? abstract "Bilan"
     ![alt text](image-2.png)
 
     L'embryon se forme lors de la fécondation qui est la rencontre d’un spermatozoïde (cellule reproductrice de l’homme) et d’un ovule (cellule reproductrice de la femme).
@@ -69,7 +71,7 @@
 ![](pictures/sexualite.png)
 
 
-??? abstract Bilan
+??? abstract "Bilan"
     Chez les êtres humains, la sexualité n'est pas qu'une affaire de reproduction : elle prend en compte les aspects biologiques, mais aussi les aspects émotionnels, juridiques et sociaux
 
 

@@ -1,17 +1,17 @@
 # Activité : Notre corps lors d'un effort
 
-!!! note Compétences
+!!! note "Compétences"
 
     Interpréter 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Compléter le document 2, expliquer ce que l'on peut observer pour la fréquence cardiaque pendant un effort et après un effort.
     2. A l'aide du document 3, expliquer comment varie la fréquence respiratoire lors d'un effort.
     3. A l'aide du document 3, expliquer comment varie le volume d'air utilisé lors d'un effort.
     4. A l'aide des document 4 et 5, expliquer comment varie le débit sanguin lors d'un effort.
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
 
     1. Aide : Vos résultats précédents correspondent au nombre de battements en 20 sec. Il faut donc multiplier vos résultats par  .... pour obtenir le nombre de battements en 60 sec (= 1 minute).
 

@@ -4,7 +4,8 @@
     si besoin d'infos
 
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment fonctionne le système nerveux ?
 
     
@@ -13,7 +14,8 @@
 
 ## Séance 1 : Le mouvement
 
-!!! question Problématique
+!!! question "Problématique"
+
     Quels sont les organes impliqués dans la commande des mouvements ?
 
 [Activité Les organes du mouvement](../organesMvt)
@@ -21,11 +23,11 @@
 
 
 
-??? abstract Bilan
+??? abstract "Bilan"
     === "De quoi parler dans le bilan ? Quels mots clés ?"
 
 
-    === Bilan à trous
+    === "Bilan à trous"
 
         La commande du mouvement se fait grâce à différents organes :
         
@@ -39,7 +41,7 @@
         Le cerveau transmet la commande du mouvement par un nerf ____________ qui traverse la moelle épinière et va jusqu’aux ____________________.
 
 
-    === Bilan
+    === "Bilan"
 
         La commande du mouvement se fait grâce à différents organes :
         
@@ -63,7 +65,8 @@
 
 ![](Pictures/dessiSystNerveux.png)
 
-!!! question Problématique
+!!! question "Problématique"
+
     De quoi sont composés les nerfs et les centres nerveux ?
 
 
@@ -71,11 +74,11 @@
 [Activité Les cellules des nerfs](../nerfs)
 
 
-??? abstract Bilan
+??? abstract "Bilan"
     === "De quoi parler dans le bilan ? Quels mots clés ?"
 
 
-    === Bilan à trous
+    === "Bilan à trous"
         
         Un nerf est un organe en forme de tube qui contient un très grand nombre de fibres nerveuses (= axones).
         Une fibre nerveuse correspond au prolongement d’une cellule appelée __________________.
@@ -101,7 +104,8 @@ Le message passe de neurone en neurone jusqu’aux muscles.
 
 ![](Pictures/schemaCommNerveuse.png)
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment se réalise la communication nerveuse dans le corps ?
 
 
@@ -110,11 +114,11 @@ Le message passe de neurone en neurone jusqu’aux muscles.
 
 
 
-??? abstract Bilan
+??? abstract "Bilan"
     === "De quoi parler dans le bilan ? Quels mots clés ?"
 
 
-    === Bilan à trous
+    === "Bilan à trous"
 
         Le message nerveux circule dans des ___________.
 
@@ -125,7 +129,7 @@ Le message passe de neurone en neurone jusqu’aux muscles.
         Au niveau des synapses, le message nerveux est de nature _____________. Il est transmis par des substances, les ______________________.
 
 
-    === Bilan
+    === "Bilan"
 
         Le message nerveux circule dans des neurones.
         
@@ -143,7 +147,8 @@ Séance 4 : Le cerveau, élément central du système nerveux
 ## Séance 4 : Le cerveau, élément central du système nerveux
 
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment le cerveau traite-t-il les informations ?
 
 
@@ -152,11 +157,11 @@ Séance 4 : Le cerveau, élément central du système nerveux
 
 
 
-??? abstract Bilan
+??? abstract "Bilan"
     === "De quoi parler dans le bilan ? Quels mots clés ?"
 
 
-    === Bilan à trous
+    === "Bilan à trous"
     
         Les messages nerveux sensitifs arrivent dans des _____________ _____________ précises. Les aires cérébrales communiquent entre elles et traitent les informations reçues pour produire une réponse adaptée, par exemple un ___________  _________. Ce sont les neurones qui permettent ces communications dans le cerveau.
 
@@ -164,7 +169,7 @@ Séance 4 : Le cerveau, élément central du système nerveux
 
         Le réseau de neurones peut évoluer avec l’expérience, c’est la plasticité cérébrale.
 
-    === Bilan
+    === "Bilan"
 
         Les messages nerveux sensitifs arrivent dans des aires cérébrales précises. Les aires cérébrales communiquent entre elles et traitent les informations reçues pour produire une réponse adaptée. Ce sont les neurones qui permettent ces communications dans le cerveau.
 

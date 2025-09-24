@@ -1,11 +1,11 @@
 # Activité : Les cellules reproductrices des femmes et des hommes
 
-!!! note Compétences
+!!! note "Compétences"
 
     - faire un dessin d’observation 
     - construire un tableau 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. À partir de l’observation de la lame et du document 1, explique où sont produits les spermatozoïdes.
 
@@ -13,7 +13,7 @@
 
     3. Faire un tableau comparant les spermatozoïdes et les ovules du point de vue de la taille, du nombre, de la durée de vie et de la mobilité. 
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - Avoir retrouvé les différentes zones présente dans le document 1 sur la lame
     - Avoir identifié les spermatozoïdes.
 

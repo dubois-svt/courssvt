@@ -1,11 +1,11 @@
 # Activité : Evolution de la photographie
 
-!!! note Compétences
+!!! note "Compétences"
 
     Trouver et utiliser des informations 
  
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Peut-on dire qu'Aristote était un photographe ? Justifier. 
     2. Parmi les personnages cités, qui est l’inventeur de la photographie ? Justifier. 
@@ -13,7 +13,7 @@
     4. Comparer l’aspect de l’appareil de Nicéphore Nièpce (1827) au MAVICA (1981). Quels sont les innovations de l'appareil de Sony? 
     5. Représenter sans soucis d’échelle, une lignée d’objet regroupant 4 appareils photo.
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 

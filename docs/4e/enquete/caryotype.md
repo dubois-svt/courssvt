@@ -1,15 +1,15 @@
 # Activité : le caryotype du coupable
 
-!!! note Compétences
+!!! note "Compétences"
 
     Interpréter 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Expliquer comment on peut obtenir le caryotype à l'aide d'un cheveu.
     2. Indiquer l'espèce et le sexe du coupable, en justifiant la réponse.
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 

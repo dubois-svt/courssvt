@@ -1,14 +1,14 @@
 # Activité : Importance du tri des déchets
 
-!!! note Compétences
+!!! note "Compétences"
 
     Interpréter 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. 
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 

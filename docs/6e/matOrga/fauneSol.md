@@ -1,17 +1,17 @@
 # Activité : La faune du sol
 
-!!! note Compétences
+!!! note "Compétences"
 
     - Trouver et utiliser des informations 
     - réaliser un schéma
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Identifier les êtres vivants du sol obtenus à l'aide d'un appareil de berlèze.
     2. Construire le réseau alimentaire du sol sur le document 5.
 
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 

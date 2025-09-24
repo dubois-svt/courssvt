@@ -1,14 +1,14 @@
 # Activité : Exercice sur les besoins des végétaux lors de la germination
 
-!!! note Compétences
+!!! note "Compétences"
 
     - Interpréter des résultats et en tirer des conclusions
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     À partir des documents, compléter; dans le document 3, l’analyse d’expérience du document 2
         
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 **Document 1 Une expérience sur la germination**

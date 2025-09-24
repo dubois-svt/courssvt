@@ -1,17 +1,17 @@
 # Activité : Les réseaux alimentaires
 
-!!! note Compétences
+!!! note "Compétences"
 
     -  Trouver et exploiter des informations
     -  Réaliser un schéma
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. À partir des différents documents et des éléments présentés sur les tables, tracer le réseau alimentaire indiquant les relations alimentaires entre les différents êtres vivants identifiés dans les documents. 
     2. Indiquer en une phrase de quels types de matières ont besoins les animaux.
     3. À partir de tes réponses précédentes justifier que les végétaux sont des producteurs primaires.
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 

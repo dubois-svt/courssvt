@@ -1,10 +1,10 @@
 # Activité : Décrire un séisme
 
-!!! note Compétences
+!!! note "Compétences"
 
     trouver et utiliser des informations 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Quelles sont les conséquences d’un séisme ?
     2. Quels paramètres permettent de décrire les séismes ?
@@ -12,7 +12,7 @@
     4. Combien y a-t-il eu de séismes dans le monde depuis hier ? Quelle est la magnitude maximale enregistrée ?
 
 
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 **Document 1 Les séismes.**

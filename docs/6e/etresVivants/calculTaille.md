@@ -1,14 +1,14 @@
 # Activité : Calculer la taille des cellules
 
-!!! note Compétences
+!!! note "Compétences"
 
     Utiliser l'outil mathématique 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     À partir des informations, calculer la taille des 3 cellules en photos. 
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 

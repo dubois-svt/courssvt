@@ -4,7 +4,8 @@
     si besoin d'infos
 
 
-!!! question Problématique
+!!! question "Problématique"
+
     
 
     
@@ -14,7 +15,8 @@
 
 ## Séance 1 : les caractères sur les chromosomes
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment l’information est-elle organisée dans les chromosomes ?
 
 [Activité Les gènes](../genes)
@@ -22,7 +24,7 @@
 
 
 
-??? abstract Bilan
+??? abstract "Bilan"
     Définitions : 
 
     - ADN : longue molécule qui porte l’information génétique. En se condensant, elle forme les chromosomes.
@@ -45,12 +47,13 @@
 
 ## Séance 2 : Différentes versions d'un gène
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment expliquer les différences pour un caractère entre individus ?
     
 
 
-??? abstract Bilan
+??? abstract "Bilan"
     
     Chaque version différente d’un même gène est appelée un allèle. Il détermine une version différente du caractère.
 
@@ -84,13 +87,14 @@
 Dans des élevages de drosophiles aux yeux rouges, on peut voir apparaître des individus « mutants » aux yeux blancs.
 ![](pictures/drosoMutations2.png)
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment expliquer l’apparition de nouveaux allèles ?
 
 [Activité Les nouveaux allèles](../mutations)
 
 
-??? abstract Bilan
+??? abstract "Bilan"
 
     L’apparition de nouveaux caractères, et donc de nouveaux allèles, au cours des générations se fait grâce à des modifications de l’information génétique. Ces modifications se nomment mutations. Elles peuvent arriver naturellement ou être provoquées par des agents mutagènes (UV, virus …) Ces mutations se font au hasard et donc le nouveau caractère peut être bénéfique, sans conséquence ou létal.
     Les mutations ne peuvent être transmises à la descendance uniquement lorsqu’elles se font dans les cellules reproductrices.

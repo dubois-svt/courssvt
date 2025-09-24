@@ -1,18 +1,18 @@
 # Activité : L’eau, un composant des êtres vivants.
 
-!!! note Compétences
+!!! note "Compétences"
 
     - Manipuler
     - Utiliser des outils mathématiques 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Réaliser le protocole du document 1 et expliquer ce que l’on peut conclure.
     2. Faire un schéma des différentes étapes de l’expérience.
     3. Compare la masse d’un organisme frais et d’un organisme sans eau, calculer la quantité d’eau à l’intérieur.
     4. Expliquer en quoi l’eau est importante pour les êtres vivants.
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 

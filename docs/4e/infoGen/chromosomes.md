@@ -1,14 +1,14 @@
 # Activité : Les chromosomes
 
-!!! note Compétences
+!!! note "Compétences"
 
     Trouver et utiliser des informations 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     À partir des documents, déterminer, en justifiant votre réponse, les caractères que l’étude des chromosomes permet de déterminer.
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - Comparer les caryotypes deux à deux, d’où vient chacun.
     - Que donne la différence donc quel indice donne le caryotype ?
 

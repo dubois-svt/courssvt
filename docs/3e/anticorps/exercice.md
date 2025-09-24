@@ -1,10 +1,10 @@
 # Activité : Exercice
 
-!!! note Compétences
+!!! note "Compétences"
 
     - Trouver et extraire des informations 
 
-!!! warning Consignes
+!!! warning "Consignes"
     1. En utilisant le document et les connaissances vues en classe, expliquer comment les poules du groupe B ont survécu alors qu'elles ont reçu des injections d'une jeune culture de bactéries du choléra comme celle du groupe A.
     2. Quelle méthode médicale a été découverte par Pasteur dans son expérience ? 
     3. Expliquer ce que deviendront les poules du groupe C.

@@ -1,14 +1,14 @@
 # Activité : La digestion vue au XVIIIe siècle
 
-!!! note Compétences
+!!! note "Compétences"
 
     Interpréter 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     Expliquer ce que Réaumur a pu apprendre avec son expérience.
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - avoir fait l'analyse d'expérience
         - hypothèse
         - protocole

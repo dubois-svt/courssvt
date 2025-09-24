@@ -1,11 +1,11 @@
 
 # Activité : La pollinisation, un exemple de coopération
 
-!!! note Compétences
+!!! note "Compétences"
 
     Extraire des informations
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Identifier les éléments des fleurs qui attirent les insectes.
     2. Identifier les caractéristiques des grains de pollen qui favorisent la pollinisation.
@@ -13,7 +13,7 @@
     4. Justifier le terme de coopération entre plantes à fleurs et insectes.
 
 
-??? bug Critères de réussite
+??? bug "Critères de réussite"
 
 
 

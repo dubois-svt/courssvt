@@ -11,7 +11,8 @@
 
 ## Séance 1 : La grossesse
 
-!!! question Problématique
+!!! question "Problématique"
+
     Quelles conditions doivent être réunies pour qu’un bébé naisse ?
 
 [Activité La grossesse](../grossesse)
@@ -51,7 +52,7 @@
     L’embryon à 3 mois devient un fœtus. Tous les organes du futur individu sont présents.
 
 
-??? abstract Bilan
+??? abstract "Bilan"
     Lorsque le rapport sexuel a lieu quelques jours avant ou après l’ovulation, un spermatozoïde peut s’unir avec l’ovule : c’est la fécondation.
 
     Cette union permet la formation de la *cellule-œuf*. Cette cellule-œuf se divise de nombreuses fois pour former un *embryon*.
@@ -63,7 +64,8 @@
 
 ## Séance 2 : La nidation
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment le fœtus se nourrit-il ?
     
 [Activité La nutrition du fœtus](../nutriFoetus)
@@ -71,7 +73,7 @@
 
 
 
-??? abstract Bilan
+??? abstract "Bilan"
     Le placenta est un organe fixé à la paroi de l’utérus. Grâce au placenta, le fœtus assure sa nutrition :
 
     – il récupère du dioxygène et des nutriments provenant du sang de la mère ;
@@ -90,12 +92,13 @@
 
 ## Séance 3 : La contraception
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment permettre aux couples de maîtriser leur reproduction ?
 
 [Activité La pilule contraceptive](../piluleContra)
 
-??? abstract Bilan
+??? abstract "Bilan"
 
     La contraception désigne des méthodes utilisées pour éviter, de façon réversible, une grossesse et donc permettre une sexualité sans reproduction.
 
@@ -117,7 +120,8 @@
 
 ## Séance 4 : Procréation médicalement assistée
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment expliquer les problèmes d’infertilité des couples et comment la médecine peut-elle les aider à concevoir un enfant ? 
 
 
@@ -128,7 +132,7 @@
 [Activité La Procréation Médicalement Assistée](../pma)
 
 
-??? abstract Bilan
+??? abstract "Bilan"
     Lorsqu’un couple a des difficultés pour faire un enfant, on parle d’infertilité.
 
     Les problèmes d’infertilité peuvent être d’origine masculine (quantité ou forme anormale de spermatozoïdes…) ou d’origine féminine (problème d’ovulation, obstruction des trompes…).
@@ -143,7 +147,8 @@
 
 ## Séance 5 : Les IST
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment se protéger des IST ?
 
 ![](Pictures/campagneIST.png)
@@ -151,7 +156,7 @@
 
 [Activité IST](../ist)
 
-??? abstract Bilan
+??? abstract "Bilan"
 
     Les IST (Infections Sexuellement Transmissibles) sont des maladies parfois graves provoquées par des micro-organismes pathogènes (virus, bactéries…)
 

@@ -1,11 +1,11 @@
 # Activité : La réaction inflammatoire
 
-!!! note Compétences
+!!! note "Compétences"
 
     - Trouver et extraire des informations
     - Utiliser l'outil mathématique 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Expliquer à quoi sont dûs le gonflement et la rougeur de la réaction inflammatoire au niveau d’une blessure.
 
@@ -13,7 +13,7 @@
 
     3. Calculer et comparer les tailles d’un phagocyte et d’une bactérie.
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 

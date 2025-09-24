@@ -1,13 +1,13 @@
 # Activité : Modification du peuplement au cours des saisons
 
-!!! note Compétences
+!!! note "Compétences"
     - Trouver et utiliser des informations
 
-!!! warning Consignes
+!!! warning "Consignes"
     Complète le tableau pour indiquer pour les différents êtres vivants leur solution pour passer l'hiver.
    
    
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - comparer dans chaque document,c e que fait l'être vivant en été ou printemps avec l'hiver.
     - conclure sur la façon dont il passe l'hiver
 

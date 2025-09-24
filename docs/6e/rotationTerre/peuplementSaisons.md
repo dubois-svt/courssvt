@@ -1,17 +1,17 @@
 # Activité : Modification du comportement des êtres vivants pendant la mauvaise saison
 
-!!! note Compétences
+!!! note "Compétences"
     - Trouver et utiliser des informations
     - Construire un graphique
     - Décrire un graphique
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. A partir des informations du document 3, construire une graphique de l'évolution du nombre d'espèces en fonction des mois. (Aidez-vous de la fiche méthode du document 1)
     2. A partir des informations du document 4, décrire l’évolution de la température moyenne au cours de l’année dans l’environnement étudié. (Aidez-vous de la fiche méthode du document 2)
     3. A partir des deux graphiques, comparer la température et la quantité d'espèces entre l'été et l'hiver.
    
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - avoir bien vérifier que tous les critères de la réalisation d'un graphique ont été réalisés.
     - avoir bien vérifier que tous les critères de la description d'un graphique ont été réalisés.
 

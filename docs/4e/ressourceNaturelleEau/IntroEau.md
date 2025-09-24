@@ -4,7 +4,8 @@
     si besoin d'infos
 
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment expliquer que l’eau soit une ressource essentielle pour l’humanité ?
         
 ### Document d’appel :
@@ -18,14 +19,16 @@
 
 ## Séance 1 : l'eau une ressource rare sur la planète bleue
 
-!!! question Problématique
+!!! question "Problématique"
+
     Quelle est l'eau que nous consommons ?
 
 [Activité Réservoirs d'eau](../reservoirEau)
 
 ## Séance 2 : l'eau une ressource important pour l'humain
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment notre consommation d'eau est-elle répartie
 
 [Activité Utilisation de l'eau](../utilisationEau)
@@ -33,7 +36,8 @@
 
 ## Séance 3 : L'eau virtuelle
 
-!!! question Problématique
+!!! question "Problématique"
+
     Combien d'eau virtuelle est présente dans notre alimentation ?
 
 
@@ -43,7 +47,8 @@
 
 ## Séance 4 : Une ressource naturelle indispensable, l'eau
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment expliquer que l’eau soit une ressource essentielle pour l’humanité ?
 
 

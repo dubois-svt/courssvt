@@ -1,17 +1,17 @@
 # Activité : Les échanges des végétaux avec leur milieu.
 
-!!! note Compétences
+!!! note "Compétences"
 
     Extraire et mettre en relation 
 
-!!! warning Consignes
+!!! warning "Consignes"
     1. À l'aide du site [THYP](https://thyp.netlify.app/), identifier les gaz échangés par les plantes à la lumière.
     2. À l'aide du site [THYP](https://thyp.netlify.app/), identifier les gaz échangés par les plantes à l'obscurité.
     3. En comparant les sèves produites par la plante à la lumière et à l'obscurité, indiquer ce que fabrique une plante à la lumière.
     4. Expliquez l'origine de l'explosion de la serre de Mark.
     
 
-??? bug Critères de réussite
+??? bug "Critères de réussite"
 
 
 

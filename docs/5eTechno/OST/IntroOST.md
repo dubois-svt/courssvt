@@ -4,7 +4,8 @@
     si besoin d'infos
 
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment définir un OST ?
 
     
@@ -12,7 +13,8 @@ Les êtres humains ont besoin de : se nourrir, s’abriter, se vêtir, se laver
 
 ## Séance 1 : Les familles d’objets 
 
-!!! question Problématique
+!!! question "Problématique"
+
 
     Comment décrire les objets qui nous entourent ?
 
@@ -21,7 +23,7 @@ Les êtres humains ont besoin de : se nourrir, s’abriter, se vêtir, se laver
 
 
 
-??? abstract Bilan
+??? abstract "Bilan"
 
     <a markdown id="bilan1">
 
@@ -39,7 +41,8 @@ Les êtres humains ont besoin de : se nourrir, s’abriter, se vêtir, se laver
 
 ## Séance 2 : les fonctions d'un OST
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment décrire les fonctions et principes techniques d’un OST ?
 
 [Activité Les fonctions d'un OST](../fonctions)
@@ -47,7 +50,7 @@ Les êtres humains ont besoin de : se nourrir, s’abriter, se vêtir, se laver
 
 
 
-??? abstract Bilan
+??? abstract "Bilan"
 
     <a markdown id="bilan2">
     
@@ -68,7 +71,8 @@ Les êtres humains ont besoin de : se nourrir, s’abriter, se vêtir, se laver
 Les OST évoluent en fonction des besoins et des nouvelles connaissances.
 On cherche à comprendre l’évolution des voitures. Pour cela, on parlera de lignée d’OST. Pour une même famille d’OST, il existe plusieurs lignées : c’est-à-dire une suite chronologique d’objets qui utilisent le même principe technique (principe qui explique le fonctionnement d’un OST, se reposant sur des connaissances scientifiques) pour satisfaire une même fonction principale. 
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment évolue une famille d'objets avec différentes lignées ? 
     Comment expliquer l’évolution technologique d’un objet ?
 
@@ -78,7 +82,7 @@ On cherche à comprendre l’évolution des voitures. Pour cela, on parlera de l
 
 
 
-??? abstract Bilan
+??? abstract "Bilan"
 
     <a id="bilan3">
 
@@ -95,7 +99,8 @@ On cherche à comprendre l’évolution des voitures. Pour cela, on parlera de l
 On souhaite installer dans une salle de bain, un meuble pour machine à laver permettant d’avoir de l’espace de rangement supplémentaire. Dans notre recherche, nous nous sommes imposés des contraintes. L’OST doit s’installer aisément, résister à l’humidité de la salle de bain, avec des matériaux renouvelables et durables et dont le prix reste abordable.
 
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment choisir un OST ?
 
 
@@ -103,7 +108,7 @@ On souhaite installer dans une salle de bain, un meuble pour machine à laver pe
 
 
 
-??? abstract Bilan
+??? abstract "Bilan"
 
     <a id="bilan4">
 

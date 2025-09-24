@@ -1,17 +1,17 @@
 # Activité : Le référentiel
 
-!!! note Compétences
+!!! note "Compétences"
 
     Trouver et exploiter des informations 
 
-!!! warning Consignes
+!!! warning "Consignes"
     Expliquer en quelques lignes, pourquoi l’on peut dire que le Soleil tourne autour de la Terre ou que la Terre tourne autour du Soleil.
 
 
 
 
 
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - Avoir décrit le mouvement des astres depuis deux points.
     - Avoir fait le lien avec le terme de référentiel
 

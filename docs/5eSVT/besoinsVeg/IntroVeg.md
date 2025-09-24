@@ -4,7 +4,8 @@
     si besoin d'infos
 
 
-!!! question Problématique
+!!! question "Problématique"
+
     Quels sont les besoins des végétaux ?
     
 
@@ -17,7 +18,8 @@
 L'astronaute Mark Watney cultive des pommes de terre pour survivre sur Mars. Très vite, l'atmosphère confinée de sa serre est modifiée par les plantes. Ainsi, une simple étincelle dans les réseaux électriques va suffire pour provoquer une violente explosion détruisant toute la serre.
 
 
-!!! question Problématique
+!!! question "Problématique"
+
     Quelles sont les échanges d'un végétal avec son milieu ?
 
 [Activité Une agriculture explosive](../echangesVeg)
@@ -25,7 +27,7 @@ L'astronaute Mark Watney cultive des pommes de terre pour survivre sur Mars. Tr�
 
 
 
-??? abstract Bilan
+??? abstract "Bilan"
     Les végétaux prélèvent uniquement de la matière minérale.
 
     - Les plantes prélèvent de l'eau et des sels minéraux au niveau des racines et du dioxyde de carbone au niveau des feuilles. Cette matière minérale est transformée en matière organique grâce à l'énergie lumineuse captée. Elles rejettent alors du dioxygène.
@@ -47,7 +49,8 @@ L'astronaute Mark Watney cultive des pommes de terre pour survivre sur Mars. Tr�
 Les végétaux absorbent l'eau et les sels minéraux par leurs racines et du dioxyde de carbone par les feuilles, mais ne prélèvent pas de matière organique qui se retrouve pourtant dans les organes comme les pommes.
 L'objectif est d'aider Maëlle à gagner le concours de la plus belle pomme. 
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment les éléments circulent dans les végétaux ?
 
 [Activité L’approvisionnement des organes des végétaux.](../approVeg)
@@ -55,7 +58,7 @@ L'objectif est d'aider Maëlle à gagner le concours de la plus belle pomme.
 
 
 
-??? abstract Bilan
+??? abstract "Bilan"
     La sève brute contient de l'eau et des sels minéraux. Elle est fabriquée dans les racines et
     circule des racines vers les autres organes.
     La sève élaborée contient les glucides (sucres). Elle est fabriquée dans les feuilles et

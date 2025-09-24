@@ -1,11 +1,11 @@
 # Activité : Les groupes sanguins
 
-!!! note Compétences
+!!! note "Compétences"
 
     - Mettre en œuvre un protocole expérimental
     - extraire et mettre en relation des informations  
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. À l’aide des documents proposés, identifier le groupe- 
 
@@ -14,7 +14,7 @@
     1 pla sanguin de l’échantillon.
     2. Faire une représentation des chromosomes 9 de la personne a qui appartient cet échantillon. 
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     que de test des groupes sanguins
     2 cure-dents rouges
     1 flacon noté « ? » contenant un mélange eau + colorant rouge + sulfate de zinc à 0,1 mol.L-1 mimant du sang de groupe inconnu.

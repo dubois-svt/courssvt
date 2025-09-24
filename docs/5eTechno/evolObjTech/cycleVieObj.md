@@ -1,16 +1,16 @@
 # Activité : Cycle de vie, impacts sociétaux et environnementaux
 
-!!! note Compétences
+!!! note "Compétences"
 
     trouver et utiliser des informations. 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. A partir des différents documents, lister les étapes du cycle de vie d’un appareil photo.
     2. Proposer une schéma du cycle de vie d’un appareil photo. 
     3. Créer un tableau indiquant pour chaque étape l’impact sociétal et l’impact environnemental.   
 
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - Au moins 5 étapes.
 
 

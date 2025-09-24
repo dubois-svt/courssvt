@@ -1,13 +1,13 @@
 # Activité :  Les conditions nécessaires à la vie sur Terre
 
-!!! note Compétences
+!!! note "Compétences"
 
     Trouver et utiliser des informations 
 
-!!! warning Consignes
+!!! warning "Consignes"
     Peut-on trouver de la vie sur Mercure, Vénus ou Mars ? Justifier.
 
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     Aide 1 : Indiquer la particularité de la Terre qui a permis le développement de la vie.
 
     Aide 2 : Indiquer sont les paramètres qui influence la présence d’eau liquide d’une planète.

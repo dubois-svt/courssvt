@@ -4,19 +4,21 @@
     si besoin d'infos
 
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment produire et conserver des aliments ?
 
 
 ## Séance 1 : Alimentation et santé
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment les aliments répondent-ils à nos besoins ?
 
 [Activité Les apports de nos aliments](../apportsAlim)
 
 
-??? abstract Bilan
+??? abstract "Bilan"
     Les aliments sont une source d’énergie et de matière.
     L’alimentation doit apporter à un individu suffisamment d’énergie et une quantité équilibrée de glucides, lipides, protéines, vitamines et sels minéraux.
     Les besoins énergétiques varient en fonction des individus (âge, sexe, activité ...)
@@ -30,12 +32,13 @@
 
 ## Séance 2 : Conservation, saumure
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment conserver les aliments ?
 
 [Activité La conservation des aliments](../conservation)
 
-??? abstract Bilan
+??? abstract "Bilan"
     Des micro-organismes peuvent se développer sur les aliments. Certains de ces micro-organismes sont pathogènes. On prend donc des mesures d’hygiène pour éviter la contamination des aliments. 
     Pour conserver les aliments on peut les stériliser (ce qui tue les micro-organismes) ou les conserver au froid (ce qui évite le développement de micro-organismes).
 
@@ -66,13 +69,14 @@ Un gérant d'une société produisant des yaourts souhaiterait faire des économ
 6. Les yaourts sont prêts 6 à 8 heures plus tard.
 7. Conserver les yaourts au réfrigérateur et les consommer dans les jours suivants.
 
-!!! question Problématique
+!!! question "Problématique"
+
     Quelles étapes indispensables permettant de faire le yaourt consistant ?
 
 
 [Activité La fabrication du yaourt](../fabricationYaourt)
 
-??? abstract Bilan
+??? abstract "Bilan"
     Pour fabriquer du yaourt, on utilise des bactéries. Les bactéries sont des micro-organismes. Ce sont des êtres vivants unicellulaires.
 
     On utilise d’autres micro-organismes, par exemple des champignons, comme les levures, pour faire le fromage ou le pain.
@@ -94,14 +98,15 @@ Un gérant d'une société produisant des yaourts souhaiterait faire des économ
 
 
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment la pâte à pain peut-elle gonfler ?
 
 
 
 [Activité La fabrication du pain](../fabricationPain)
 
-??? abstract Bilan
+??? abstract "Bilan"
 
     Pour fabriquer du pain, on utilise des levures. Les levures sont des micro-organismes. Ce sont des êtres vivants unicellulaires. Ces levures permettent de faire gonfler la pâte à pain.
 

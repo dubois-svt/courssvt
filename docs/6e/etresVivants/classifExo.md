@@ -1,16 +1,16 @@
 # Activité : Exercices classification
 
-!!! note Compétences
+!!! note "Compétences"
 
     Communiquer sous différentes formes  
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Compléter le tableau des attributs
     2. construire les groupes emboîtés pour les êtres vivant ci-dessous.
     3. Repérer l’attribut partagé par tous les êtres vivants.
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
 
 
 **Document 1 photos de quelques êtres vivants.**

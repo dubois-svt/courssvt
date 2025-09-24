@@ -1,18 +1,18 @@
 # Activité : La formation des cellules reproductrices.
 
 
-!!! note Compétences
+!!! note "Compétences"
 
     Interpréter 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Comparer les caryotypes des cellules reproductrices (document 1) avec celui d'une cellule somatique (document 2).
     2. Expliquer le nombre de chromosomes dans les cellules reproductrices grâce aux informations des documents 3 et 4
     3. Indiquer les différentes combinaisons possibles pour les cellules reproductrices d'un homme de groupe AB- du document 5.
     4. Indiquer pour chaque caryotype de gamète du document 1 s'il provient d'un homme et/ou une femme.
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 

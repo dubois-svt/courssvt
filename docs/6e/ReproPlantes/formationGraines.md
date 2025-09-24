@@ -1,10 +1,10 @@
 # Activité : La formation du fruit et des graines
 
-!!! note Compétences
+!!! note "Compétences"
 
     Analyser des expériences 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. À l’aide du site : [xpfleur.svtdebrock.com](xpfleur.svtdebrock.com), faire les différentes expériences du document 2 et noter les résultats observés.
     2. expliquer dans quelles conditions la fleur se transforme-t-elle en un fruit contenant des graines, en justifiant vos réponses à l’aide des expériences que vous aurez effectuées.
@@ -12,7 +12,7 @@
     4. Compléter les schémas du document 3. 
 
 
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - <table>
     <tbody>
     <tr class="odd">

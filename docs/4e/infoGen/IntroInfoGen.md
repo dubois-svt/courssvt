@@ -4,7 +4,8 @@
     si besoin d'infos
 
 
-!!! question Problématique
+!!! question "Problématique"
+
     Qu'est-ce qui détermine les caractères que l'on possède ?
  
     
@@ -18,13 +19,14 @@
 ![](pictures/divHumains.png)
 ![](pictures/divTulipes.png)
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment est déterminé le phénotype ? 
 
 [Activité L’origine des caractères](../origineCaract)
 
 
-??? abstract Bilan
+??? abstract "Bilan"
 
     Les êtres vivants possèdent des caractères spécifiques qui se retrouvent chez tous les individus d’une espèce.
     Les êtres vivants d’une espèce diffèrent entre eux par des variations de caractères. Ces caractères sont des caractères individuels. 
@@ -44,20 +46,22 @@
 ## Séance 2 : La localisation de l'information génétique
 
 
-!!! question Problématique
+!!! question "Problématique"
+
     Où est le support de l’information génétique ?
 
 [Activité La localisation de l'information génétique](../localInfoGen)
 
 
-??? abstract Bilan
+??? abstract "Bilan"
 
     L’information génétique permet la réalisation des phénotypes héréditaires.
     L’information génétique se trouve dans le noyau des cellules
 
 ## Séance 3 : Le support de l'information génétique
 
-!!! question Problématique
+!!! question "Problématique"
+
     Quel est le support de l’information génétique ?
 
 [Activité Les chromosomes et l'ADN](../chromosomesEtADN)
@@ -65,7 +69,7 @@
 [Activité L'ADN](../adn)
 
 
-??? abstract Bilan
+??? abstract "Bilan"
 
     Chaque chromosome est constitué d’une molécule filamenteuse nommée ADN (Acide Désoxyribonucléique). 
     Elle peut changer d’état de condensation : 
@@ -80,14 +84,15 @@
 
 ## Séance 4 : Les chromosomes
 
-!!! question Problématique
+!!! question "Problématique"
+
     Comment l’étude des chromosomes permet-elle de déterminer certains caractères ?
 
 ![](pictures/caryotypesCell.png)
 
 [Activité Les chromosomes](../chromosomes)
 
-??? abstract Bilan
+??? abstract "Bilan"
 
     Les chromosomes du noyau d’une cellule peuvent être étudiés en réalisant un caryotype (=ensemble des chromosomes d’une cellule en division rangés par paires et classés par taille décroissante).
     

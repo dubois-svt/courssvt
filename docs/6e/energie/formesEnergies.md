@@ -1,16 +1,16 @@
 # Activité : la conversion de l'énergie
 
-!!! note Compétences
+!!! note "Compétences"
 
     Interpréter 
 
-!!! warning Consignes
+!!! warning "Consignes"
 
     1. Indiquer la forme d'énergie liée à chaque image du document 2. 
     2. Créer un dispositif convertissant l'énergie d'une forme à l'autre avec le matériel fourni.
     3. Compléter le document 6 pour faire la chaîne énergétique de votre dispositif.
     
-??? bug Critères de réussite
+??? bug "Critères de réussite"
     - 
 
 
