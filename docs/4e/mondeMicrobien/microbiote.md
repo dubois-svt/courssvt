@@ -1,16 +1,16 @@
 # Activité : Le rôle du microbiote.
 
-!!! note "Compétences"
+!!! note Compétences
 
     - Interpréter 
     - Trouver et utiliser des informations 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. Analyser l’expérience du document 2 pour vérifier l’hypothèse de Gaël.
     2. En utilisant votre réponse précédente et le document 4, répondre au problème par un court texte.
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 

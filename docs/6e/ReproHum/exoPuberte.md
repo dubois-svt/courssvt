@@ -1,15 +1,15 @@
 # Activité : La puberte Escape Game
 
-!!! note "Compétences"
+!!! note Compétences
 
     Trouver et exploiter des informations 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. En utilisant l'application du document 1, compléter les schémas du document 2 puis les textes des documents 3 et 4.
     2. Faire le test flash en notant la lettre correspondant à la bonne réponse.
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 

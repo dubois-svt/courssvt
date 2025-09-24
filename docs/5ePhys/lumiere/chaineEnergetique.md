@@ -1,11 +1,11 @@
 # Activité : Conversion d’énergie et unité
 
-!!! note "Compétences"
+!!! note Compétences
 
     - Manipuler
     - Schématiser 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. À partir du matériel disponible dans le document 1, proposer un protocole expérimental permettant de montrer qu’un panneau solaire peut produire de l’électricité. Faire valider le protocole
     2. Mettre en place le protocole.
@@ -13,7 +13,7 @@
     4. Compléter la chaîne énergétique suivante à l’aide du vocabulaire suivant : 
     Énergie électrique /  Énergie lumineuse / Soleil / Énergie thermique / Cellule photovoltaïque /  Énergie solaire /Environnement / Ampoule / Environnement / Énergie thermique / Environnement
    
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 

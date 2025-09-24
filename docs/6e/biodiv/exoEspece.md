@@ -1,15 +1,15 @@
 # Activité : Exercices sur la notion d'espèce
 
-!!! note "Compétences"
+!!! note Compétences
 
     Communiquer sous différentes formes  
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. Rappeler la définition d’espèce.
     2. Expliquer si le zèbre et le cheval sont de la même espèce en utilisant l’exemple du zorse
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 **Document 1 : le zorse.**

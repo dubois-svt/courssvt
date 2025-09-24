@@ -1,14 +1,14 @@
 # Activité : L’origine des caractères.
 
-!!! note "Compétences"
+!!! note Compétences
 
     Construire un tableau 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     Retrouve et classe dans un tableau, l’origine des caractères présentés, comme la couleur de la peau, le groupe sanguin, l’aspect des arbres, la présence de la queue chez les chiens, la quantité d’hémoglobine et la capacité à rouler sa langue en U.
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 

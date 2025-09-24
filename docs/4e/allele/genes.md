@@ -1,14 +1,14 @@
 # Activité : Les gènes
 
-!!! note "Compétences"
+!!! note Compétences
 
     Extraire et mettre en relation des informations 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     Explique comment les chromosomes peuvent déterminer un grand nombre de caractères, justifier la réponse.
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 

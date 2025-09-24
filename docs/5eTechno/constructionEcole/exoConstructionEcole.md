@@ -1,12 +1,12 @@
 # Activité : Exercice
 
-!!! note "Compétences"
+!!! note Compétences
     - Trouver et utiliser des informations
 
 
 ## Exercice 1 : Fonctionnement du sèche-main
 
-!!! warning "Consignes"
+!!! warning Consignes
     1. Recopier le schéma et le compléter en utilisant les éléments du sèche-main.
    
 

@@ -1,6 +1,6 @@
 # Séquence : Construire une école
 
-!!! question "Problématique"
+!!! question Problématique
     Quels sont les éléments à prendre en compte pour répondre à un besoin ?
 
 
@@ -71,7 +71,7 @@
     </tbody>
     </table>
      
-??? abstract "Bilan"
+??? abstract Bilan
     Pour réaliser un objet technique de nombreux éléments doivent être pris en compte. 
     L'objet doit respecter de nombreuses contraintes et utilise plusieurs solutions techniques. Parmi les contraintes, on distingue les normes qui sont établies par des organismes reconnus et s’imposent à tous les fabricants.
     Le concepteur rédige un cahier des charges qui contient toutes les informations

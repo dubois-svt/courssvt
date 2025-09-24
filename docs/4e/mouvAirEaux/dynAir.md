@@ -1,15 +1,15 @@
 # Activité : La dynamique des masses d'air
 
-!!! note "compétences"
+!!! note Compétences
     - Manipuler
     - Interpréter des résultats
 
 
-!!! warning "Consignes"
+!!! warning Consignes
     1. Faire un schéma des mouvements d'air dans la modélisation. (2,5 points)
     2. tracer la direction du vent sur le document 1 et l'expliquer . (2,5 points)
 
-??? bug "critères de réussite"
+??? bug Critères de réussite
     - indiquer les mouvements verticaux dans le modèle 
     - dans le modèle, indiquer où est la dépression et où est l'anticyclone
     - indiquer dans quelle direction se déplacent les vents dans le modèle.

@@ -1,16 +1,16 @@
 # Activité : La reproduction des humains
 
-!!! note "Compétences"
+!!! note Compétences
 
     Interpréter 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. Indiquer où se fait la fécondation
     2. Expliquer si l'espèce humaine est vivipare ou ovipare.
     3. Expliquer comment l'embryon a les éléments nécessaire à son développement.
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 

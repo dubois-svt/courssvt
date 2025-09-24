@@ -1,10 +1,10 @@
 # Activité : Communiquer en morse
 
-!!! note "Compétences"
+!!! note Compétences
 
     Trouver et utiliser des informations 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. Trouver le code Morse pour les mots suivants : SOS, CABLE.
     2. Indiquer ce que signifie le message suivant : −−· −−− −−− −··  ·−·· ··− −·−· −·− 
@@ -12,7 +12,7 @@
     4. Réaliser le circuit électrique.
     5. Essaye d'envoyer un message en morse à tes camarades qui doivent le déchiffrer.
    
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 

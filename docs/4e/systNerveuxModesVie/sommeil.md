@@ -1,11 +1,11 @@
 # Activité : Le sommeil et la mémoire
 
-!!! note "Compétences"
+!!! note Compétences
 
     - Interpréter les résultats de l'expérience
     - Construire un schéma fonctionnel
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     Phase individuelle (5 minutes) et phase collaborative (10 minutes) :
 
@@ -16,7 +16,7 @@
     - À partir de l'analyse des trois documents, réalisez un schéma
     fonctionnel expliquant le lien entre sommeil et l'apprentissage.
 
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     
 
 

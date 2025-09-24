@@ -1,17 +1,17 @@
 # Activité : Transmission du message de neurone en neurone
 
-!!! note "Compétences"
+!!! note Compétences
 
     Trouver et utiliser des informations 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. Répondre au QCM du document 2, à partir des informations présentes dans la vidéo.
 
     2. Rédiger un court texte expliquant comment un message nerveux est transmis d’un neurone au neurone suivant. 
     3. Recopier vos réponses dans votre cahier.
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
      - 2 modes des communcations sont indiquées
      - Pour chacun, le lieu de cette communication est cité
 

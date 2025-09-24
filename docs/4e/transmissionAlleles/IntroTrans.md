@@ -4,7 +4,7 @@
     si besoin d'infos
 
 
-!!! question "Problématique"
+!!! question Problématique
     Comment se transmet l'information génétique entre cellules ? Entre individus ?
     
 ### Document d’appel :
@@ -15,18 +15,18 @@
 
 ![](pictures/transfertEmbryon.png)
 
-??? abstract "Bilan"
+??? abstract Bilan
     La majorité des cellules de l'organisme possèdent la même information génétique que la cellule-œuf, dont elles proviennent par divisions.
 
 
-!!! question "Problématique"
+!!! question Problématique
     Comment expliquer que l'information génétique est conservée au cours de la multiplication cellulaire ?
 
 [Activité Conservation de l'information génétique](../conservInfoGen)
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
     La division cellulaire permet la formation de nouvelles cellules qui vont permettre la formation d'un nouvel être vivant et le renouvellement de ses cellules.
 
     La division cellulaire (ou multiplication cellulaire ou mitose) d'une cellule-mère donne deux cellules-filles identiques.
@@ -44,7 +44,7 @@
 
 ## Séance 2 : La formation des cellules reproductrices.
 
-!!! question "Problématique"
+!!! question Problématique
     Comment la formation des cellules reproductrices participe-t-elle à la diversité génétique ?
     
 [Activité La formation des cellules reproductrices.](../meiose)
@@ -52,7 +52,7 @@
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
 
     Les spermatozoïdes et les ovules sont des gamètes (=cellules reproductrices).
 
@@ -66,13 +66,13 @@
 
 ## Séance 3 : La reproduction sexuée permet la diversité
 
-!!! question "Problématique"
+!!! question Problématique
     Comment expliquer la diversité des individus ?
     
 [Activité Fécondation et diversité génétique](../fecDiversite)
 
 
-??? abstract "Bilan"
+??? abstract Bilan
     Pour chaque gène, un des allèles provient de la mère, l'autre du père.
 
     Lors de la fécondation, les informations génétiques des deux cellules reproductrices se réunissent au hasard, la cellule-œuf obtenue contient donc 46 chromosomes. (23 du père et 23 de la mère)
@@ -87,7 +87,7 @@
 
 ## Séance 4 La reproduction sexuée permet la diversité
 
-!!! question "Problématique"
+!!! question Problématique
 
     Comment certains caractères non génétiques peuvent-ils être transmis ou modifiés ?
 
@@ -105,7 +105,7 @@ Ainsi, sur la côte est de l'Australie, le chant des groupes de baleines à boss
 
 <https://www.youtube.com/watch?v=0Lk8Ra7PWdw>
 
-??? abstract "Bilan"
+??? abstract Bilan
 
 
     Des éléments de l'environnement, tels que la température, le vent, les UV, la teneur en dioxygène du milieu influent sur le phénotype des individus qui y sont exposés et le modifient.

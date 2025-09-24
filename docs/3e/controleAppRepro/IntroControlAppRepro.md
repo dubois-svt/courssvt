@@ -4,19 +4,19 @@
     si besoin d'infos
 
 
-!!! question "Problématique"
+!!! question Problématique
     Comment sont contrôlés les appareils reproducteurs ?
     
 
 ## Séance 1 : les différences anatomiques
 
-!!! question "Problématique"
+!!! question Problématique
     Quelles sont les différences anatomiques qui se mettent en place au cours du développement d’un individu ?
 
 [Activité Les différences anatomiques entre un homme et une femme](../diffFemmeHomme)
 
 
-??? abstract "Bilan"
+??? abstract Bilan
     Lors du développement embryonnaire, les appareils reproducteurs internes et externes deviennent différents chez l’homme et chez la femme, ce sont les caractères sexuels primaires.
 
     À la puberté, d’autres différences apparaissent entre l’homme et la femme, ce sont les caractères sexuels secondaires (par exemple : développement des seins, développement du pénis…)
@@ -27,13 +27,13 @@
 
 ## Séance 2 : Les cellules reproductrices
 
-!!! question "Problématique"
+!!! question Problématique
     Comment sont produites les cellules reproductrices ?
 
 [Activité Les cellules reproductrices des femmes et des hommes](../diffCellRepro)
 
 
-??? abstract "Bilan"
+??? abstract Bilan
 
     Les gamètes** (=**cellules reproductrices) sont produites par les gonades.
 
@@ -45,13 +45,13 @@
 ## Séance 3 : Le début de la puberté
 
 
-!!! question "Problématique"
+!!! question Problématique
     Comment expliquer les changements liés à la puberté ?
 
 [Activité La puberté](../puberte)
 
 
-??? abstract "Bilan"
+??? abstract Bilan
 
 
     ![](Pictures/hormonePuberteMale.png)
@@ -67,7 +67,7 @@
 
 ## Séance 4 : Le contrôle des appareils reproducteurs
 
-!!! question "Problématique"
+!!! question Problématique
     Comment est contrôlé le fonctionnement de l’appareil reproducteur ?
 
 ![](Pictures/castrationCoq.jpg)
@@ -78,7 +78,7 @@
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
 
     Chez les êtres humains, l’hypophyse (dans le cerveau) contrôle les testicules ou les ovaires grâce à des hormones hypophysaires (LH et FSH). En réponse, les gonades (ovaires ou testicules) produisent des hormones sexuelles (testostérone par les testicules et œstrogènes et progestérones par les ovaires). Ce sont des hormones sexuelles qui permettent l’apparition et le maintien des caractères sexuels secondaires et la production de cellules reproductrices.
 
@@ -88,14 +88,14 @@
 
 ## Séance 5 : Le cycle de la femme
 
-!!! question "Problématique"
+!!! question Problématique
     Comment le cycle utérin est-il contrôlé ?
 
 [Activité Le cycle de l’utérus](../cycleUterus)
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
 
     Les règles se caractérisent par un écoulement de sang provenant de l’utérus.
 

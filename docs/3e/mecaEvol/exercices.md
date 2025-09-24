@@ -1,12 +1,12 @@
 # Activité : Exercices
 
-!!! note "Compétences"
+!!! note Compétences
 
     trouver et utiliser des informations 
 
 
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 
@@ -14,7 +14,7 @@
 
 ## Exercice 1 Évolution et sélection naturelle
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. Proposer une explication aux différences entre les deux populations de souris
     2. Justifier le terme de « sélection naturelle » pour expliquer l’évolution des populations de souris.

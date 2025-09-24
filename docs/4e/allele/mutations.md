@@ -1,16 +1,16 @@
 # Activité : L’apparition de nouveaux caractères.
 
-!!! note "Compétences"
+!!! note Compétences
 
     Trouver et exploiter des informations 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. Expliquer comment de nouveaux allèles peuvent apparaître
     2. Explique comment ces nouveaux allèles peuvent se transmettre aux descendants.
     3. Explique si ces nouveaux allèles sont bénéfiques, sans effet ou/et néfastes pour l’être vivant.
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 

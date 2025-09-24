@@ -4,7 +4,7 @@
     si besoin d'infos
 
 
-!!! question "Problématique"
+!!! question Problématique
     Comment montrer la parenté de tous les êtres vivants ?
 
 
@@ -26,7 +26,7 @@ Si on ne peut pas le voir à l’œil nu, comment faudrait-il faire ?
 
 </div>
 
-!!! question "Problématique"
+!!! question Problématique
     Quel est le point commun entre tous les êtres vivants?
 
 [Activité Observation de l’épiderme d’un triton](../obsTriton)
@@ -38,7 +38,7 @@ Si on ne peut pas le voir à l’œil nu, comment faudrait-il faire ?
 ??? note "photo"
     ![](pictures/photoParamacies.png)
 
-??? abstract "Bilan"
+??? abstract Bilan
     Certaines choses ne peuvent pas être vues à l’œil nu, car ils sont très petits, on dit qu’ils sont microscopiques. Pour pouvoir les observer, l’être humain va utiliser un microscope.
 
     Tous les êtres vivants sont composés de cellules. On dit que la cellule est l’unité du vivant.
@@ -55,7 +55,7 @@ Situation déclenchante : Dans le dessin animé, Le monde de Dory, le poisson-c
 
 ![](pictures/animauxMarins.png)
 
-!!! question "Problématique"
+!!! question Problématique
     Comment peut-on faire des liens de parenté entre les espèces d’êtres vivants ?
 
 - Trier : c'est opérer un choix éliminatoire, à partir d'un critère donné, c'est « oui » ou « non », « a » ou « n'a pas ».
@@ -73,7 +73,7 @@ Situation déclenchante : Dans le dessin animé, Le monde de Dory, le poisson-c
 [Activité Classification exercice](../classifExo)
 
 
-??? abstract "Bilan"
+??? abstract Bilan
 
     Les êtres vivants peuvent être classés en fonction des attributs qu’ils possèdent sous la forme de groupes emboîtés.
     On classe dans un même groupe les êtres vivants possédant un attribut en commun.

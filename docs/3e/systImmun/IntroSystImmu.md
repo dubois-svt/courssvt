@@ -12,14 +12,14 @@ Le combiné contiendrait cinq cents fois plus de bactéries qu’un siège de to
 Par Laura Thouny, L’express, publié le 16/07/2010
 
 
-!!! question "Problématique"
+!!! question Problématique
     Comment notre corps se défend-il contre les micro-organismes ?
 
     
 
 ## Séance 1 : Les acteurs du système immunitaire
 
-!!! question "Problématique"
+!!! question Problématique
     Quels sont les acteurs de la défense de l’organisme ?
 
 ??? question "Les acteurs du système immunitaire doivent pouvoir voyager dans tout le corps"
@@ -29,10 +29,10 @@ Par Laura Thouny, L’express, publié le 16/07/2010
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
     === "De quoi parler dans le bilan ? Quels mots clés ?"
 
-    === "Bilan à trous"
+    === Bilan à trous
         Les ......................... ou globules blancs, sont des cellules sanguines intervenant dans la réponse de l’organisme face aux infections, la réponse immunitaire. Ils font partie du système immunitaire.
 
         Il existe deux types de leucocytes :
@@ -44,7 +44,7 @@ Par Laura Thouny, L’express, publié le 16/07/2010
 
         La contamination est l’entrée de micro-organisme dans le corps.
 
-    === "Bilan"
+    === Bilan
         Les leucocytes ou globules blancs, sont des cellules sanguines intervenant dans la réponse de l’organisme face aux infections, la réponse immunitaire. Ils font partie du système immunitaire.
 
         Il existe deux types de leucocytes :
@@ -59,7 +59,7 @@ Par Laura Thouny, L’express, publié le 16/07/2010
 
 ## Séance 2 : Réaction à l'infection
 
-!!! question "Problématique"
+!!! question Problématique
     Comment notre corps réagit-il face à une infection ?
 
 ![](Pictures/multipliMicroorga.png)
@@ -76,10 +76,10 @@ Les virus ont besoin de nos cellules pour se multiplier. Ils vont entrer à l’
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
     === "De quoi parler dans le bilan ? Quels mots clés ?"
 
-    === "Bilan à trous"
+    === Bilan à trous
         Après la contamination, les microbes vont se multiplier dans l'organisme, c'est l'..........................
 
         Après une contamination, certains leucocytes (=globules blancs), cellules sanguines du système immunitaire vont détecter les éléments extérieurs (virus ou bactéries) et une ........................ va se produire très rapidement (gonflement, rougeur, chaleur et douleur).
@@ -90,7 +90,7 @@ Les virus ont besoin de nos cellules pour se multiplier. Ils vont entrer à l’
 
         C’est une réaction rapide et non spécifique (réaction contre n’importe quel élément étranger).
 
-    === "Bilan"
+    === Bilan
         Après la contamination, les microbes vont se multiplier dans l'organisme, c'est l'infection.
 
         Après une contamination, certains leucocytes (=globules blancs), cellules sanguines du système immunitaire vont détecter les éléments extérieurs (virus ou bactéries) et une réaction inflammatoire va se produire très rapidement (gonflement, rougeur, chaleur et douleur).
@@ -106,17 +106,17 @@ Les virus ont besoin de nos cellules pour se multiplier. Ils vont entrer à l’
 ## Séance 3 : Réaction de notre corps à une infection prolongée.
 
 
-!!! question "Problématique"
+!!! question Problématique
     Comment notre corps réagit si l’infection continue ?
 
 [Activité Réaction de notre corps à une infection prolongée](../infectionContinue)
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
     === "De quoi parler dans le bilan ? Quels mots clés ?"
 
-    === "Bilan à trous"
+    === Bilan à trous
         
         Les micro-organismes portent à leur surface des molécules, les ................, qui provoquent l’activation du système immunitaire.
 
@@ -128,7 +128,7 @@ Les virus ont besoin de nos cellules pour se multiplier. Ils vont entrer à l’
 
 
 
-    === "Bilan"
+    === Bilan
     
         Les micro-organismes portent à leur surface des molécules, les antigènes, qui provoquent l’activation du système immunitaire.
 

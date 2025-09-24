@@ -1,15 +1,15 @@
 # Activité : Les performances sportives.
 
-!!! note “Compétences”
+!!! note Compétences
 
     - Extraire et mettre en relation 
     - Faire un schéma
 
-!!! warning “Consignes”
+!!! warning Consignes
 
     Expliquer en texte ou sous la forme d'une carte mentale, en quoi un entrainement sportif régulier est important, mais qu'il est nécessaire de le faire correctement.
     
-??? bug “Critères de réussite”
+??? bug Critères de réussite
     
 **Document 1 La VMA Vitesse Moyenne Aérobie**
 

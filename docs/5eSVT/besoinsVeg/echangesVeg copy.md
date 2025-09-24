@@ -1,14 +1,14 @@
 # Activité : Les échanges des végétaux avec leur milieu.
 
-!!! note "Compétences"
+!!! note Compétences
 
     Extraire et mettre en relation 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     En décrivant les échanges d'un organisme végétal, expliquez l'origine de l'explosion de la serre de Mark.
 
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - identifier les gaz échangés par les feuilles à la lumière
     - identifier les gaz échangés par les feuilles à l'obscurité
     - identifier les gaz échangés par les autres organes

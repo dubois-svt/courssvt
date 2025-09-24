@@ -4,7 +4,7 @@
     si besoin d'infos
 
 
-!!! question "Problématique"
+!!! question Problématique
     Qu'est-ce que la biodiversité ?
 
     
@@ -13,13 +13,13 @@
 ![](pictures/chienEtParents.png)
 ![](pictures/croissementChouettes.png)
 
-!!! question "Problématique"
+!!! question Problématique
     Comment est définie une espèce ? 
 
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
     Une espèce regroupe des êtres vivants qui peuvent se reproduire entre eux et dont la descendance est fertile. Généralement les individus d’une espèce se ressemblent.
     Dans certains cas, deux individus d’espèces différentes peuvent se reproduire, mais leur descendance est généralement stérile. Cette descendance est appelée hybride 
     
@@ -41,7 +41,7 @@ Tous les chats font partie de la même espèce, Felis catus. Cependant, malgré 
 
 ![](pictures/chats.png)
 
-!!! question "Problématique"
+!!! question Problématique
     Quels sont les critères qui permettent de classer les chats en différentes races ? 
 
 
@@ -51,7 +51,7 @@ Tous les chats font partie de la même espèce, Felis catus. Cependant, malgré 
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
     Dans une espèce, il existe des variations de certains caractères. Cela crée un biodiversité intraspécifique.
 
     Chez les êtres vivants dont la reproduction est contrôlée, les êtres vivants qui ont le même aspect sont regroupés dans des groupes nommés races chez les animaux et variétés chez les plantes.
@@ -65,7 +65,7 @@ Tous les chats font partie de la même espèce, Felis catus. Cependant, malgré 
 
 A Digne-Les-Bains dans les Alpes de Haute-Provence, on peut trouver un site exceptionnel : une dalle de roche calcaire remplie de fossiles d’ammonites, un mollusque marin disparu depuis bien longtemps…
 
-!!! question "Problématique"
+!!! question Problématique
     Comment la biodiversité a changé sur Terre ?
 
 
@@ -74,7 +74,7 @@ A Digne-Les-Bains dans les Alpes de Haute-Provence, on peut trouver un site exce
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
     L’étude des fossiles permet de reconstituer l’histoire du vivant. 
 
     Certains groupes d’êtres vivants ont disparu et tous les groupes ne sont pas apparus en même temps.

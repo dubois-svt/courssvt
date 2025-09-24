@@ -1,15 +1,15 @@
 # Activité : Exercice : L’étude d’un frottis sanguin.
 
-!!! note "Compétences"
+!!! note Compétences
 
     - Argumenter 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     À partir des photographies de frottis sanguins, déterminez si Jules est victime d’une infection. Justifiez votre réponse.
 
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
 
 
 

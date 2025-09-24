@@ -1,16 +1,16 @@
 # Activité : Les mouvements à la surface de la Terre
 
-!!! note "Compétences"
+!!! note Compétences
 
     Trouver et utiliser des informations 
  
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. En utilisant les documents 1 et 3, représentez par des flèches les mouvements des plaques tectoniques les unes par rapport aux autres, au niveau A, B et C, sur le document 3.
     2. À partir de tous les documents, compléter le tableau du document 5.
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 

@@ -1,10 +1,10 @@
 # Activité : Procréation Médicalement Assistée (PMA)
 
-!!! note "Compétences"
+!!! note Compétences
 
     Trouver et utiliser des informations 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     À partir des informations extraites des différents documents, construisez un tableau dans lequel vous indiquerez pour les différents couples A, B et C :
 
@@ -13,7 +13,7 @@
     - Justifier votre réponse dans une colonne ou ligne supplémentaire.
 
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 <div markdown style="page-break-after: always;">

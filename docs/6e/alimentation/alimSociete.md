@@ -1,14 +1,14 @@
 # Activité : Alimentation et culture.
 
-!!! note "Compétences"
+!!! note Compétences
 
     Interpréter 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     Remplir un tableau comparant les habitudes alimentaires de 3 pays
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 climat Sénégal

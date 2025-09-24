@@ -1,16 +1,16 @@
 # Activité : La grossesse
 
-!!! note "Compétences"
+!!! note Compétences
 
     Trouver et utiliser des informations 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. À partir des documents 1 et 2, indiquer les jours du cycle où un rapport sexuel entraîne une plus grande probabilité de grossesse, en justifiant votre réponse.
     2. Relever des arguments expliquant que tout rapport non protégé peut être à l’origine d’une fécondation.
     3.  Résumer, en quelques lignes, comment se forme une cellule-œuf et son devenir dans les neuf mois qui suivent en indiquant où se passent les différents événements.
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 

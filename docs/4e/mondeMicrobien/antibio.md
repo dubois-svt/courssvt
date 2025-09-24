@@ -1,18 +1,18 @@
 # Activité : Les antibiotiques
 
-!!! note "Compétences"
+!!! note Compétences
 
     - Trouver et utiliser des informations 
     - Argumenter
  
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. À l’aide du document 1 et 2, expliquer le rôle des antibiotiques.
     2. À l’aide des documents 3, 4 et 5, expliquer les deux phrases des campagnes de sensibilisation à l’usage des antibiotiques.
     3. À l’aide des documents 6 et 7, indiquer en justifiant, quel antibiotique il faut prescrire dans le cas du patient de document 3.
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 <div markdown style="page-break-inside: avoid;">

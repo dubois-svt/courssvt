@@ -1,16 +1,16 @@
 # Activité : Impact du bruit sur notre système nerveux
 
-!!! note "Compétences"
+!!! note Compétences
 
     - Extraire et mettre en relation des informations   
     - Autonomie du travail
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. Expliquer les risques liés à une exposition importante au bruit. 
     2. Expliquer les conseils donnés par la campagne de sensibilisation du document 4.
 
-??? bug "Critères de réussite"
+??? bug Critères de réussite
 
 
 

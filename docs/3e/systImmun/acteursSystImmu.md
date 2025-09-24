@@ -1,12 +1,12 @@
 # Activité : Acteurs de la défense 
 
 
-!!! note "Compétences"
+!!! note Compétences
 
     - Argumenter 
     - Utiliser des outils d'observation
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. À partir des documents, proposer une hypothèse répondant au problème. Rédiger une réponse argumentée à partir des informations disponibles dans les documents.
 
@@ -15,7 +15,7 @@
     3. Indiquer la différence observable grâce à la coloration entre les leucocytes et les hématies. 
 
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 

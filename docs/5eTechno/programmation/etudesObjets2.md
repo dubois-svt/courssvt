@@ -1,17 +1,17 @@
 # Activité : Étude d’objets programmés, le cas d'un robot aspirateur
 
-!!! note "Compétences"
+!!! note Compétences
 
     - Trouver et utiliser des informations
     - Passer d'un langage à un autre.
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. Relier la fonction technique de l’objet étudié avec la solution technique retenue dans le document 4
     2. Dessiner le parcours correspondant au programme du document 5. On prendra une échelle de 10 pas pour 1 mm
     3. Compléter l'algorigramme du document 6
 
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 

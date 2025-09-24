@@ -1,11 +1,11 @@
 # Activité : L’origine de la puberté.
 
-!!! note "Compétences"
+!!! note Compétences
 
     - Construire un graphique
     - décrire un graphique 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. tracer un graphique tréprésentant l’évolution de la quantité de testostérone et de l'oestrogènbe en fonction de l’âge sur le graphique.
 
@@ -13,7 +13,7 @@
 
     3. Répondre au problème en utilisant les documents
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 

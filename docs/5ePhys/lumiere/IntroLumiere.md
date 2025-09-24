@@ -4,7 +4,7 @@
     si besoin d'infos
 
 
-!!! question "Problématique"
+!!! question Problématique
     Comment se propage la lumière ?
 
     
@@ -14,7 +14,7 @@
 
 ## Séance 1 : Les sources de lumière
 
-!!! question "Problématique"
+!!! question Problématique
     Comment peut-on voir un objet ?
 
 [Activité sources lumineuses](../sourcesLumineuses)
@@ -22,7 +22,7 @@
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
     Il existe deux types d’objets : 
 
     - Les sources lumineuses (ou sources primaires de lumière) qui produisent la lumière (Soleil, flammes, lasers, ampoule…)
@@ -33,13 +33,13 @@
 
 ## Séance 2 : Propagation de la lumière.
 
-!!! question "Problématique"
+!!! question Problématique
     Comment la lumière se propage-t-elle ?
     
 [Activité Propagation de la lumière](../propagLumiere)
 
 
-??? abstract "Bilan"
+??? abstract Bilan
 
     La lumière se propage en ligne droite dans les milieux transparents. On parle de propagation rectiligne. 
 
@@ -54,7 +54,7 @@
 
 ## Séance 3 : Éclipses
 
-!!! question "Problématique"
+!!! question Problématique
 
     Comment une éclipse peut-elle se produire ?
 
@@ -62,7 +62,7 @@
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
 
     Une éclipse correspond à la disparition totale ou partielle d'un astre.
     Cela est dû à la présence d'un autre astre entre l'astre caché et l'observateur.
@@ -80,7 +80,7 @@ Afin de revaloriser un terrain de stockage de déchets jusque dans les années 9
 
 ![](pictures/centraleSolaire.png){:style="width:500px;"}
 
-!!! question "Problématique"
+!!! question Problématique
 
     Comment représenter l'énergie  servant à allumer une ampoule grâce à l’énergie lumineuse émise par le Soleil  ?
 
@@ -89,7 +89,7 @@ Afin de revaloriser un terrain de stockage de déchets jusque dans les années 9
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
 
     Les centrales solaires captent l'énergie du Soleil et la coinvertissent en énergie électrique qui est transférée des centrales jusqu’à nos habitations, les usines, les écoles en temps réel car on ne peut pas la stocker. 
     Les appareils électriques convertissent alors l’énergie électrique en une autre forme : 
@@ -129,7 +129,7 @@ Créé dans les années 1840 par Samuel F.B. Morse, le code Morse est un mode de
 
 ![](pictures/ponyo.png){:style="width:250px;"}
 
-!!! question "Problématique"
+!!! question Problématique
     Comment communiquer en Morse ?
 
 ![](pictures/codeMorse.png){:style="width:300px;"}

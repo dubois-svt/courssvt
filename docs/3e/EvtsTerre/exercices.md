@@ -2,13 +2,13 @@
 
 ## Exercice 1 : Frise chronologique
 
-!!! note "Compétences"
+!!! note Compétences
     - Représenter des données sous différentes formes
 
-!!! warning "Consignes"
+!!! warning Consignes
     À partir des informations des différents documents, ajouter sur la frise chronologique les 2 évènements suivants. (1 cm = 200 Ma)
 
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - avoir calculer la distance entre aujourd'hui et chacun des événements par rapport à l'échelle
     - placer les événements sur la frise
 
@@ -27,13 +27,13 @@ Il y a environ 450 Ma, une extinction massive s'est produite, probablement à la
 
 ## Exercice 2 : Les changements climatiques passés
 
-!!! note "Compétences"
+!!! note Compétences
     - trouver et utiliser des informations
 
-!!! warning "Consignes"
+!!! warning Consignes
     1. À l’aide des documents, montrer que le climat à Blaye le climat a changé entre aujourd'hui et il y a 40 Ma et expliquer comment les scientifiques ont pu le savoir.
 
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - Pour chaque ville, avoir relevé le climat actuel
     - Pour chaque ville, avoir relevé un indice datant de l'époque étudiée
     - Pour chaque ville, avoir déterminé le climat passé à partir des informations de l'indice.

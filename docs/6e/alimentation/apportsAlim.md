@@ -1,16 +1,16 @@
 # Activité : Les recommandations alimentaires
 
-!!! note "Compétences"
+!!! note Compétences
 
     - Trouver et utiliser des informations 
     - Relier des connaissances acquises en sciences et technologie à des questions de santé, de sécurité et d’environnement.
 
 
-!!! warning "Consignes"
+!!! warning Consignes
     1. Compléter le tableau du document 4.
     2. Expliquer l’intérêt des campagnes de prévention concernant l'alimentation.
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     1. À partir des documents, indique de quoi sont composés les aliments.
     2. Explique pour chaque élément le rôle
     3. Explique la nécessité d’avoir une alimentation variée et équilibrée.

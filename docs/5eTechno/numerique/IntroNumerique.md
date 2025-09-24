@@ -4,7 +4,7 @@
     si besoin d’infos
 
 
-!!! question “Problématique”
+!!! question Problématique
     Quel est l’impact du numérique dans nos vies ?
 
     
@@ -17,14 +17,14 @@ En langage simple, le système informatique est l’ensemble des équipements qu
 
 
 
-!!! question “Problématique”
+!!! question Problématique
 
     Comment sont organisées les donénes stockées dans un système inforamtique ?
 
 [Activité les données informatiques](../systInformation)
 
 
-??? abstract “Bilan”
+??? abstract Bilan
 
     <a markdown id="bilan1">
 
@@ -51,7 +51,7 @@ En langage simple, le système informatique est l’ensemble des équipements qu
 ![alt text](image-8.png)
 ![alt text](image-10.png)
 
-!!! question “Problématique”
+!!! question Problématique
     comment le numérique peut-il avoir un impact dans notre vie ?
 
 [Activité Vie et numérique](../cyberviolence)
@@ -59,7 +59,7 @@ En langage simple, le système informatique est l’ensemble des équipements qu
 
 
 
-??? abstract “Bilan”
+??? abstract Bilan
 
     <a markdown id="bilan2">
 
@@ -72,7 +72,7 @@ En langage simple, le système informatique est l’ensemble des équipements qu
 
 ## Séance 3 : Cybersécurité
 
-!!! question “Problématique”
+!!! question Problématique
     Quels sont les points de vigilance pour ne pas mettre en danger ses données informatiques ?
 
 [Activité Cybersécurité](../cybersecu)
@@ -86,7 +86,7 @@ En langage simple, le système informatique est l’ensemble des équipements qu
 https://www.lumni.fr/video/donnees-personnelles-et-reseaux-sociaux
 
 
-??? abstract “Bilan”
+??? abstract Bilan
 
     <a markdown id="bilan3">
 

@@ -14,14 +14,14 @@
 
 ## Séance 1 : Les différentes formes d'énergie
 
-!!! question "Problématique"
+!!! question Problématique
     Sous quelles formes l'énergie se présente-t-elle ? 
 
 [Activité Les formes d'énergie](../formesEnergies)
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
     L'énergie est la capacité à produire des changements (de température, de mouvement...). 
     Cette énergie se mesure en joule.
     Il existe différentes formes d'énergie.
@@ -35,7 +35,7 @@
 
 ## Séance 2 : Nom
 
-!!! question "Problématique"
+!!! question Problématique
     Quels sont les éléments à prendre en compte pour répondre à un besoin ?
 
 
@@ -53,7 +53,7 @@ inverser 2 ÉLÉMENTS
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
     Bilan
 
 <div style="page-break-after: always;"></div>

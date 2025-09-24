@@ -5,13 +5,13 @@
 
 On doit le tout premier programme informatique à l’anglaise Ada Lovelace au XIXe siècle, 100 ans avant le tout premier ordinateur. La programmation informatique est une technique qui englobe de plus en plus notre quotidien.
 
-!!! question "Problématique"
+!!! question Problématique
     Qu'est-ce qu'un programme informatique ?
 
 
 ## Séance 1 : Découverte de la programmation
 
-!!! question "Problématique"
+!!! question Problématique
     Comment écrire un programme informatique ?
 
 [Activité Initiation à la programmation](../initProg)
@@ -19,10 +19,10 @@ On doit le tout premier programme informatique à l’anglaise Ada Lovelace au X
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
     === "De quoi parler dans le bilan ? Quels mots clés ?"
 
-    === "Bilan"
+    === Bilan
 
     Un programme est composé d’une ou plusieurs séquences d’instructions ayant un but défini. Il est écrit à l’aide d’un langage de programmation. Ce programme traduit un algorithme.
 
@@ -39,7 +39,7 @@ On doit le tout premier programme informatique à l’anglaise Ada Lovelace au X
 
 ## Séance 2 : Études d’objets programmés
 
-!!! question "Problématique"
+!!! question Problématique
     Comment créer le programme d'un robot ?
 
 [Activité le cas d'un drone pour l'agriculture](../etudesObjets1)
@@ -48,7 +48,7 @@ On doit le tout premier programme informatique à l’anglaise Ada Lovelace au X
 [Activité le cas d'un robot aspirateur](../etudesObjets2)
 
 
-??? abstract "Bilan"
+??? abstract Bilan
     Pour programmer un système, il faut donner des instructions à ce système. Plusieurs étapes sont nécessaires : 
     
     - on rédige un algorithme, 
@@ -73,7 +73,7 @@ En prévision d’un voyage sur Mars, les scientifiques ont développé des engi
 Pour préparer ces missions, des études sont menées en laboratoire. Le robot mBot sert de modèle expérimental.
 
 
-!!! question "Problématique"
+!!! question Problématique
     Comment programmer un tel robot ?
 
 

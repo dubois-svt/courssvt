@@ -1,17 +1,17 @@
 # Activité : Répartition des climats
 
-!!! note "Compétences"
+!!! note Compétences
 
     - Argumenter
     - Manipuler, expérimenter
 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     À partir de la manipulation et des documents, proposer une explication à la répartition des climats sur Terre.
 
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - Compléter le document 3 et document 4 (1.5 point)
     - Comparer la température au pôle et à l'équateur (1 point)
     - Faire le lien entre surface éclairée et intensité lumineuse (0.75 point)

@@ -1,14 +1,14 @@
 # Activité : La nutrition du fœtus 
 
-!!! note "Compétences"
+!!! note Compétences
 
     Construire un schéma fonctionnel 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
    À partir des informations extraites des différents documents, construisez un schéma fonctionnel qui montre la nutrition d’un fœtus.
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 

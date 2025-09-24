@@ -30,7 +30,7 @@ Une première enquête a limité les suspects à sept personnes.
 
 Qui a kidnappé le chat du collège ?
 
-!!! question "Problématique"
+!!! question Problématique
     
     comment expliquer que nous soyons tous différents, malgré nos caractéristiques communes ?
 
@@ -40,7 +40,7 @@ Qui a kidnappé le chat du collège ?
 Avec le sang et les cheveux, on aura accès à l'ADN. Cet ADN nous permettra de connaitre de caractères (traits caractéristiques) du coupable et donc d'identifier. Mais cela nous donnera que des caractères héréditaires. Il faut donc identifier les caractères héréditaires des suspects
 
 
-!!! question "Problématique"
+!!! question Problématique
     Quels sont les caractères héréditaires ?
 
 [Activité Les caractères héréditaires](../caractHered)
@@ -48,7 +48,7 @@ Avec le sang et les cheveux, on aura accès à l'ADN. Cet ADN nous permettra de 
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
     
     <a id="bilan1">
     Les individus d’une même espèce partagent des caractères. Ce sont les caractères spécifiques. 
@@ -70,7 +70,7 @@ Ils ont pu récuperer de l'ADN et voir cet ADN sous la forme de chromosomes. Ils
 
 
 
-!!! question "Problématique"
+!!! question Problématique
     Quelle information un caryotype peut-il donner ?
     
 [Activité Le caryotype](../caryotype)
@@ -79,14 +79,14 @@ Ils ont pu récuperer de l'ADN et voir cet ADN sous la forme de chromosomes. Ils
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
 
     <a id="bilan2">
 
     === "De quoi parler dans le bilan ? Quels mots clés ?"
 
 
-    === "Bilan à trous"
+    === Bilan à trous
         L’information génétique permet la réalisation des phénotypes héréditaires et donc des caractères ..........................
         
         L’information génétique se trouve sous la forme d'ADN dans le noyau des cellules. L'ADN compose les ...............…, ce sont le support de l’information génétique. 
@@ -101,7 +101,7 @@ Ils ont pu récuperer de l'ADN et voir cet ADN sous la forme de chromosomes. Ils
         
         Un nombre anormal de chromosomes peut empêcher le développement de l’embryon ou entraîne des caractères différents chez l’individu (ex : trisomie 21).
 
-    === "Bilan"
+    === Bilan
     
         L’information génétique permet la réalisation des phénotypes héréditaires et donc  des caractères héréditaires. 
         
@@ -128,13 +128,13 @@ Grâce aux gouttes de sang, on va pouvoir faire un test, pour connaitre le group
 
 L'information génétique présente sur les chromosomes permet de donner les caractères héréditaires. Ces informations composent les gènes. 
 
-!!! question "Problématique"
+!!! question Problématique
     Comment une information, comme le groupe sanguin, est organisée dans les chromosomes ?    
 
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
     
     <a id="bilan3">
 
@@ -158,7 +158,7 @@ L'information génétique présente sur les chromosomes permet de donner les car
 
 Un des parents indique que votre raisonnement est incorrect, si tous les humains ont les mêmes gènes, on devrait tous avoir le même groupe sanguin, ce qui n'est pas le cas, les caractéristiques génétiques sont incorrectes d'après lui. Il faudra lui expliquer son erreur
 
-!!! question "Problématique"
+!!! question Problématique
     Comment malgré des gènes identiques, nous pouvons être différents ?
 
 [Activité Le groupe sanguin et les allèles](../grpSangAlleles)
@@ -166,14 +166,14 @@ Un des parents indique que votre raisonnement est incorrect, si tous les humains
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
 
     <a id="bilan4">
 
     === "De quoi parler dans le bilan ? Quels mots clés ?"
 
 
-    === "Bilan à trous"
+    === Bilan à trous
 
         Les différentes versions d'un gène sont appelées ............... Il détermine une version différente du caractère.
 
@@ -195,7 +195,7 @@ Un des parents indique que votre raisonnement est incorrect, si tous les humains
 
         .......  <=>  ........
 
-    === "Bilan"
+    === Bilan
         Les différentes versions d'un gène sont appelées "allèles". Il détermine une version différente du caractère.
 
         Chaque personne a donc deux allèles de chaque gène : 
@@ -232,14 +232,14 @@ Sa mère étant A et son père AB, il explique qu'elle ne peut être que de grou
 
 Vous devez donc lui expliquer comment l'information génétique est transmise des parents aux enfants, pour lui montrer qu'elle peut être de groupe sanguin B.
 
-!!! question "Problématique"
+!!! question Problématique
     Comment l'information génétique est-elle transmise des parents aux enfants ?
 
 [Activité Transmission des gènes](../transmissionGènes)
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
 
     <a id="bilan5">
 
@@ -267,7 +267,7 @@ Vous cherchez donc à lui expliquer comment on peut passer d'une unique cellule-
 
 Rédiger un texte accompagne d'un schéma à la mère d'Amina grâce auxquels vous lui expliquerez comment on peut obtenir deux cellules ayant la même information génétique à partir d'une seule.
 
-!!! question "Problématique"
+!!! question Problématique
 
     Comment expliquer que l'information génétique est conservée au cours de la multiplication cellulaire ?
 
@@ -275,7 +275,7 @@ Rédiger un texte accompagne d'un schéma à la mère d'Amina grâce auxquels vo
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
 
     <a id="bilan6">
 
@@ -296,13 +296,13 @@ Rédiger un texte accompagne d'un schéma à la mère d'Amina grâce auxquels vo
 Les analyses détaillées de l'ADN du coupable viennent d'arriver. Il s'agit du dernier indice de l'enquête.
 Les résultats sont surprenants et modifient les conclusions de l'enquête.
 
-!!! question "Problématique"
+!!! question Problématique
 
     Comment des modifications de l'ADN  peuvent-elles avoir des conséquences ?
 
 [Activité Mutations](../mutations)
 
-??? abstract "Bilan"
+??? abstract Bilan
 
     <a id="bilan7">
 

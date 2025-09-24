@@ -1,11 +1,11 @@
 # Activité : Répartition des séismes et des volcans
 
-!!! note "Compétences"
+!!! note Compétences
 
     - Trouver et utiliser des informations
     - Utiliser l'outil numérique
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. À l’aide du logiciel Tectoglob3D, localiser en tracant des lignes les alignements (au moins 3) de foyers sismiques et de volcans sur la carte du document 1.
 
@@ -13,7 +13,7 @@
 
     3. En utilisant les informations du document 2, compléter le  document 3 en indiquant l’épaisseur des différentes couches superficielles.
 
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 

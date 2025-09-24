@@ -1,17 +1,17 @@
 # Activité Les changement d'état de l'eau
 
-!!! note "Compétences"
+!!! note Compétences
 
     - Manipuler
     - Interpréter
 
-!!! warning "Consignes"
+!!! warning Consignes
     1. Faire la manipulation du document 1 et compléter le tableau fourni
     2. Créer le graphique sur LibreOffice Calc en vous aidant du document 2
     3. Répondre aux questions du document 3
     4. Compléter la conclusion du document 4
 
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     Aide 1 :
 
 

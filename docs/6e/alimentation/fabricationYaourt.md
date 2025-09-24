@@ -1,16 +1,16 @@
 # Activité : Fabriquer du yaourt
 
-!!! note "Compétences"
+!!! note Compétences
 
     Concevoir et mettre en œuvre des expériences  
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     Un gérant d'une société produisant des yaourts souhaiterait faire des économies dans sa production de yaourts. Il souhaiterait donc supprimer une des étapes de la recette, tout en gardant un résultat correct. Proposer une solution possible au gérant en vérifiant avant la validité de votre choix.
     De plus, il voudrait savoir si 100ml de lait sont plus lourds que 100ml d'eau.
 
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - Proposer une hypothèse répondant au problème.
     - Proposer un protocole pour tester l'hypothèse
     - Tester l'hypothèse

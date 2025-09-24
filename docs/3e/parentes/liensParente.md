@@ -1,16 +1,16 @@
 # Activité : Parentés entre les différents êtres vivants
 
-!!! note "Compétences"
+!!! note Compétences
 
     - trouver et utiliser des informations 
  
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. À partir des documents, montrer que tous les différents êtres vivants présentés ont un lien de parenté, vous justifierez votre réponse en écrivant l’arbre de parenté.
     2. Montrer ensuite que tous les êtres vivants ont un lien de parenté.
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 

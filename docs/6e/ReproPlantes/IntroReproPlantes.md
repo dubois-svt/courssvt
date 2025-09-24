@@ -8,7 +8,7 @@
     Comprendre l’impact de l’utilisation des pesticides sur l’abondance des pollinisateurs.
 
 
-!!! question "Problématique"
+!!! question Problématique
     Comment les plantes à fleurs se reproduisent-elles?
     
 ### Document d’appel :
@@ -21,7 +21,7 @@
 
 ## Séance 1 : Formation des fruits et des graines
 
-!!! question "Problématique"
+!!! question Problématique
     Comment se forment un fruit et des graines ?
 
 
@@ -31,7 +31,7 @@
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
     Une fleur est l’organe de la plante qui permet la formation des fruits et des graines. Elle est composée de l’extérieur vers l’intérieur, de sépales, de pétales, d’étamines et d’un pistil.
 
     Les fleurs sont les organes reproducteurs des plantes.
@@ -51,7 +51,7 @@
 
 Chez la plupart des plantes, les grains de pollen d'une fleur doivent être déplacés pour polliniser le pistil d'une autre fleur de la même espèce.
 
-!!! question "Problématique"
+!!! question Problématique
     Comment les insectes et les plantes coopèrent-ils au cours de la pollinisation ?
     
 [Activité La pollinisation par les abeilles](../pollinisation)
@@ -59,7 +59,7 @@ Chez la plupart des plantes, les grains de pollen d'une fleur doivent être dép
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
     
     Définition pollinisation : Transport du pollen, des étamines jusqu’au pistil.
 
@@ -77,7 +77,7 @@ Chez la plupart des plantes, les grains de pollen d'une fleur doivent être dép
 ## Séance 3 : Les conséquences des activités humains sur les pollinisateurs
 
 
-!!! question "Problématique"
+!!! question Problématique
     Quelles conséquences pourraient avoir la disparition des insectes pollinisateurs ?
 
 
@@ -86,7 +86,7 @@ Chez la plupart des plantes, les grains de pollen d'une fleur doivent être dép
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
 
     La disparition des pollinisateurs serait une catastrophe pour notre alimentation, car de nombreuses plantes ne pourraient plus produire ni les fruits ni les graines dont nous nous nourrissons.
     Les insectes pollinisateurs sont pourtant mis en péril par de nombreuses actions humaines, dont l'utilisation des pesticides ou l'introduction d'espèces prédatrices.

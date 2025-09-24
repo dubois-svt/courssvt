@@ -1,14 +1,14 @@
 # Activité : Une méthode de contraception, la pilule
 
-!!! note "Compétences"
+!!! note Compétences
 
     Mettre en relation des informations pour répondre à un problème  
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     À partir des différents documents, expliquer l’effet contraceptif de la pilule.
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 

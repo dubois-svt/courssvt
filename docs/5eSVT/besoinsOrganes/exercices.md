@@ -4,7 +4,7 @@
     
 ## Exercice 1 calculer une fréquence cardiaque à partir d'un électrocardiogramme
 
-!!! warning "Consignes"
+!!! warning Consignes
     Calculer les fréquences cardiaques des deux patients.
    
 Le cœur bat périodiquement, c'est-à-dire que les battements se répètent dans le temps. On obtient alors une courbe avec des ondulations comme celles des électrocardiogrammes (ECG) pour l’activité électrique du cœur. Un pic est une décharge électrique du cœur qui se contracte.
@@ -26,7 +26,7 @@ Le cœur bat périodiquement, c'est-à-dire que les battements se répètent dan
     
 ## Exercice 2 La fréquence respiratoire
 
-!!! warning "Consignes"
+!!! warning Consignes
     1. Comment évolue la fréquence respiratoire au cours d’un effort ? 
     2. Comment évolue la fréquence respiratoire après un effort ?
     3. Que peux-tu constater quand tous ont pris 2 minutes de repos ?
@@ -49,7 +49,7 @@ On mesure la fréquence cardiaque et la fréquence respiratoire de quelques él�
 
 Trois élèves font un footing d’échauffement pendant 4 minutes et un capteur enregistre les battements cardiaques ramenés à une valeur par minute. (unité bat./min)
 
-!!! warning "Consignes"
+!!! warning Consignes
     1. En utilisant les données ci-dessous, sur votre cahier, tracez les 3 courbes représentant l’évolution de la fréquence cardiaque chez ces trois élèves au cours du temps.
     Les 3 courbes sont à réaliser sur le même graphique. Pour les différencier, vous repasserez la courbe de Pierre en bleu, celle d'Inès en vert et celle de Nath en rouge.
 

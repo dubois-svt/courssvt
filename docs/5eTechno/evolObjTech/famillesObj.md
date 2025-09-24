@@ -1,16 +1,16 @@
 # Activité : Les familles d’objets
 
-!!! note "Compétences"
+!!! note Compétences
 
     Trouver et utiliser des informations 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. Rappeler la définition d’une fonction d’usage
     2. Nommer les objets ci-dessus.
     3. Classer les objets techniques en trois familles en précisant leur fonction d’usage. 
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 

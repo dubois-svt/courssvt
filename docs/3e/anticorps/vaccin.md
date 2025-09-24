@@ -1,11 +1,11 @@
 # Activité : La vaccination
 
-!!! note "Compétences"
+!!! note Compétences
 
     - Trouver et extraire des informations
     - Argumenter
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. Expliquer le principe de la vaccination. (Document 1 à 3)
 
@@ -15,7 +15,7 @@
     3. Comparer les risques dus à la rougeole et au vaccin contre
     la rougeole.
         
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 

@@ -1,10 +1,10 @@
 # Activité : Intensité du courant électrique
 
-!!! note "Compétences"
+!!! note Compétences
     - Trouver et utiliser des informations
     - Manipuler
   
-!!! warning "Consignes"
+!!! warning Consignes
     1. Réaliser le schéma normalisé du circuit électrique du document 4. Représenter le sens du courant électrique.
 
     2. Pour mesurer l’intensité du courant électrique qui traverse les dipôles, suivre le protocole expérimental suivant :
@@ -17,7 +17,7 @@
 
     4. Y-a-t-il un risque d’électrocution avec la pile utilisée ? Justifier. 
 
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - bien respecter les normes apprises précédemment pour faire le schéma
     - attention à bien respecter les règles d'utilisation de l’ampèremètre.
     - Comparer toutes les valeurs d'intensité notées

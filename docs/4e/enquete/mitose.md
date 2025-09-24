@@ -1,10 +1,10 @@
 # Activité : Conservation de l'ADN 
 
-!!! note "Compétences"
+!!! note Compétences
 
     Interpréter 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. Compléter les légendes du document 2
     2. A l'aide du document 3 , réaliser sur une feuille de papier millimétré le graphique représentant l'évolution de la quanté d'ADN en fonction du temps dans une cellule
@@ -13,7 +13,7 @@
     5. Compléter le schéma du document 1 
     6. Rédiger un texte pour répondre à la mère d'Amina
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
 
     - rappeler le nom de la division cellulaire
     - [vidéo mitose](https://www.youtube.com/watch?app=desktop&v=gYAL1vPOCEQ)

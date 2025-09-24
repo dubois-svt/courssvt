@@ -1,15 +1,15 @@
 # Activité : L'eau, une ressource précieuse
 
-!!! note "Compétences"
+!!! note Compétences
 
     - Communiquer à l'oral
     - Trouver et utiliser des informations 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     A partir des documents et des activités précédentes, présenter dans un audio de 3 minutes maximum, en quoi l'eau est importante, quel est l'état actuel de nos ressources en eau. Finir par une présentation de 2 solutions possibles pour l'avenir.
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - Indiquer l'utilité de l'eau
     - expliquer comment est répartie l'eau sur Terre
     - Comparer la répartition de l'eau douce sur Terre

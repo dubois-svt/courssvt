@@ -37,7 +37,7 @@
     - jeu électronique
 
 
-??? abstract "Bilan"
+??? abstract Bilan
     La matière se décompose avec le temps.
     La vitesse de décomposition est très différente d’un objet à l’autre. Les objets composés de matière organiques se décomposent plus rapidement que les déchets composés de matière minérale, sauf les matières plastiques qui se décomposent très lentement.
 
@@ -48,7 +48,7 @@
 
 ## Séance 2 : Propriétés de la matière
 
-!!! note "Compétences"
+!!! note Compétences
     - Interpréter des résultats de façon raisonnée et en tirer des conclusions en mobilisant des arguments scientifiques.  
     - Relier des connaissances acquises en sciences et technologie à des questions de santé, de sécurité et d’environnement.
 
@@ -62,7 +62,7 @@ Ils ont deux cuillères, une en métal et l'autre en bois, Sofiane indique que c
 
 Quelle cuillère utiliser pour ne pas se brûler ?
 
-!!! question "Problématique"
+!!! question Problématique
     Comment les propriétés des matériaux peuvent influencer leur utilisation ?
 
 [Activité sur les propriétés des matériaux](../Proprietes)
@@ -70,7 +70,7 @@ Quelle cuillère utiliser pour ne pas se brûler ?
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
     Les matériaux peuvent être caractérisés par leurs propriétés : conductivité thermique, conductivité électrique, magnétisme, etc.
 
     On observe que chaque échantillon de matière n’aura pas les mêmes propriétés, cela montre une **grande diversité de la matière.

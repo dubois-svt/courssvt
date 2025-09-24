@@ -2,17 +2,17 @@
 
 
 
-!!! note “Compétences”
+!!! note Compétences
 
     Interpréter 
 
-!!! warning “Consignes”
+!!! warning Consignes
 
     1. Pour chacune des situations du document 3, dire s'il s'agit de cyberharcélement
     2. Que faire en cas de cyberviolence ?
     
     
-??? bug “Critères de réussite”
+??? bug Critères de réussite
     - 
 
 

@@ -4,7 +4,7 @@
     si besoin d’infos
 
 
-!!! question “Problématique”
+!!! question Problématique
     Comment nos organes sont-ils approvisionnés ? 
 
     
@@ -18,7 +18,7 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
 ![Final 100m Hommes JO 2024 (FranceTV))](pictures/fin100m.png)
 
 
-!!! question “Problématique”
+!!! question Problématique
     Quelles sont les modifications de l’organisme lors d’un effort ?
 
 [Activité Notre corps lors d’un effort](../effortsPhysiques)
@@ -26,11 +26,11 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
 
 
 
-??? abstract “Bilan”
+??? abstract Bilan
 
     <a markdown id="bilan1">
 
-    === "Bilan à trous"
+    === Bilan à trous
     
         Lors d’un effort physique, les besoins des muscles en nutriments et en dioxygène ....................
 
@@ -43,7 +43,7 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
   
         Lors d'un effort, le corps chauffe. pour se refroidir, il va transpirer ce qui nous fait perdre de l'eau.
 
-    === "Bilan"
+    === Bilan
 
         
 
@@ -62,7 +62,7 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
 
 ## Séance 2 : Les échanges gazeux des animaux.
 
-!!! question “Problématique”
+!!! question Problématique
     Quels sont les échanges de matière réalisés lorsqu’un animal respire ?
     
 [Activité Les échanges gazeux lors de la respiration](../echangesGazAni)
@@ -70,11 +70,11 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
 
 
 
-??? abstract “Bilan”
+??? abstract Bilan
 
     <a markdown id="bilan2">
 
-    === "Bilan à trous"
+    === Bilan à trous
         La ................... est un échange gazeux avec le milieu.
         Les organismes prélèvent du ................... dans leur milieu (aérien ou aquatique) et rejettent du ....................
 
@@ -82,7 +82,7 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
         La respiration est possible dans l'eau grâce à des .................... Les animaux respirent dans l'air grâce à des ................... ou à des ....................
         Les trachées amènent directement l'air jusqu'aux organes, tandis que les poumons et les branchies sont des surfaces d'échange des gaz entre l'extérieur et le sang.
 
-    === "Bilan"
+    === Bilan
 
         La respiration est un échange gazeux avec le milieu.
         Les organismes prélèvent du dioxygène dans leur milieu (aérien ou aquatique) et rejettent du dioxyde de carbone.
@@ -95,17 +95,17 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
 
 ## Séance 3 : L’approvisionnement des organes des animaux.
 
-!!! question “Problématique”
+!!! question Problématique
     Comment les nutriments et les gaz sont-ils transportés jusqu’aux organes ?
     
 [Activité système circulatoire des animaux](../systCircu)
 
 
-??? abstract “Bilan”
+??? abstract Bilan
 
     <a markdown id="bilan3">
 
-    === "Bilan à trous"
+    === Bilan à trous
         Les nutriments, les déchets et les gaz (dioxygène et dioxyde de carbone) sont transportés dans un liquide appelé ............... ou ...................
         Ce liquide circule dans un système circulatoire qui peut être ............... ou ..................... sur l'intérieur du corps de l'animal.
 
@@ -118,7 +118,7 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
         Le liquide circulant est mis en mouvement par un muscle creux : le ...................
         En se relâchant, le cœur se remplit de liquide. En se contractant, le cœur propulse le liquide dans les artères.
 
-    === "Bilan"
+    === Bilan
 
         Les nutriments, les déchets et les gaz (dioxygène et dioxyde de carbone) sont transportés dans un liquide appelé sang ou hémolymphe.
         Ce liquide circule dans un système circulatoire qui peut être fermé ou ouvert sur l'intérieur du corps de l'animal.
@@ -147,7 +147,7 @@ Le cross du collège se déroulera bientôt. Pour vous préparer, les enseignant
 À quoi correspond cette vitesse et comment l’améliorer pour l’année prochaine.
 
 
-!!! question “Problématique”
+!!! question Problématique
     Comment augmenter sa VMA ?
     Quelles sont les attitudes à suivre pour améliorer ses performances ?
 
@@ -155,7 +155,7 @@ Le cross du collège se déroulera bientôt. Pour vous préparer, les enseignant
 
 [Activité Les performances sportives](../perfSport)
 
-??? abstract “Bilan”
+??? abstract Bilan
 
 
     <a markdown id="bilan4">

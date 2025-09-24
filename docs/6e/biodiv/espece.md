@@ -1,6 +1,6 @@
 # Activité : La notion d’espèce
 
-!!! note "Compétences"
+!!! note Compétences
 
     Restituer des connaissances 
 
@@ -9,7 +9,7 @@
 
 ## Exercice 1 : L’âne, la jument et le mulet.
 
-!!! warning "Consignes"
+!!! warning Consignes
     Pour chaque phrase du document 2, cocher la bonne réponse.
 
 
@@ -52,7 +52,7 @@ Il n’est pas capable de se reproduire. On dit qu’il est stérile.
 ## Exercice 2 : La baudroie
 
 
-!!! warning "Consignes"
+!!! warning Consignes
     1. À partir de l’observation de chaque animal sur l’image, penses-tu qu’ils appartiennent à la même espèce ou à 2 espèces différentes ? Justifie ta réponse.
     2. Sachant que le petit poisson est, en réalité, un mâle capable de se reproduire avec la grande femelle, et que leurs descendants sont fertiles, dire si ces deux animaux sont finalement de la même espèce. Justifie ta réponse. 
 

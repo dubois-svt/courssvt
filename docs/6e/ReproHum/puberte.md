@@ -1,15 +1,15 @@
 # Activité : La puberté
 
-!!! note "Compétences"
+!!! note Compétences
 
     Construire un tableau 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. À partir des documents, compléter un tableau comparant les changements liés à la puberté chez les filles et les garçons.
     2. Expliquer en quoi la puberté permet aux humains d’être capables de se reproduire
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 **Document 1 __________________________________________________**

@@ -1,11 +1,11 @@
 # Activité : Les cellules des nerfs
 
-!!! note "Compétences"
+!!! note Compétences
 
     - Utiliser un microscope
     - Faire une dessin d'observation 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. Observer au microscope une lame de nerfs dissociés
     Faire un dessin d’un neurone, cellule composant les nerfs et les centres nerveux.
@@ -20,7 +20,7 @@
     <ul>
     2. Rédiger une phrase expliquant de quoi est composé un centre nerveux ou un nerf.
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - le dessin est complet les 5 légendes sont placées et un titre est mis.
 
 

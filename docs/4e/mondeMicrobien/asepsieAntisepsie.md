@@ -1,14 +1,14 @@
 # Activité : Les risques de contamination
 
-!!! note "Compétences"
+!!! note Compétences
 
     Trouver et utiliser des informations 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     À partir des documents, expliquer comment notre corps permet une protection contre la contamination et comment l’on peut limiter le risque par nos actions.
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 

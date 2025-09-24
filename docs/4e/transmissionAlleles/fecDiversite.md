@@ -1,13 +1,13 @@
 # Activité : La diversité génétique
-!!! note "Compétences"
+!!! note Compétences
 
     Extraire et mettre en relation des informations pour répondre à un problème 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. Un couple, Caroline et Karim, va avoir un enfant, ils se demandent de quels groupes sanguins sera cet enfant et quelles sont les chances d'avoir une fille ou un garçon. À partir de la formation des spermatozoïdes et des ovules. Réponds à leur question.
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - Pour répondre, il est conseillé de faire un tableau à double entrée (une avec les différents ovules et une avec les différents spermatozoïdes).
 
 

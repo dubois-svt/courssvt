@@ -7,7 +7,7 @@ Ils ont deux cuillères, une en métal et l'autre en bois, Sofiane indique que c
 ![](Pictures/gateauCaramel1.png)
 Quelle cuillère utiliser pour ne pas se brûler ?
 
-!!! question "Problématique"
+!!! question Problématique
     Comment les propriétés des matériaux peuvent influencer leur utilisation ?
 
 

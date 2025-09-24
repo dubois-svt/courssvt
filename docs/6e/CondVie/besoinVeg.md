@@ -1,15 +1,15 @@
 # Activité : Les besoins nutritifs des végétaux
 
-!!! note "Compétences"
+!!! note Compétences
 
     - Manipuler
     - Interpréter des résultats et en tirer des conclusions
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     À l’aide des documents propose et réalise une expérience pour vérifier la validité d’une des hypothèses. Un compte-rendu de l’expérience devra être écrit
         
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 

@@ -4,7 +4,7 @@
     si besoin d'infos
 
 
-!!! question "Problématique"
+!!! question Problématique
     Quel est l'impact de notre mode de vie sur notre système nerveux ? 
 
     
@@ -14,7 +14,7 @@
 
 ## Séance 1 : Vision et cerveau
 
-!!! question "Problématique"
+!!! question Problématique
     Comment le cerveau intervient-il dans la perception des images ?
 
 [Activité Le cerveau et la vision](../cerveauVision)
@@ -22,7 +22,7 @@
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
     Lors de la vision, le message sensitif provenant de l'œil est traité par
     différentes aires du cerveau :
 
@@ -40,7 +40,7 @@
 ## Séance 2 : Le sommeil et l'apprentissage
 
 ![](Pictures/illustrationSommeil.png)
-!!! question "Problématique"
+!!! question Problématique
     En quoi le sommeil favorise-t-il l'apprentissage ?
 
 
@@ -50,7 +50,7 @@
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
     Le sommeil a un rôle important pour le cerveau :
 
     - il permet la mémorisation des choses apprises durant la période
@@ -65,14 +65,14 @@
 
 ![](Pictures/illustrationsImpactModesVieSN.png)
 
-!!! question "Problématique"
+!!! question Problématique
     Quels sont les effets de nos comportements sur le système nerveux ?
 
 
 
 [Activité Impact du bruit sur notre système nerveux](../bruit)
 
-??? abstract "Bilan"
+??? abstract Bilan
 
     Plus le niveau sonore d'un bruit est important, plus sa durée d'écoute doit être brève. Une exposition à un niveau sonore trop important peut endommager l'oreille de façon irréversible et entraîner une perte d'audition.
 
@@ -89,7 +89,7 @@
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
 
     Une mauvaise hygiène de vie comme un manque de sommeil, le bruit, les addictions... peuvent modifier le fonctionnement du système nerveux et entraîner une baisse des performances cérébrales.
 

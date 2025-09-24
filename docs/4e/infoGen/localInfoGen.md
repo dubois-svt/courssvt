@@ -1,15 +1,15 @@
 # Activité : Localisation de l’information génétique
 
-!!! note "Compétences"
+!!! note Compétences
 
     Extraire et mettre en relations des informations 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. faire un schéma d'une cellule en indiquant les différents éléments de celle-ci. 
     1. Expliquer où se trouve l’information génétique dans un texte argumenté en utilisant l’expérience.
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
 
     Aides :
 

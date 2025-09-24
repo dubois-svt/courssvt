@@ -1,14 +1,14 @@
 # Activité : La théorie de l’évolution, un fait scientifique.
 
-!!! note "Compétences"
+!!! note Compétences
 
     Trouver et utiliser des informations 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     À partir des documents, expliquer en quoi la théorie de l’évolution est une théorie et pourquoi la question de « croire ou pas » en l’évolution biologique n’a pas de sens en cours de sciences.
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 

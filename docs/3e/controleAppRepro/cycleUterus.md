@@ -1,10 +1,10 @@
 # Activité : Le cycle de l’utérus
 
-!!! note "Compétences"
+!!! note Compétences
 
     Interpréter 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. Réaliser les 4 expériences du doc 1 et compléter le tableau du document 2. (1 point)
 
@@ -14,7 +14,7 @@
 
     4. En utilisant le document 4 et vos résultats précédents, proposer une hypothèse permettent d’expliquer les variations d’épaisseur de la paroi de l’utérus au cours du cycle. (1 point)
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 

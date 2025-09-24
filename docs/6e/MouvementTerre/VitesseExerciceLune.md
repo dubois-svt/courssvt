@@ -2,13 +2,13 @@
 
 
 
-!!! note "Compétences"
+!!! note Compétences
     - Utiliser l'outil numérique
 
-!!! warning "Consignes"
+!!! warning Consignes
     Calculer la valeur de la vitesse en km/h de révolution de la Lune autour de la Terre.
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - Rappeler la formule qui permet de calculer la vitesse.
     - Retrouver la distance parcourue par la Lune durant sa révolution
     - Combien d’heure y-a-t-il dans un jour ?

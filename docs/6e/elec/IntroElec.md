@@ -6,14 +6,14 @@
 
 ## Séance 1 : Représentation des circuits électriques
 
-!!! question "Problématique"
+!!! question Problématique
     Comment faire un circuit électrique ? 
 
 [Activité Circuit électrique](../circuitElec)
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
     Un circuit électrique à une boucle est composé de dipôles liés les uns à la suite des autres par des fils. L'un d'eux est un générateur et les autres sont des récepteurs. Un circuit peut être ouvert ou fermé grâce à un interrupteur.
     Dans ce type de circuit, l'ordre dans lequel on branche les différents dipôles n'a pas d'importance.
     Un circuit électrique peut être représenté par un schéma normalisé dans lequel chaque dipôle est modélisé par un symbole.
@@ -26,7 +26,7 @@
 
 ## Séance 2 : Nom
 
-!!! question "Problématique"
+!!! question Problématique
     Quels sont les éléments à prendre en compte pour répondre à un besoin ?
 
 

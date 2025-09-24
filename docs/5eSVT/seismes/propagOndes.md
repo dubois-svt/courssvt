@@ -1,11 +1,11 @@
 # Activité : Propagation des ondes sismiques et intensité
 
-!!! note "Compétences"
+!!! note Compétences
 
     - Trouver et utiliser des informations 
     - utiliser l'outil mathématique
 
-!!! warning "Consignes"
+!!! warning Consignes
     
     1. D'après les documents 2 et 3 , quel mot permet de qualifier la ville de Bam ? Qu’est-ce que cela signifie ?
     2. Décris ensuite en quelques phrases la manière dont les dégâts sont répartis dans la région de Bam. (document 2)
@@ -18,7 +18,7 @@
         - L’état des maisons situées aux emplacements 1, 2 et 3.
 
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - description intensité :
       - comparer intensité autour de la ville de Bam
       - Formuler une conclusion

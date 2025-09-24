@@ -1,19 +1,19 @@
 # Activité : Propagation de la lumière 
 
-!!! note "Compétences"
+!!! note Compétences
 
     - manipuler
     - Schématiser
 
 
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 
 ## Partie 1 : Chemin suivi par la lumière
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. Mettre en place le protocole du document 1.
     2. Schématiser la situation
@@ -37,7 +37,7 @@
 
 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     Représenter des rayons lumineux pour les 3 situations (doc 3,4 et 6). 
 
@@ -99,7 +99,7 @@ Dans cette situation, tracer un rayon de lumière modélisant la propagation de 
 ## Partie 3 : Les ombres
 
 
-!!! warning "Consignes"
+!!! warning Consignes
     1. Pour chacun des objets du document 8, indiquer s'il est éclairé ou non en justifiant votre réponse.
     2. Tracer sur le mur 2 l'ombre des objets 
 

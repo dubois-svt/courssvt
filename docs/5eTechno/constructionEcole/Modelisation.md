@@ -1,13 +1,13 @@
 # Activité : Modélisation 3D de la salle de classe
 
-!!! note "Compétences"
+!!! note Compétences
     - Trouver et utiliser des informations
     - Utiliser des outils numériques
 
-!!! warning "Consignes"
+!!! warning Consignes
     Réaliser une modélisation 3D de votre salle de classe répondant au cahier des charges de l'activité précédente en suivant la fiche du logiciel SweetHome3D
 
-!!! bug "Critères de réussite". 
+!!! bug Critères de réussite. 
     - Avoir respecté le cahier des charges  
     - Avoir respecté les différentes étapes de la fiche logiciel
  
@@ -22,26 +22,26 @@ On souhaite réaliser la maquette numérique de votre salle de classe à l’aid
       - Dans le menu Fichier/Préférence, choisir l’unité mètre  
       - Dans le menu Meubles/Importer bibliothèque de meubles, choisir le fichier [MeublesClasse.sh3f](Files/MeublesClasse.sh3f)
 2. Création de la dalle en béton  
-      - Cliquer sur l’outil “Créer les pièces” ![](Pictures/iconePieceSweetHome.png)(attention à bien lire les conseils du logiciel) et tracer un rectangle de 12,5 m sur 6,5 m.  
+      - Cliquer sur l’outil "Créer les pièces" ![](Pictures/iconePieceSweetHome.png)(attention à bien lire les conseils du logiciel) et tracer un rectangle de 12,5 m sur 6,5 m.  
       - À chaque angle, faire un clic gauche. 
-      - Appuyer sur la touche “Echap” pour arrêter le dessin  
+      - Appuyer sur la touche "Echap" pour arrêter le dessin  
 
 3. Création des murs  
-      - Cliquer sur l’outil “créer les murs" ![](Pictures/iconeMurSweethome.png) (attention à bien lire les conseils du logiciel) et tracer des murs autour de la pièce.  
+      - Cliquer sur l’outil "créer les murs" ![](Pictures/iconeMurSweethome.png) (attention à bien lire les conseils du logiciel) et tracer des murs autour de la pièce.  
       - A chaque angle, faire un clic gauche.   
-      - Appuyer sur la touche “Echap” pour arrêter le dessin  
+      - Appuyer sur la touche "Echap" pour arrêter le dessin  
       - Faire un clic droit et cliquer sur Verrouiller le plan de base, pour éviter de déplacer les murs et le sol  
   
 4. Insertion des menuiseries  
-      - Dans le menu de gauche, dans le dossier “Portes et fenêtres", cliquer sur un élément à placer et le faire glisser sur le plan  
+      - Dans le menu de gauche, dans le dossier "Portes et fenêtres", cliquer sur un élément à placer et le faire glisser sur le plan  
   
 5. Insertion du mobilier  
       - Dans le menu de gauche, choisir dans les différents dossiers les éléments à installer pour répondre à nos besoins et les placer sur le plan.
       - Il est possible de faire tourner les objets sur eux-mêmes, en cliquant dessus puis en cliquant sur la flèche en arc de cercle.
   
 6. Finition et textures
-      - Faire un clic droit sur la pièce, choisir le menu “Modifier les pièces”
-      - Dans les parties “Côté gauche” ou “droit”, il est possible de choisir la couleur et la texture du mur. Vous devez changer la couleur d'au moins un mur et du sol.
+      - Faire un clic droit sur la pièce, choisir le menu "Modifier les pièces"
+      - Dans les parties "Côté gauche" ou "droit", il est possible de choisir la couleur et la texture du mur. Vous devez changer la couleur d'au moins un mur et du sol.
 
 
 

@@ -1,9 +1,9 @@
 # Activité : Les saisons
 
-!!! note "Compétences"
+!!! note Compétences
     - Trouver et utiliser des informations
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. Quelle est la saison durant laquelle les journées sont plus longues ?  
     2. Comparer la hauteur maximal du Soleil, et donc son inclinaison dans le ciel par rapport à un observateur sur Terre, en été et en hiver.  
@@ -11,7 +11,7 @@
     4. Expliquer alors pourquoi il y a une saison où il fait plus froid et une autre plus chaud (s’appuyer sur le document 2 et les réponses aux questions précédentes).
    
    
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - Indiquer la saison avec la journée la plus longue
         - avoir indiquer pour chaque mois à quelle saison, il correspond
         - comparer les durées pour chaque mois.

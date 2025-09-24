@@ -8,15 +8,15 @@ lang: FRENCH
 <div markdown style="page-break-after: always;">
     
 ## Exercice 1 : une vague de froid
-!!! note "Compétences"
+!!! note Compétences
 
     - Argumenter 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     À partir de vos connaissances, vous argumenterez pour expliquer l’erreur commise par Donald J. Trump.
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - avoir identifié les durées des phénomènes dont parle le tweet
     - avoir utilisé les définitions de météo et climat
 
@@ -63,15 +63,15 @@ Celui-ci devrait encore perdurer quelques jours. Le service national de météor
     
 ## Exercice 2 : la météo à Paris
 
-!!! note "Compétences"
+!!! note Compétences
 
     - trouver et utiliser des informations
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     À partir des données météos, indiquer poour chacun des horaires, le temps qu'il faisait
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
 
 
 **Document Données issues d'une station météo à Paris (source : https://www.infoclimat.fr)**

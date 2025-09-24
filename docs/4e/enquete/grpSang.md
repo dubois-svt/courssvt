@@ -1,11 +1,11 @@
 # Activité : Le groupe sanguin
 
-!!! note "Compétences"
+!!! note Compétences
 
     - Mettre en œuvre un protocole expérimental
     - extraire et mettre en relation des informations  
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. A l'aide des documents 2 et 3, compléter le tableau du document 3 représentant les hématies en y ajoutant les différents marqueurs en respectant le code donné dans le document 3
     2. À l’aide des documents proposés, identifier le groupe sanguin du coupable.
@@ -22,7 +22,7 @@
     - 3 pipettes plastiques notées « ? », « aA » et « aB »
 
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
 
 
 **Document 1 Le sang**

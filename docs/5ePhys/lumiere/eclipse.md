@@ -1,11 +1,11 @@
 # Activité : Eclipse
 
-!!! note "Compétences"
+!!! note Compétences
 
     - manipuler
     - Schématiser
 
-!!! warning "Consignes"
+!!! warning Consignes
     1. Compléter le schéma en traçant deux rayons de lumineux émis par le Soleil. Un rayon issu de S1 et passant par N ; et un autre issu de S2 et passant par S. 
     2. Indiquer à quoi correspond chaque élément du modèle dans la réalité. 
     3. Placer les éléments du modèle de façon à modéliser une éclipse de Lune.
@@ -14,14 +14,14 @@
     6. En s’inspirant de l'éclipse de Lune, réaliser un schéma permettant d’expliquer la situation décrite en introduction de l’activité (cercle de feu à Al-Hufuf). Attention à respecter les tailles et distance du schéma. On considérera que Al-Hufuf est proche de l'équateur dans notre schéma
     7. Expliquer pourquoi, l'éclipse n'a pas été vu en France
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
-Le 26 décembre 2019 en Asie s’est produit un phénomène rare que l’on appelle “cercle de feu”. Dans l’est de l’Arabie saoudite, à Al-Hufuf, on a pu observer ceci :
+Le 26 décembre 2019 en Asie s’est produit un phénomène rare que l’on appelle "cercle de feu". Dans l’est de l’Arabie saoudite, à Al-Hufuf, on a pu observer ceci :
 
 ![](pictures/eclipseAlHufuf.png){: style="width:400px; flex-shrink: 0;  " }
 
-!!! question "Problématique"
+!!! question Problématique
     Comment peut-on en obtenir une telle photographie ?
 
 **Document 1 modélisation d'une éclipse de Lune**

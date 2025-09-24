@@ -11,7 +11,7 @@
 
 ## Séance 1 : Différence entre météo et climat
 
-!!! question "Problématique"
+!!! question Problématique
     Quelle est la différence entre météorologie et climatologie ?
 
 
@@ -21,11 +21,11 @@
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
 
     <a markdown id="bilan1">
 
-    === "Bilan à trous"
+    === Bilan à trous
 
         La ______________________ décrit les températures qu’il fait à un instant donné et prévoit les températures qu’il fera dans les prochains jours.  
         Et le ___________________ décrit la moyenne des températures mesurées pendant 30 ans.  
@@ -46,7 +46,7 @@
 
         
 
-    === "Bilan"
+    === Bilan
 
         La météo décrit les températures qu’il fait à un instant donné et prévoit les températures qu’il fera dans les prochains jours.  
         Et le climat décrit la moyenne des températures mesurées pendant 30 ans.  
@@ -81,7 +81,7 @@ Pour étudier le climat actuel, il faut étudier la météo
 ![Carte de la position des stations météos](Pictures/carteStationsMeteo.png)
 
 
-!!! question "Problématique"
+!!! question Problématique
     Comment étudier la météo ?
 
 
@@ -91,17 +91,17 @@ Pour étudier le climat actuel, il faut étudier la météo
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
     
     <a markdown id="bilan2">
 
-    === "Bilan à trous"
+    === Bilan à trous
 
         Pour décrire le temps qu’il fait à un instant donné, on peut utiliser des __________________. Ces instruments mesurent des paramètres météorologiques indispensables pour décrire le temps (ex: ).
 
         Pour prévoir le temps qu’il fera dans les prochains jours, les météorologues utilisent des modèles de prévision numérique du temps. Ce sont des logiciels complexes qui simulent comment le temps va évoluer, à partir des données enregistrées.
 
-    === "Bilan"
+    === Bilan
     
         Pour décrire le temps qu’il fait à un instant donné, on peut utiliser des stations météorologiques. Ces instruments mesurent des paramètres météorologiques indispensables pour décrire le temps (température, pression, précipitation, direction, vitesse du vent…).
 
@@ -123,7 +123,7 @@ Pour étudier le climat actuel, il faut étudier la météo
 
 
 
-!!! question "Problématique"
+!!! question Problématique
     Comment expliquer les différents climats de la Terre ?
 
 
@@ -131,11 +131,11 @@ Pour étudier le climat actuel, il faut étudier la météo
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
     
     <a markdown id="bilan3">
 
-    === "Bilan à trous"
+    === Bilan à trous
 
         La Terre est une ________________. Les rayons solaires n’arrivent donc pas avec le même ________ partout. 
         
@@ -146,7 +146,7 @@ Pour étudier le climat actuel, il faut étudier la météo
         L’énergie solaire est inégalement répartie à la surface du globe ce qui explique les différents climats.
 
 
-    === "Bilan"
+    === Bilan
 
         La Terre est une sphère. Les rayons solaires n’arrivent donc pas avec le même angle partout. 
         

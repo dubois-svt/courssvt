@@ -2,11 +2,11 @@
 
 ## Exercice 1 : Localisation de l’information génétique
 
-!!! note "Compétences"
+!!! note Compétences
 
     Extraire et mettre en relations des informations 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. Expliquer à l'aide du doc 1, comment on peut être sûr que l'information génétique est dans la cellule.
     2. A partir des résultats de l'expérience, indiquer où se trouve l'information génétique en justifiant votre réponse.
@@ -41,11 +41,11 @@ Une cellule-œuf d'être humain donnera toujours un individu avec des caractère
 
 ## Exercice 2 : Caryotype
 
-!!! note "Compétences"
+!!! note Compétences
 
     Extraire et mettre en relations des informations 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. A l'aide du caryotype, que peut-on dire de l'être vivant dont est issu le caryotype ci-dessous
 

@@ -43,7 +43,7 @@ bocal 1 contient le sucre.
 
 ## Activité : Des mélanges différents
 
-!!! note "Consignes"
+!!! note Consignes
     Consigne 1 : Réalise le protocole du document.
 
     Consigne 2 : compare les résultats des différents mélanges.
@@ -93,7 +93,7 @@ _Définitions :_
 
 ## Activité : Un mélange de solide.
 
-!!! note "Consignes"
+!!! note Consignes
     Consigne 1 : Explique si à l’œil nu le mélange est homogène ou hétérogène, justifie ta réponse.
 
     Consigne 2 : Explique si à la loupe binoculaire on peut discerner les différents éléments du mélange, justifie ta réponse.

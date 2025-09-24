@@ -1,14 +1,14 @@
 # Activité : Les caractères héréditaires
-!!! note "Compétences"
+!!! note Compétences
 
     - trouver et utiliser des informations 
     - Construire un tableau
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     Construire un tableau présentant les différents suspects en indiquant, leur espèce, leur sexe, un ou deux caractères non héréditaires et un ou deux caractères héréditaires.
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 

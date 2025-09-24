@@ -4,7 +4,7 @@
     si besoin d'infos
 
 
-!!! question "Problématique"
+!!! question Problématique
     Quels sont les éléments à prendre en compte pour répondre à un besoin ?
 
     
@@ -14,7 +14,7 @@
 
 ## Séance 1 : Nom
 
-!!! question "Problématique"
+!!! question Problématique
     Quels sont les éléments à prendre en compte pour répondre à un besoin ?
 
 [Activité nom activité](../lien vers l'activité)
@@ -22,13 +22,13 @@
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
     Bilan
 
 
 ## Séance 2 : Nom
 
-!!! question "Problématique"
+!!! question Problématique
     Quels sont les éléments à prendre en compte pour répondre à un besoin ?
     
 [Activité nom activité](../lien vers l'activité)
@@ -36,7 +36,7 @@
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
     Bilan
 
 <div style="page-break-after: always;"></div>

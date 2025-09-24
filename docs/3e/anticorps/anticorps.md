@@ -1,11 +1,11 @@
 # Activité : Action des anticorps
 
-!!! note "Compétences"
+!!! note Compétences
 
     - Trouver et extraire des informations
     - Utiliser l'outil mathématique 
 
-!!! warning "Consignes"
+!!! warning Consignes
     1. Suivre le protocole du test d’Ouchterlony permettant de savoir si ce médecin possède des anticorps susceptibles de le protéger face au virus. (Document 6)
 
     2. Compléter le tableau à l’aide des documents fournis pour comprendre le rôle des anticorps dans la défense de l’organisme contre les agents pathogènes. (2 points)
@@ -16,7 +16,7 @@
 
     5. Expliquer la réaction ou son absence pour l’individu séropositif au virus de la grippe (0,75 point)
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     <table>
     <tbody>
     <tr class="odd">

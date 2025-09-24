@@ -1,16 +1,16 @@
 # Activité : Le risque volcanique
 
-!!! note "Compétences"
+!!! note Compétences
 
     Construire un tableau 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. Comparer les enjeux et les aléas pour le Kilauea et le Merapi. En déduire la différence de niveau de risque entre  les deux volcans. (doc 1 et 2)
     2. Expliquer ce qui peut pousser les humains à habiter près des volcans. (doc 2)
     3. Lister les mesures de prévention, de protection et d'atténuation qui ont été mises en place dans la région du Merapi. (doc 3 à 5) 
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 

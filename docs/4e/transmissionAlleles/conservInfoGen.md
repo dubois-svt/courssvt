@@ -1,19 +1,19 @@
 # Activité : La division cellulaire et la conservation de l'information génétique.
 
 
-!!! note "Compétences"
+!!! note Compétences
 
     - Extraire et mettre en relation des informations 
     - construire un graphique 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. Explique l'importance des divisions cellulaires au cours du développement et du fonctionnement de l'organisme.
     2. À l'aide des documents, réaliser un graphique montrant l'évolution de la quantité d'ADN dans une cellule au cours du temps.
     3. Décrire ensuite ce graphique.
     4. Expliquer comment, lors d'une division cellulaire, une cellule maintient son information génétique.
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 

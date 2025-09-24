@@ -1,10 +1,10 @@
 # Activité : Décrire un séisme
 
-!!! note "Compétences"
+!!! note Compétences
 
     trouver et utiliser des informations 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. Quelles sont les conséquences d’un séisme ?
     2. Quels paramètres permettent de décrire les séismes ?
@@ -12,7 +12,7 @@
     4. Combien y a-t-il eu de séismes dans le monde depuis hier ? Quelle est la magnitude maximale enregistrée ?
 
 
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 **Document 1 Les séismes.**
@@ -38,7 +38,7 @@ Les séismes ou tremblements de terre sont des vibrations soudaines et fréquent
 
 Lorsque l’on décrit un séisme, on parle soit de magnitude, soit d’intensité.
 
-- La magnitude est une mesure de la “force”, de l’énergie libérée lors d’un séisme. Elle va de 1 à 9.
+- La magnitude est une mesure de la "force", de l’énergie libérée lors d’un séisme. Elle va de 1 à 9.
 - L’intensité sismique est une estimation des effets en surface du séisme. Elle est basée sur les dégâts observés. Elle va de I à XII.
 
 Sur le croquis ci-dessous, on voit qu’un séisme de forte magnitude (à gauche) peut commettre moins de dégâts qu’un séisme de magnitude plus faible (à droite).

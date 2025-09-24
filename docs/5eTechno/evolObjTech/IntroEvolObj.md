@@ -4,7 +4,7 @@
     si besoin d'infos
 
 
-!!! question "Problématique"
+!!! question Problématique
     Comment évolue une famille d'objet ?
     
 
@@ -12,7 +12,7 @@
 
 ## Séance 1 : Les familles d’objets 
 
-!!! question "Problématique"
+!!! question Problématique
     Qu'est-ce qu'une famille d'objets ?
 
 [Activité Les familles d'objets techniques](../famillesObj)
@@ -20,7 +20,7 @@
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
 
     <a markdown id="bilan1">
 
@@ -32,14 +32,14 @@
 
 ## Séance 2 : Évolution d'une famille d'objets et lignées
 
-!!! question "Problématique"
+!!! question Problématique
     Comment évolue une famille d'objets avec différentes lignées ? 
     
 [Activité Évolution de la photographie](../evolPhoto)
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
 
     <a id="bilan2">
 
@@ -60,7 +60,7 @@
 ## Séance 3 : Cycle de vie, impacts sociétaux et environnementaux 
 
 
-!!! question "Problématique"
+!!! question Problématique
     Quel est le cycle de vie d’un appareil photo ?
 
     
@@ -69,7 +69,7 @@
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
 
     
     <a id="bilan3">

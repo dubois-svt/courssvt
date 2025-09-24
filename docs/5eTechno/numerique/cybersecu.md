@@ -2,17 +2,17 @@
 
 
 
-!!! note “Compétences”
+!!! note Compétences
 
     Interpréter 
 
-!!! warning “Consignes”
+!!! warning Consignes
 
     1. d'après le doucment, combien de temps votre mot de passe principal peut il être cracké
     2. Pourquoi un mot de passe unique peut-il être dangereux
     3. Sur quel site des résultats de la recherche vous téléchargeriez le logiciel VLC ?
     
-??? bug “Critères de réussite”
+??? bug Critères de réussite
     - 
 
 

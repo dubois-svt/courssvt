@@ -146,7 +146,7 @@ Exemple d’attendu :
 
 ## Exercice d’application : minéral/ organique.
 
-!!! note "Consigne"
+!!! note Consigne
     Regarde bien la photographie et complète le tableau :
 
 ![](Pictures/paysagePortuaire.jpg)

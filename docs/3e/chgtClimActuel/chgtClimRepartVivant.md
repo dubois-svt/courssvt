@@ -1,15 +1,15 @@
 # Activité : L'impact du changement climatique sur la biodiversité
 
-!!! note "Compétences"
+!!! note Compétences
 
     Trouver et utiliser des informations
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. Explique quelles peuvent être les conséquences du changement  climatique sur les espèces marines.
     2. Explique quelles peuvent être les conséquences du changement  climatique sur les pins en France.
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
 
     - expliquer l'impact des activités humaines sur les océans
     - expliquer l'impact du changement de l'eau sur les coraux

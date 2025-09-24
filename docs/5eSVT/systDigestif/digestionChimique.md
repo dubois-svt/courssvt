@@ -1,15 +1,15 @@
 # Activité : La digestion chimique des aliments
 
 
-!!! note "Compétences"
+!!! note Compétences
 
     Interpréter 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     À partir des informations du document 1, formuler une hypothèse pour savoir quelle substance présente dans les sucs digestifs peut digérer les aliments. Puis réaliser une expérience pour vérifier la validité de l'hypothèse.
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - avoir fait l'analyse d'expérience
         - hypothèse
         - protocole

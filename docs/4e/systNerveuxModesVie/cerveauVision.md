@@ -1,11 +1,11 @@
 # Activité : Le cerveau et la vision
 
-!!! note "Compétences"
+!!! note Compétences
 
     - Extraire et mettre en relation des informations   
     - Autonomie du travail
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     Phase individuelle (5 minutes) et phase collaborative (10 minutes) :
 
@@ -17,7 +17,7 @@
 
     - en utilisant les informations des différents groupes, construire une réponse expliquant le rôle du cerveau dans la vision et l'impact que peut avoir un dommage cérébral.
 
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     | Niveau I : Maîtrise insuffisante | Niveau F : Maîtrise fragile | Niveau S : Maîtrise satisfaisante | Niveau TB : Très bonne maîtrise |
     |----------|--------|-----------------|-----------------|
     | | 2 documents sont analysés, la réponse indique le rôle de l’aire concerné. | 3 documents sont analysés, la réponse indique le rôle de l’aire concerné en justifiant la réponse. | 3 documents sont analysés, la réponse indique le rôle de l’aire concerné en justifiant la réponse. Un texte répond au problème. Autonomie du travail |

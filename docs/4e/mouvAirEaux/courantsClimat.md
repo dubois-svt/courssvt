@@ -1,12 +1,12 @@
 # Activité : L'impact des courants océaniques sur le climat
 
-!!! note "Compétences"
+!!! note Compétences
     trouver et utiliser des informations
 
-!!! warning "Consigne"
+!!! warning Consigne
     À partir des deux documents, propose une explication à la différence de climat entre Montréal et Paris.
 
-??? bug "critères de réussite"
+??? bug Critères de réussite
     - comparer le climat des deux villes
     - trouver des éléments expliquant le climat de Paris
     - trouver des éléments expliquant le climat de Montréal

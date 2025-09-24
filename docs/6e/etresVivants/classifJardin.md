@@ -1,10 +1,10 @@
 # Activité : Classification de la jaune d'un jardin
 
-!!! note "Compétences"
+!!! note Compétences
 
     Communiquer sous différentes formes  
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. A l'aide du logiciel Phylogène et du document créer un arbre de parenté
     2. recopier l'arbre de parenté dans votre cahier.
@@ -12,7 +12,7 @@
     4. Quelle est l'espèce qui présente le plus de lien de parenté avec l'abeille domestique?
 
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 **Document Fiche méthode du logiciel Phylogène**

@@ -11,7 +11,7 @@ Durant l’Histoire, savoir si le Soleil tourne autour de la Terre, fixe au mili
 ![[Vidéo TimeLapse](https://www.pbslearningmedia.org/resource/buac18-k2-sci-ess-sunposition/changing-position-of-the-sun-in-the-sky/)](Pictures/mvtSoleilCiel.png)
 
 
-!!! question "Problématique"
+!!! question Problématique
     En quoi l’alternance jour/nuit ne permet-elle pas de trancher pour un modèle en particulier ?
 
 
@@ -25,7 +25,7 @@ Vidéo streaming Alaska
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/76rwjwc07DI?si=PsWVBlLWdmBW01e1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 Vidéo streaming Hawaï
 
-??? abstract "Bilan"
+??? abstract Bilan
     De notre point de vue, le Soleil se déplace dans le ciel de l'est vers l'ouest, c'est le mouvement apparent du Soleil.
     En réalité, la Terre tourne sur elle même en 24h.
     Cette rotation entraîne l'alternance entre le jour et la nuit.
@@ -41,14 +41,14 @@ Vidéo streaming Hawaï
 
 La Terre n’est pas « parfaitement droite » par rapport à sa révolution autour du Soleil. En effet, elle est inclinée de 23° et c’est cette inclinaison qui est responsable des saisons. Sur Terre, un observateur n’observe pas l’inclinaison de la Terre mais celle du Soleil. 
 
-!!!question "Problématique"
+!!!question Problématique
     Comment cette inclinaison peut-elle avoir un impact sur les saisons ?
 
 
 [Activité sur les saisons](../Saison)
 
 
-??? abstract "Bilan"
+??? abstract Bilan
     L'inclinaison du Soleil fait que la durée des journées et des nuits varient au cours de l'année. 
     De plus, moins le Soleil est haut dans le ciel, moins il fait chaud. 
     Les saisons changent donc en fonction de l'inclinaison du Soleil et de la durée du jour.
@@ -61,7 +61,7 @@ La Terre n’est pas « parfaitement droite » par rapport à sa révolution aut
 ## Séance 3 : Le peuplement des milieux au cours des saisons
 ![](Pictures/peuplementSaisons.png)
 
-!!!question "Problématique"
+!!!question Problématique
     Comment varie le peuplement du milieu au cours des saisons ?
 
 [Activité ](../peuplementSaisons)
@@ -69,7 +69,7 @@ La Terre n’est pas « parfaitement droite » par rapport à sa révolution aut
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
 
     Au cours des saisons, les paramètres physiques de l’écosystème varient : dans notre exemple, la température est plus chaude en été qu’en hiver. Le nombre d'êtres vivants présent en hiver est plus faible qu'en été.
     
@@ -80,12 +80,12 @@ La Terre n’est pas « parfaitement droite » par rapport à sa révolution aut
 ## Séance 4 : Le comportement des êtres vivants au cours de la mauvaise saison
 
 
-!!!question "Problématique"
+!!!question Problématique
     Comment les êtres vivants passent-ils la mauvaise saison ?
 
 [Activité sur le comportement des êtres vivant en hiver](../comportementSaisons)
 
-??? abstract "Bilan"
+??? abstract Bilan
 
     Les êtres vivants sont sensibles aux changements de la température. Quand la température diminue, les êtres vivants ont différents comportements : migration, hivernation, hibernation, perte des feuilles, survie de la descendance.
 

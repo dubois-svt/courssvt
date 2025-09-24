@@ -1,16 +1,16 @@
 # Activité : L’ADN et les chromosomes
 
-!!! note "Compétences"
+!!! note Compétences
 
     - Mettre en œuvre un protocole d’expérience et 
     - Extraire et mettre en relation des informations
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. Après avoir remis le protocole dans l’ordre, le réaliser et décrire le résultat obtenu.
     2. À partir des documents, donner des arguments qui permettent de penser que la méduse contient de l’ADN et des arguments montrant que ce n’est pas une unique molécule.
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 

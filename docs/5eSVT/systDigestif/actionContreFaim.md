@@ -1,17 +1,17 @@
 # Activité : Maladies liées à l'alimentation
 
-!!! note "Compétences"
+!!! note Compétences
 
     Interpréter 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. À partir des documents, expliquer quel type de constituants alimentaires il est nécessaire d’apporter  pour lutter contre le kwashiorkor. 
     2. Parmi les aliments proposés, lequel faut-il apporter en priorité, justifier.
 
 
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 **Document 1 Les principaux composants des aliments**

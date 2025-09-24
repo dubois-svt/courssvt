@@ -1,16 +1,16 @@
 # Activité : Paléoenvironnement et crise biologique
 
-!!! note "Compétences"
+!!! note Compétences
 
     Trouver et exploiter des informations 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. A l’aide des documents 1 et 2, faire un schéma en plusieurs étapes montrant la fossilisation des ammonites 
     2. A l’aide des documents 3 à 5, comparer dans un tableau l’environnement de Digne-Les-Bains aujourd’hui et il y a 350 millions d’années. 
     3. A l’aide des documents 4 et 6, représenter par une double flèche horizontale le temps correspondant au passage des ammonites sur Terre sur la frise chronologique du document 4. Replacer également par une flèche verticale rouge la crise biologique du Crétacé Tertiaire. 
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 

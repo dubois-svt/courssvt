@@ -1,15 +1,15 @@
 # Activité : Les différences anatomiques entre un homme et une femme
 
-!!! note "Compétences"
+!!! note Compétences
 
     Extraire et mettre en relation des informations 
     Construire un tableau
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     Construire un tableau en indiquant pour l’homme et la femme : la période de puberté, les 2 caractères sexuels primaires, 2 caractères sexuels secondaires et le moment d’apparition des caractères sexuels primaires.
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 

@@ -1,11 +1,11 @@
 # Activité : Modélisation de l'éruption volcanique
 
-!!! note "Compétences"
+!!! note Compétences
 
     - trouver et utiliser des informations (consignes 1 et 5)
     - Modéliser un phénomène (consignes 2, 3 et 4)
 
-!!! warning "Consignes"
+!!! warning Consignes
     
     1. À l’aide des documents, explique à quoi pourrait correspondre chaque élément du modèle dans la réalité en complétant le document 5. 
     2. En utilisant les informations du document 4 et modifiant le modèle, proposer une expérience avec 2 montages, qui permet de montrer que les gaz sont le moteur des éruptions comme le propose le document 2, faire l’expérience et expliquer en justifiant si l’hypothèse est vraie. 
@@ -13,7 +13,7 @@
     4. Faire valider par le professeur le rangement et le nettoyage de la paillasse.
     5. bonus : Expliquer l’intérêt du modèle dans cette activité et donner une ou deux critiques qui pourrait être faite.
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 

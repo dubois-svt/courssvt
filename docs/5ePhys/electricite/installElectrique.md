@@ -1,13 +1,13 @@
 # Activité : Circuit électrique d’une salle de classe
 
 
-!!! note "Compétences"
+!!! note Compétences
     - Trouver et utiliser des informations
     - Manipuler
 
-!!! warning "Consignes"
+!!! warning Consignes
 
-    ## Le circuit dit “en série”
+    ## Le circuit dit "en série"
 
     1. Réaliser un schéma normalisé du circuit électrique répondant aux contraintes. Représenter le sens du courant électrique.
    
@@ -15,7 +15,7 @@
     3. Une fois le montage du circuit effectué, appeler l’enseignant pour vérification. Fermer le circuit.
     4. Que peut-on constater lorsqu’on dévisse l’une des deux ampoules ? Le circuit respecte-t-il les contraintes ?	
 
-    ## Le circuit dit “en dérivation"
+    ## Le circuit dit "en dérivation"
 
     5. Réaliser le montage du circuit du document 2, une fois validé par l’enseignant, fermer le circuit.
     
@@ -24,7 +24,7 @@
     7.  Expliquer pourquoi le circuit du document 3 ne respecterait pas les contraintes
 
 
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     
 
 

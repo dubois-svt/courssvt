@@ -1,11 +1,11 @@
 # Activité : Evolution de la photographie
 
-!!! note "Compétences"
+!!! note Compétences
 
     Trouver et utiliser des informations 
  
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. Peut-on dire qu'Aristote était un photographe ? Justifier. 
     2. Parmi les personnages cités, qui est l’inventeur de la photographie ? Justifier. 
@@ -13,7 +13,7 @@
     4. Comparer l’aspect de l’appareil de Nicéphore Nièpce (1827) au MAVICA (1981). Quels sont les innovations de l'appareil de Sony? 
     5. Représenter sans soucis d’échelle, une lignée d’objet regroupant 4 appareils photo.
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 
@@ -66,7 +66,7 @@ Dans l’un de ses ouvrages le philosophe grec Aristote (384-322 av. J-C) décri
 </div>
 
 
-- 1515 : La “camera obscura” – Léonard de Vinci
+- 1515 : La "camera obscura" – Léonard de Vinci
 
 <div markdown style="display:flex; flex-direction:row">
 
@@ -81,7 +81,7 @@ Dans l’un de ses ouvrages le philosophe grec Aristote (384-322 av. J-C) décri
 <div markdown style="display:flex; flex: 2 1 0; flex-direction:row">
 
 
-Le célèbre inventeur italien Léonard de Vinci reprend les travaux de ses prédécesseurs en créant une boîte noire appelée “camera obscura” en latin. Léonard de Vinci suggère que cette invention pourrait aider les artistes à reproduire des paysages.
+Le célèbre inventeur italien Léonard de Vinci reprend les travaux de ses prédécesseurs en créant une boîte noire appelée "camera obscura" en latin. Léonard de Vinci suggère que cette invention pourrait aider les artistes à reproduire des paysages.
 
 </div>
 
@@ -122,7 +122,7 @@ Au début du XIXᵉ siècle, les techniques optiques sont déjà très avancées
 
 <div markdown style="display:flex; flex: 2 1 0; flex-direction:row">
 
-L’inventeur français Nicéphore Niépce met au point le premier procédé permettant de fixer une image qu’il appelle “héliographie“. Cela signifie : “écriture par le soleil”. Sa technique consiste à employer une chambre noire et une plaque sensible à la lumière. La première image est réalisée en 1827 par lui-même, d’une fenêtre à l’étage de sa maison. L’exposition aurait durée de 12 à 18 heures.
+L’inventeur français Nicéphore Niépce met au point le premier procédé permettant de fixer une image qu’il appelle "héliographie". Cela signifie : "écriture par le soleil". Sa technique consiste à employer une chambre noire et une plaque sensible à la lumière. La première image est réalisée en 1827 par lui-même, d’une fenêtre à l’étage de sa maison. L’exposition aurait durée de 12 à 18 heures.
 
 </div>
 
@@ -142,7 +142,7 @@ L’inventeur français Nicéphore Niépce met au point le premier procédé per
 
 <div markdown style="display:flex; flex: 2 1 0; flex-direction:row">
 
-En Angleterre, William Henry Fox Talbot invente le négatif, permettant la reproduction des images sur du papier. Il appelle sa technique : “calotype”. On peut ainsi reproduire un grand nombre de tirages sur un support léger : le papier. Le principe du négatif restera la base de la photographie pendant 150 ans.
+En Angleterre, William Henry Fox Talbot invente le négatif, permettant la reproduction des images sur du papier. Il appelle sa technique : "calotype". On peut ainsi reproduire un grand nombre de tirages sur un support léger : le papier. Le principe du négatif restera la base de la photographie pendant 150 ans.
 
 </div>
 
@@ -231,7 +231,7 @@ Le constructeur japonais Sony sort en 1981 le MAVICA. Cet appareil photo numéri
 
 <div markdown style="display:flex; flex: 2 1 0; flex-direction:row">
 
-Le constructeur d’ordinateur américain Apple lance en 2007 le premier smartphone avec un écran tactile “multi-touch”. L’important succès de l’iPhone démocratise la photographie sur smartphone.
+Le constructeur d’ordinateur américain Apple lance en 2007 le premier smartphone avec un écran tactile "multi-touch". L’important succès de l’iPhone démocratise la photographie sur smartphone.
 
 </div>
 

@@ -2,12 +2,12 @@
 
 
 
-!!! note "Compétences"
+!!! note Compétences
     - Trouver et utiliser des informations
     - Faire un schéma électrique
     
 **Exercice 1** 
-!!! warning "Consignes"
+!!! warning Consignes
 	1. Schématiser les circuits électriques suivants. 
 	2. Ajouter le sens de parcours du courant sur les schémas ci-dessus
 
@@ -34,7 +34,7 @@
 
 <div markdown style="display: flex; flex-direction:row" > 
 
-!!! warning "Consignes"
+!!! warning Consignes
 	Reproduire le circuit ci-contre en ajoutant un ampèremètre mesurant l’intensité du courant électrique. (Préciser les bornes de branchement)
 
 ![](Pictures/schemacircuitExo2.png){: style="width:400px"}
@@ -49,7 +49,7 @@
 <div markdown style="display: flex; flex-direction:row" > 
 
 
-!!! warning "Consignes"
+!!! warning Consignes
 	1. Indiquer si le circuit est en série ou en dérivation. Justifier. 
 
 	2. Sur le circuit ci-contre, entourer les nœuds.
@@ -64,7 +64,7 @@
 
 <div markdown style="display: flex; flex-direction:row" > 
 
-!!! warning "Consignes"
+!!! warning Consignes
 	Dans le tableau ci-contre, indiquer d’une croix lorsque le dipôle est en fonctionnement.
 
 
@@ -118,7 +118,7 @@
 
 **Exercice 5**
 
-!!! warning "Consignes"
+!!! warning Consignes
 	Indiquer si les phrases suivantes sont vraies ou fausses.
 
 <table>

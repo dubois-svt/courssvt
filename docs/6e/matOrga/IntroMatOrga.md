@@ -4,7 +4,7 @@
     si besoin d'infos
 
 
-!!! question "Problématique"
+!!! question Problématique
     Que devient la matière organique dans un écosystème ?
 
 
@@ -12,12 +12,12 @@
 
 ## Séance 1 : Les réseaux alimentaires
 
-!!! question "Problématique"   
+!!! question Problématique   
     Comment circule la matière organique dans un écosystème ? 
 
 [Activité Les réseaux alimentaires](../reseauxAlim)
 
-??? abstract "Bilan"
+??? abstract Bilan
     Les animaux se nourrissent de matière organique et de matière minérale. Ce sont des producteurs secondaires.
     Il existe différents types de régimes alimentaires :
 
@@ -32,7 +32,7 @@
 
 ## Séance 2 : Les êtres vivants du sol
 
-!!! question "Problématique"   
+!!! question Problématique   
     Quels sont les êtres vivants du sol ? 
 
 
@@ -41,7 +41,7 @@
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
     ![](pictures/etresVivantsSol.png)
 
     Il existe de nombreux êtres vivants dans le sol. 
@@ -51,7 +51,7 @@
     
 ## Séance 3 : Décomposition de la matière organique
 
-!!! question "Problématique"   
+!!! question Problématique   
     Quel est le devenir de la matière organique ?
 
 [Activité Le devenir de la matière organique](../devenirMatOrga)
@@ -63,7 +63,7 @@
     ![](pictures/reaseauAlimSol.png)
     ![](pictures/graphMinerauxDecompo.png)
 
-??? abstract "Bilan"
+??? abstract Bilan
     La matière organique n’appartenant plus à un être vivant va se décomposer grâce à des êtres vivants, les décomposeurs.
 
     Cette décomposition va donner de la matière minérale.

@@ -1,16 +1,16 @@
 # Activité : Exercice sur les besoins des végétaux
 
-!!! note "Compétences"
+!!! note Compétences
 
     - Interpréter des résultats et en tirer des conclusions
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. Choisir deux manipulations qui permettent de vérifier que les plantes ont besoin de dioxyde de carbone justifier votre réponse.
     2. recopier et compléter le tableau du document 2 en utilisant les montages e et b.
     3. recopier et compléter le tableau du document 2 en utilisant les montages e et f.
         
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 **Document 1 : Photos de résultats de différents montages pour étudier les besoins des plantes.**

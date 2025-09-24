@@ -1,12 +1,12 @@
 # Activité : Exercices
 
-!!! note "Compétences"
+!!! note Compétences
 
     trouver et utiliser des informations 
 
 
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 
@@ -23,7 +23,7 @@ Les tétrapodes sont un groupe dont les espèces possèdent 4 membres.
 ![](pictures/arbreparenteIchtyosaurus.png)
 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. Citer au moins un caractère commun au thon et au dauphin.
     2. Citer un caractère présent chez le dauphin, mais absent chez l’Ichtyosaurus.
@@ -34,7 +34,7 @@ Les tétrapodes sont un groupe dont les espèces possèdent 4 membres.
 
 ## Exercice 2 : La parenté des reptiles
 
-!!! warning "Consignes"
+!!! warning Consignes
     1. Sur le document 4, ajouter l’innovation évolutive : plumes.
     2. Quel est le caractère commun à la colombe et au crocodile.
     3. Sur le document 4, entourer le groupe des oiseaux.

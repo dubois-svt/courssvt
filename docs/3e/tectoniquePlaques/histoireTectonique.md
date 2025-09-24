@@ -1,11 +1,11 @@
 # Activité : Histoire de la construction d’une théorie de la tectonique des plaques
 
-!!! note "Compétences"
+!!! note Compétences
 
     - Trouver et exploiter des informations
     - Représenter des données sous différentes formes
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. Faire une frise en indiquant les différentes observations et arguments scientifiques qui ont mené la théorie de la tectonique des plaques. (date + événement) (2,5 points)
 
@@ -15,7 +15,7 @@
 
     4. Explique en quelques mots, en quoi la théorie de la tectonique des plaques actuelle est différente de celle de la dérive des continents de Wegener. (1 point)
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 ![](Pictures/friseChronoViergeTecto.png)

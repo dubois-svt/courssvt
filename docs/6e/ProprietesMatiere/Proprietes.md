@@ -1,6 +1,6 @@
 # Activité : Les propriétés des matériaux
 
-!!! note "Compétences"
+!!! note Compétences
     - Interpréter des résultats de façon raisonnée et en tirer des conclusions en mobilisant des arguments scientifiques.  
     - Relier des connaissances acquises en sciences et technologie à des questions de santé, de sécurité et d’environnement.
 
@@ -14,7 +14,7 @@ Comme pour la préparation du caramel, le choix de l'ustensile est très importa
     Un cuisinier dispose de deux pinces, une en bois et l'autre en métal. Laquelle choisir ?
 
 
-!!! warning "Consigne"
+!!! warning Consigne
     Consigne : À partir du matériel sur votre table, choisir le matériel pour la situation ci-dessus en argumentant à partir de vos observations.
 
 
@@ -48,7 +48,7 @@ L'une des étapes est l'overband qui est un aimant puissant.
     Quels sont les objets issus des poubelles de recyclage que cet aimant permet de trier ?
 
 
-!!! warning "Consigne"
+!!! warning Consigne
     Consigne : À partir du matériel sur votre table, choisir indiquer quels sont les déchets triés par l'overband en argumentant à partir de vos observations.
 
 
@@ -87,7 +87,7 @@ Voici trois situations dans lequel une personne veut intervenir sur son réseau 
 - Démontage d'une prise électrique avec un tournevis ayant un manche en plastique
 
 
-!!! warning "Consigne"
+!!! warning Consigne
     Consigne : À partir du matériel sur votre table, choisir indiquer pour chaque situation si la personne est un  danger ou non 
 
 

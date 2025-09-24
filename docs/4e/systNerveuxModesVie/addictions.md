@@ -1,14 +1,14 @@
 # Activité : Les conduites addictives
 
-!!! note "Compétences"
+!!! note Compétences
 
     - Extraire et mettre en relation des informations   
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     À partir des documents et de la vidéo, expliquer comment nous pouvons développer des addictions en utilisant certaines applications.
 
-??? bug "Critères de réussite"
+??? bug Critères de réussite
 
 **Document 1 L'expérience d'Olds et Milner.**
 

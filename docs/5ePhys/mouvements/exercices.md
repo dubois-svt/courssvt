@@ -1,6 +1,6 @@
 # Activité : Exercices
 
-!!! note "Compétences"
+!!! note Compétences
 
     - Trouver et extraire des informations 
 
@@ -9,7 +9,7 @@
 
 ## Exercice 1 :
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     Pour chaque situation décrire la trajectoire de l’objet à partir de sa chronophotographie et donner le type de mouvement
 
@@ -25,7 +25,7 @@
 ## Exercice 2 :
 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. Quelle est la vitesse moyenne sur la totalité du trajet ?
     2. Quelle est la vitesse que l’automobiliste ne devait pas dépasser ? Sur quel type de route se trouvait-il ?
@@ -57,7 +57,7 @@ La vitesse moyenne du conducteur sur le trajet est de 88 km/h
 
 ## Exercice 3
 
-!!! warning "Consignes"
+!!! warning Consignes
     1. Déterminer le type de mouvement entre les positions :
         - A et G
         - G et I
@@ -85,7 +85,7 @@ Felix Baumgartner a effectué un saut historique en parachute d’une altitude d
 
 ## Exercice 4
 
-!!! warning "Consignes"
+!!! warning Consignes
     1. Charles est-il immobile ou en mouvement par rapport à Ahmed ? Justifie.
     2. Charles est-il immobile ou en mouvement par rapport à Boris ? Justifie.
     3. Complète le tableau en indiquant « en mouvement » ou « immobile »

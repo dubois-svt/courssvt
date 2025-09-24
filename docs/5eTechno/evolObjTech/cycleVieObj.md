@@ -1,16 +1,16 @@
 # Activité : Cycle de vie, impacts sociétaux et environnementaux
 
-!!! note "Compétences"
+!!! note Compétences
 
     trouver et utiliser des informations. 
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. A partir des différents documents, lister les étapes du cycle de vie d’un appareil photo.
     2. Proposer une schéma du cycle de vie d’un appareil photo. 
     3. Créer un tableau indiquant pour chaque étape l’impact sociétal et l’impact environnemental.   
 
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - Au moins 5 étapes.
 
 
@@ -31,7 +31,7 @@ On retrouve, dans les appareils photos et comme dans de nombreux autres appareil
 
 Le plastique est un dérivé du pétrole. Son exploitation nécessite un forage des sous-sols rocheux parfois par fracturation hydraulique. Ce procédé entraîne le rejet d’eaux polluées qui ne sont pas recyclées. 
 
-Les métaux, difficiles à exploiter, constituent une grande partie “invisible” de la composition d’un appareil électronique. Leur extraction et leur purification sont généralement très nocives pour l’environnement, polluant les eaux à proximité, détruisant la biodiversité… Les eaux polluées entraînent des risques pour le personnel des sites miniers qui n’y sont pas protégés face aux substances toxiques, notamment en Afrique.
+Les métaux, difficiles à exploiter, constituent une grande partie "invisible" de la composition d’un appareil électronique. Leur extraction et leur purification sont généralement très nocives pour l’environnement, polluant les eaux à proximité, détruisant la biodiversité… Les eaux polluées entraînent des risques pour le personnel des sites miniers qui n’y sont pas protégés face aux substances toxiques, notamment en Afrique.
 
 Un million d'enfants de 5 à 17 ans travailleraient dans des mines à travers le monde.
 </div>

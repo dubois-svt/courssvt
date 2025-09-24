@@ -1,16 +1,16 @@
 # Activité : La disparition des abeilles
 
-!!! note "Compétences"
+!!! note Compétences
 
     Trouver et utiliser des informations
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. Relever les conséquences de la disparition des insectes pollinisateurs pour les plantes et pour les êtres humains.
     2. Relever les causes de la disparition des abeilles
 
 
-??? bug "Critères de réussite"
+??? bug Critères de réussite
   
 
 

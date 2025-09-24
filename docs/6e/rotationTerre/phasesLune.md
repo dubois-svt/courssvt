@@ -4,27 +4,27 @@ Mercredi 23 août 2023, l’Inde a réussi à faire atterrir le robot Pragyan de
 
 ![Les phases de la Lune](Pictures/phasesLune.png)
 
-!!!question "Problématique"
+!!!question Problématique
     Comment expliquer l’aspect changeant de la Lune dans le ciel nocturne ?
 
 [Activité Phases de la Lune](../phasesLune)
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
 
 # Activité : Les phases de la Lune
 
-!!! note "Compétences"
+!!! note Compétences
     - Trouver et utiliser des informations
 
-!!! warning "Consignes"
+!!! warning Consignes
     1) De quelle source provient la lumière qui se reflète sur la Lune et qui permet de la voir ?  
     2) Identifier les 4 phases lunaires du document 1 et trouver leur nom grâce au document 2.  
     3) Schématiser ces 4 positions de la Lune selon le point de vue d’un observateur situé sur Terre en faisant apparaître les rayons lumineux.
    
    
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - Indiquer pour chaque photo d'où est prise la photo et qu'est-ce qui semble en mouvement
     - Avoir réalisé les 3 modélisations
     - Pour chacune 

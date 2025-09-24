@@ -16,7 +16,7 @@
 La planète sur laquelle nous nous trouvons s’appelle la Terre. Elle fait partie d’un ensemble que l’on appelle système solaire. Huit planètes sont en orbite autour d’une étoile appelée Le Soleil. Ce sont les mouvements de la Terre autour du Soleil qui ont, pendant très longtemps, définit les mots tels que « jour » et « année ».
 
 
-!!! question "Problématique"
+!!! question Problématique
     Comment a-t-on défini les principales unités temporelles ?
 
 
@@ -25,7 +25,7 @@ La planète sur laquelle nous nous trouvons s’appelle la Terre. Elle fait part
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
     Une année correspond au mouvement de révolution de la Terre autour du Soleil, du point de vue héliocentrique ;
     Un jour correspond au mouvement de rotation de la Terre par rapport à l’axe des pôles.
     La Terre tourne autour du Soleil, elle a un mouvement circulaire.
@@ -45,7 +45,7 @@ La planète sur laquelle nous nous trouvons s’appelle la Terre. Elle fait part
 
 Dans l’activité précédente, nous avons vu que la Terre se déplaçait selon une révolution autour du Soleil en une année, soit 365,25 jours et qu’un jour correspondait à une rotation de la Terre sur elle-même par rapport à ses pôles.
 
-!!!question "Problématique"
+!!!question Problématique
     À quelle vitesse la Terre se déplace-t-elle ?
 
 
@@ -54,7 +54,7 @@ Dans l’activité précédente, nous avons vu que la Terre se déplaçait selon
 
 
 
-??? abstract "Bilan"
+??? abstract Bilan
     La vitesse est une grandeur physique qui caractérise le mouvement d’un objet. 
 
     $v= distance \div temps$

@@ -1,14 +1,14 @@
 # Activité : Initiation à la programmation
 
-!!! note "Compétences"
+!!! note Compétences
 
     Utiliser l'outil numérique 
 
-!!! warning "Consignes"
+!!! warning Consignes
     Se connecter sur le site [studio.code.org](studio.code.org) à l'aide des informations distribuées et réaliser les parcours proposés.
 
 
-??? bug "Critères de réussite"
+??? bug Critères de réussite
     - 
 
 

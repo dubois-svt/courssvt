@@ -1,11 +1,11 @@
 # Activité : Les conséquences de la divergence
 
-!!! note "Compétences"
+!!! note Compétences
 
     - Trouver et exploiter des informations 
     - Utiliser des outils mathématiques
 
-!!! warning "Consignes"
+!!! warning Consignes
 
     1. Découper et remettre dans l'ordre les schémas du document 4.
     2. Légender  à l’aide des mots en gras et donner un titre
@@ -13,7 +13,7 @@
     4. À l’aide documents, expliquer cette répartition.
     5. Calculer la vitesse d'ouverture de l'océan altlantique (en km/Ma)
     
-??? bug "Critères de réussite"
+??? bug Critères de réussite
 
     - Avoir décrit l'âge de la lithosphère océanique en partant du continent américain vers la dorsale
     - Avoir décrit l'âge de la lithosphère océanique en partant du continent africain vers la dorsale.
