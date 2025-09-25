@@ -4,28 +4,29 @@
 
 !!! note "Compétences"
 
-    Interpréter 
+    Trouver et exploiter des informations 
 
 !!! warning "Consignes"
 
-    1. À partir de l'image montrant plein de fichiers différents indiquer, quels sont les 3 moyens d'identifier un fichier.
-    2. Classer par taille les moyens de stockage.
+    1. À partir de l'image du document 2, indiquer quels sont les 3 moyens d'identifier un fichier.
+    2. Classer par taille croissantes les moyens de stockage.
     3. Parmi les chemins du document 4, lequel correspond au fichier de l'image. Indiquer le dossier, le sous dossier, le nom du fichier et l'extension
     4. A partir des informations du document 5 :
-        - indiquer si le comptable peut lire  dossier accueil
-        - indiquer si le chef peut lire le dossier privé
-        - indiquer si le informaticien peut lire le dossier comptabilité
+    
+    - indiquer où l'enseignant peut déposer un fichier pour vous.
+    - indiquer où vous pouvez déposer un fichier sans que personne d'autre ne le voit
+    - indiquer où déposer un fichier pour le rendre à un enseignant.
     
 ??? bug "Critères de réussite"
     - 
 
 
 
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
-**Document 1 les données inforamtique**
+**Document 1 les données informatiques**
 
-La quantitié d'information contenue dans un fichier correpsond à sa taille.
+La quantité d'information contenue dans un fichier correspond à sa taille.
 La taille d'un fichier informatique est mesuré en octet (o) qui correspond à 8 bits. (de manière simplifiée un bit correspond à 0 ou 1).
 Tous les fichiers portent un nom et sont présents dans un dossier du système d'informations.
 Le format de fichiers peut varier :
@@ -33,10 +34,10 @@ Le format de fichiers peut varier :
 - Format image (png, bmp, jpg ...)
 - Format vidéo (mpeg, mp4, mkv ...)
 - Format audio (mp3, wav, midi ...)
-Il existe énormément de types de fchiers différents.
+Il existe énormément de types de fichiers différents.
 
-
-1 ko  = 1000 o
+Les unités de tailles les plus courantes :
+1 ko = 1000 o
 1 Mo = 1000 ko
 1 Go = 1000 Mo
 1 To = 1000 Go
@@ -44,7 +45,7 @@ Il existe énormément de types de fchiers différents.
 
 </div>
 
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 **Document 2 Des fichiers informatiques**
 
@@ -61,18 +62,21 @@ Il existe énormément de types de fchiers différents.
 
 **Document 3 Des supports de stockage**
 
-disquette 3,5 pouce 1,4 Mo
-CD 700 Mo
-DVD 4,7 Go
-Disque dur 1 To
-Clé USB 64 Go
-Blu-ray 100 Go
-
+<table><thead><tr><th>Supports</th><th>Capactité</th><th>Photo</th></tr></thead>
+<tbody>
+<tr><td>Disque dur </td><td>1 To</td><td>![](image-13.png)</td></tr>
+<tr><td>disquette 3,5 pouce </td><td>1,4 Mo</td><td>![](image-11.png)</td></tr>
+<tr><td>DVD</td><td>4,7 Go</td><td>![](image-11.png)</td></tr>
+<tr><td>Clé USB </td><td>64 Go</td><td>![](image-14.png)</td></tr>
+<tr><td>Blu-ray </td><td>100 Go</td><td>![](image-12.png)</td></tr></tbody></table>
+<tr><td>CD </td><td>700 Mo</td><td>![](image-12.png)</td></tr>
 </div>
 
 
 **Document 4 : des chemins dans l'arborescence dans un système d'information.**
+<div markdown style="display: flex; flex-direction: row">
 
+<div markdown style="display: flex; flex-direction: column">
 **Sous un ordinateur Linux macOS**
 
 - /home/prof/Téléchargement/vacances.pdf
@@ -82,6 +86,9 @@ Blu-ray 100 Go
 - /home/prof/Documents/parcours.odt
 - /home/prof/Musiques/générique.mp3
 - /home/prof/Vidéos/souvenirs.mp4
+
+</div>
+<div markdown style="display: flex; flex-direction: column">
 
 **Sous un ordinateur Windows**
 
@@ -93,14 +100,18 @@ Blu-ray 100 Go
 - c:\prof\Musiques\générique.mp3
 - c:\prof\Vidéos\souvenirs.mp4
 
-**Document 5 Un système d'information d'une entreprise**
+</div></div>
 
-une entreprise a un espace de stockage accessoible en ligne  partagé avec différents employé
+**Document 5 Un système d'information du collège**
 
-liste dossier d'une employé : 
-- Accueil (lecture pour tous, écriture : pour RH)
-- Comptabilité (lecture pour chef et comptable, écriture : pour comptable)
-- Privé (lecture pour comptable, écriture : pour comptable)
+Le collège a un réseau informatique comportant des espaces de stockage.
 
+Trois répertoires sont à votre disposition.
 
+L’espace personnel (lecteur K:) qui n’est accessible que par l'utilisateur.
 
+L’espace de travail (lecteur H:) contient deux répertoires :
+- un répertoire « _travail » : où les enseignants  peuvent déposer un document. Les élèves n’ont que le droit en lecture sur ce répertoire et ne peuvent donc pas modifier les documents présents.
+Le répertoire de l’élève « identifiant_eleve » : l’élève peut y sauvegarder ses travaux. Ce dossier est accessible en lecture et écriture par l’ensemble des professeurs de la classe. 
+
+**Document 6 

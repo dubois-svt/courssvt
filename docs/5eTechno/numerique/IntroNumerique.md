@@ -50,14 +50,14 @@ En langage simple, le système informatique est l’ensemble des équipements qu
 ## Séance 2 : la cyberviolence
 
 
-![alt text](image-8.png)
-![alt text](image-10.png)
+![](pictures/campCyberHarc.png)
+
 
 !!! question "Problématique"
 
     comment le numérique peut-il avoir un impact dans notre vie ?
 
-[Activité Vie et numérique](../cyberviolence)
+[Activité Cyberviolence](../cyberviolence)
 
 
 

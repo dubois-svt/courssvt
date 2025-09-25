@@ -8,7 +8,7 @@
 
 !!! warning "Consignes"
 
-    1. Pour chacune des situations du document 3, dire s'il s'agit de cyberharcélement
+    1. Pour chacune des situations du document 4, dire s'il s'agit de cyberharcélement
     2. Que faire en cas de cyberviolence ?
     
     
@@ -19,11 +19,12 @@
 
 <div markdown style="break_inside: avoid;">
 
-**Document 1 Cyberviolence**
+**Document 1 Cyberviolence au collège**
 
-La cyber violence touche 1 collégien sur 4 et le cyberharcélement 1 collégien sur 5 en 2021-2022
+![](pictures/statcyberHrc.png)
 
-![video sur lumni](https://www.lumni.fr/video/cyberharcelement)
+
+[video sur lumni](https://www.lumni.fr/video/cyberharcelement)
 
 **Document 2 Article 226-1 du code pénal**
 
@@ -37,10 +38,12 @@ Est puni d'un an d'emprisonnement et de 45 000 euros d'amende le fait, au moyen 
 
 Lorsque les actes mentionnés aux 1° et 2° du présent article ont été accomplis au vu et au su des intéressés sans qu'ils s'y soient opposés, alors qu'ils étaient en mesure de le faire, le consentement de ceux-ci est présumé.
 
-Est
-![](image-9.png)
 
-**Document 3 Des situations de cyberviolence ?**
+**Document 3 Campagne de prévention des cyberviolences**
+
+![](pictures/campCyberHarc2.png)
+
+**Document 4 Des situations de cyberviolence ?**
 
 
 Dire une fois à quelqu’un que vous n’êtes pas d’accord avec lui.
