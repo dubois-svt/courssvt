@@ -62,14 +62,14 @@ Les unités de tailles les plus courantes :
 
 **Document 3 Des supports de stockage**
 
-<table><thead><tr><th>Supports</th><th>Capactité</th><th>Photo</th></tr></thead>
-<tbody>
-<tr><td>Disque dur </td><td>1 To</td><td>![](image-13.png)</td></tr>
-<tr><td>disquette 3,5 pouce </td><td>1,4 Mo</td><td>![](image-11.png)</td></tr>
-<tr><td>DVD</td><td>4,7 Go</td><td>![](image-11.png)</td></tr>
-<tr><td>Clé USB </td><td>64 Go</td><td>![](image-14.png)</td></tr>
-<tr><td>Blu-ray </td><td>100 Go</td><td>![](image-12.png)</td></tr></tbody></table>
-<tr><td>CD </td><td>700 Mo</td><td>![](image-12.png)</td></tr>
+<table markdown><thead><tr><th>Supports</th><th>Capactité</th><th>Photo</th></tr></thead>
+<tbody markdown>
+<tr markdown><td>Disque dur </td><td>1 To</td><td markdown>![](image-13.png)</td></tr>
+<tr markdown><td>disquette 3,5 pouce </td><td>1,4 Mo</td><td markdown>![](image-11.png)</td></tr>
+<tr markdown><td>DVD</td><td>4,7 Go</td><td markdown>![](image-11.png)</td></tr>
+<tr markdown><td>Clé USB </td><td>64 Go</td><td markdown>![](image-14.png)</td></tr>
+<tr markdown><td>Blu-ray </td><td>100 Go</td><td markdown>![](image-12.png)</td></tr></tbody></table>
+<tr markdown><td>CD </td><td>700 Mo</td><td markdown>![](image-12.png)</td></tr>
 </div>
 
 
@@ -111,7 +111,5 @@ Trois répertoires sont à votre disposition.
 L’espace personnel (lecteur K:) qui n’est accessible que par l'utilisateur.
 
 L’espace de travail (lecteur H:) contient deux répertoires :
-- un répertoire « _travail » : où les enseignants  peuvent déposer un document. Les élèves n’ont que le droit en lecture sur ce répertoire et ne peuvent donc pas modifier les documents présents.
+- un répertoire « _travail » : où les enseignants peuvent déposer un document. Les élèves n’ont que le droit en lecture sur ce répertoire et ne peuvent donc pas modifier les documents présents.
 Le répertoire de l’élève « identifiant_eleve » : l’élève peut y sauvegarder ses travaux. Ce dossier est accessible en lecture et écriture par l’ensemble des professeurs de la classe. 
-
-**Document 6 
