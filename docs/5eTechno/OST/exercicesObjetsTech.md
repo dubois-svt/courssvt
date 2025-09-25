@@ -155,15 +155,19 @@
 !!! warning "Consignes"
 
     1. A quelle famille appartiennent ces objets ? 
-    2. Placer tous les objets sur la frise chronologique.
-    3. Indiquer avec deux couleurs différentes les deux lignées sur la frise chronologique et indiquer la rupture technologique.
-    4. Sur quel principe de fonctionnement fonctionne la première lignée ?
+    2. Tracer les différentes lignées de cette famille.
+    3. Sur quel principe de fonctionnement fonctionne la première lignée ?
 
 
 ??? note-prof
+    3. Indiquer avec deux couleurs différentes les deux lignées sur la frise chronologique et indiquer la rupture technologique.
     5. Expliquer en quoi les ampoules à incandescence peuvent être qualifiées d’invention. 
     6. Expliquer en quoi les ampoules LED sont une innovation qui répond à un besoin de développement durable.
     7. Expliquer en quoi les ampoules LED ont tout de même un impact écologique  et comment le limiter
+    **Document 7 frise chronologique**
+
+    ![](pictures/friseFamilleLampe.png)
+
 
     
 ??? bug "Critères de réussite"
@@ -322,10 +326,6 @@ Les lampes à diodes électroluminescentes (DEL) équipent plus souvent les nouv
 
 </div>
 
-**Document 7 frise chronologique**
-
-![](pictures/friseFamilleLampe.png)
-
 
 
 ## Exercice 5 : Lignées d’objets
@@ -342,8 +342,8 @@ Les lampes à diodes électroluminescentes (DEL) équipent plus souvent les nouv
     3. Recherche ce qui différencie ces deux lignées d’objets.
     4. Représenter, par une frise chronologique, l’évolution de ces lignées d’objets.
    
-<tabl markdown>
-<tbod markdown>
+<table markdown>
+<tbody markdown>
 <tr>
 <td>La première montre mécanique est apparue vers 1530 en Suisse.</td>
 <td>En 1777, l’horloger suisse Abraham Louis Perrelet invente la montre à remontage mécanique.</td>
@@ -356,8 +356,8 @@ Les lampes à diodes électroluminescentes (DEL) équipent plus souvent les nouv
 <td markdown>![](image-2.png){: style="width:200px"}</td>
 <td markdown>![](image-3.png){: style="width:200px"}</td>
 </tr>
-</tbod>
-</tabl>
+</tbody>
+</table>
 
 
 
