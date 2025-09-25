@@ -49,7 +49,7 @@ On parle souvent de sauvergade 3 2 1, avec 3 copies en tout :
 
 
 
-???note-prof **Document 4 Source possibles pour télécharger le logiciel VLC**
+??? note-prof **Document 4 Source possibles pour télécharger le logiciel VLC**
  
     Si on recherche sur un moteur de recherche à télécharger le logiciel VLC de Videolan, on obtient les résultats suivants.
 
