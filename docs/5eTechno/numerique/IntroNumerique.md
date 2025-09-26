@@ -50,7 +50,7 @@ En langage simple, le système informatique est l’ensemble des équipements qu
 ## Séance 2 : la cyberviolence
 
 
-![](pictures/campCyberHarc.png)
+![](pictures/campCyberHarc.png){:style="height:400px; "} 
 
 
 !!! question "Problématique"

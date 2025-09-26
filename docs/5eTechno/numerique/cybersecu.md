@@ -4,13 +4,13 @@
 
 !!! note "Compétences"
 
-    Interpréter 
+    Trouver et exploiter des informations  
 
 !!! warning "Consignes"
 
-    1. D'après le doucment, combien de temps votre mot de passe principal peut il être cracké.
+    1. D'après le doucment, combien de temps votre mot de passe principal peut-il être cracké.
     2. Pourquoi un mot de passe unique peut-il être dangereux.
-    3. Sur quel site des résultats de la recherche vous téléchargeriez le logiciel VLC ?
+    3. Expliquer pourquoi il est important de faire attention aux fichiers que l'on télécharge et que l'on ouvre sur son appareil.
     4. Donner 3 conseils pour protéger ses données informatiques.
     
 ??? bug "Critères de réussite"

@@ -4,7 +4,7 @@
 
 !!! note "Compétences"
 
-    Interpréter 
+    Trouver et exploiter des informations  
 
 !!! warning "Consignes"
 
