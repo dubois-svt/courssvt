@@ -104,6 +104,15 @@ Les unités de tailles les plus courantes :
 
 **Document 5 Un système d'information du collège**
 
+<div markdown style="display: flex; flex-direction: row">
+
+<div markdown style="display: flex; flex-direction: column">
+
+![](pictures/sambaedu.png)
+
+</div>
+<div markdown style="display: flex; flex-direction: column">
+
 Le collège a un réseau informatique comportant des espaces de stockage.
 
 Trois répertoires sont à votre disposition.
@@ -113,3 +122,7 @@ L’espace personnel (lecteur K:) qui n’est accessible que par l'utilisateur.
 L’espace de travail (lecteur H:) contient deux répertoires :
 - un répertoire « _travail » : où les enseignants peuvent déposer un document. Les élèves n’ont que le droit en lecture sur ce répertoire et ne peuvent donc pas modifier les documents présents.
 Le répertoire de l’élève « identifiant_eleve » : l’élève peut y sauvegarder ses travaux. Ce dossier est accessible en lecture et écriture par l’ensemble des professeurs de la classe. 
+
+</div>
+
+</div>
