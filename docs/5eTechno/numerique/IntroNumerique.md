@@ -21,7 +21,7 @@ En langage simple, le système informatique est l’ensemble des équipements qu
 !!! question "Problématique"
 
 
-    Comment sont organisées les donénes stockées dans un système inforamtique ?
+    Comment sont organisées les données stockées dans un système informatique ?
 
 [Activité les données informatiques](../systInformation)
 
@@ -40,7 +40,7 @@ En langage simple, le système informatique est l’ensemble des équipements qu
 
     Ces espaces de stockage sont organisés sous la forme d'une arborescence, afin de pouvoir classer et retrouver ses fichiers stockés. Une arborescence est composée de dossiers, sous-dossiers et de fichier. Le chemin d'accès permet de savoir où sont stockés les fichiers et d'y  accéder.
 
-    Le stockage en ligne favorise le partage des fichers. Les données peuvent être ttransmises par des systèmes d'informations (ENT, réseaux sociaux, Service de cloud, sites collaboratifs, ...) de manière sécurisée
+    Le stockage en ligne favorise le partage des fichers. Les données peuvent être transmises par des systèmes d'informations (ENT, réseaux sociaux, Service de cloud, sites collaboratifs, ...) de manière sécurisée
 
     </a>
 
@@ -66,7 +66,7 @@ En langage simple, le système informatique est l’ensemble des équipements qu
 
     <a markdown id="bilan2">
 
-    Les cybervioloences sont des actes malveillants, intentionnels, commis dans le monde numérique, par un ou plusieurs peronneles dans le but de nuire à un individu comme l'userpation d'identité, l'envoi de messsages insultants et menaçants à une personne ou un groupe de personnes, le partage indélicat de photos ou des insultes. Ces actes sont punissables par la loi (peine de prison et amende)
+    Les cyberviolences sont des actes malveillants, intentionnels, commis dans le monde numérique, par un ou plusieurs personnelles dans le but de nuire à un individu comme l'usurpation d'identité, l'envoi de messages insultants et menaçants à une personne ou un groupe de personnes, le partage indélicat de photos ou des insultes. Ces actes sont punissables par la loi (peine de prison et amende)
 
     Il faut donc bien réfléchir à ce que l'on publie sur les réseaux. Si on est victime ou témoin, la première chose à faire et de prévenir un adulte de confiance.
 
@@ -95,13 +95,13 @@ https://www.lumni.fr/video/donnees-personnelles-et-reseaux-sociaux
     <a markdown id="bilan3">
 
 
-    la cybersécurité consiste à protéger les matériels informatiques ainsi que nos données personnelles contre les attaques malveillantes. Lors de vos connexions, des virus peuvent infecter votre ordinateur et de petits fichiers, nommées cookies, sont enregistrés par votre navigateur pour vous proposer des publicités ciblées.
+    La cybersécurité consiste à protéger les matériels informatiques ainsi que nos données personnelles contre les attaques malveillantes. Lors de vos connexions, des virus peuvent infecter votre ordinateur et de petits fichiers, nommées cookies, sont enregistrés par votre navigateur pour vous proposer des publicités ciblées.
 
-    Il faut alors protéger son matériel informatique en isntallant das antivirus. Il faut également protéger ses données personnelle en utilisant des mots de passe robustes et différents pour chaque compte ou appareil, ne pas les partager et se déconnecter avant de quitter l'application.
+    Il faut alors protéger son matériel informatique en installant das antivirus. Il faut également protéger ses données personnelles en utilisant des mots de passe robustes et différents pour chaque compte ou appareil, ne pas les partager et se déconnecter avant de quitter un poste informatique.
 
     Lorsque l'on utilise internet des informations sont diffusées.
     Volontairement (photos, messages), qui peuvent rester en ligne et nous échapper.
-    Involontairement, lmes cookies qui stockent des informations sur nous (sites visités, zone géographique, informations personnelles), beaucoup de cookies sont utilisées pour le ciblage publicitaire.
+    Involontairement, les cookies qui stockent des informations sur nous (sites visités, zone géographique, informations personnelles), beaucoup de cookies sont utilisées pour le ciblage publicitaire.
 
     </a>
 
