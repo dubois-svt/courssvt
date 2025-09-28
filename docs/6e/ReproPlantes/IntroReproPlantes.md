@@ -74,7 +74,7 @@ Chez la plupart des plantes, les grains de pollen d'une fleur doivent être dép
 
 
 
-<div style="page-break-after: always;"></div>
+<div style="break-inside: avoid;"></div>
 
 
 ## Séance 3 : Les conséquences des activités humains sur les pollinisateurs

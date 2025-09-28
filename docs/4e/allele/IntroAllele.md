@@ -74,7 +74,7 @@
 
 [Activité Les groupes sanguins](../grpSang)
 
-<div style="page-break-after: always;"></div>
+<div style="break-inside: avoid;"></div>
 
 ## Séance 3 : Des nouveaux allèles
 

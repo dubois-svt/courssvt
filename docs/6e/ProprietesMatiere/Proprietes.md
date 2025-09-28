@@ -114,5 +114,5 @@ La conductivité électrique est la capacité d'un matériau à laisser circuler
 - Étape 4 : Relier un troisième câble entre l'objet et l'ampoule
 - Etape 5 : Observer et noter les résultats puis conclure.
 
-<div style="page-break-after: always;"></div>
+<div style="break-inside: avoid;"></div>
 

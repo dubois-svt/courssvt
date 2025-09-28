@@ -93,3 +93,8 @@ https://classic.nullschool.net/fr/#2020/02/27/1500Z/wind/surface/level/overlay=m
         L’inégale répartition de l’énergie solaire crée des mouvements de l’hydrosphère et dans l’atmosphère. Cela entraîne un transfert d’énergie (chaleur) de l’équateur aux pôles ce qui permet d’équilibrer l’excès d’énergie reçue à l’équateur. Les mouvements d'air et d'eaux vont avoir un effet sur le climat. 
 
 ![](Pictures/carteGulfStream.png)
+
+
+## Séance 4 : Exercices
+
+[Activité Exercices](../exos)

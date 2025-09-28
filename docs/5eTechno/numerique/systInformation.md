@@ -57,7 +57,7 @@ Les unités de tailles les plus courantes :
 
 
 
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 
 **Document 3 Des supports de stockage**

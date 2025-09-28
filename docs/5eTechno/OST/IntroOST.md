@@ -36,7 +36,7 @@ Les êtres humains ont besoin de : se nourrir, s’abriter, se vêtir, se laver
 
     </a>
 
-<div style="page-break-after: always;"></div>
+<div style="break-inside: avoid;"></div>
 
 
 ## Séance 2 : les fonctions d'un OST

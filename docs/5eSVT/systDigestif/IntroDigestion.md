@@ -101,7 +101,7 @@ L’être humain et plus généralement tous les animaux ont besoin de manger po
 
 
 
-<div style="page-break-after: always;"></div>
+<div style="break-inside: avoid;"></div>
 
 ## Séance 5 : Exercices
 

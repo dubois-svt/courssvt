@@ -71,5 +71,5 @@ C’est le cas des piles qui peuvent libérer des liquides extrêmement nocifs, 
 
 </div>
 
-<div style="page-break-after: always;"></div>
+<div style="break-inside: avoid;"></div>
 

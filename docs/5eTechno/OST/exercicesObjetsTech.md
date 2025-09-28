@@ -47,7 +47,7 @@
 
     1. Compléter le tableau du document 1, en présentant pour les différents objets la fonction d'usage, les fonctions techniques et les principes techniques associés
     
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 **Document 1 Tableau récapitulatif**
 <table><thead>
@@ -122,7 +122,7 @@
 
 </div>
 
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 
 **Document 2 Différents objets techniques.**
@@ -177,7 +177,7 @@
 
 
 
-<div markdown style="page-break-after: always; display:flex; flex-direction:row; ">
+<div markdown style="break-inside: avoid; display:flex; flex-direction:row; ">
 
 <div markdown style="display:flex; flex-direction:column; flex: 1 1 0;">
 
@@ -224,7 +224,7 @@ La chandelle de graisse animale ou suif éclaire les campagnes tandis que la bou
 
 
 
-<div markdown style="page-break-after: always; display:flex; flex-direction:row; ">
+<div markdown style="break-inside: avoid; display:flex; flex-direction:row; ">
 
 <div markdown style="display:flex; flex-direction:column; flex: 1 1 0;">
 
@@ -274,7 +274,7 @@ Les lampes à huile sont utilisées de l’Antiquité au Moyen Âge.
 </div>
 
 
-<div markdown style="page-break-after: always; display:flex; flex-direction:row; ">
+<div markdown style="break-inside: avoid; display:flex; flex-direction:row; ">
 
 <div markdown style="display:flex; flex-direction:column; flex: 1 1 0;">
 

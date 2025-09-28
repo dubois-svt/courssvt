@@ -1,6 +1,6 @@
 # Activité : Exercices sur l'effort physique
 
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
     
 ## Exercice 1 calculer une fréquence cardiaque à partir d'un électrocardiogramme
 
@@ -22,7 +22,7 @@ Le cœur bat périodiquement, c'est-à-dire que les battements se répètent dan
 </div>
 </div>
 
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
     
 ## Exercice 2 La fréquence respiratoire
 
@@ -43,7 +43,7 @@ On mesure la fréquence cardiaque et la fréquence respiratoire de quelques él�
 
 </div>
 
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
     
 ## Exercice 3 Représenter l’évolution de la fréquence cardiaque 	
 
@@ -115,3 +115,19 @@ Trois élèves font un footing d’échauffement pendant 4 minutes et un capteur
 ![](pictures/graphFreqCard.png)
 
 </div>
+
+
+## Exercice 4 Les besoins d'un muscle
+
+!!! warning "Consignes"
+    1. Dire comment sont apportés les éléments dont un muscle a besoin pour fonctionner.
+    2. Montrer que le muscle a besoin de dioxygène et de glucose.
+
+
+**Document 1 Analyse du sang entrant et sortant d'un muscle au repos.**
+
+|    |  Sang entrant dans le muscle    |   Sang entrant dans le muscle    |
+|---|----|----|
+| Dioxygène (ml/100 mL de sang) | 20,4  | 15,3   |
+| Glucose (g/100 mL de sang) | 1,04  | 0,98 |
+

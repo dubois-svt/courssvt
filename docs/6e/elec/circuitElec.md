@@ -17,7 +17,7 @@
 
 
 
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 **Document 1 Protocole à réaliser.**
 
@@ -42,7 +42,7 @@ Ne pas représenter de dipôle dans les angles du rectangle.
 
 
 
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 **Document 3 Symboles normalisés des dipôles.**
 

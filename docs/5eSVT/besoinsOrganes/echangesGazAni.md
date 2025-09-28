@@ -20,7 +20,7 @@
 
 ## Équipe 1 : Les échanges gazeux respiratoires d’une souris
 
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 **Document 1 La composition de l’air.**
 
@@ -41,7 +41,7 @@ L’air est un mélange de plusieurs gaz que l’on peut détecter avec différe
 </div>
 
 </div>
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 **Document 2 Les mesures des échanges gazeux chez une souris.**
 
@@ -52,7 +52,7 @@ On mesure la teneur en dioxyde de carbone et en dioxygène dans l’air d’un
 <div markdown style="display: flex; flex-direction:row;">
 <div markdown style="display: flex; flex: 1 1 0; flex-direction:column; margin-right:5px;">
 </div>
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 **Document 3 L’organisation des poumons chez les mammifères**
 
@@ -65,7 +65,7 @@ Lors de l’inspiration, le diaphragme, situé sous les poumons, se contracte. L
 <div markdown style="display: flex; flex: 1 1 0; flex-direction:column; margin-left:5px;">
 
 </div>
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 
 **Document 4 Le détail des alvéoles à l’intérieur des poumons**
@@ -77,7 +77,7 @@ Chaque bronchiole débouche sur de minuscules alvéoles dont la fine paroi con
 </div>
 </div>
 </div>
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 **Document 5  Les échanges**
 
@@ -91,7 +91,7 @@ Les échanges entre un organe et le sang se font plus facilement si  différente
 
 ## Équipe 2 : Les échanges gazeux respiratoires des criquets
 
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 **Document 1 La composition de l’air.**
 
@@ -113,7 +113,7 @@ L’air est un mélange de plusieurs gaz que l’on peut détecter avec différe
 
 </div>
 
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 <div markdown style="display: flex; flex-direction:row;">
 <div markdown style="display: flex; flex: 1 1 0; flex-direction:column; margin-right:5px;">
 
@@ -142,7 +142,7 @@ L’eau de chaux dans les deux enceintes est incolore au début de l’expérien
 </div>
 </div>
 
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
     
 **Document 4 Les trachées d’un criquet**
 
@@ -153,7 +153,7 @@ Le réseau de trachée peut représenter un volume d’air égale à la moitié 
 
 </div>
 
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 **Document 5  Les échanges**
 
@@ -167,7 +167,7 @@ Les échanges entre un organe et le sang se font plus facilement si  différente
 ## Équipe 3 : Les échanges gazeux respiratoires des poissons
 
 
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 **Document 1 La composition de l’air.**
 
@@ -189,7 +189,7 @@ L’air est un mélange de plusieurs gaz que l’on peut détecter avec différe
 
 </div>
 
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 <div markdown style="display: flex; flex-direction:row;">
 <div markdown style="display: flex; flex: 1 1 0; flex-direction:column; margin-right:5px;">
@@ -218,7 +218,7 @@ Le bleu de méthylène devient incolore lorsque le milieu est dépourvu de dioxy
 </div>
 
 
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 **Document 4 Une observation de branchies de truite**
 
@@ -243,7 +243,7 @@ Chaque filament branchial est couvert de fines lamelles contenant des petits vai
 
 </div>
 
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 **Document 5 Les échanges**
 

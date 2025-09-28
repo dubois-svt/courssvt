@@ -119,7 +119,7 @@ Différence météo et climat
 
     </a>
 
-<div style="page-break-after: always;"></div>
+<div style="break-inside: avoid;"></div>
 
 ## Séance 3 : Le changement climatique actuel
 

@@ -58,5 +58,5 @@ inverser 2 ÉLÉMENTS
 ??? abstract "Bilan"
     Bilan
 
-<div style="page-break-after: always;"></div>
+<div style="break-inside: avoid;"></div>
 

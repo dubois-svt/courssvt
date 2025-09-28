@@ -13,7 +13,7 @@
 
 
 
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 **Document 1 Consigne de tri.**
 

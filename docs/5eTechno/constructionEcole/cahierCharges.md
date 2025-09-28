@@ -113,4 +113,4 @@ Pour la sécurité des usagers, une salle de classe et plus particulièrement un
 
 
 
-<div style="page-break-after: always;"></div>
+<div style="break-inside: avoid;"></div>

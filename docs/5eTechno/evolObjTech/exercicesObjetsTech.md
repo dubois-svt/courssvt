@@ -22,7 +22,7 @@
 
 
 
-<div markdown style="page-break-after: always; display:flex; flex-direction:row; ">
+<div markdown style="break-inside: avoid; display:flex; flex-direction:row; ">
 
 <div markdown style="display:flex; flex-direction:column; flex: 1 1 0;">
 
@@ -69,7 +69,7 @@ La chandelle de graisse animale ou suif éclaire les campagnes tandis que la bou
 
 
 
-<div markdown style="page-break-after: always; display:flex; flex-direction:row; ">
+<div markdown style="break-inside: avoid; display:flex; flex-direction:row; ">
 
 <div markdown style="display:flex; flex-direction:column; flex: 1 1 0;">
 
@@ -119,7 +119,7 @@ Les lampes à huile sont utilisées de l’Antiquité au Moyen Âge.
 </div>
 
 
-<div markdown style="page-break-after: always; display:flex; flex-direction:row; ">
+<div markdown style="break-inside: avoid; display:flex; flex-direction:row; ">
 
 <div markdown style="display:flex; flex-direction:column; flex: 1 1 0;">
 
