@@ -53,6 +53,10 @@ La fréquence cardiaque maximale peut être estimée en soustrayant l’âge de 
 
 **Document 3 Effet de l’entrainement sur les limites physiologiques**
 
+<div markdown style="display: flex; flex-direction: row">
+
+<div markdown style="display: flex;flex: 1; padding-right:20px; flex-direction: column">
+
 Une VO~2~Max élevée améliore les performances, en augmentant la quantité de dioxygène fournie aux muscles.
 Une diminution de la fréquence cardiaque induit une réduction considérable du travail quotidien du muscle cardiaque
 
@@ -63,9 +67,17 @@ Il a été montré qu’une fréquence cardiaque basse diminue de six fois le ri
 | Homme | 72| 64| 50|
 |Femme | 74 | 68 | 55|
 
+</div>
+
+<div markdown style="display: flex; flex: 1;padding-left:20px; flex-direction: column">
+
+
 ![source : Didier-SVT-Cycle 4](image-3.png)
 
+</div>
 
+
+</div>
 
 </div>
 
