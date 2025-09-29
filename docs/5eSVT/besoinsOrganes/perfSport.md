@@ -20,14 +20,14 @@ La vitesse moyenne aérobie correspond à la vitesse maximale à laquelle une pe
 **Document 2 Des limites physiologiques.**
 <div markdown style="display: flex; flex-direction: row">
 
-<div markdown style="display: flex;flex: 1; padding-right:5px; flex-direction: column">
+<div markdown style="display: flex;flex: 1; padding-right:20px; flex-direction: column">
 
 Tout individu a une consommation maximale de dioxygène à l’effort (VO~2~Max). Un effort ne peut durer plus de quelques minutes à cette valeur et cesse rapidement si l’intensité de l’exercice augmente. Cette valeur est mesurée lors d’un test réalisé sous contrôle médical.
 
 ![](image.png)
 </div>
 
-<div markdown style="display: flex; flex: 1;padding-left:5px; flex-direction: column">
+<div markdown style="display: flex; flex: 1;padding-left:20px; flex-direction: column">
 
 La fréquence cardiaque maximale peut être estimée en soustrayant l’âge de l’individu à la valeur 220.
 
