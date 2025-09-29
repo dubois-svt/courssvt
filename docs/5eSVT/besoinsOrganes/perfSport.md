@@ -52,6 +52,7 @@ La fréquence cardiaque maximale peut être estimée en soustrayant l’âge de 
 <div  markdown style="break-inside: avoid;">
 
 **Document 3 Effet de l’entrainement sur les limites physiologiques**
+
 Une VO~2~Max élevée améliore les performances, en augmentant la quantité de dioxygène fournie aux muscles.
 Une diminution de la fréquence cardiaque induit une réduction considérable du travail quotidien du muscle cardiaque
 
@@ -70,6 +71,7 @@ Il a été montré qu’une fréquence cardiaque basse diminue de six fois le ri
 
 
 <div markdown style="break-inside: avoid;">
+    
 **Document 4 Les effets de l’entrainement sur les capacités musculaires.**
 
 Avec ou sans entraînement, le cœur est un muscle « infatigable » : il fonctionne en permanence et chaque contraction est suivie par un relâchement permettant sa récupération (et son remplissage).
