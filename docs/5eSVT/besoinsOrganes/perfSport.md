@@ -13,21 +13,21 @@
     
 **Document 1 La VMA Vitesse Moyenne Aérobie**
 
-La vitesse moyenne aérobie correspond à la vitesse maximale à laquelle une personne consomme le maximum de dioxygène que son système respiratoire peut apporter, VO~2~Max.$
+La vitesse moyenne aérobie correspond à la vitesse maximale à laquelle une personne consomme le maximum de dioxygène que son système respiratoire peut apporter, VO~2~Max.
 
 À sa VMA, un individu peut courir entre 4 et 8 minutes.
 
 **Document 2 Des limites physiologiques.**
 <div markdown style="display: flex; flex-direction: row">
 
-<div markdown style="display: flex; flex-direction: column">
+<div markdown style="display: flex;flex: 1; flex-direction: column">
 
 Tout individu a une consommation maximale de dioxygène à l’effort (VO~2~Max). Un effort ne peut durer plus de quelques minutes à cette valeur et cesse rapidement si l’intensité de l’exercice augmente. Cette valeur est mesurée lors d’un test réalisé sous contrôle médical.
 
 ![](image.png)
 </div>
 
-<div markdown style="display: flex; flex-direction: column">
+<div markdown style="display: flex; flex: 1; flex-direction: column">
 
 La fréquence cardiaque maximale peut être estimée en soustrayant l’âge de l’individu à la valeur 220.
 
