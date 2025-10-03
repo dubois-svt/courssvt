@@ -106,7 +106,7 @@ Les unités de tailles les plus courantes :
 
 <div markdown style="display: flex; flex-direction: row">
 
-<div markdown style="display: flex; flex: 1 1 1; flex-direction: column">
+<div markdown style="display: flex; flex: 2 1 1; flex-direction: column">
 
 ![](pictures/sambaedu.png)
 
