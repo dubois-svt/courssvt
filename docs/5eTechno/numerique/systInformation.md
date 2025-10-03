@@ -64,12 +64,12 @@ Les unités de tailles les plus courantes :
 
 <table markdown><thead><tr><th>Supports</th><th>Capactité</th><th>Photo</th></tr></thead>
 <tbody markdown>
-<tr markdown><td>Disque dur </td><td>1 To</td><td markdown>![](image-13.png)</td></tr>
-<tr markdown><td>disquette 3,5 pouce </td><td>1,4 Mo</td><td markdown>![](image-11.png)</td></tr>
-<tr markdown><td>DVD</td><td>4,7 Go</td><td markdown>![](image-11.png)</td></tr>
-<tr markdown><td>Clé USB </td><td>64 Go</td><td markdown>![](image-14.png)</td></tr>
-<tr markdown><td>Blu-ray </td><td>100 Go</td><td markdown>![](image-12.png)</td></tr>
-<tr markdown><td>CD </td><td>700 Mo</td><td markdown>![](image-12.png)</td></tr></tbody></table>
+<tr markdown><td>Disque dur </td><td>1 To</td><td markdown>![](image-13.png){: style="height:150px;width:150px"}</td></tr>
+<tr markdown><td>disquette 3,5 pouce </td><td>1,4 Mo</td><td markdown>![](image-11.png){: style="height:150px;width:150px"}</td></tr>
+<tr markdown><td>DVD</td><td>4,7 Go</td><td markdown>![](image-11.png){: style="height:150px;width:150px"}</td></tr>
+<tr markdown><td>Clé USB </td><td>64 Go</td><td markdown>![](image-14.png){: style="height:150px;width:150px"}</td></tr>
+<tr markdown><td>Blu-ray </td><td>100 Go</td><td markdown>![](image-12.png){: style="height:150px;width:150px"}</td></tr>
+<tr markdown><td>CD </td><td>700 Mo</td><td markdown>![](image-12.png){: style="height:150px;width:150px"}</td></tr></tbody></table>
 </div>
 
 
