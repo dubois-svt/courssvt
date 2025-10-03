@@ -49,7 +49,7 @@ Les unités de tailles les plus courantes :
 
 **Document 2 Des fichiers informatiques**
 
-![](image.png)
+![](image.png){: style="width:1100px"}
 
 </div>
 
@@ -106,9 +106,9 @@ Les unités de tailles les plus courantes :
 
 <div markdown style="display: flex; flex-direction: row">
 
-<div markdown style="display: flex; flex: 2 1 1; flex-direction: column">
+<div markdown style="display: flex; flex: 1 1 1; flex-direction: column">
 
-![](pictures/sambaedu.png)
+![](pictures/sambaedu.png){: style="width:550px"}
 
 </div>
 <div markdown style="display: flex; flex: 1 1 1; flex-direction: column">
