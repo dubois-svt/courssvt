@@ -9,8 +9,8 @@
 !!! warning "Consignes"
 
     1. À partir de l'image du document 2, indiquer quels sont les 3 moyens d'identifier un fichier.
-    2. Classer par taille croissantes les moyens de stockage.
-    3. Parmi les chemins du document 4, lequel correspond au fichier de l'image. Indiquer le dossier, le sous dossier, le nom du fichier et l'extension
+    2. Classer par taille croissantes les moyens de stockage du document 3.
+    3. Parmi les chemins du document 4, lequel correspond au fichier de l'image. Indiquer le dossier, le sous dossier, le nom du fichier et l'extension.
     4. A partir des informations du document 5 :
     
     - indiquer où l'enseignant peut déposer un fichier pour vous.
@@ -29,18 +29,22 @@
 La quantité d'information contenue dans un fichier correspond à sa taille.
 La taille d'un fichier informatique est mesuré en octet (o) qui correspond à 8 bits. (de manière simplifiée un bit correspond à 0 ou 1).
 Tous les fichiers portent un nom et sont présents dans un dossier du système d'informations.
+
 Le format de fichiers peut varier :
+
 - Format texte (txt, odt, docx ...)
 - Format image (png, bmp, jpg ...)
 - Format vidéo (mpeg, mp4, mkv ...)
 - Format audio (mp3, wav, midi ...)
+- 
 Il existe énormément de types de fichiers différents.
 
 Les unités de tailles les plus courantes :
-1 ko = 1000 o
-1 Mo = 1000 ko
-1 Go = 1000 Mo
-1 To = 1000 Go
+
+- 1 ko = 1000 o
+- 1 Mo = 1000 ko
+- 1 Go = 1000 Mo
+- 1 To = 1000 Go
 
 
 </div>
@@ -62,15 +66,11 @@ Les unités de tailles les plus courantes :
 
 **Document 3 Des supports de stockage**
 
-<table markdown><thead><tr><th>Supports</th><th>Capactité</th><th>Photo</th></tr></thead>
-<tbody markdown>
-<tr markdown><td>Disque dur </td><td>1 To</td><td markdown>![](image-13.png){: style="height:150px;width:150px"}</td></tr>
-<tr markdown><td>disquette 3,5 pouce </td><td>1,4 Mo</td><td markdown>![](image-11.png){: style="height:150px;width:150px"}</td></tr>
-<tr markdown><td>DVD</td><td>4,7 Go</td><td markdown>![](image-11.png){: style="height:150px;width:150px"}</td></tr>
-<tr markdown><td>Clé USB </td><td>64 Go</td><td markdown>![](image-14.png){: style="height:150px;width:150px"}</td></tr>
-<tr markdown><td>Blu-ray </td><td>100 Go</td><td markdown>![](image-12.png){: style="height:150px;width:150px"}</td></tr>
-<tr markdown><td>CD </td><td>700 Mo</td><td markdown>![](image-12.png){: style="height:150px;width:150px"}</td></tr></tbody></table>
-</div>
+<table markdown><tbody markdown>
+<tr><th>Supports</th><td>Disque dur </td><td>disquette 3,5 pouce </td><td>DVD</td><td>Clé USB </td><td>Blu-ray </td><td>CD </td> </tr>
+<tr><th>Capactité</th><td>1 To</td><td>1,4 Mo</td><td>4,7 Go</td><td>64 Go</td><td>100 Go</td><td>700 Mo</td></tr>
+<tr markdown><th>Photo</th>
+<td markdown>![](image-13.png){: style="height:100px;"}</td><td markdown>![](image-11.png){: style="height:100px;"}</td><td markdown>![](image-12.png){: style="height:100px;"}</td><td markdown>![](image-14.png){: style="height:100px;"}</td><td markdown>![](image-12.png){: style="height:100px;"}</td><td markdown>![](image-12.png){: style="height:100px;"}</td></tr></tbody></table>
 
 
 **Document 4 : des chemins dans l'arborescence dans un système d'information.**
@@ -108,20 +108,20 @@ Les unités de tailles les plus courantes :
 
 <div markdown style="display: flex; flex: 1 1 1; flex-direction: column">
 
-![](pictures/sambaedu.png){: style="width:1000px"}
+![](pictures/sambaedu.png){: style="width:800px"}
 
 </div>
 <div markdown style="display: flex; flex: 1 1 1; flex-direction: column">
 
 Le collège a un réseau informatique comportant des espaces de stockage.
-
 Trois répertoires sont à votre disposition.
 
-L’espace personnel (lecteur K:) qui n’est accessible que par l'utilisateur.
+- L’espace personnel (lecteur K:) qui n’est accessible que par l'utilisateur.
 
 L’espace de travail (lecteur H:) contient deux répertoires :
+
 - un répertoire « _travail » : où les enseignants peuvent déposer un document. Les élèves n’ont que le droit en lecture sur ce répertoire et ne peuvent donc pas modifier les documents présents.
-Le répertoire de l’élève « identifiant_eleve » : l’élève peut y sauvegarder ses travaux. Ce dossier est accessible en lecture et écriture par l’ensemble des professeurs de la classe. 
+- Le répertoire de l’élève « identifiant_eleve » : l’élève peut y sauvegarder ses travaux. Ce dossier est accessible en lecture et écriture par l’ensemble des professeurs de la classe. 
 
 </div>
 
