@@ -57,6 +57,8 @@ En langage simple, le système informatique est l’ensemble des équipements qu
 
     comment le numérique peut-il avoir un impact dans notre vie ?
 
+[Activité ELEA : Cyberviolence](https://mureaux.elea.ac-versailles.fr/course/view.php?id=1384)
+
 [Activité Cyberviolence](../cyberviolence)
 
 
@@ -73,6 +75,13 @@ En langage simple, le système informatique est l’ensemble des équipements qu
     </a>
 
 
+
+
+A faire avant la séance 3 : [Activité  Hachette](college.hachette-education.com/ressources/0002017890737/techno5e_genially10/)
+
+Noter les 4 mots qui sont fournis à la fin de chaque mission.
+
+
 ## Séance 3 : Cybersécurité
 
 !!! question "Problématique"
@@ -86,9 +95,10 @@ En langage simple, le système informatique est l’ensemble des équipements qu
 
 
 
+[Vidéos sur les données personnelles](https://www.lumni.fr/video/donnees-personnelles-et-reseaux-sociaux)
 
-https://www.lumni.fr/video/donnees-personnelles-et-reseaux-sociaux
 
+[Test mot de passe](https://www.ssi.economie.gouv.fr/motdepasse)
 
 ??? abstract "Bilan"
 
@@ -97,7 +107,7 @@ https://www.lumni.fr/video/donnees-personnelles-et-reseaux-sociaux
 
     La cybersécurité consiste à protéger les matériels informatiques ainsi que nos données personnelles contre les attaques malveillantes. Lors de vos connexions, des virus peuvent infecter votre ordinateur et de petits fichiers, nommées cookies, sont enregistrés par votre navigateur pour vous proposer des publicités ciblées.
 
-    Il faut alors protéger son matériel informatique en installant das antivirus. Il faut également protéger ses données personnelles en utilisant des mots de passe robustes et différents pour chaque compte ou appareil, ne pas les partager et se déconnecter avant de quitter un poste informatique.
+    Il faut alors protéger son matériel informatique en installant das antivirus. Il faut également protéger ses données personnelles en utilisant des mots de passe robustes et différents pour chaque ccollege.hachette-education.com/ressources/0002017890737/techno5e_genially10/ompte ou appareil, ne pas les partager et se déconnecter avant de quitter un poste informatique.
 
     Lorsque l'on utilise internet des informations sont diffusées.
     Volontairement (photos, messages), qui peuvent rester en ligne et nous échapper.
@@ -107,11 +117,8 @@ https://www.lumni.fr/video/donnees-personnelles-et-reseaux-sociaux
 
 
 
-https://www.ssi.economie.gouv.fr/motdepasse
 
-view.genially.com/66474a537609460014772eec
-college.hachette-education.com/ressources/0002017890737/techno5e_genially10/
+## Séance 4 : Exercices
 
-mot de passe : Cyber3000 –> chatmd.forge.apps.education.fr/#https://codimd.apps.education.fr/s/OHLvgSE1a
+[Activité Exercices](../exercicesNum)
 
-https://nuage03.apps.education.fr/index.php/s/eB87Po9gwzHEQgi
