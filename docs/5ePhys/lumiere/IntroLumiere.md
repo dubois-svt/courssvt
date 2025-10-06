@@ -53,7 +53,7 @@
     La lumière se propage à une vitesse de 300 000 km/s.
 
 
-<div style="page-break-after: always;"></div>
+<div style="break-inside: avoid;"></div>
 
 ## Séance 3 : Éclipses
 

@@ -54,7 +54,7 @@ On souhaite réaliser la maquette numérique de votre salle de classe à l’aid
 </div>
 
 
-<div style="page-break-after: always;"></div>
+<div style="break-inside: avoid;"></div>
 !!! note-prof
     	 	 	 	
     Trouver et exploiter des informations(9 ou 8 critères TB ; 7 ou 6 ou 5  critères S ; 4 ou 3 critères F ; I)

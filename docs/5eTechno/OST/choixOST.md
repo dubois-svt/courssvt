@@ -17,14 +17,14 @@
 
 
 
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 **Document 1 Besoin d'un nouvel objet**
 
 On souhaite installer dans une salle de bain, un meuble pour machine à laver permettant d’avoir de l’espace de rangement supplémentaire. Dans notre recherche, nous nous sommes imposés des contraintes. L’OST doit s’installer aisément, résister à l’humidité de la salle de bain, avec des matériaux renouvelables et durables et dont le prix reste abordable.
 
 </div>
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 
 **Document 2 Plan de la salle de bain (en cm).**
@@ -33,7 +33,7 @@ On souhaite installer dans une salle de bain, un meuble pour machine à laver pe
 
 
 </div>
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 
 **Document 3 Extrait du site LeroyMerlin.fr.**
@@ -90,7 +90,7 @@ On souhaite installer dans une salle de bain, un meuble pour machine à laver pe
 </table>
 
 </div>
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 
 
@@ -123,7 +123,7 @@ On souhaite installer dans une salle de bain, un meuble pour machine à laver pe
 </tbody></table>
 
 </div>
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 
 **Document 5 Impact environnemental des matériaux**

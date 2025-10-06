@@ -5,7 +5,7 @@ lang: FRENCH
 
 # Activité : Exercices.
 
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
     
 ## Exercice 1 : une vague de froid
 !!! note "Compétences"
@@ -59,7 +59,7 @@ Celui-ci devrait encore perdurer quelques jours. Le service national de météor
 
 </div>    
 
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
     
 ## Exercice 2 : la météo à Paris
 

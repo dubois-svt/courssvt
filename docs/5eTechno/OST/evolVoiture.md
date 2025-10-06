@@ -17,7 +17,7 @@
 
 
 
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 **Document 1 Différentes voitures**
 
@@ -53,7 +53,7 @@
 </div>
 
 
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 **Document 2 3 lignées de voitures.**
 
@@ -61,7 +61,7 @@
 
 </div>
 
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 
 **Document 3 Principe de fonctionnement des différentes voitures**
@@ -80,7 +80,7 @@
 </div>
 
 
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 **Document 4 Définitions.**
 

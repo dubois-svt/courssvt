@@ -43,7 +43,7 @@
 </tbody>
 </table>
 
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 **Document 2 Changements morphologiques et physiologiques lors de la puberté.**
 ![](pictures/puberte.png)

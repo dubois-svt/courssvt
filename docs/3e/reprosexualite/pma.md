@@ -16,7 +16,7 @@
 ??? bug "Critères de réussite"
     - 
 
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 ## TECHNIQUES DE RECHERCHE DES CAUSES DE L’INFERTILITÉ D’UN COUPLE
 
@@ -72,7 +72,7 @@ pas présent, il n’y a pas d’ovulation. On peut suivre la quantité
 d’hormone LH quotidienne et vérifier les quantités de cette hormone.
 
 </div>
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 ## RECHERCHE DE LA CAUSE DE L’INFERTILITÉ POUR LE COUPLE A
 
@@ -90,7 +90,7 @@ d’hormone LH quotidienne et vérifier les quantités de cette hormone.
 ![](Pictures/coupleAdosageLH.png)
 
 </div>
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 
 ## RECHERCHE DE LA CAUSE DE L’INFERTILITÉ POUR LE COUPLE B
@@ -108,7 +108,7 @@ Le spermocytogramme réalisé pour le couple B a révélé 18 % de formes typiq
 ![](Pictures/coupleBdosageLH.jpg){:style="width:500px;"  }
 
 </div>
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 
 ## RECHERCHE DE LA CAUSE DE L’INFERTILITÉ POUR LE COUPLE C

@@ -141,7 +141,7 @@ Lors des compétitions de sprint, certains sportifs parviennent à parcourir 100
     **Document 5 : Représentation schématique de la circulation sanguine**
     ![](pictures/schemaDoubleCirculation.png)
 
-<div style="page-break-after: always;"></div>
+<div style="break-inside: avoid;"></div>
 
 
 

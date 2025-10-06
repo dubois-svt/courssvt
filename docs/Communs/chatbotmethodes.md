@@ -18,7 +18,7 @@ Le chatbot est réalisé avec CHatMD de Cédric Eyssette.
 
 <script id="chatmdWidgetScript" src="https://chatmd.forge.apps.education.fr/widget.min.js" data-chatbot="https://chatbotmethodes-3858eb.forge.apps.education.fr/chatbotmethodes.md"></script>
 
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 
 # Outils d'aide en Sciences
@@ -33,7 +33,7 @@ Je suis un chatbot pour vous aider à créer ou analyser un document en sciences
 
 --- 
 </div>
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 ## A Faire
 
@@ -59,7 +59,7 @@ Que faut-il faire ?
 
 --- 
 </div>
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 
 ## Comprendre la consigne
@@ -109,7 +109,7 @@ Je ne comprends pas ce qu'il faut faire dans la consigne
 
 --- 
 </div>
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 ## Apprendre son cours
 
@@ -133,7 +133,7 @@ La mémoire ne peut pas être efficace sur du court terme (la veille du devoir),
 
 --- 
 </div>
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 ## Réaliser un dessin
 
@@ -162,7 +162,7 @@ Il est possible de faire un cadre avec 4 pour ne rien oublier.
 
 --- 
 </div>
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 ## Réaliser un schéma structurel
 
@@ -192,7 +192,7 @@ La légende peut être aussi sous la forme de figuré ou de symbole
 
 --- 
 </div>
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 ## Décrire un graphique
 
@@ -222,7 +222,7 @@ De 14 h à 24 h, la température passe de 30 à 8°C, donc elle diminue.
 
 ---
 </div>
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 ## Réaliser un graphique
 
@@ -270,7 +270,7 @@ L’abscisse est toujours après le « en fonction de » : ici c’est le temps.
 
 --- 
 </div>
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 ## Réaliser un schéma fonctionnel
 
@@ -300,7 +300,7 @@ Schéma fonctionnel de l'influence du nombre de carnivores sur la végétation
 
 --- 
 </div>
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 ## Construire un tableau
 
@@ -346,7 +346,7 @@ Il y a 2 types de cellules et 4 composants donc le tableau fera 3 x 5.
 
 --- 
 </div>
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 ## Rédiger une réponse/mettre en relation des informations
 
@@ -385,7 +385,7 @@ A la fin, relire la consigne et la réponse pour vérifier que cette réponse r�
 --- 
 
 </div>
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 ## Démarche scientifique et analyse d'expérience
 
@@ -406,7 +406,7 @@ Lorsque l'on vous demande d'analyser une expérience, vous devez rédiger les é
 
 --- 
 </div>
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 ## Utiliser un microscope
 
@@ -436,7 +436,7 @@ Rangement:
 Calculer le grossissement : Pour savoir combien de fois on a grossi l’échantillon que l’on observe, il faut regarder le grossissement de l’oculaire (généralement x10) et celui de l’objectif (x4, x10 ou x40/x60). On les multiplie alors ensemble.
 
 </div>
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 ## Réalisation d’une préparation microscopique 
 
@@ -519,7 +519,7 @@ L'ensemble doit avoir l'apparence d'un rectangle.
 </tbody></table>
 
 </div>
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 ## Notions d'échelles spatiales et temporelles
 <style type="text/css">
@@ -714,7 +714,7 @@ L'ensemble doit avoir l'apparence d'un rectangle.
 </tbody></table>
 
 </div>
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 ## Construire des groupes emboîtés.
 
@@ -732,7 +732,7 @@ Les scientifiques nomment ensuite ces groupes.
 
 
 </div>
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 ## Calculer une taille ou une distance sur une photo ou une carte
 
@@ -762,7 +762,7 @@ Pour les 3e, la méthode du produit en croix :
 
 
 </div>
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 ## Les outils de mesure
 

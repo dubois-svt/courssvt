@@ -69,7 +69,7 @@
 
     </a>
 
-<div style="page-break-after: always;"></div>
+<div style="break-inside: avoid;"></div>
 
 
 
@@ -116,7 +116,7 @@ Pour étudier le climat actuel, il faut étudier la météo
     ![Photo de serveur de calcul météo](Pictures/ordiMeteo.png)
     ![Graphique de différents calculs météo](Pictures/calculMeteo.png)
 
-<div style="page-break-after: always;"></div>
+<div style="break-inside: avoid;"></div>
 
 
 ## Séance 3 : Différents climats sur notre planète
@@ -165,7 +165,7 @@ Pour étudier le climat actuel, il faut étudier la météo
     Un petit mot sur les saisons Différence d’énergie reçue au sol en France (43 ° N), en été et en hiver. Notez l’angle d’incidence en fonction de la saison.
     ![Schéma rayons lumineux en fonction de la période l'année](Pictures/schemaSaisons.png)
 
-<div style="page-break-after: always;"></div>
+<div style="break-inside: avoid;"></div>
 
 ## Séance 4 : Exercices
 

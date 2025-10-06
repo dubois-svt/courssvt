@@ -38,7 +38,7 @@ La planète sur laquelle nous nous trouvons s’appelle la Terre. Elle fait part
 
 
 
-<div style="page-break-after: always;"></div>
+<div style="break-inside: avoid;"></div>
 
 
 
@@ -74,5 +74,5 @@ Dans l’activité précédente, nous avons vu que la Terre se déplaçait selon
  [Activité Exercices sur la vitesse](../VitesseExercices)
    
 
-<div style="page-break-after: always;"></div>
+<div style="break-inside: avoid;"></div>
 

@@ -10,24 +10,31 @@
     Expliquer en texte ou sous la forme d'une carte mentale, en quoi un entrainement sportif régulier est important, mais qu'il est nécessaire de le faire correctement.
     
 ??? bug "Critères de réussite"
+
+
+<div  markdown style="break-inside: avoid;">
     
 **Document 1 La VMA Vitesse Moyenne Aérobie**
 
-La vitesse moyenne aérobie correspond à la vitesse maximale à laquelle une personne consomme le maximum de dioxygène que son système respiratoire peut apporter, VO~2~Max.$
+La vitesse moyenne aérobie correspond à la vitesse maximale à laquelle une personne consomme le maximum de dioxygène que son système respiratoire peut apporter, VO~2~Max.
 
 À sa VMA, un individu peut courir entre 4 et 8 minutes.
+
+</div>
+<div  markdown style="break-inside: avoid;">
+
 
 **Document 2 Des limites physiologiques.**
 <div markdown style="display: flex; flex-direction: row">
 
-<div markdown style="display: flex; flex-direction: column">
+<div markdown style="display: flex;flex: 1; padding-right:20px; flex-direction: column">
 
 Tout individu a une consommation maximale de dioxygène à l’effort (VO~2~Max). Un effort ne peut durer plus de quelques minutes à cette valeur et cesse rapidement si l’intensité de l’exercice augmente. Cette valeur est mesurée lors d’un test réalisé sous contrôle médical.
 
 ![](image.png)
 </div>
 
-<div markdown style="display: flex; flex-direction: column">
+<div markdown style="display: flex; flex: 1;padding-left:20px; flex-direction: column">
 
 La fréquence cardiaque maximale peut être estimée en soustrayant l’âge de l’individu à la valeur 220.
 
@@ -39,7 +46,17 @@ La fréquence cardiaque maximale peut être estimée en soustrayant l’âge de 
 
 </div>
 
+
+
+</div>
+<div  markdown style="break-inside: avoid;">
+
 **Document 3 Effet de l’entrainement sur les limites physiologiques**
+
+<div markdown style="display: flex; flex-direction: row">
+
+<div markdown style="display: flex;flex: 1; padding-right:20px; flex-direction: column">
+
 Une VO~2~Max élevée améliore les performances, en augmentant la quantité de dioxygène fournie aux muscles.
 Une diminution de la fréquence cardiaque induit une réduction considérable du travail quotidien du muscle cardiaque
 
@@ -50,17 +67,32 @@ Il a été montré qu’une fréquence cardiaque basse diminue de six fois le ri
 | Homme | 72| 64| 50|
 |Femme | 74 | 68 | 55|
 
+</div>
+
+<div markdown style="display: flex; flex: 1;padding-left:20px; flex-direction: column">
+
+
 ![source : Didier-SVT-Cycle 4](image-3.png)
 
+</div>
 
 
+</div>
 
+</div>
+
+
+<div markdown style="break-inside: avoid;">
+    
 **Document 4 Les effets de l’entrainement sur les capacités musculaires.**
 
 Avec ou sans entraînement, le cœur est un muscle « infatigable » : il fonctionne en permanence et chaque contraction est suivie par un relâchement permettant sa récupération (et son remplissage).
 Les muscles squelettiques (biceps par exemple) permettent les mouvements. Ils se fatiguent.
 Mais si tu t’entraînes régulièrement à faire un même exercice physique, tu constateras que cet exercice devient de plus en plus facile. Avec l’entraînement, les muscles gagnent en force (et en masse), ainsi qu’en endurance.
 
+</div>
+<div markdown style="break-inside: avoid;">
+    
 **Document 5 Les effets de deux semaines de surentrainement chez des cyclistes.**
 
 | Paramètre mesuré | Entrainement normal | Après 2 semaines de surentrainement |
@@ -72,6 +104,9 @@ Mais si tu t’entraînes régulièrement à faire un même exercice physique, t
 L’entrainement au-delà des limites de l’organisme, le surentrainement, est très surveillé par les entraineurs. Il cause de la fatigue et une baisse de performance, un risque de blessure plus élevé, et des signes psychologiques comme une irritabilité.
 
 
+
+</div>
+<div  markdown style="break-inside: avoid;">
 
 
 **Document 6 Le dopage avec l’EPO**
@@ -89,6 +124,8 @@ L’utilisation de produits dopants est interdite et peut entrainer une suspensi
 Les globules rouges permettent de transporter le dioxygène dans le sang, plus il y a de dioxygène, plus on peut prendre de dioxygène.
 
 
+
+</div>
 
 ??? note-prof  Correction Améliorer ses performances
 

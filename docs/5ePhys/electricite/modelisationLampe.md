@@ -72,7 +72,7 @@ Utiliser une règle et un crayon à papier
 Ne pas représenter de dipôle dans les angles du rectangle
 
 
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 **Document 6 Symboles normalisés des dipôles.**
 

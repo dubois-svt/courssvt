@@ -19,7 +19,7 @@
     - Lier les différents éléments de réponse. (1 point)
 
 
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 <div markdown style="display:flex; flex-direction:row;">
 
@@ -44,7 +44,7 @@ Le climat chaud ou intertropical correspond à des températures moyennes annuel
 
 </div>
 
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 
 **Document 2 : Modélisation de la répartition de l'énergie solaire sur Terre**
@@ -66,7 +66,7 @@ Matériel :
    **Répéter les opérations 3 à 6 pour la zone 2 (voir doc. 1).**
 
 </div>
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 
 **Document 3 : du modèle à la réalité (à compléter)**
@@ -98,7 +98,7 @@ Matériel :
 </table>
 
 </div>
-<div markdown style="page-break-after: always;">
+<div markdown style="break-inside: avoid;">
 
 **Document 4 : tableau des observations (à compléter)**
 
