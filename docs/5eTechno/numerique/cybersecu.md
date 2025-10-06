@@ -42,10 +42,10 @@ Pour éviter de se retrouver avec des logiciels comme ceux-ci, il est important 
 Pour être téléchargé, les malwares sont souvent déguisés en éléments attractifs (films, photo, document texte, jeux vidéos ou logiciel connu).
 
 Faire une sauvegarde de ses données est important, sinon en cas de perte, vol ou destruction de son appareil, on perdrait les données contenues sur celui-ci.
-On parle souvent de sauvergade 3 2 1, avec 3 copies en tout :
+On parle souvent de sauvegarde 3 2 1, avec 3 copies en tout :
 - les données de l’appareil
-- une sauvergade sur un disque externe (disque dur, clé USB, DVD) 
-- une sauvegarde présente à un autre endroit (pour éviter le vol ou la destruction de la sauvergade en même temps que celui de l’appareil.)
+- une sauvegarde sur un disque externe (disque dur, clé USB, DVD) 
+- une sauvegarde présente à un autre endroit (pour éviter le vol ou la destruction de la sauvegarde en même temps que celui de l’appareil.)
 
 
 
