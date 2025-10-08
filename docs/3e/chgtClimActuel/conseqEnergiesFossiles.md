@@ -6,9 +6,17 @@
 
 !!! warning "Consignes"
 
-    A partir de l’exploitation des différents documents, présenter, sous forme d’un audio de 2 minutes maximum, les conséquences de l’exploitation des énergies fossiles. 
+    A partir de l’exploitation des différents documents, présenter, sous forme d’un audio de 2 à 3 minutes maximum, les conséquences de l’exploitation des énergies fossiles. 
     
 ??? bug "Critères de réussite"
+
+    - présentation énergies fossiles
+    - dire conséquences de leur exploitation sur les stocks
+    - dire conséquences de l'exploitation sur l'atmosphère
+    - expliquer conséquences des changements atmosphériques sur le climat
+    - expliquer conséquences des changements climatiques sur les niveaux océans
+    - dire conséquences des changements climatiques sur les catastrophes naturelles géophysqiues et sur les autres. 
+    - dire conséquences de tous ces changements sur les populations humaines
 
     <table>
     <thead><tr><th colspan = 4>
@@ -133,7 +141,7 @@
 ![Schéma de la formation du pétrole](Pictures/schemaFormationPetrole.png){:style="width:400px; flex-shrink: 0;  " }
 
 Les énergies fossiles sont les énergies produites à partir de la combustion de matière issue de la transformation de matière organique. 
-Le charbon, de pétrole ou de gaz sont des ressources énergétiques qui se forment à partir de la transformation d’organismes morts (planctons ou végétaux). Ces ressources mettent des millions d’années à se former, elles sont actuellement exploitées plus rapidement qu’elles ne se forment, elles ne sont donc pas renouvelables. Certaines estimations prévoient un épuisement du pétrole en 2065.
+Le charbon, de pétrole ou de gaz sont des ressources énergétiques qui se forment à partir de la transformation d’organismes morts (planctons ou végétaux). Ces ressources mettent des millions d’années à se former, elles sont actuellement exploitées plus rapidement qu’elles ne se forment, elles ne sont donc pas renouvelables.
 
 </div>
 
@@ -175,7 +183,7 @@ d’électricité</th>
 
 ![Graphique de l'esmtimation de l'élévation du niveau de la mer](Pictures/graphElevationNiveauMer.png){:style="width:500px; flex-shrink: 0;  " }
 
-À cause du réchauffement climatique, les glaciers continentaux fondent et surtout l’eau liquide se dilate (elle prend plus de place), cela entraîne une élévation du niveau de la mer. Entre 1900 et aujourd’hui, le niveau des océans a augmenté de 17 cm.
+À cause du réchauffement climatique, les glaciers continentaux fondent et surtout l’eau liquide se dilate (elle prend plus de place), cela entraîne un changement du niveau de la mer. Entre 1900 et aujourd’hui, le niveau des océans a augmenté de 17 cm.
 La courbe basse est basée sur le scénario de réchauffement climatique le plus optimiste et celle haute est basée sur le scénario de réchauffement climatique le plus pessimiste.
 
 </div>
