@@ -55,7 +55,8 @@
 
 ??? abstract "Bilan"
 
-    === "De quoi parler dans le bilan ? Quels mots clés ?"
+    <a markdown id="bilan1">
+
 
     === "Bilan à trous"
         Au cours du temps, les activités humaines ont enrichi l’atmosphère en ................ (ex : ....................). Ceci a entraîné une amplification de l’effet de serre, et donc une .............. plus rapide de la température moyenne à la surface de la Terre.
@@ -72,6 +73,9 @@
 
         D’après les prévisions des climatologues, le réchauffement climatique devrait se poursuivre et la température devrait augmenter de 0,5 °C à 4 °C.
 
+
+    </a>
+    
 ![](Pictures/graphTempGeol.png)
 
 
@@ -91,7 +95,8 @@
 
 ??? abstract "Bilan"
 
-    === "De quoi parler dans le bilan ? Quels mots clés ?"
+    <a markdown id="bilan2">
+
 
     === "Bilan à trous"
 
@@ -107,6 +112,7 @@
         La biodiversité (=diversité des êtres vivants) au sein des
         écosystèmes se modifie actuellement sous l’effet des activités humaines, comme le réchauffement climatique.
 
+    </a>
 
 
 ## Séance 3 : Les conséquences de l’exploitation des énergies fossiles.
@@ -120,11 +126,15 @@
 
 ??? abstract "Bilan"
 
+    <a markdown id="bilan3">
+
+
     Les énergies fossiles sont des énergies dont la source a été formée par l’accumulation d’anciens êtres vivants. Elles ne sont pas renouvelables à l’échelle humaine. (exemple : charbon, gaz, pétrole)
 
     L’exploitation de ces énergies a un impact important sur l’environnement et les populations humaines
 
 
+    </a>
 
 ??? note-prof Bilan
     Une énergie fossile est une énergie dont la source a été formée par l’accumulation d’anciens êtres vivants. Ce sont le pétrole, le gaz et le charbon. Cette transformation se fait sur des centaines de millions d’années donc elles ne se forment pas sur une échelle de temps humaine. Les réserves actuelles ne sont pas infinies et celles qui sont accessibles pourraient s’épuiser.
