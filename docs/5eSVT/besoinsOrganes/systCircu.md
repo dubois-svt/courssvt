@@ -93,7 +93,7 @@ Un appareil circulatoire clos est composé d'un cœur, d'artères, de capillair
 <div markdown style="display:flex; flex-direction: row;">
 <div markdown style="display:flex; flex: 2 1 0 ;flex-direction: column;">
 
-Le cœur est une pompe qui expulse le sang des oreillettes vers les ventricules, puis des ventricules vers les artères. En se relâchant, il se remplit de sang provenant des veines. Le sang se contracte environ 70 fois par minute au repos, en une journée, il propulse près de 8 000 litres de sang en se contractant plus de 100 000 fois.
+Le cœur est une pompe qui expulse le sang des oreillettes vers les ventricules, puis des ventricules vers les artères. En se relâchant, il se remplit de sang provenant des veines. Le coeur se contracte environ 70 fois par minute au repos, en une journée, il propulse près de 8 000 litres de sang en se contractant plus de 100 000 fois.
 
 </div>
 
