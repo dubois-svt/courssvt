@@ -18,40 +18,40 @@
 <table style="width:800px">
 <thead>
 <tr>
-<th style="width:20%">Fonctions</th>
+<th style="width:20%"></th>
 <th style="width:40%">Humain</th>
 <th style="width:40%">crevettes</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>liquide</td>
+<td>Nom du liquide  circulant dans le corps</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>transport du liquide du coeur aux organes</td>
+<td>Organe servant au transport du liquide du coeur aux organes</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>transport du liquide des organes aux coeur</td>
+<td>Organe servant au transport du liquide des organes aux coeur</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>mise en mouvement du liquide</td>
+<td>Phénomène permettant la mise en mouvement du liquide</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>échanges entre le liquide et les organes</td>
+<td>Organe servant aux échanges entre le liquide et les organes</td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>système circulatoire (ouvert ou fermé)</td>
+<td>Type de système circulatoire (ouvert ou fermé)</td>
 <td></td>
 <td></td>
 </tr>
