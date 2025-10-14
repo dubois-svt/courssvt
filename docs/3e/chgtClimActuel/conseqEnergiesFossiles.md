@@ -6,7 +6,7 @@
 
 !!! warning "Consignes"
 
-    A partir de l’exploitation des différents documents, présenter, sous forme d’un audio de 2 à 3 minutes maximum, les conséquences de l’exploitation des énergies fossiles. 
+    En utilisant les différents documents, présenter, sous forme d’un audio de 2 à 3 minutes maximum, les conséquences de l’exploitation des énergies fossiles. 
     
 ??? bug "Critères de réussite"
 
@@ -14,34 +14,11 @@
     - dire conséquences de leur exploitation sur les stocks
     - dire conséquences de l'exploitation sur l'atmosphère
     - expliquer conséquences des changements atmosphériques sur le climat
-    - expliquer conséquences des changements climatiques sur les niveaux océans
-    - dire conséquences des changements climatiques sur les catastrophes naturelles géophysqiues et sur les autres. 
+    - expliquer conséquences des changements climatiques sur les niveaux des océans
+    - dire conséquences des changements climatiques sur les catastrophes naturelles géophysiques et sur les autres. 
     - dire conséquences de tous ces changements sur les populations humaines
 
-    <table>
-    <thead><tr><th colspan = 4>
-    Qualité de l’oral 0.5point
-    </th></tr></thead>
-    <tbody>
-    <tr>
-    <td>Très satisfaisant</td>
-    <td>Satisfaisant</td>
-    <td>Fragile</td>
-    <td>Insuffisant</td>
-    </tr>
-    <tr>
-    <td><p>L’élève est pleinement engagé dans sa parole.</p>
-    <p>La voix est assez forte et claire et la parole n’est ni trop lente ni    trop rapide.</p></td>
-    <td><p>L’élève parvient à susciter l’intérêt.</p>
-    <p>La prise de parole est affirmée, cependant quelques variations dans
-    l’utilisation de la voix.</p></td>
-    <td><p>L’élève a des difficultés à capter l’attention, la prise de
-    parole est monocorde.</p>
-    <p>La voix n’est plus très audible au fil de l’oral.</p></td>
-    <td><p>L’élève n’arrive pas à capter l’attention.</p>
-    <p>La voix n’est pas audible sur l’ensemble de l’oral.</p></td>
-    </tr>
-    </tbody>
+
     </table>
 
 
@@ -49,7 +26,7 @@
     <thead>
     <tr>
     <th colspan = 4>
-    Qualité de la prise de parole en continu 1 point
+    Qualité de l'oral 1.5 point
     </th>
     </tr>
     </thead>
@@ -62,18 +39,19 @@
     </tr>
     <tr >
     <td><p>Utilisation d’un vocabulaire riche et précis.</p>
-    <p>Discours fluide, efficace, tirant pleinement profit du temps.</p>
+    <p>Discours fluide, clair, tirant pleinement profit du temps.</p>
     <p>Le temps est respecté.</p></td>
     <td><p>Le lexique est adapté.</p>
     <p>Discours articulé et pertinent, énoncés bien construits.</p>
     <p>Le temps est respecté.</p></td>
-    <td><p>Discours assez clair mais vocabulaire limité, approximatif et
-    énoncés schématiques.</p>
+    <td><p>Discours assez clair mais vocabulaire limité, approximatif et énoncés schématiques.
+    </p>
+    <p>ton monocorde et/ou voix peu audible</p>
     <p>Et/ou, le temps n’est pas totalement respecté.</p></td>
     <td><p>Le vocabulaire est insuffisant.</p>
-    <p>Énoncés courts, ponctués de pauses et de faux démarrages ou énoncés
-    longs à la syntaxe mal maîtrisée.</p>
-    <p>Et/ou le temps n’est pas maîtrisé.</p></td>
+    <p>Énoncés courts, ponctués de pauses et de faux démarrages ou énoncés longs à la syntaxe mal maîtrisée.</p>
+    <p>Et/ou le temps n’est pas maîtrisé.</p>
+    <p>Voix inaudible</p></td>
     </tr>
     </tbody>
     </table>
@@ -141,7 +119,7 @@
 ![Schéma de la formation du pétrole](Pictures/schemaFormationPetrole.png){:style="width:400px; flex-shrink: 0;  " }
 
 Les énergies fossiles sont les énergies produites à partir de la combustion de matière issue de la transformation de matière organique. 
-Le charbon, de pétrole ou de gaz sont des ressources énergétiques qui se forment à partir de la transformation d’organismes morts (planctons ou végétaux). Ces ressources mettent des millions d’années à se former, elles sont actuellement exploitées plus rapidement qu’elles ne se forment, elles ne sont donc pas renouvelables.
+Le charbon, de pétrole ou de gaz sont des ressources énergétiques qui se forment à partir de la transformation d’organismes morts (planctons ou végétaux). Ces ressources mettent des millions d’années à se former, elles sont actuellement exploitées plus rapidement qu’elles ne se forment.
 
 </div>
 
@@ -181,10 +159,12 @@ d’électricité</th>
 
 <div markdown style="display:flex; flex-direction:row;">
 
-![Graphique de l'esmtimation de l'élévation du niveau de la mer](Pictures/graphElevationNiveauMer.png){:style="width:500px; flex-shrink: 0;  " }
+![Graphique de l'estimation de l'élévation du niveau de la mer (source : BRGM)](Pictures/graphElevationNiveauMer.png){:style="width:500px; flex-shrink: 0;  " }
 
-À cause du réchauffement climatique, les glaciers continentaux fondent et surtout l’eau liquide se dilate (elle prend plus de place), cela entraîne un changement du niveau de la mer. Entre 1900 et aujourd’hui, le niveau des océans a augmenté de 17 cm.
-La courbe basse est basée sur le scénario de réchauffement climatique le plus optimiste et celle haute est basée sur le scénario de réchauffement climatique le plus pessimiste.
+
+
+À cause du réchauffement climatique, les glaciers continentaux fondent et surtout l’eau liquide se dilate (elle prend plus de place), cela entraîne un changement du niveau de la mer.
+La courbe bleue est basée sur le scénario de réchauffement climatique le plus optimiste et la rouge est basée sur le scénario de réchauffement climatique le plus pessimiste.
 
 </div>
 
