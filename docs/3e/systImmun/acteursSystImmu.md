@@ -23,50 +23,23 @@
 
 
 
-**Document 1 Photo d’un frottis sanguin (MO x400)**
 
-```mermaid
----
-config:
-  flowchart:
-    theme: forest
----
-  flowchart LR
-    A[Cellules du sang] --> B[Sans noyau <img class='mermaid" src='../Pictures/hematie.png' width='40px'/>]
-    A --> C[Avec noyau]
-    B --> h["Hématies (Globules rouges)"]
-    C --> D[Noyau arrondi occupant presque toute la cellule <img src='../Pictures/phagocyte.png' width='40px'/>]
-    C --> E[Noyau à plusieurs lobes <img src='../Pictures/lymphocyte.png' width='40px'/>]
-    D --> F[Phagocytes]
-    E --> G[Lymphocytes]
-    subgraph ide1 ["Leucocytes (Globules rouges)"]
-    F
-    G
-    end
-```
 
+**Document 1 Le sang**
 
 Le sang est constitué d’un liquide appelé plasma et de plusieurs types de cellules (Hématies et leucocytes). Pour différencier les cellules du sang, il faut observer leurs noyaux. Pour cela, on peut mettre un colorant qui colore les noyaux en violet.
 
-![](image-2.png)
+**Document 2 Clé de détermination des cellules sanguines**
 
-<div markdown style="display:flex; flex-direction: row;">
-<div markdown style="flex: 1 1 0; flex-direction: row;">
+![](image-3.png)
 
-![](Pictures/frottisSanguinMalade.jpg)
-</div>
-<div markdown style="flex: 1 1 0;  flex-direction: column;">
-Le colorant violet colore le noyau.
 
-1 = **hématie** (globule rouge)
+**Document 3 ___________________________________**
 
-2-3 = **phagocyte** (leucocyte = globule blanc)
+![](image-4.png)
 
-4 = **lymphocyte** (leucocyte = globule blanc)
-</div>
-</div>
 
-**Document 2 Analyse sanguine.**
+**Document 4 Analyse sanguine.**
 
 On a fait des prises de sang à des personnes saines et des personnes malades pour doser leurs cellules sanguines.
 <table>
@@ -85,8 +58,8 @@ On a fait des prises de sang à des personnes saines et des personnes malades po
   </tr>
   <tr>
     <td colspan="2">Leucocytes<br> <br>(cellules/mm3)<br> <br><br> <br></td>
-    <td>4 à 13<br> <br> <br> <br><br> <br></td>
-    <td>18<br> <br><br> <br><br> </td>
+    <td>4000 à 13000<br> <br> <br> <br><br> <br></td>
+    <td>18000<br> <br><br> <br><br> </td>
   </tr>
   <tr>
     <td rowspan="2">Dont</td>
