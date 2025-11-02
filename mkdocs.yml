@@ -316,12 +316,6 @@ nav :
             - Exercice : 4e/mouvAirEaux/exos.md
 
             - Fiche de révision : 4e/mouvAirEaux/FicheDynAirEau.md
-      - Séquence Une ressource naturelle, l'eau :
-            - Introduction : 4e/ressourceNaturelleEau/IntroEau.md
-            - Reservoirs et utilisation de l'eau : 4e/ressourceNaturelleEau/reservoiretutilisationEau.md
-            - L'eau virtuelle : 4e/ressourceNaturelleEau/eauVirtu.md
-            - Eau ressource précieuse : 4e/ressourceNaturelleEau/eauRessourcePrecieuse.md
-            - Fiche de révision : 4e/ressourceNaturelleEau/Fiche.md
 
       - Séquence Le monde microbien : 
             - Introduction : 4e/mondeMicrobien/IntroMicrobes.md
@@ -361,7 +355,7 @@ nav :
             - Mutations : 4e/enquete/mutations.md
             - Fiche de révision : 4e/enquete/Fiche.md
 
-      - Séquence ancienne versionn L'information génétique :
+      - Séquence ancienne version L'information génétique :
             - Introduction : 4e/infoGen/IntroInfoGen.md
             - Origine des caractères : 4e/infoGen/origineCaract.md
             - Localisation de l'information génétique : 4e/infoGen/localInfoGen.md
@@ -381,6 +375,12 @@ nav :
             - La formation des cellules reproductrices : 4e/transmissionAlleles/meiose.md
             - Fécodnation et diversité génétique : 4e/transmissionAlleles/fecDiversite.md
             - Fiche de révision : 4e/transmissionAlleles/Fiche.md
+      - Séquence Une ressource naturelle, l'eau :
+            - Introduction : 4e/ressourceNaturelleEau/IntroEau.md
+            - Reservoirs et utilisation de l'eau : 4e/ressourceNaturelleEau/reservoiretutilisationEau.md
+            - L'eau virtuelle : 4e/ressourceNaturelleEau/eauVirtu.md
+            - Eau ressource précieuse : 4e/ressourceNaturelleEau/eauRessourcePrecieuse.md
+            - Fiche de révision : 4e/ressourceNaturelleEau/Fiche.md
 
       #- Séquence Exploitations des sols pour produire de la nourriture :
       #- Séquence Reproduction des êtres vivants :

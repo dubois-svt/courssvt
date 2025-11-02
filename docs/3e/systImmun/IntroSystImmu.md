@@ -5,12 +5,7 @@
 
 ![](Pictures/articleBacteriesHumain.png)
 
-Le téléphone portable, plus sale que la cuvette des w.c.
-
-Le combiné contiendrait cinq cents fois plus de bactéries qu’un siège de toilette. Et vous, lavez-vous votre téléphone portable ?
-
-Par Laura Thouny, L’express, publié le 16/07/2010
-
+![Source Biorender](image.png)
 
 !!! question "Problématique"
 
@@ -24,7 +19,8 @@ Par Laura Thouny, L’express, publié le 16/07/2010
 
     Quels sont les acteurs de la défense de l’organisme ?
 
-??? question "Les acteurs du système immunitaire doivent pouvoir voyager dans tout le corps"
+??? question "Où se trouvent nos défenses ?"
+
     Les acteurs du système immunitaire doivent pouvoir voyager dans tout le corps, ils doivent donc être dans le sang.
 
 [Activité Acteurs de la défense](../acteursSystImmu)
@@ -32,7 +28,6 @@ Par Laura Thouny, L’express, publié le 16/07/2010
 
 
 ??? abstract "Bilan"
-    === "De quoi parler dans le bilan ? Quels mots clés ?"
 
     === "Bilan à trous"
         Les ......................... ou globules blancs, sont des cellules sanguines intervenant dans la réponse de l’organisme face aux infections, la réponse immunitaire. Ils font partie du système immunitaire.
