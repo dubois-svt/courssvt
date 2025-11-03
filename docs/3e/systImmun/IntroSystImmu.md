@@ -64,6 +64,7 @@
     Comment notre corps réagit-il à une contammination ?
 
 ??? abstract "Notes supplémentaires"
+
     ![](Pictures/inflammation.png){: style="width:300px;"}
 
 [Activité La réaction inflammatoire](../inflammation)
@@ -73,14 +74,14 @@
 
 ??? abstract "Notes supplémentaires"
 
-![](Pictures/multipliMicroorga.png)
-
-
-Une fois entrés dans l’organisme, les micro-organismes vont donc se multiplier, c’est l’infection.
-
-Les bactéries vont se multiplier. Elles vont ensuite envahir notre corps et/ou produire des toxines qui exerceront un effet pathogène.
-
-Les virus ont besoin de nos cellules pour se multiplier. Ils vont entrer à l’intérieur de la cellule, se multiplier et la cellule sera détruite à la sortie des nouveaux virus. Plus les virus se multiplient et plus, il y aura de cellules détruites.
+    ![](Pictures/multipliMicroorga.png)
+    
+    
+    Une fois entrés dans l’organisme, les micro-organismes vont donc se multiplier, c’est l’infection.
+    
+    Les bactéries vont se multiplier. Elles vont ensuite envahir notre corps et/ou produire des toxines qui exerceront un effet pathogène.
+    
+    Les virus ont besoin de nos cellules pour se multiplier. Ils vont entrer à l’intérieur de la cellule, se multiplier et la cellule sera détruite à la sortie des nouveaux virus. Plus les virus se multiplient et plus, il y aura de cellules détruites.
 
 
 
