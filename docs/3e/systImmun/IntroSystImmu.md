@@ -90,7 +90,6 @@
 
 
     === "Bilan à trous"
-        Après la contamination, les microbes vont se multiplier dans l'organisme, c'est l'..........................
 
         Après une contamination, certains leucocytes (=globules blancs), cellules sanguines du système immunitaire vont détecter les éléments extérieurs (virus ou bactéries) et une ........................ va se produire très rapidement (gonflement, rougeur, chaleur et douleur).
 
@@ -100,10 +99,11 @@
 
         C’est une réaction rapide et non spécifique (réaction contre n’importe quel élément étranger).
 
+        Après la contamination, les microbes vont se multiplier dans l'organisme, c'est l'..........................
+
+
     === "Bilan"
     
-        Après la contamination, les microbes vont se multiplier dans l'organisme, c'est l'infection.
-
         Après une contamination, certains leucocytes (=globules blancs), cellules sanguines du système immunitaire vont détecter les éléments extérieurs (virus ou bactéries) et une réaction inflammatoire va se produire très rapidement (gonflement, rougeur, chaleur et douleur).
 
         Les phagocytes qui sont leucocytes vont sortir des vaisseaux sanguins.
@@ -111,6 +111,9 @@
         Ces phagocytes vont absorber et digérer les éléments étrangers pour les détruire. C’est la phagocytose.
 
         C’est une réaction rapide et non spécifique (réaction contre n’importe quel élément étranger).
+
+        Après la contamination, les microbes vont se multiplier dans l'organisme, c'est l'infection.
+
 
 
     </a>

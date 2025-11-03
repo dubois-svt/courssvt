@@ -32,7 +32,7 @@ En langage simple, le système informatique est l’ensemble des équipements qu
 
     Les données sont simplement des informations.
 
-    De différents types, elles sont stockées dans des fichiers  que l'on peut identifier grâce à leur icône, leur nom, leu extension qui précise leur format
+    Il existe des données différents types, elles sont stockées dans des fichiers  que l'on peut identifier grâce à leur icône, leur nom et leur extension qui précise leur format
 
     Il existe des fichiers de plusieurs tailles (appelées aussi "poids"), mesurées en kilo-octets (ko), méga-octets (Mo), giga-octets (Go) ou tera-octets (To)
 
@@ -71,6 +71,8 @@ En langage simple, le système informatique est l’ensemble des équipements qu
     Les cyberviolences sont des actes malveillants, intentionnels, commis dans le monde numérique, par un ou plusieurs personnelles dans le but de nuire à un individu comme l'usurpation d'identité, l'envoi de messages insultants et menaçants à une personne ou un groupe de personnes, le partage indélicat de photos ou des insultes. Ces actes sont punissables par la loi (peine de prison et amende)
 
     Il faut donc bien réfléchir à ce que l'on publie sur les réseaux. Si on est victime ou témoin, la première chose à faire et de prévenir un adulte de confiance.
+
+    En cas de cyberharcélément, vous devez en parler si vous n'osez pas en parler autoiur de vous, un service existe que vous pouvez contacter le 3018.
 
     </a>
 
