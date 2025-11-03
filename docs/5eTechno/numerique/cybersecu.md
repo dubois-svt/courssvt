@@ -22,7 +22,7 @@
 
 **Document 1 Temps de résistance des mots de passe**
 
-![](https://github.com/user-attachments/assets/7e4cb6c6-fcf5-4d41-90e9-b105fde986f2)
+![](https://github.com/user-attachments/assets/7e4cb6c6-fcf5-4d41-90e9-b105fde986f2){: style="transform: scale(0.5);"}
 
 
 </div>
@@ -30,7 +30,7 @@
 **Document 2 Fuite de données et risques pour toutes les données**
 
 En France, la Commission nationale de l’informatique et des libertés (Cnil) a enregistré l’an dernier 5.629 notifications de violations de données, soit 20% de plus qu’en 2023, a-t-elle détaillé dans son rapport annuel.
-Certains sites, comme https://haveibeenpwned.com/, permettent de savoir si notre adresse mail fait partie des fuites de données et quelles sont les données qui ont été dérobées. 
+Certains sites, comme [https://haveibeenpwned.com/](https://haveibeenpwned.com/), permettent de savoir si notre adresse mail fait partie des fuites de données et quelles sont les données qui ont été dérobées. 
 Lorsqu'une fuite a lieu de nombreux hackers réutilisent les mails et mots de passe trouvés sur d'autres sites.
 
 **Document 3 Virus hacking**
