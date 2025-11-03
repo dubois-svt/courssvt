@@ -773,7 +773,7 @@ Pour les 3e, la méthode du produit en croix :
 |  distance | règle   | mètre (m)   |
 |  angle | rapporteur   | degré (°)   |
 |  température | thermomètre   | degré Celcius (°C)   |
-|  masse | balance   | gramme (g)   |
+|  masse | balance   | kilogramme (kg)   |
 |  intensité du courant | ampèremètre   | ampère (A)   |
 |  tension électrique | voltmètre   | volt (V)   |
 |  résistance | ohmmètre   | ohm(Ω)   |
