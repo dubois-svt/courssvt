@@ -30,7 +30,7 @@ Le sang est constitué d’un liquide appelé plasma et de plusieurs types de ce
 
 **Document 2 Clé de détermination des cellules sanguines**
 
-![](image-3.png)
+![](Pictures/cleDeterSang.png)
 
 
 **Document 3 ___________________________________**
