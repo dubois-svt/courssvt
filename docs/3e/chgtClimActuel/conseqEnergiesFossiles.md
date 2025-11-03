@@ -113,6 +113,9 @@
 
 
 
+<div markdown style="break-inside: avoid;">
+
+
 **Document 1 : Les énergies fossiles.**
 
 <div markdown style="display:flex; flex-direction:row;">
@@ -123,6 +126,11 @@ Les énergies fossiles sont les énergies produites à partir de la combustion d
 Le charbon, de pétrole ou de gaz sont des ressources énergétiques qui se forment à partir de la transformation d’organismes morts (planctons ou végétaux). Ces ressources mettent des millions d’années à se former, elles sont actuellement exploitées plus rapidement qu’elles ne se forment.
 
 </div>
+
+</div>
+
+
+<div markdown style="break-inside: avoid;">
 
 **Document 2 : Utilisations des ressources énergétiques fossiles.**
 
@@ -155,6 +163,12 @@ d’électricité</th>
 </tbody>
 </table>
 
+</div>
+
+
+<div markdown style="break-inside: avoid;">
+
+
 **Document 3 : Élévation du niveau des mers.**
 
 
@@ -169,6 +183,12 @@ La courbe bleue est basée sur le scénario de réchauffement climatique le plus
 
 </div>
 
+</div>
+
+
+<div markdown style="break-inside: avoid;">
+
+
 **Document 4 : Le nombre de catastrophes naturelles**
 
 
@@ -176,6 +196,11 @@ La courbe bleue est basée sur le scénario de réchauffement climatique le plus
 ![](Pictures/graphCatastrophesNaturelles.png)
 
 Seuls les événements géophysiques n’ont pas de lien avec le réchauffement climatique, les autres peuvent y être liés.
+
+</div>
+
+
+<div markdown style="break-inside: avoid;">
 
 
 **Document 5 : Les réfugiés climatiques**
@@ -186,5 +211,5 @@ Seuls les événements géophysiques n’ont pas de lien avec le réchauffement 
 
 Entre 147 et 216 millions de personnes vivent actuellement dans des zones sous le niveau de la mer actuelle (des digues empêchent l’eau de rentrer dans les terres, mais on ne peut pas toutes les agrandir) ou dans des zones déjà régulièrement inondées. En comparaison, on a compté 27 millions de réfugiés politiques en 2016.
 
-
+</div>
 
