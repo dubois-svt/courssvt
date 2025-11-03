@@ -35,7 +35,7 @@
 
 Quelques heures après une blessure, une réaction inflammatoire apparaît, accompagnée ou non de la formation de pus au niveau de la zone infectée.
 
-Cette réaction s’accompagne d’un gonflement, d’une rougeur et d’une augmentation de la température de la zone. Il peut aussi y avoir une douleur. La couleur de la peau dépend de la quantité de sang qui passent dans les vaisseaux sanguins.
+Cette réaction s’accompagne d’un gonflement, d’une rougeur et d’une augmentation de la température de la zone. Il peut aussi y avoir une douleur. La couleur de la peau dépend en partie de la quantité de sang qui passent dans les vaisseaux sanguins.
 
 </div></div>
 
