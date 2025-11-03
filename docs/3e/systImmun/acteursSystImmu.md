@@ -31,7 +31,7 @@ Le sang est constitué d’un liquide appelé plasma et de plusieurs types de ce
 
 **Document 3 ___________________________________**
 
-![](image-4.png)
+<center markdown>![](Pictures/dessinFrottis.png)</center>
 
 
 **Document 4 Analyse sanguine.**
