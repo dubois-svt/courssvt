@@ -450,6 +450,11 @@ Calculer le grossissement : Pour savoir combien de fois on a grossi l’échanti
 
 ![Schéma montrant les étapes  de réalisation d’une préparation microscopique](Pictures/image-3.png)
 
+</div>
+<div markdown style="break-inside: avoid;">
+
+
+
 ## Schématisation électrique
 
 1. Représenter le générateur.
@@ -602,16 +607,32 @@ L'ensemble doit avoir l'apparence d'un rectangle.
 </table>
 
 </div>
-<div markdown style="page-break-after: auto;">
+
+</div>
+<div markdown style="break-inside: avoid;">
+
+
 ![Echelle temporelle](Pictures/frise-de-lhistoire-du-vivant-et-de-lunivers-frise.png){: style="width:800px; flex-shrink: 0;  " }
+
 </div>
-<div markdown style="page-break-after: auto;">
+<div markdown style="break-inside: avoid;">
+
+
+
 [Illustration des échelles de tailles](https://htwins.net/scale2/) @Cary Huang et Matthew Martori
+
 </div>
-<div markdown style="page-break-after: auto;">
+<div markdown style="break-inside: avoid;">
+
+
+
 ![Echelle de distance](Pictures/echellespatialle.png){: style="width:800px; flex-shrink: 0;  " }
+
 </div>
-<div markdown style="page-break-after: auto;">
+<div markdown style="break-inside: avoid;">
+
+
+
 <style type="text/css">
     .tg  {border-collapse:collapse;border-spacing:0;}
     .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -715,6 +736,7 @@ L'ensemble doit avoir l'apparence d'un rectangle.
 
 </div>
 <div markdown style="break-inside: avoid;">
+
 
 ## Construire des groupes emboîtés.
 
