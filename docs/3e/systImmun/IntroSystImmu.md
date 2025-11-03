@@ -3,8 +3,6 @@
 !!! note-prof
     si besoin d'infos
 
-![](Pictures/articleBacteriesHumain.png)
-
 ![Source Biorender](image.png)
 
 !!! question "Problématique"
@@ -28,6 +26,8 @@
 
 
 ??? abstract "Bilan"
+
+    <a markdown id="bilan1">
 
     === "Bilan à trous"
         Les ......................... ou globules blancs, sont des cellules sanguines intervenant dans la réponse de l’organisme face aux infections, la réponse immunitaire. Ils font partie du système immunitaire.
@@ -53,7 +53,8 @@
 
         La contamination est l’entrée de micro-organisme dans le corps.
 
-
+    </a>
+    
 ## Séance 2 : Réaction à l'infection
 
 !!! question "Problématique"
@@ -75,7 +76,8 @@ Les virus ont besoin de nos cellules pour se multiplier. Ils vont entrer à l’
 
 
 ??? abstract "Bilan"
-    === "De quoi parler dans le bilan ? Quels mots clés ?"
+    <a markdown id="bilan2">
+
 
     === "Bilan à trous"
         Après la contamination, les microbes vont se multiplier dans l'organisme, c'est l'..........................
@@ -100,7 +102,8 @@ Les virus ont besoin de nos cellules pour se multiplier. Ils vont entrer à l’
         C’est une réaction rapide et non spécifique (réaction contre n’importe quel élément étranger).
 
 
-
+    </a>
+    
 ## Séance 3 : Réaction de notre corps à une infection prolongée.
 
 
@@ -113,7 +116,8 @@ Les virus ont besoin de nos cellules pour se multiplier. Ils vont entrer à l’
 
 
 ??? abstract "Bilan"
-    === "De quoi parler dans le bilan ? Quels mots clés ?"
+    <a markdown id="bilan3">
+
 
     === "Bilan à trous"
         
@@ -136,6 +140,9 @@ Les virus ont besoin de nos cellules pour se multiplier. Ils vont entrer à l’
         Les lymphocytes T tueurs reconnaissent et détruisent  spécifiquement les cellules infectées par les virus portant l’antigène reconnu.
 
         Ce sont des réactions immunitaires lentes et spécifiques.
+
+
+    </a>
 
 ??? abstract "Infos"
     ![](Pictures/lymphocyteT_2.jpg)
