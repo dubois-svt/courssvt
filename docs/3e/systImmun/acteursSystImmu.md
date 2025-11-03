@@ -8,9 +8,9 @@
 
 !!! warning "Consignes"
 
-        1. En utilisant les documents 1 et 4, proposer une hypothèse répondant au problème. Rédiger une réponse argumentée.
-        2. Faire une observation microscopique du frottis sanguin
-        3. Compléter le dessin du document 3 avec les informations des documents 1 et 2.
+    1. En utilisant les documents 1 et 4, proposer une hypothèse répondant au problème. Rédiger une réponse argumentée.
+    2. Faire une observation microscopique du frottis sanguin
+    3. Compléter le dessin du document 3 avec les informations des documents 1 et 2.
     
 ??? bug "Critères de réussite"
     - 
