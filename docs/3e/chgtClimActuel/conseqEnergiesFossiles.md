@@ -10,13 +10,13 @@
     
 ??? bug "Critères de réussite"
 
-    - présentation énergies fossiles
-    - dire conséquences de leur exploitation sur les stocks
-    - dire conséquences de l'exploitation sur l'atmosphère
-    - expliquer conséquences des changements atmosphériques sur le climat
-    - expliquer conséquences des changements climatiques sur les niveaux des océans
-    - dire conséquences des changements climatiques sur les catastrophes naturelles géophysiques et sur les autres. 
-    - dire conséquences de tous ces changements sur les populations humaines
+    - présentation des énergies fossiles
+    - indiquer les conséquences de leur exploitation sur les stocks
+    - indiquer les conséquences de l'exploitation sur l'atmosphère
+    - expliquer les conséquences des changements atmosphériques sur le climat
+    - expliquer les conséquences des changements climatiques sur les niveaux des océans
+    - indiquer les conséquences des changements climatiques sur les catastrophes naturelles géophysiques et sur les autres. 
+    - indiquer les conséquences de tous ces changements sur les populations humaines
 
 
     </table>
