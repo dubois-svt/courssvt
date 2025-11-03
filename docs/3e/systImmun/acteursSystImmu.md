@@ -13,7 +13,6 @@
 
     B.    
         2. Faire une observation microscopique du frottis sanguin
-   
         3. Compléter le dessin à des informations du document 1.
     
 ??? bug "Critères de réussite"
