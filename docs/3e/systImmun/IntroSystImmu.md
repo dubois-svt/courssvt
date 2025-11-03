@@ -54,12 +54,24 @@
         La contamination est l’entrée de micro-organisme dans le corps.
 
     </a>
+
+
     
-## Séance 2 : Réaction à l'infection
+## Séance 2 : Réaction à la contamination
 
 !!! question "Problématique"
 
-    Comment notre corps réagit-il face à une infection ?
+    Comment notre corps réagit-il à une contammination ?
+
+??? abstract "Notes supplémentaires"
+    ![](Pictures/inflammation.png){: style="width:300px;"}
+
+[Activité La réaction inflammatoire](../inflammation)
+
+
+
+
+??? abstract "Notes supplémentaires"
 
 ![](Pictures/multipliMicroorga.png)
 
@@ -69,9 +81,6 @@ Une fois entrés dans l’organisme, les micro-organismes vont donc se multiplie
 Les bactéries vont se multiplier. Elles vont ensuite envahir notre corps et/ou produire des toxines qui exerceront un effet pathogène.
 
 Les virus ont besoin de nos cellules pour se multiplier. Ils vont entrer à l’intérieur de la cellule, se multiplier et la cellule sera détruite à la sortie des nouveaux virus. Plus les virus se multiplient et plus, il y aura de cellules détruites.
-
-[Activité La réaction inflammatoire](../inflammation)
-
 
 
 
@@ -91,6 +100,7 @@ Les virus ont besoin de nos cellules pour se multiplier. Ils vont entrer à l’
         C’est une réaction rapide et non spécifique (réaction contre n’importe quel élément étranger).
 
     === "Bilan"
+    
         Après la contamination, les microbes vont se multiplier dans l'organisme, c'est l'infection.
 
         Après une contamination, certains leucocytes (=globules blancs), cellules sanguines du système immunitaire vont détecter les éléments extérieurs (virus ou bactéries) et une réaction inflammatoire va se produire très rapidement (gonflement, rougeur, chaleur et douleur).
