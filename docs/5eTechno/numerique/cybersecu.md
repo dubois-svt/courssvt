@@ -22,7 +22,7 @@
 
 **Document 1 Temps de résistance des mots de passe**
 
-![](https://github.com/user-attachments/assets/7e4cb6c6-fcf5-4d41-90e9-b105fde986f2){: style="transform: scale(0.5);"}
+![](https://github.com/user-attachments/assets/7e4cb6c6-fcf5-4d41-90e9-b105fde986f2){: style="width: 500px; height: 500px;"}
 
 
 </div>
