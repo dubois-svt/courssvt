@@ -2,7 +2,8 @@
 
 !!! note "Compétences"
 
-    trouver et utiliser des informations
+    - trouver et utiliser des informations
+    - s'exprimer à l'oral
 
 !!! warning "Consignes"
 
