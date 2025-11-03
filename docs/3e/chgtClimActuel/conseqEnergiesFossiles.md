@@ -26,7 +26,7 @@
     <thead>
     <tr>
     <th colspan = 4>
-    Qualité de l'oral 1.5 point
+    Qualité de l'oral 2 point
     </th>
     </tr>
     </thead>
@@ -89,7 +89,7 @@
     <thead>
         <thead>
         <tr>
-        <th colspan = 4> Qualité et construction du résumé 1,5 points
+        <th colspan = 4> Qualité et construction du résumé 1 point
         </th>
     </thead>
     <tbody>
