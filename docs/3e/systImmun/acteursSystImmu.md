@@ -9,11 +9,9 @@
 !!! warning "Consignes"
 
     A.
-        
         1. À partir des documents, proposer une hypothèse répondant au problème. Rédiger une réponse argumentée à partir des informations disponibles dans les documents.
 
     B.    
-        
         2. Faire une observation microscopique du frottis sanguin
    
         3. Compléter le dessin à des informations du document 1.
