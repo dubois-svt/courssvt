@@ -3,17 +3,16 @@
 !!! note-prof
     si besoin d'infos
 
-Dans des régions telles que le Japon, les bâtiments sont construits en respectant la réglementation parasismique ("para" = contre). 
-Le danger du séisme vient essentiellement des effondrements des bâtiments ne résistant pas aux mouvements du sol pendant le séisme. La construction de bâtiments parasismiques est donc le seul moyen vraiment efficace pour se protéger du risque sismique.
 
-<iframe title="séismes en direct" width="560" height="315" src="https://tube-sciences-technologies.apps.education.fr/videos/embed/ea2c76b5-3284-46ac-a7dd-244485871796" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
+
 
 !!! question "Problématique"
 
     À quoi sont dus les séismes ? 
     Comment s’en protéger ?
 
-    
+
+![](image.png)
 
 
 
@@ -55,7 +54,7 @@ Le danger du séisme vient essentiellement des effondrements des bâtiments ne r
     Comment se propagent les ondes sismiques ? 
 
 [Activité Propagation des ondes sismiques et intensité](../propagOndes)
-
+[Activité Propagation des ondes sismiques et intensité Eléa](https://mureaux.elea.ac-versailles.fr/course/view.php?id=1399)https://mureaux.elea.ac-versailles.fr/course/view.php?id=1399
 
 
 ??? abstract "Bilan"
@@ -88,8 +87,13 @@ Le danger du séisme vient essentiellement des effondrements des bâtiments ne r
     Pour réduire le risque, on peut utiliser des mesures de prévision, de prévention et de protection.
 
 
+## Séance 5 : Schéma Bilan de la séquence
 
-## Séance 5 : Exercices
+
+[Activité Schéma Bilan sur les séismes](../bilan)
+
+
+## Séance 6 : Exercices
 
 
 

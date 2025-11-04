@@ -7,8 +7,12 @@
 !!! warning "Consignes"
     
     1. En utilisant les documents, compléter le tableau du document 4 pour caractériser le risque sismique pour les quatre zones étudiées (Alaska ; Haïti ; Inde ; Japon).
-    2. Classer en 3 catégories (Prévision de l'aléa, mesures de protection et mesures de prévention) dans un tableau, les exemples de mesures proposés.
-        Exemples de mesures : Évacuation d’une ville / Étude de la fréquence de survenue des séismes / Éducation des populations / Sensibilisation des populations des zones à risques / Étude de la composition des fumées s’échappant d’un volcan / Bâtiments aux normes parasismiques
+    2. Classer en 3 catégories (Prévision de l'aléa, mesures de protection et mesures de prévention) dans un tableau, les exemples de mesures proposés :
+        - Évacuation d’une ville
+        - Étude de la fréquence de survenue des séismes
+        - Éducation des populations 
+        - Sensibilisation des populations des zones à risques 
+        - Bâtiments aux normes parasismiques
     3. A partir de la vidéo du document 5, expliquer pourquoi y a-t-il eu beaucoup de victimes lors du séisme de Kobe, au Japon. (Votre réponse doit comporter au minimum 3 facteurs pouvant expliquer ce tragique évènement)
 
     
