@@ -92,11 +92,11 @@ Sur le croquis ci-dessous, on voit qu’un séisme de forte magnitude (à gauche
 **Document 6 Des séismes puissants**
 
 
-|   |  Localisation |  Magnitude  (Mw)  | Intensité |  Couts des dégats   | nombre de morts    |  Nombre de blessé |
-|---|---|----|---|----|----|---|---|
+|   |  Localisation |  Magnitude  (Mw)  | Intensité |  Coûts des dégats  ($)  | nombre de morts    |  Nombre de blessé |
+|---|---|----|---|----|----|---|
 | Séisme d'haiti en 2010  | le séisme a eu lieu à quelques km de la capitale | 7,0  |  IX |  14 milliards  |280000 | 300000| 
 | Séisme de l'archipel Ogasawara (Japon) en 2015 | le séisme a eu lieu dans l'océan Pacifique à environ 200km des côtes | 7,8  | 0  | 0   | 0 |
-| Séisme de Fidji en 2018 | le séisme a eu lieu dans l'océan Pacifique à environ 100km des côtes | 7,9  | V  |    | 0 | 0 |
+| Séisme de Fidji en 2018 | le séisme a eu lieu dans l'océan Pacifique à environ 100km des côtes | 7,9  | V  |  moins de 1 million de  | 0 | 0 |
 
 
 

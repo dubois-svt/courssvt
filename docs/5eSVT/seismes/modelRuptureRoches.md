@@ -46,8 +46,7 @@ Un séisme est une secousse du sol provoquée par des ondes se propageant dans l
 
 </div>
 </div>
-
-Le long d’une faille, les aspérités des roches empêchent le glissement de deux blocs rocheux l’un par rapport à l’autre.
+Une faille est une fracture dans la croûte terrestre. Un bloc de roche peut s’y déplacer. Le long d’une faille, les aspérités des roches empêchent le glissement de deux blocs rocheux l’un par rapport à l’autre.
 Lorsque les roches cassent brutalement, la libération d’énergie accumulée permet le déplacement des blocs rocheux. 
 C'est lors du déplacement des blocs, au niveau du foyer, en profondeur, que prennent naissance les vibrations ou ondes sismiques.
 
