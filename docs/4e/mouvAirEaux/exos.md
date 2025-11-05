@@ -84,6 +84,7 @@ Deux types de courants océaniques se distinguent dans l'Atlantique Nord :
 !!! note "Compétences"
 
     - Retenir et utiliser ses connaissances
+    - Faire un schéma
 
 !!! warning "Consignes"
 
@@ -91,6 +92,7 @@ Deux types de courants océaniques se distinguent dans l'Atlantique Nord :
     2. Repérez à l’échelle de l’Inde d’où viennent les vents en été et en hiver et si ces derniers sont sources ou non de précipitations.
     3. Utilisez vos connaissances sur les mouvements des masses d’air pour schématiser les courants atmosphériques en été et en hiver.
     4. À partir du texte et de vos connaissances, compléter les 2 schémas du document 2 expliquant les moussons d’été et d’hiver en Inde.
+    5. Montrer que les courants océaniques change le climat.
     
 ??? bug "Critères de réussite"
 
