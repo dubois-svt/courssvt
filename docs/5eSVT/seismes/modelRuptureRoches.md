@@ -28,8 +28,7 @@
 
 **Document 1 Un séisme.**
 
-
-Un séisme est une secousse du sol provoquée par des ondes se propageant dans le sol comme des « vagues » parcourant les roches.
+Un séisme est une secousse du sol provoquée par des ondes se propageant dans le sol à la surface comme des « vagues » parcourant les roches.
 
 **Document 2 Mouvements le long d’une faille**
 
@@ -49,7 +48,8 @@ Un séisme est une secousse du sol provoquée par des ondes se propageant dans l
 </div>
 
 Le long d’une faille, les aspérités des roches empêchent le glissement de deux blocs rocheux l’un par rapport à l’autre.
-Lorsque, les roches cassent brutalement. La libération d’énergie accumulée permet le déplacement des blocs rocheux. C'est lors du déplacement des blocs, au niveau du foyer, en profondeur, que prennent naissance les vibrations ou ondes sismiques.
+Lorsque les roches cassent brutalement, la libération d’énergie accumulée permet le déplacement des blocs rocheux. 
+C'est lors du déplacement des blocs, au niveau du foyer, en profondeur, que prennent naissance les vibrations ou ondes sismiques.
 
 **Document 3 Comportements des roches soumis à des contraintes.**
 
@@ -63,5 +63,5 @@ Au-delà d’une certaine force, le bloc se casse, c’est la rupture, en un poi
 Un modèle en sciences est une représentation simplifiée de la réalité d’un phénomène pour expliquer ce phénomène ou faire une expérience pour tester une hypothèse concernant le phénomène.
 Le modèle réduit la complexité du réel, afin de le comprendre ou le faire comprendre. Il est différent de la réalité. Construit autour d’hypothèses, il doit être testé par confrontation au réel.
 
-Dans notre modèle, les roches seront représentées par une plaque de polystyrène. 
-Pour enregistrer les ondes, on utilisera une tablette posée et tenue sur la plaque, avec l'application phyphox avec l'outil "accélération sans g".
+Dans notre modèle, les roches seront représentées par une plaque de bois. 
+Pour enregistrer les ondes, on utilisera des capteurs piézoelectriques détectant les vibrations, avec l'application [sismopiezo](https://cosentinophilippe.forge.apps.education.fr/sismopiezo/index.htm).
