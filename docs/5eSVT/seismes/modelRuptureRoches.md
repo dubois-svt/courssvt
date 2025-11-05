@@ -62,5 +62,10 @@ Au-delà d’une certaine force, le bloc se casse, c’est la rupture, en un poi
 Un modèle en sciences est une représentation simplifiée de la réalité d’un phénomène pour expliquer ce phénomène ou faire une expérience pour tester une hypothèse concernant le phénomène.
 Le modèle réduit la complexité du réel, afin de le comprendre ou le faire comprendre. Il est différent de la réalité. Construit autour d’hypothèses, il doit être testé par confrontation au réel.
 
-Dans notre modèle, les roches seront représentées par une plaque de bois. 
-Pour enregistrer les ondes, on utilisera des capteurs piézoelectriques détectant les vibrations, avec l'application [sismopiezo](https://cosentinophilippe.forge.apps.education.fr/sismopiezo/index.htm).
+Dans notre modèle, on utilisera :
+
+- une plaque de bois pour modéliser les roches
+- un système de serre-joint (voir schéma)
+- des capteurs piézoelectriques détectant les vibrations, avec l'application [sismopiezo](https://cosentinophilippe.forge.apps.education.fr/sismopiezo/index.htm).
+- 
+![Schéma du sysème pour modéliser un séisme](image-1.png)

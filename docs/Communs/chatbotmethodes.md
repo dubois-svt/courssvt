@@ -237,12 +237,12 @@ Un graphique se construit :
 C’est toujours l’ordonnée qui varie en fonction de l’abscisse.
 La consigne sera le plus souvent écrite avec : « paramètre mesuré EN FONCTION du paramètre variable »  
 
-• Étape 2 : Tracer le repère avec les 2 axes gradués et les légender en placant une unité
+• Étape 2 : Tracer le repère avec les 2 axes gradués et les légender en plaçant une unité
 
 
 • Étape 3 : Déterminer l'échelle pour graduer les axes :
   - repérer pour chaque paramètre les valeurs maximales et minimales à placer.
-  - trouver une graduation en adéquation avec ces valeurs  «1 en 1, 2 en 2, 5 en 5, 10 en 10, 100 en 100 ».
+  - trouver une graduation en adéquation avec ces valeurs «1 en 1, 2 en 2, 5 en 5, 10 en 10, 100 en 100 ».
   - graduer les axes en respectant l'écart entre chaque graduation.
 
 • Étape 4 : Placer les points en faisant correspondre les coordonnées présentes dans le tableau de résultats. Une valeur mesurée correspond à une valeur du paramètre variable. 
@@ -257,7 +257,7 @@ La consigne sera le plus souvent écrite avec : « paramètre mesuré EN FONCTIO
 
 
 • Étape 6 : Mettre un titre et le souligner.
-Exemple type : Graphique de Ordonnée en fonction de l’abscisse. (Remplacer « ordonnée et
+Exemple type : Graphique de "l'ordonnée" en fonction de "l’abscisse". (Remplacer « ordonnée et
 abscisse par les grandeurs physiques de l’exercice)
 
 ![](Pictures/constGraph.png)
@@ -265,8 +265,8 @@ abscisse par les grandeurs physiques de l’exercice)
 Exemple : Réaliser le graphique de l’évolution de la température en fonction du temps.
 C’est toujours l’ordonnée qui varie en fonction de l’abscisse.
 
-L’ordonnée est toujours avant le « en fonction de » : ici c’est la température.
-L’abscisse est toujours après le « en fonction de » : ici c’est le temps.
+L’ordonnée est toujours avant le « en fonction de » : ici, c’est la température.
+L’abscisse est toujours après le « en fonction de » : ici, c’est le temps.
 
 --- 
 </div>
@@ -274,7 +274,7 @@ L’abscisse est toujours après le « en fonction de » : ici c’est le temps.
 
 ## Réaliser un schéma fonctionnel
 
-- Il explique le fonctionement de quelque chose.
+- Il explique le fonctionnement de quelque chose.
 - On utilise des formes géométriques et des flèches pour les déplacements.  
 - La légende reprend les formes utilisées et en donne leur signification.  
 - La légende peut être indiquée par des flèches, directement sur le schéma ou dans une légende à part.
