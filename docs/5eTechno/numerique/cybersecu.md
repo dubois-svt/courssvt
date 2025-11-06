@@ -40,20 +40,9 @@ Des logiciels malveillants existent. Ces logiciels peuvent avoir différents rô
 Pour éviter de se retrouver avec des logiciels comme ceux-ci, il est important de faire attention aux fichiers téléchargés sur internet (d’où vient-il ? qui a fait le logiciel ? et dans quel but ?), il ne faut pas brancher des clés USB sans en connaitre l’origine et avoir un logiciel antivirus peut aider à détecter et bloquer des menaces, mais attention, ils ne sont pas infaillibles.
 
 Pour être téléchargé, les malwares sont souvent déguisés en éléments attractifs (films, photo, document texte, jeux vidéos ou logiciel connu).
-
+ Sécurité inforamtique
 Faire une sauvegarde de ses données est important, sinon en cas de perte, vol ou destruction de son appareil, on perdrait les données contenues sur celui-ci.
 On parle souvent de sauvegarde 3 2 1, avec 3 copies en tout :
 - les données de l’appareil
 - une sauvegarde sur un disque externe (disque dur, clé USB, DVD) 
 - une sauvegarde présente à un autre endroit (pour éviter le vol ou la destruction de la sauvegarde en même temps que celui de l’appareil.)
-
-
-
-??? note-prof 
-    **Document 4 Source possibles pour télécharger le logiciel VLC**
- 
-    Si on recherche sur un moteur de recherche à télécharger le logiciel VLC de Videolan, on obtient les résultats suivants.
-
-
-    ![](pictures/resultSearchVLC.png)
- 

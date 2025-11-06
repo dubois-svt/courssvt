@@ -13,7 +13,7 @@
 
 - 15 : SAMU
 - 17 : Police secours
-- 3018 : en cas de harcélément ou de cyberharcélement
+- 3018 : en cas de harcèlement ou de cyberharcèlement
 - 119 : Enfance maltraitée
   
 ## Flashcards
@@ -32,8 +32,8 @@
     - Ils sont organisés sous la forme d'une arborescence composée de dossiers, sous-dossiers et fichiers.
 
 4.  
-    - Quel est le rôle d'un systèùme d'information ?
-    - Il permet de transmettre et échanger des données inforamtiques.
+    - Quel est le rôle d'un système d'information ?
+    - Il permet de transmettre et échanger des données informatiques.
 
 5.  
     - Qu'est-ce que la cybersécurité vise à protéger ?
