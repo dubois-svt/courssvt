@@ -57,7 +57,7 @@ Le répertoire de l’élève « identifiant_eleve » : l’élève peut y sauve
 </div>
 
 
-'''
+```
 flowchart TD
     A[Racine] --> B(Home K:)
     A --> C(Classe H:)
@@ -80,4 +80,4 @@ flowchart TD
     K --> R(Contrôle 2025.txt)
     L --> S(Contrôle 2024.txt)
 
-'''
+```

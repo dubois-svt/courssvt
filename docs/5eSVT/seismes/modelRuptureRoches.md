@@ -65,7 +65,7 @@ Le modèle réduit la complexité du réel, afin de le comprendre ou le faire co
 Dans notre modèle, on utilisera :
 
 - une plaque de bois pour modéliser les roches
-- un système de serre-joint (voir schéma)
+- un système de serre-joint qui créera une force lorsque l'on visera (voir schéma)
 - des capteurs piézoelectriques détectant les vibrations, avec l'application [sismopiezo](https://cosentinophilippe.forge.apps.education.fr/sismopiezo/index.htm).
 - 
-![Schéma du sysème pour modéliser un séisme](image-1.png)
+![Schéma du système pour modéliser un séisme](image-1.png)

@@ -12,7 +12,7 @@
     Comment s’en protéger ?
 
 
-![](image.png)
+![](pictures/planTrav.png){:style="width:1000px;"}
 
 
 

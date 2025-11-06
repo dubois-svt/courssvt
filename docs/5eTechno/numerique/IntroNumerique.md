@@ -107,13 +107,16 @@ Noter les 4 mots qui sont fournis à la fin de chaque mission.
     <a markdown id="bilan3">
 
 
-    La cybersécurité consiste à protéger les matériels informatiques ainsi que nos données personnelles contre les attaques malveillantes. Lors de vos connexions, des virus peuvent infecter votre ordinateur et de petits fichiers, nommées cookies, sont enregistrés par votre navigateur pour vous proposer des publicités ciblées.
+    La cybersécurité consiste à protéger les matériels informatiques ainsi que nos données personnelles contre les attaques malveillantes.
 
-    Il faut alors protéger son matériel informatique en installant das antivirus. Il faut également protéger ses données personnelles en utilisant des mots de passe robustes et différents pour chaque ccollege.hachette-education.com/ressources/0002017890737/techno5e_genially10/ompte ou appareil, ne pas les partager et se déconnecter avant de quitter un poste informatique.
+    Il faut alors protéger son matériel informatique :
+        - antivirus
+        - mots de passes uniques et robustes
+        - prudence avec les logiciels et documents ouverts
 
     Lorsque l'on utilise internet des informations sont diffusées.
     Volontairement (photos, messages), qui peuvent rester en ligne et nous échapper.
-    Involontairement, les cookies qui stockent des informations sur nous (sites visités, zone géographique, informations personnelles), beaucoup de cookies sont utilisées pour le ciblage publicitaire.
+    Involontairement, les cookies qui stockent des informations sur nous (sites visités, zone géographique, informations personnelles), beaucoup de cookies sont utilisés pour le ciblage publicitaire.
 
     </a>
 
