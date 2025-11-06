@@ -58,7 +58,8 @@ Le répertoire de l’élève « identifiant_eleve » : l’élève peut y sauve
 </div>
 
 
-```
+``` mermaid
+
 flowchart TD
     A[Racine] --> B(Home K:)
     A --> C(Classe H:)
