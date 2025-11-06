@@ -35,12 +35,13 @@
 
 <div markdown style="display: flex; flex-direction: row">
 
-<div markdown style="display: flex; flex-direction: column">
+<div markdown style="display: flex; flex: 1 1 1; flex-direction: column">
 
-![](pictures/sambaedu.png)
+![](pictures/sambaedu.png){: style="width:800px"}
 
 </div>
-<div markdown style="display: flex; flex-direction: column">
+<div markdown style="display: flex; flex: 1 1 1; flex-direction: column">
+
 
 Le collège a un réseau informatique comportant des espaces de stockage.
 

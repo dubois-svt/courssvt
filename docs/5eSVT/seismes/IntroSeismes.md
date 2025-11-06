@@ -40,7 +40,7 @@
 
 
 [Activité Modéliser une rupture de roche](../modelRuptureRoches)
-
+[Activité Modéliser une rupture de roche Eléa](https://mureaux.elea.ac-versailles.fr/course/view.php?id=1419)
 
 ??? abstract "Bilan"
     Les roches subissent des forces et accumulent des tensions. Les roches se déforment et peuvent casser (=rupture), des failles se forment et séparent des blocs de roches.
