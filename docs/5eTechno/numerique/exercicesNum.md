@@ -35,7 +35,7 @@
 
 !!! warning "Consignes"
 
-    1. Donner le chemin d'accès où se trouve le fichier nommé "Exercice Incendie.png"
+    1. Donner le chemin d'accès où se trouve le fichier nommé "Exercice Incendie.pdf"
     2. Quel fichier du contrôle 2025 a été complété et rendu par l'élève. Indiquer le chemin complet.
 
 
@@ -54,7 +54,7 @@ Le répertoire de l’élève « identifiant_eleve » : l’élève peut y sauve
 
 
 
-            <ul class="tree-view">
+<ul class="tree-view">
                 
                     <li>
                         <div class="toggle">
