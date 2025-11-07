@@ -55,138 +55,123 @@ Le répertoire de l’élève « identifiant_eleve » : l’élève peut y sauve
 
 
 <ul class="tree-view">
-                
-                    <li>
-                        <div class="toggle">
-                            <span class="toggle-arrow">▼</span>
-                            <span class="icon"><img draggable="false" role="img" class="emoji" alt="📁" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f4c1.svg"></span>
-                            <span>Racine</span>
-                        </div>
-                        <div class="children">
-                            <ul>
-                                
-                    <li>
-                        <div class="toggle">
-                            <span class="toggle-arrow">▼</span>
-                            <span class="icon"><img draggable="false" role="img" class="emoji" alt="📁" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f4c1.svg"></span>
-                            <span>Classe H</span>
-                        </div>
-                        <div class="children">
-                            <ul>
-                                
-                    <li>
-                        <div class="toggle">
-                            <span class="toggle-arrow">▼</span>
-                            <span class="icon"><img draggable="false" role="img" class="emoji" alt="📁" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f4c1.svg"></span>
-                            <span>Informations</span>
-                        </div>
-                        <div class="children">
-                            <ul>
-                                
-                    <li>
-                       <div class="toggle">
-                            <span class="toggle-arrow" style="visibility: hidden">▼</span>
-                            <span class="icon"><img draggable="false" role="img" class="emoji" alt="📄" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f4c4.svg"></span>
-                            <span>Exercice Incendie.pdf</span>
-                       </div>
-                   </li>
-                
-                            </ul>
-                        </div>
-                    </li>
-                
-                    <li>
-                        <div class="toggle">
-                            <span class="toggle-arrow">▼</span>
-                            <span class="icon"><img draggable="false" role="img" class="emoji" alt="📁" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f4c1.svg"></span>
-                            <span>pnom</span>
-                        </div>
-                        <div class="children">
-                            <ul>
-                                
-                    <li>
-                       <div class="toggle">
-                            <span class="toggle-arrow" style="visibility: hidden">▼</span>
-                            <span class="icon"><img draggable="false" role="img" class="emoji" alt="📄" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f4c4.svg"></span>
-                            <span>Contrôle 2025.txt</span>
-                       </div>
-                   </li>
-                
-                            </ul>
-                        </div>
-                    </li>
-                
-                    <li>
-                        <div class="toggle">
-                            <span class="toggle-arrow">▼</span>
-                            <span class="icon"><img draggable="false" role="img" class="emoji" alt="📁" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f4c1.svg"></span>
-                            <span>_travail</span>
-                        </div>
-                        <div class="children">
-                            <ul>
-                                
-                    <li>
-                       <div class="toggle">
-                            <span class="toggle-arrow" style="visibility: hidden">▼</span>
-                            <span class="icon"><img draggable="false" role="img" class="emoji" alt="📄" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f4c4.svg"></span>
-                            <span>Contrôle 2025.txt</span>
-                       </div>
-                   </li>
-                
-                            </ul>
-                        </div>
-                    </li>
-                
-                            </ul>
-                        </div>
-                    </li>
-                
-                    <li>
-                        <div class="toggle">
-                            <span class="toggle-arrow">▼</span>
-                            <span class="icon"><img draggable="false" role="img" class="emoji" alt="📁" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f4c1.svg"></span>
-                            <span>Home K</span>
-                        </div>
-                        <div class="children">
-                            <ul>
-                                
-                    <li>
-                        <div class="toggle">
-                            <span class="toggle-arrow">▼</span>
-                            <span class="icon"><img draggable="false" role="img" class="emoji" alt="📁" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f4c1.svg"></span>
-                            <span>Devoirs</span>
-                        </div>
-                        <div class="children">
-                            <ul>
-                                
-                    <li>
-                        <div class="toggle">
-                            <span class="toggle-arrow">▼</span>
-                            <span class="icon"><img draggable="false" role="img" class="emoji" alt="📁" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f4c1.svg"></span>
-                            <span>Contrôle</span>
-                        </div>
-                        <div class="children">
-                            <ul>
-                                
-                    <li>
-                        <div class="toggle">
-                            <span class="toggle-arrow">▼</span>
-                            <span class="icon"><img draggable="false" role="img" class="emoji" alt="📁" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f4c1.svg"></span>
-                            <span>2023</span>
-                        </div>
-                        <div class="children">
-                            <ul>
-                                
-                    <li>
-                       <div class="toggle">
-                            <span class="toggle-arrow" style="visibility: hidden">▼</span>
-                            <span class="icon"><img draggable="false" role="img" class="emoji" alt="📄" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f4c4.svg"></span>
-                            <span>Contrôle 2023.txt</span>
-                       </div>
-                   </li>
-                
-                            </ul>
-                        </div>
+<li>
+<div class="toggle">
+<span class="toggle-arrow">▼</span>
+<span class="icon"><img draggable="false" role="img" class="emoji" alt="📁" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f4c1.svg"></span>
+<span>Racine</span>
+</div>
+<div class="children">
+<ul>
+<li>
+<div class="toggle">
+<span class="toggle-arrow">▼</span>
+<span class="icon"><img draggable="false" role="img" class="emoji" alt="📁" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f4c1.svg"></span>
+<span>Classe H</span>
+</div>
+<div class="children">
+<ul>
+<li>
+<div class="toggle">
+<span class="toggle-arrow">▼</span>
+<span class="icon"><img draggable="false" role="img" class="emoji" alt="📁" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f4c1.svg"></span>
+<span>Informations</span>
+</div>
+<div class="children">
+<ul>
+<li>
+<div class="toggle">
+<span class="toggle-arrow" style="visibility: hidden">▼</span>
+<span class="icon"><img draggable="false" role="img" class="emoji" alt="📄" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f4c4.svg"></span>
+<span>Exercice Incendie.pdf</span>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<div class="toggle">
+<span class="toggle-arrow">▼</span>
+<span class="icon"><img draggable="false" role="img" class="emoji" alt="📁" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f4c1.svg"></span>
+<span>pnom</span>
+</div>
+<div class="children">
+<ul>                            
+<li>
+<div class="toggle">
+<span class="toggle-arrow" style="visibility: hidden">▼</span>
+<span class="icon"><img draggable="false" role="img" class="emoji" alt="📄" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f4c4.svg"></span>
+<span>Contrôle 2025.txt</span>
+</div>
+</li>           
+</ul>
+</div>
+</li>
+<li>
+<div class="toggle">
+<span class="toggle-arrow">▼</span>
+<span class="icon"><img draggable="false" role="img" class="emoji" alt="📁" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f4c1.svg"></span>
+<span>_travail</span>
+</div>
+<div class="children">
+<ul>
+<li>
+<div class="toggle">
+<span class="toggle-arrow" style="visibility: hidden">▼</span>
+<span class="icon"><img draggable="false" role="img" class="emoji" alt="📄" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f4c4.svg"></span>
+<span>Contrôle 2025.txt</span>
+</div>
+</li>
+
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+
+<li>
+<div class="toggle">
+<span class="toggle-arrow">▼</span>
+<span class="icon"><img draggable="false" role="img" class="emoji" alt="📁" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f4c1.svg"></span>
+<span>Home K</span>
+</div>
+<div class="children">
+<ul>                            
+<li>
+<div class="toggle">
+<span class="toggle-arrow">▼</span>
+<span class="icon"><img draggable="false" role="img" class="emoji" alt="📁" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f4c1.svg"></span>
+<span>Devoirs</span>
+</div>
+<div class="children">
+<ul>
+<li>
+<div class="toggle">
+<span class="toggle-arrow">▼</span>
+<span class="icon"><img draggable="false" role="img" class="emoji" alt="📁" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f4c1.svg"></span>
+<span>Contrôle</span>
+</div>
+<div class="children">
+<ul>
+<li>
+<div class="toggle">
+<span class="toggle-arrow">▼</span>
+<span class="icon"><img draggable="false" role="img" class="emoji" alt="📁" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f4c1.svg"></span>
+<span>2023</span>
+</div>
+<div class="children">
+<ul>
+<li>
+<div class="toggle">
+<span class="toggle-arrow" style="visibility: hidden">▼</span>
+<span class="icon"><img draggable="false" role="img" class="emoji" alt="📄" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f4c4.svg"></span>
+<span>Contrôle 2023.txt</span>
+</div>
+</li>
+
+</ul>
+</div>
                     </li>
                 
                     <li>
