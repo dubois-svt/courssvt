@@ -68,11 +68,11 @@ En langage simple, le système informatique est l’ensemble des équipements qu
 
     <a markdown id="bilan2">
 
-    Les cyberviolences sont des actes malveillants, intentionnels, commis dans le monde numérique, par un ou plusieurs personnelles dans le but de nuire à un individu comme l'usurpation d'identité, l'envoi de messages insultants et menaçants à une personne ou un groupe de personnes, le partage indélicat de photos ou des insultes. Ces actes sont punissables par la loi (peine de prison et amende)
+    Les cyberviolences sont des actes malveillants, intentionnels, commis dans le monde numérique, par une ou plusieurs personnes dans le but de nuire à un individu comme l'usurpation d'identité, l'envoi de messages insultants et menaçants à une personne ou un groupe de personnes, le partage indélicat de photos ou des insultes. Ces actes sont punissables par la loi (peine de prison et amende)
 
     Il faut donc bien réfléchir à ce que l'on publie sur les réseaux. Si on est victime ou témoin, la première chose à faire et de prévenir un adulte de confiance.
 
-    En cas de cyberharcélément, vous devez en parler si vous n'osez pas en parler autoiur de vous, un service existe que vous pouvez contacter le 3018.
+    En cas de cyberharcèlement, vous devez en parler si vous n'osez pas en parler autour de vous, un service existe que vous pouvez contacter le 3018.
 
     </a>
 
