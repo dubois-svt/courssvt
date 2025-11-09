@@ -243,7 +243,7 @@ nav :
         - Les données informatiques : 5eTechno/numerique/systInformation.md
         - Le numérique dans notre vie : 5eTechno/numerique/cyberviolence.md
         - Cybersécurité : 5eTechno/numerique/cybersecu.md
-        - Exercices : 5eTechno/numerique/exercicesNum.md
+        - Cybersécurité : 5eTechno/numerique/exercicesNum.md
         - Fiche de révision : 5eTechno/numerique/Fiche.md
 
 
@@ -254,7 +254,7 @@ nav :
       - Séquence Les besoins de nos organes :
           - Introduction : 5eSVT/besoinsOrganes/IntroOrganes.md
           - Notre corps lors d'un effort : 5eSVT/besoinsOrganes/effortsPhysiques.md
-          - Echanges Gazeux : 5eSVT/besoinsOrganes/echangesGazAni.md
+          - Échanges Gazeux : 5eSVT/besoinsOrganes/echangesGazAni.md
           - Système circulatoire des animaux : 5eSVT/besoinsOrganes/systCircu.md
           - Les performances sportives : 5eSVT/besoinsOrganes/perfSport.md
           - Besoins des cellules : 5eSVT/besoinsOrganes/nutriCellAni.md
@@ -269,24 +269,26 @@ nav :
           - Propagation des ondes sismiques : 5eSVT/seismes/propagOndes.md
           - Gestion du risque sismique : 5eSVT/seismes/risquesSismiques.md
           - Schéma bilan : 5eSVT/seismes/bilan.md
-
           - Exercices : 5eSVT/seismes/exoSeismes.md
           - Fiche de révision : 5eSVT/seismes/FicheSeismes.md
+
       - Séquence Le système digestif :
           - Introduction : 5eSVT/systDigestif/IntroDigestion.md
-          - Etude de la digestion : 5eSVT/systDigestif/etudeDigestion.md
+          - Étude de la digestion : 5eSVT/systDigestif/etudeDigestion.md
           - Digestion chimique des aliments :  5eSVT/systDigestif/digestionChimique.md
           - Absorption intestinale :  5eSVT/systDigestif/absorptionIntestinale.md
           - Maladies et nutrition : 5eSVT/systDigestif/actionContreFaim.md
           - Microbiote :  5eSVT/systDigestif/microbiote.md
           - Exercices sur la digestion : 5eSVT/systDigestif/exercicesDigestion.md
           - Fiche de révision : 5eSVT/systDigestif/Fiche.md
+      
       - Séquence le risque volcanique :
           - Introduction : 5eSVT/volcans/IntroVolcans.md
           - Volcans : 5eSVT/volcans/volcans.md
           - Modélisation d'une éruption :  5eSVT/volcans/eruption.md
           - Gestion du risque volcanique : 5eSVT/volcans/risquesVolcans.md
           - Fiche de révision : 5eSVT/volcans/FicheVolcans.md
+      
       - Séquence La nutrition des végétaux :
         - Introduction : 5eSVT/besoinsVeg/IntroVeg.md
         - Une agriculture explosive : 5eSVT/besoinsVeg/echangesVeg.md
@@ -296,7 +298,7 @@ nav :
       - Séquence biodiversité :
         - Introduction : 5eSVT/biodiv/IntroBiodiv.md
         - Echelles de biodiversité : 5eSVT/biodiv/IntroBiodiv.md
-        - Relations intersécifiques : 5eSVT/biodiv/IntroBiodiv.md
+        - Relations interspécifiques : 5eSVT/biodiv/IntroBiodiv.md
         - activités humaines et modifications de l'environnement (foret) : 5eSVT/biodiv/IntroBiodiv.md
         - activités humaines et modifications de l'environnement (plastique) : 5eSVT/biodiv/IntroBiodiv.md
         - Fiche de révision : 5eSVT/biodiv/Fiche.md
@@ -377,11 +379,11 @@ nav :
             - Conservation de l'information génétique : 4e/transmissionAlleles/conservInfoGen.md
             - Schéma de la Division Cellulaire : 4e/transmissionAlleles/schDivCell.md
             - La formation des cellules reproductrices : 4e/transmissionAlleles/meiose.md
-            - Fécodnation et diversité génétique : 4e/transmissionAlleles/fecDiversite.md
+            - Fécondation et diversité génétique : 4e/transmissionAlleles/fecDiversite.md
             - Fiche de révision : 4e/transmissionAlleles/Fiche.md
       - Séquence Une ressource naturelle, l'eau :
             - Introduction : 4e/ressourceNaturelleEau/IntroEau.md
-            - Reservoirs et utilisation de l'eau : 4e/ressourceNaturelleEau/reservoiretutilisationEau.md
+            - Réservoirs et utilisation de l'eau : 4e/ressourceNaturelleEau/reservoiretutilisationEau.md
             - L'eau virtuelle : 4e/ressourceNaturelleEau/eauVirtu.md
             - Eau ressource précieuse : 4e/ressourceNaturelleEau/eauRessourcePrecieuse.md
             - Fiche de révision : 4e/ressourceNaturelleEau/Fiche.md
@@ -397,7 +399,7 @@ nav :
           - Événements dans l'histoire de la Terre : 3e/EvtsTerre/HistoireTerre.md
           - Les changements climatiques passés : 3e/EvtsTerre/chgtsClimatPasses.md
           - Le changement climatique actuel : 3e/EvtsTerre/chgtClimatActuel.md
-          - Exerices : 3e/EvtsTerre/exercices.md
+          - Exercices : 3e/EvtsTerre/exercices.md
           - Fiche de révision : 3e/EvtsTerre/FicheEvtsTerre.md
           
       - Séquence Changement climatique actuel :
@@ -408,7 +410,7 @@ nav :
           - Fiche de révision :  3e/chgtClimActuel/FicheChgtClimatActuel.md
       
       - Séquence Système immunitaire :
-          - Introdution : 3e/systImmun/IntroSystImmu.md
+          - Introduction : 3e/systImmun/IntroSystImmu.md
           - Acteurs de la défense : 3e/systImmun/acteursSystImmu.md
           - Réaction inflammatoire : 3e/systImmun/inflammation.md
           - Infection qui continue : 3e/systImmun/infectionContinue.md
@@ -416,7 +418,7 @@ nav :
           - Fiche Révision : 3e/systImmun/Fiche.md
 
       - Séquence Les anticorps :
-          - Introdution : 3e/anticorps/IntroAnticorps.md
+          - Introduction : 3e/anticorps/IntroAnticorps.md
           - Action des anticorps : 3e/anticorps/anticorps.md
           - Vaccination : 3e/anticorps/vaccin.md
           - SIDA et VIH : 3e/anticorps/sida.md
@@ -424,13 +426,13 @@ nav :
           - Fiche Révision : 3e/anticorps/Fiche.md
       
       - Séquence Tectonique des plaques :
-          - Introdution : 3e/tectoniquePlaques/IntroTecto.md
-          - Repartition des séismes et des volcans : 3e/tectoniquePlaques/repartSeismesVolcans.md
+          - Introduction : 3e/tectoniquePlaques/IntroTecto.md
+          - Répartition des séismes et des volcans : 3e/tectoniquePlaques/repartSeismesVolcans.md
           - Mouvements à la surface de la Terre : 3e/tectoniquePlaques/mvtsSurfaceTerre.md
           - Construction de la théorie : 3e/tectoniquePlaques/histoireTectonique.md
           - Fiche Révision : 3e/tectoniquePlaques/Fiche.md
       - Séquence mouvements de la tectoniques des plaques:
-          - Introdution : 3e/tecto2/IntroTecto2.md
+          - Introduction : 3e/tecto2/IntroTecto2.md
           - Divergences : 3e/tecto2/divergences.md
           - Les subductions : 3e/tecto2/subduction.md
           - Les collisions : 3e/tecto2/collision.md
@@ -440,7 +442,7 @@ nav :
       
 
       - Séquence Contrôles hormonaux des appareils reproducteurs :
-          - Introdution : 3e/controleAppRepro/IntroControlAppRepro.md
+          - Introduction : 3e/controleAppRepro/IntroControlAppRepro.md
           - Différences anatomiques : 3e/controleAppRepro/diffFemmeHomme.md
           - Les cellules reproductrices : 3e/controleAppRepro/diffCellRepro.md
           - La puberté : 3e/controleAppRepro/puberte.md
@@ -448,7 +450,7 @@ nav :
           - Le cycle de l'utérus : 3e/controleAppRepro/cycleUterus.md
           - Fiche Révision : 3e/controleAppRepro/Fiche.md
       - Séquence Sexualité et reproduction :
-          - Introdution : 3e/reprosexualite/IntroReproSex.md
+          - Introduction : 3e/reprosexualite/IntroReproSex.md
           - Grossesse : 3e/reprosexualite/grossesse.md
           - Nutrition du foetus : 3e/reprosexualite/nutriFoetus.md
           - Pilule contraceptive : 3e/reprosexualite/piluleContra.md
@@ -456,13 +458,13 @@ nav :
           - IST : 3e/reprosexualite/ist.md
           - Fiche Révision : 3e/reprosexualite/Fiche.md
       - Séquence Parentés des êtres vivants :
-          - Introdution : 3e/parentes/IntroParentes.md
+          - Introduction : 3e/parentes/IntroParentes.md
           - Parentés des êtres vivants : 3e/parentes/liensParente.md
-          - Etres humains dans l'évolution : 3e/parentes/evolHum.md
+          - Êtres humains dans l'évolution : 3e/parentes/evolHum.md
           - Exercices : 3e/parentes/exercices.md
           - Fiche Révision : 3e/parentes/Fiche.md
       - Séquence Evolution :
-          - Introdution : 3e/mecaEvol/IntroEvol.md
+          - Introduction : 3e/mecaEvol/IntroEvol.md
           - Nouvelles espèces : 3e/mecaEvol/speciation.md
           - Mécanismes évolutifs : 3e/mecaEvol/mecaEvol.md
           - Théorie de l'évolution: 3e/mecaEvol/theorieEvol.md

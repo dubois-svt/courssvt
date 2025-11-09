@@ -6,7 +6,8 @@
 
 !!! warning "Consignes"
 
-    À partir des photographies de frottis sanguins, déterminez si Jules est victime d’une infection. Justifiez votre réponse.
+    1. À partir des photographies de frottis sanguins, déterminez si Jules est victime d’une infection. Justifiez votre réponse.
+    2. Calculer la taille d'un leucocyte
 
     
 ??? bug "Critères de réussite"
@@ -17,29 +18,12 @@ Jules, qui se sent très fatigué, se rend chez son médecin pour connaître l�
 Les photographies des deux frottis sont représentatives de l’ensemble des cellules présentes dans les sangs étudiés.
 
 
-
-**Document 1 Photo d’un frottis sanguin légendés (MO x400)**
-
-<div markdown style="display:flex; flex-direction: row;">
-<div markdown style="flex: 1 1 0; flex-direction: row;">
-
-![](Pictures/frottisSanguinMalade.jpg)
-</div>
-<div markdown style="flex: 1 1 0;  flex-direction: column;">
-1 = **hématie** (globule rouge)
-
-2-3 = **phagocyte** (leucocyte = globule blanc)
-
-4 = **lymphocyte** (leucocyte = globule blanc)
-</div>
-</div>
-
-**Document 2 Comparaison du sang de Jules avec celui d’une personne non malade**
+**Document 1 Comparaison du sang de Jules avec celui d’une personne non malade**
 
 ![](Pictures/frottisSanguinMaladeEtSain.png)
 
 
-**Document 3 Tableau présentant les résultats d’une analyse sanguine de deux sujets**
+**Document 2 Tableau présentant les résultats d’une analyse sanguine de deux sujets**
 
 <table>
 <thead>

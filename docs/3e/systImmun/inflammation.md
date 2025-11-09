@@ -2,19 +2,18 @@
 
 !!! note "Compétences"
 
-    - Trouver et extraire des informations
-    - Utiliser l'outil mathématique 
+    - Trouver et extraire des informations.
+    - Faire un schéma focntionnel.
 
 !!! warning "Consignes"
 
-    1. Expliquer à quoi sont dûs le gonflement et la rougeur de la réaction inflammatoire au niveau d’une blessure.
+    1. A partir des documents, expliquer sous la forme d'un schéma focntionnel la rougeur et le gonflement.
+    2. Expliquer l'intéret pour le corps de la réaction inflammatoire.
 
-    2. Expliquer comment notre corps lutte contre les micro-organismes au début de l’infection.
-
-    3. Calculer et comparer les tailles d’un phagocyte et d’une bactérie.
-    
 ??? bug "Critères de réussite"
-    - 
+    - Avoir expliquer le but de la digestion
+    - Avoir expliquer le lien entre rougeur et vaisseau sanguin
+    - Avoir expliquer le lien entre gonflement et accumulation de cellules
 
 
 **Document 1 : La réaction inflammatoire**
@@ -33,7 +32,7 @@
 <div markdown style=" flex: 2 1 0; flex-direction: column;">
 
 
-Quelques heures après une blessure, une réaction inflammatoire apparaît, accompagnée ou non de la formation de pus au niveau de la zone infectée.
+Quelques heures après une blessure, une réaction inflammatoire apparaît, accompagnée ou non de la formation de pus au niveau de la zone infectée. Le pus contient des bactéries et des phagocytes
 
 Cette réaction s’accompagne d’un gonflement, d’une rougeur et d’une augmentation de la température de la zone. Il peut aussi y avoir une douleur. La couleur de la peau dépend en partie de la quantité de sang qui passent dans les vaisseaux sanguins.
 
@@ -65,7 +64,6 @@ La phagocytose est une méthode de défense assurée par certains leucocytes app
 
 ![](Pictures/schemaPhagocytose.png)
 
-Si les phagocytes parviennent à digérer les bactéries, la plaie guérit. Mais il arrive que les bactéries détruisent les phagocytes. Les cadavres des phagocytes et les débris des bactéries s’accumulent dans le plasma au niveau de la plaie, cela forme le pus. L’accumulation de pus va faire gonfler la plaie et la douleur sera plus importante.
 
 
 ??? note-prof "correction"
