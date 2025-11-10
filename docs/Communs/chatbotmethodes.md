@@ -16,8 +16,7 @@ Lien vers un chatbot pour aider dans les fiches méthodes.
 
 Le chatbot est réalisé avec CHatMD de Cédric Eyssette.
 
-<script id="chatmdWidgetScript" src="https://chatmd.forge.apps.education.fr/widget.min.js" data-chatbot="https://chatbotmethodes-3858eb.forge.apps.education.fr/chatbotmethodes.md"></script>
-
+<!-- Write your comments here <script id="chatmdWidgetScript" src="https://chatmd.forge.apps.education.fr/widget.min.js" data-chatbot="https://chatbotmethodes-3858eb.forge.apps.education.fr/chatbotmethodes.md"></script>--> 
 <div markdown style="break-inside: avoid;">
 
 
@@ -612,7 +611,7 @@ L'ensemble doit avoir l'apparence d'un rectangle.
 <div markdown style="break-inside: avoid;">
 
 
-![Echelle temporelle](Pictures/frise-de-lhistoire-du-vivant-et-de-lunivers-frise.png){: style="width:800px; flex-shrink: 0;  " }
+![Echelle temporelle](Pictures/frise-de-lhistoire-du-vivant-et-de-lunivers-frise.png){: style="width:700px; flex-shrink: 0;  " }
 
 </div>
 <div markdown style="break-inside: avoid;">
