@@ -30,7 +30,9 @@
 
 **Document 1 Un séisme à Bam.**
 
-Le 26 décembre 2003 en Iran à 1h56min52s, de fortes secousses ont détruit la ville de Bam en 13 secondes. Ce séisme était d'une magnitude de 6,3. 35 000 morts ont été déplorés. Après avoir observé les dégâts et interrogé les témoins, les géologues déterminent, à partir d’une échelle de I à XII l’intensité du séisme en différents lieux. Les valeurs obtenues sont reportées sur une carte et les points de même intensité sont reliés pour délimiter des zones d’égale intensité. On localise ensuite l’épicentre du séisme. Le foyer sismique était situé à 10 km de profondeur
+Le 26 décembre 2003 en Iran à 1h56min52s, de fortes secousses ont détruit la ville de Bam en 13 secondes. Ce séisme était d'une magnitude de 6,3. 
+
+35 000 morts ont été déplorés. Après avoir observé les dégâts et interrogé les témoins, les géologues déterminent, sur une échelle de I à XII l’intensité du séisme en différents lieux. Les valeurs obtenues sont reportées sur une carte et les points de même intensité sont reliés pour délimiter des zones d’égale intensité. On localise ensuite l’épicentre du séisme. Le foyer sismique était situé à 10 km de profondeur.
 
 
 **Document 2 Échelle d’intensité et carte des intensités établies après le séisme de Bam.**
@@ -88,7 +90,9 @@ Le 26 décembre 2003 en Iran à 1h56min52s, de fortes secousses ont détruit la 
 <div markdown style="display:flex; flex-direction: row;">
 
 
-Les vibrations provoquées par un séisme sont dues à des ondes sismiques qui se propagent dans toutes les directions. Les ondes sont enregistrées par un sismographe : le socle de l’appareil et le cylindre enregistreur (fixé au sol) vibrent, la masse suspendue tend à rester immobile. Les mouvements du sol enregistrés sont verticaux ou horizontaux. Les vibrations sont représentées par des variations du tracé proportionnelles à leur amplitude. Ces enregistrements, appelés sismogrammes.
+Les vibrations provoquées par un séisme sont dues à des ondes sismiques qui se propagent dans toutes les directions. Les ondes sont enregistrées par un sismographe : le socle de l’appareil et le cylindre enregistreur (fixé au sol) vibrent, la masse suspendue tend à rester immobile. 
+
+Les vibrations sont représentées par des variations du tracé proportionnelles à leur amplitude. Ces enregistrements sont appelés sismogrammes.
 Aujourd’hui, des sismomètres réalisent des mesures électroniques.
 
 ![](pictures/dessinSismographe.png)

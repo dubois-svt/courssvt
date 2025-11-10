@@ -32,7 +32,7 @@ En langage simple, le système informatique est l’ensemble des équipements qu
 
     Les données sont simplement des informations.
 
-    De différents types, elles sont stockées dans des fichiers  que l'on peut identifier grâce à leur icône, leur nom, leu extension qui précise leur format
+    Il existe des données différents types, elles sont stockées dans des fichiers  que l'on peut identifier grâce à leur icône, leur nom et leur extension qui précise leur format
 
     Il existe des fichiers de plusieurs tailles (appelées aussi "poids"), mesurées en kilo-octets (ko), méga-octets (Mo), giga-octets (Go) ou tera-octets (To)
 
@@ -57,6 +57,8 @@ En langage simple, le système informatique est l’ensemble des équipements qu
 
     comment le numérique peut-il avoir un impact dans notre vie ?
 
+[Activité ELEA : Cyberviolence](https://mureaux.elea.ac-versailles.fr/course/view.php?id=1384)
+
 [Activité Cyberviolence](../cyberviolence)
 
 
@@ -66,11 +68,20 @@ En langage simple, le système informatique est l’ensemble des équipements qu
 
     <a markdown id="bilan2">
 
-    Les cyberviolences sont des actes malveillants, intentionnels, commis dans le monde numérique, par un ou plusieurs personnelles dans le but de nuire à un individu comme l'usurpation d'identité, l'envoi de messages insultants et menaçants à une personne ou un groupe de personnes, le partage indélicat de photos ou des insultes. Ces actes sont punissables par la loi (peine de prison et amende)
+    Les cyberviolences sont des actes malveillants, intentionnels, commis dans le monde numérique, par une ou plusieurs personnes dans le but de nuire à un individu comme l'usurpation d'identité, l'envoi de messages insultants et menaçants à une personne ou un groupe de personnes, le partage indélicat de photos ou des insultes. Ces actes sont punissables par la loi (peine de prison et amende)
 
     Il faut donc bien réfléchir à ce que l'on publie sur les réseaux. Si on est victime ou témoin, la première chose à faire et de prévenir un adulte de confiance.
 
+    En cas de cyberharcèlement, vous devez en parler si vous n'osez pas en parler autour de vous, un service existe que vous pouvez contacter le 3018.
+
     </a>
+
+
+
+
+A faire avant la séance 3 : [Activité  Hachette](college.hachette-education.com/ressources/0002017890737/techno5e_genially10/)
+
+Noter les 4 mots qui sont fournis à la fin de chaque mission.
 
 
 ## Séance 3 : Cybersécurité
@@ -86,32 +97,33 @@ En langage simple, le système informatique est l’ensemble des équipements qu
 
 
 
+[Vidéos sur les données personnelles](https://www.lumni.fr/video/donnees-personnelles-et-reseaux-sociaux)
 
-https://www.lumni.fr/video/donnees-personnelles-et-reseaux-sociaux
 
+[Test mot de passe](https://www.ssi.economie.gouv.fr/motdepasse)
 
 ??? abstract "Bilan"
 
     <a markdown id="bilan3">
 
 
-    La cybersécurité consiste à protéger les matériels informatiques ainsi que nos données personnelles contre les attaques malveillantes. Lors de vos connexions, des virus peuvent infecter votre ordinateur et de petits fichiers, nommées cookies, sont enregistrés par votre navigateur pour vous proposer des publicités ciblées.
+    La cybersécurité consiste à protéger les matériels informatiques ainsi que nos données personnelles contre les attaques malveillantes.
 
-    Il faut alors protéger son matériel informatique en installant das antivirus. Il faut également protéger ses données personnelles en utilisant des mots de passe robustes et différents pour chaque compte ou appareil, ne pas les partager et se déconnecter avant de quitter un poste informatique.
+    Il faut alors protéger son matériel informatique :
+        - antivirus
+        - mots de passes uniques et robustes
+        - prudence avec les logiciels et documents ouverts
 
     Lorsque l'on utilise internet des informations sont diffusées.
     Volontairement (photos, messages), qui peuvent rester en ligne et nous échapper.
-    Involontairement, les cookies qui stockent des informations sur nous (sites visités, zone géographique, informations personnelles), beaucoup de cookies sont utilisées pour le ciblage publicitaire.
+    Involontairement, les cookies qui stockent des informations sur nous (sites visités, zone géographique, informations personnelles), beaucoup de cookies sont utilisés pour le ciblage publicitaire.
 
     </a>
 
 
 
-https://www.ssi.economie.gouv.fr/motdepasse
 
-view.genially.com/66474a537609460014772eec
-college.hachette-education.com/ressources/0002017890737/techno5e_genially10/
+## Séance 4 : Exercices
 
-mot de passe : Cyber3000 –> chatmd.forge.apps.education.fr/#https://codimd.apps.education.fr/s/OHLvgSE1a
+[Activité Exercices](../exercicesNum)
 
-https://nuage03.apps.education.fr/index.php/s/eB87Po9gwzHEQgi

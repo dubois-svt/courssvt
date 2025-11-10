@@ -18,40 +18,40 @@
 <table style="width:800px">
 <thead>
 <tr>
-<th style="width:20%">Fonctions</th>
+<th style="width:20%"></th>
 <th style="width:40%">Humain</th>
 <th style="width:40%">crevettes</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>liquide</td>
+<td>Nom du liquide  circulant dans le corps</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>transport du liquide du coeur aux organes</td>
+<td>Organe servant au transport du liquide du coeur aux organes</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>transport du liquide des organes aux coeur</td>
+<td>Organe servant au transport du liquide des organes aux coeur</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>mise en mouvement du liquide</td>
+<td>Phénomène permettant la mise en mouvement du liquide</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>échanges entre le liquide et les organes</td>
+<td>Organe servant aux échanges entre le liquide et les organes</td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>système circulatoire (ouvert ou fermé)</td>
+<td>Type de système circulatoire (ouvert ou fermé)</td>
 <td></td>
 <td></td>
 </tr>
@@ -93,7 +93,7 @@ Un appareil circulatoire clos est composé d'un cœur, d'artères, de capillair
 <div markdown style="display:flex; flex-direction: row;">
 <div markdown style="display:flex; flex: 2 1 0 ;flex-direction: column;">
 
-Le cœur est une pompe qui expulse le sang des oreillettes vers les ventricules, puis des ventricules vers les artères. En se relâchant, il se remplit de sang provenant des veines. Le sang se contracte environ 70 fois par minute au repos, en une journée, il propulse près de 8 000 litres de sang en se contractant plus de 100 000 fois.
+Le cœur est une pompe qui expulse le sang des oreillettes vers les ventricules, puis des ventricules vers les artères. En se relâchant, il se remplit de sang provenant des veines. Le coeur se contracte environ 70 fois par minute au repos, en une journée, il propulse près de 8 000 litres de sang en se contractant plus de 100 000 fois.
 
 </div>
 

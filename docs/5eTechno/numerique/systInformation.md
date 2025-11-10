@@ -26,6 +26,7 @@
 
 **Document 1 les données informatiques**
 
+Les données informatiques sont stockées sous la forme de fichiers.
 La quantité d'information contenue dans un fichier correspond à sa taille.
 La taille d'un fichier informatique est mesuré en octet (o) qui correspond à 8 bits. (de manière simplifiée un bit correspond à 0 ou 1).
 Tous les fichiers portent un nom et sont présents dans un dossier du système d'informations.
@@ -52,6 +53,10 @@ Les unités de tailles les plus courantes :
 <div markdown style="break-inside: avoid;">
 
 **Document 2 Des fichiers informatiques**
+
+Le chemin d'accès d'un fichier indique les dossiers dans lesquels il est contenu, son nom et son extension.
+
+![](image-1.png)
 
 ![](image.png){: style="width:1100px"}
 

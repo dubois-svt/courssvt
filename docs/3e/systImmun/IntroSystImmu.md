@@ -3,14 +3,7 @@
 !!! note-prof
     si besoin d'infos
 
-![](Pictures/articleBacteriesHumain.png)
-
-Le téléphone portable, plus sale que la cuvette des w.c.
-
-Le combiné contiendrait cinq cents fois plus de bactéries qu’un siège de toilette. Et vous, lavez-vous votre téléphone portable ?
-
-Par Laura Thouny, L’express, publié le 16/07/2010
-
+![Source Biorender](image.png)
 
 !!! question "Problématique"
 
@@ -24,7 +17,8 @@ Par Laura Thouny, L’express, publié le 16/07/2010
 
     Quels sont les acteurs de la défense de l’organisme ?
 
-??? question "Les acteurs du système immunitaire doivent pouvoir voyager dans tout le corps"
+??? question "Où se trouvent nos défenses ?"
+
     Les acteurs du système immunitaire doivent pouvoir voyager dans tout le corps, ils doivent donc être dans le sang.
 
 [Activité Acteurs de la défense](../acteursSystImmu)
@@ -32,7 +26,8 @@ Par Laura Thouny, L’express, publié le 16/07/2010
 
 
 ??? abstract "Bilan"
-    === "De quoi parler dans le bilan ? Quels mots clés ?"
+
+    <a markdown id="bilan1">
 
     === "Bilan à trous"
         Les ......................... ou globules blancs, sont des cellules sanguines intervenant dans la réponse de l’organisme face aux infections, la réponse immunitaire. Ils font partie du système immunitaire.
@@ -58,32 +53,43 @@ Par Laura Thouny, L’express, publié le 16/07/2010
 
         La contamination est l’entrée de micro-organisme dans le corps.
 
+    </a>
 
-## Séance 2 : Réaction à l'infection
+
+    
+## Séance 2 : Réaction à la contamination
 
 !!! question "Problématique"
 
-    Comment notre corps réagit-il face à une infection ?
+    Comment notre corps réagit-il à une contammination ?
 
-![](Pictures/multipliMicroorga.png)
+??? abstract "Notes supplémentaires"
 
-
-Une fois entrés dans l’organisme, les micro-organismes vont donc se multiplier, c’est l’infection.
-
-Les bactéries vont se multiplier. Elles vont ensuite envahir notre corps et/ou produire des toxines qui exerceront un effet pathogène.
-
-Les virus ont besoin de nos cellules pour se multiplier. Ils vont entrer à l’intérieur de la cellule, se multiplier et la cellule sera détruite à la sortie des nouveaux virus. Plus les virus se multiplient et plus, il y aura de cellules détruites.
+    ![](Pictures/inflammation.png){: style="width:300px;"}
 
 [Activité La réaction inflammatoire](../inflammation)
 
 
 
 
+??? abstract "Notes supplémentaires"
+
+    ![](Pictures/multipliMicroorga.png)
+    
+    
+    Une fois entrés dans l’organisme, les micro-organismes vont donc se multiplier, c’est l’infection.
+    
+    Les bactéries vont se multiplier. Elles vont ensuite envahir notre corps et/ou produire des toxines qui exerceront un effet pathogène.
+    
+    Les virus ont besoin de nos cellules pour se multiplier. Ils vont entrer à l’intérieur de la cellule, se multiplier et la cellule sera détruite à la sortie des nouveaux virus. Plus les virus se multiplient et plus, il y aura de cellules détruites.
+
+
+
 ??? abstract "Bilan"
-    === "De quoi parler dans le bilan ? Quels mots clés ?"
+    <a markdown id="bilan2">
+
 
     === "Bilan à trous"
-        Après la contamination, les microbes vont se multiplier dans l'organisme, c'est l'..........................
 
         Après une contamination, certains leucocytes (=globules blancs), cellules sanguines du système immunitaire vont détecter les éléments extérieurs (virus ou bactéries) et une ........................ va se produire très rapidement (gonflement, rougeur, chaleur et douleur).
 
@@ -93,9 +99,11 @@ Les virus ont besoin de nos cellules pour se multiplier. Ils vont entrer à l’
 
         C’est une réaction rapide et non spécifique (réaction contre n’importe quel élément étranger).
 
-    === "Bilan"
-        Après la contamination, les microbes vont se multiplier dans l'organisme, c'est l'infection.
+        Après la contamination, les microbes vont se multiplier dans l'organisme, c'est l'..........................
 
+
+    === "Bilan"
+    
         Après une contamination, certains leucocytes (=globules blancs), cellules sanguines du système immunitaire vont détecter les éléments extérieurs (virus ou bactéries) et une réaction inflammatoire va se produire très rapidement (gonflement, rougeur, chaleur et douleur).
 
         Les phagocytes qui sont leucocytes vont sortir des vaisseaux sanguins.
@@ -104,8 +112,12 @@ Les virus ont besoin de nos cellules pour se multiplier. Ils vont entrer à l’
 
         C’est une réaction rapide et non spécifique (réaction contre n’importe quel élément étranger).
 
+        Après la contamination, les microbes vont se multiplier dans l'organisme, c'est l'infection.
 
 
+
+    </a>
+    
 ## Séance 3 : Réaction de notre corps à une infection prolongée.
 
 
@@ -118,7 +130,8 @@ Les virus ont besoin de nos cellules pour se multiplier. Ils vont entrer à l’
 
 
 ??? abstract "Bilan"
-    === "De quoi parler dans le bilan ? Quels mots clés ?"
+    <a markdown id="bilan3">
+
 
     === "Bilan à trous"
         
@@ -141,6 +154,9 @@ Les virus ont besoin de nos cellules pour se multiplier. Ils vont entrer à l’
         Les lymphocytes T tueurs reconnaissent et détruisent  spécifiquement les cellules infectées par les virus portant l’antigène reconnu.
 
         Ce sont des réactions immunitaires lentes et spécifiques.
+
+
+    </a>
 
 ??? abstract "Infos"
     ![](Pictures/lymphocyteT_2.jpg)

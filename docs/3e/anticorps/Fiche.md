@@ -16,6 +16,10 @@
 - Comprendre le principe de la vaccination
 - Comprendre ce que fait le VIH et ce qu'est le SIDA.
 
+## Serious Games
+
+[Leucowar](https://www.pedagogie.ac-nice.fr/wp-content/uploads/sites/5/productions/leucowar/index.htm?mode=college)
+
 ## Flashcards
 
 <div markdown class="flashcard">
