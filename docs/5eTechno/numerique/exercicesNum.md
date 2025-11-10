@@ -41,7 +41,6 @@
 
 **Document 1 Un système d'information du collège**
 
-
 Le collège a un réseau informatique comportant des espaces de stockage.
 
 Trois répertoires sont à votre disposition.
@@ -52,7 +51,9 @@ L’espace de travail (lecteur H:) contient deux répertoires :
 - un répertoire « _travail » : où les enseignants peuvent déposer un document. Les élèves n’ont que le droit en lecture sur ce répertoire et ne peuvent donc pas modifier les documents présents.
 Le répertoire de l’élève « identifiant_eleve » : l’élève peut y sauvegarder ses travaux. Ce dossier est accessible en lecture et écriture par l’ensemble des professeurs de la classe. 
 
+**Document 2 Exemple d'arborescence**
 
+![](image-2.png)
 
 </div>
 <div markdown style="break-inside: avoid;">

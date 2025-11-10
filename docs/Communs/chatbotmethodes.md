@@ -287,16 +287,17 @@ L’abscisse est toujours après le « en fonction de » : ici, c’est le temps
 5. Mettre un titre
 
 Exemple de schéma fonctionnel
+<!--
 ```mermaid
     flowchart TD
-        A[Augmentation du nombre de carnivores] --> B[Augmentation nombre d'herbivores mangées] 
-        B --> C[Diminution du nombre de d'herbivores ] 
-        C --> D[Diminution de la quantité de végétaux mangés ]
-        D --> E[Augmentation de la végétation]
+        A[Augmentation du nombre de carnivores] -> B[Augmentation nombre d'herbivores mangées] 
+        B -> C[Diminution du nombre de d'herbivores ] 
+        C -> D[Diminution de la quantité de végétaux mangés ]
+        D -> E[Augmentation de la végétation]
 
 ```
-Schéma fonctionnel de l'influence du nombre de carnivores sur la végétation
-
+-->
+![](image.png)
 --- 
 </div>
 <div markdown style="break-inside: avoid;">
@@ -325,22 +326,24 @@ Tableau comparant la France et l'Espagne
 
 Pour construire un tableau à double entrée :
 
-1. Il faut commencer par identifier le nombre de lignes et de colonnes en regardant 
+1. Il faut commencer par identifier le nombre de lignes et de colonnes en regardant.
+   
 NB : Il faut ajouter une ligne et une colonne de plus pour ajouter les légendes.
+
 Exemple : Constuire un tableau pour comparer la présence des constituants (membrane, cytoplasme, noyau, ADN) des cellules animales et ceux d’une bactérie.
 Il y a 2 types de cellules et 4 composants donc le tableau fera 3 x 5.
 
-2. Choisir l’orientation du tableau pour que ce soit plus harmonieux sur la page
+1. Choisir l’orientation du tableau pour que ce soit plus harmonieux sur la page
 
-3. Construire le tableau en traçant toutes les lignes et les colonnes : votre tableau doit être entièrement refermé pour toutes les cases.
+2. Construire le tableau en traçant toutes les lignes et les colonnes : votre tableau doit être entièrement refermé pour toutes les cases.
    - Une ligne doit toujours faire la même hauteur du début à la fin
    - Une colonne doit toujours faire la même largeur du début à la fin
 
-4. Compléter la première ligne et la première colonne avec les titres (bien relire la question pour ne rien oublier).
+3. Compléter la première ligne et la première colonne avec les titres (bien relire la question pour ne rien oublier).
 
-5. Compléter l’ensemble du tableau.
+4. Compléter l’ensemble du tableau.
 
-6. Mettre un titre
+5. Mettre un titre
 
 
 --- 
@@ -377,7 +380,7 @@ Lorsque c’est nécessaire ajouter vos connaissances
 - Étape 3: CONCLURE
 Rédiger votre réponse au problème.
 « J’en conclus que...», « donc»
-Lorsque vous vérifiez une hypothèse il faut dire dans la conclusion si votre hypothèse est validée ou invalidée.
+Lorsque vous vérifiez une hypothèse, il faut dire dans la conclusion si votre hypothèse est validée ou invalidée.
 
 A la fin, relire la consigne et la réponse pour vérifier que cette réponse réponde bien à la consigne.
 
@@ -390,9 +393,9 @@ A la fin, relire la consigne et la réponse pour vérifier que cette réponse r�
 
 La démarche scientifique est l'ensemble des étapes utilisées par les scientifiques pour répondre à un problème.
 
-1. Observation :    Phénomène qui conduit à une question.
-2. Problème :   Question scientifique à laquelle on veut répondre
-3. Hypothèse :   Réponse possible au problème, la démarche scientifique permettra de la vérifier. Dans le cas d'une démarche expérimentale, on fera les étapes suivantes.
+1. Observation : Phénomène qui conduit à une question.
+2. Problème : Question scientifique à laquelle on veut répondre
+3. Hypothèse : Réponse possible au problème, la démarche scientifique permettra de la vérifier. Dans le cas d'une démarche expérimentale, on fera les étapes suivantes.
 4. Protocole : Étapes pour réaliser l'expérience, chaque étape contient un verbe d'action à l'infinif. L'expérience doit posséder deux tests minimum avec un seul paramètre variable.
 5. Résultats attendus : Indiquer quels devraient être les résultats pour les tests si l'hypothèse est vraie.
 6. Expérimentation : Faire l'expérience
@@ -418,7 +421,7 @@ C’est un outil fragile : il est donc primordial d’en prendre le plus grand s
 Utilisation
 
 1. On transporte toujours le microscope en le prenant par la potence avec une main et l'autre main en dessous
-2. La lame doit être bloquée par les valets sur la platine, l'objet doit être placé au dessus du trou de la platine
+2. La lame doit être bloquée par les valets sur la platine, l'objet doit être placé au-dessus du trou de la platine
 3. Allumer le microscope et régler la luminosité.
 4. On commence toujours à observer à l’objectif rouge (x4)
 5. La mise au point se fait avec les vis macroscopique (les grosses) à l’objectif rouge, on tourne la vis jusqu'à observer nettement l'objet
@@ -461,11 +464,11 @@ Calculer le grossissement : Pour savoir combien de fois on a grossi l’échanti
 3. Relier par un trait (le fil électrique) les deux dipôles .
 4. Continuer jusqu'à revenir à la borne négative du générateur.
 
-Pour les circuit en dérivation.
+Pour les circuits en dérivation.
 
 1. Construire la première boucle
-2. Repérer où est branché la seconde boucle
-3. Dessiner la secodne boucle.
+2. Repérer où est branchée la seconde boucle
+3. Dessiner la seconde boucle.
 
 **Attention !**
 Utiliser une règle et un crayon à papier
