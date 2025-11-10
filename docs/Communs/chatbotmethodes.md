@@ -24,7 +24,7 @@ Le chatbot est réalisé avec CHatMD de Cédric Eyssette.
 
 Je suis un chatbot pour vous aider à créer ou analyser un document en sciences.
 
-1. [Je recherche une méthode précise](A Faire)
+1. [Je recherche une méthode précise](À Faire)
 2. [Je cherche à comprendre la consigne](Comprendre la consigne)
 3. [Je cherche à apprendre mon cours](Apprendre son cours)
 
@@ -34,7 +34,7 @@ Je suis un chatbot pour vous aider à créer ou analyser un document en sciences
 </div>
 <div markdown style="break-inside: avoid;">
 
-## A Faire
+## À Faire
 
 Que faut-il faire ?
 
@@ -68,7 +68,7 @@ Je ne comprends pas ce qu'il faut faire dans la consigne
 1. Commencer par lire la consigne en entier
 2. Chercher les mots difficiles et s'assurer que l'on en comprenne le sens
 3. Repérer les mots importants :
-  - Verbe d'action qui indique quoi faire
+  - Verbe d'action qui indique que faire
   - Mots indiquant la production attendue (schéma, texte, tableau ...)
   - Mots indiquant où trouver les informations
 
@@ -95,13 +95,13 @@ Je ne comprends pas ce qu'il faut faire dans la consigne
 
 **Verbe Action "complexe"**
 
-- MONTRER/DÉMONTRER : Construire un raisonnement scientifique (je vois que...je sais que...j’en déduis que ...)
-- JUSTIFIER : Expliquer pourquoi on a choisi cette réponse (parce que ... car...)
-- EXPLIQUER : Expliquer les causes et les conséquences  (J'observe... je sais que...j'en déduis que...)
+- MONTRER/DÉMONTRER : Construire un raisonnement scientifique (je vois que... je sais que... j’en déduis que ...)
+- JUSTIFIER : Expliquer pourquoi on a choisi cette réponse (parce que... car...)
+- EXPLIQUER : Expliquer les causes et les conséquences (J'observe... je sais que... j'en déduis que...)
 - COMPARER : Faire une comparaison, c’est-à-dire trouver les points communs et différences entre 2 éléments.
 - DÉDUIRE : Établir une conséquence logique
 - ANALYSER : Construire un raisonnement scientifique.
-- DÉTERMINER : S’exprimer en faisant une phrase afin de résoudre un problème ou une question en se basant sur le cours ou les documents.  (J'observe... je sais que...j'en déduis que...)
+- DÉTERMINER : S’exprimer en faisant une phrase afin de résoudre un problème ou une question en se basant sur le cours ou les documents. (J'observe... je sais que...j'en déduis que...)
 - FORMULER UNE HYPOTHÈSE : Proposer une solution qui n’est pas encore démontrée, mais qui doit être possible. (Je pense que… Je suppose que…)
 - CONCLURE : Faire le bilan après une explication
 </div></div>
@@ -127,7 +127,8 @@ La mémoire ne peut pas être efficace sur du court terme (la veille du devoir),
 - Relire régulièrement le cours le soir.
 - Réciter plusieurs fois le cours.
 - Faire des fiches révisions, une fiche contient les idées principales du cours (définitions, mots clés ...)
-- Faire des flashcards, avec des questions portant sur le cours sur le devant de la carte et les réponses sur le dos de la carte, pour s’entraîner- En cas de questions, les noter pour les poser au cours suivant.
+- Faire des flashcards, avec des questions portant sur le cours sur le devant de la carte et les réponses sur le dos de la carte, pour s’entraîner
+- En cas de questions, les noter pour les poser au cours suivant.
 - Lorsqu'une évaluation est prévue prévoir trois périodes de révision minimum (1 semaine avant, 3 jours avant et la veille).
 
 --- 
@@ -153,7 +154,7 @@ Il est possible de faire un cadre avec 4 pour ne rien oublier.
    - Les noms au bout des traits
 
 - Mettre un titre 
-   - On met un titre avec  le type de document  (dessin) + ce qu’il représente (+ Mode d’obtention : microscope, loupe avec le grossissement)
+   - On met un titre avec le type de document (dessin) + ce qu’il représente (+ Mode d’obtention : microscope, loupe avec le grossissement)
    -  GROSSISSEMENT / ÉCHELLE
    Grossissement : uniquement au microscope (objectif x oculaire)
 
@@ -165,7 +166,7 @@ Il est possible de faire un cadre avec 4 pour ne rien oublier.
 
 ## Réaliser un schéma structurel
 
-Un schéma est une représentation simplifié de la réalité. Il ne faut donc pas tout représenter. Les tailles et les formes ne sont pas forcément respectées. Il montre l'organisation, la structure d’un élément.
+Un schéma est une représentation simplifiée de la réalité. Il ne faut donc pas tout représenter. Les tailles et les formes ne sont pas forcément respectées. Il montre l'organisation, la structure d’un élément.
 
 Le schéma se fait au centre de la feuille, on représente l'objet observé ou une partie de façon assez grosse pour être lisible.
 
@@ -183,7 +184,7 @@ Il est possible de faire un cadre avec 4 pour ne rien oublier.
 La légende peut être aussi sous la forme de figuré ou de symbole
 
 - Mettre un titre 
-   - On met un titre avec  le type de document (schéma) + ce qu’il représente (+ Mode d’obtention : microscope, loupe avec le grossissement)
+   - On met un titre avec le type de document (schéma) + ce qu’il représente (+ Mode d’obtention : microscope, loupe avec le grossissement)
    -  GROSSISSEMENT / ÉCHELLE
    Grossissement : uniquement au microscope (objectif x oculaire)
 
@@ -205,15 +206,15 @@ La légende peut être aussi sous la forme de figuré ou de symbole
      -  ou rester stable.
    - Chaque phrase indique le moment de début et de fin et les valeurs du phénomène mesuré.
    Remarque : c’est le phénomène mesuré sur l’axe vertical qui évolue ; il ne faut donc pas dire que la courbe augmente ou diminue, mais que la grandeur étudiée augmente ou diminue.
-   - Pour les graphiques plus complexes, avec beaucoup de variations:
-   Il faut donner les les minimums et maximums et décrire les tendances, par exemple, voit-on régulièrement les mêmes variations = cycle.
+   - Pour les graphiques plus complexes, avec beaucoup de variations :
+   Il faut donner les minimums et maximums et décrire les tendances, par exemple, voit-on régulièrement les mêmes variations = cycle.
 
 ![](Pictures/graph.png)
 
 Exemple : 
 Ce graphique représente la température en fonction de l’heure de la journée. 
 De 0 h à 6 h, la température est à 8°C, donc la température est constante à 8 °C. 
-De 6 h à 14 h, la température passe de 8 à 30°C, donc elle  augmente. 
+De 6 h à 14 h, la température passe de 8 à 30°C, donc elle augmente. 
 De 14 h à 24 h, la température passe de 30 à 8°C, donc elle diminue.
 
 
@@ -227,22 +228,22 @@ De 14 h à 24 h, la température passe de 30 à 8°C, donc elle diminue.
 
 Un graphique se construit :
 - au crayon de papier, 
-- sur papier millimetré,
+- sur papier millimétré,
 - à partir d’un tableau de données.
 
 • Étape 1 : Grâce à la consigne, déterminer les deux grandeurs à reporter sur les axes :    
   - le paramètre mesuré -> ordonnée (vertical)
   - le paramètre variable -> abscisse (horizontal)
 C’est toujours l’ordonnée qui varie en fonction de l’abscisse.
-La consigne sera le plus souvent écrite avec : « paramètre mesuré EN FONCTION du paramètre variable »  
+La consigne sera le plus souvent écrite avec : « paramètre mesuré EN FONCTION du paramètre variable. »
 
 • Étape 2 : Tracer le repère avec les 2 axes gradués et les légender en plaçant une unité
 
 
 • Étape 3 : Déterminer l'échelle pour graduer les axes :
-  - repérer pour chaque paramètre les valeurs maximales et minimales à placer.
-  - trouver une graduation en adéquation avec ces valeurs «1 en 1, 2 en 2, 5 en 5, 10 en 10, 100 en 100 ».
-  - graduer les axes en respectant l'écart entre chaque graduation.
+  - Repérer pour chaque paramètre les valeurs maximales et minimales à placer.
+  - Trouver une graduation en adéquation avec ces valeurs « 1 en 1, 2 en 2, 5 en 5, 10 en 10, 100 en 100 ».
+  - Graduer les axes en respectant l'écart entre chaque graduation.
 
 • Étape 4 : Placer les points en faisant correspondre les coordonnées présentes dans le tableau de résultats. Une valeur mesurée correspond à une valeur du paramètre variable. 
 
@@ -307,19 +308,19 @@ Exemple de schéma fonctionnel
 Un tableau permet de regrouper des informations pour mieux les comparer.
 
 Il y a deux types de tableaux : 
-- tableau à simple entrée qui servent surtout à classer
+- Tableau à simple entrée qui servent surtout à classer
   
-| **Europe**  | **Asie**  | **Afrique**  |
+| **Europe** | **Asie** | **Afrique** |
 | -- | -- | -- |
-| France | Japon  | Namibie  |
-| Espagne | Thaïlande  | Ghana  |
+| France | Japon | Namibie |
+| Espagne | Thaïlande | Ghana |
 
-- tableau à double entrée qui permettent de comparer des informations.
+- Tableau à double entrée qui permet de comparer des informations.
 
-|  | **France**    | **Espagne**  |
+| | **France** | **Espagne** |
 | -- | -- | -- |
-| **Capitale** |  Paris | Madrid  |
-| **Population** | 68 millions  |  47 millions |
+| **Capitale** | Paris | Madrid |
+| **Population** | 68 millions | 47 millions |
 
 Tableau comparant la France et l'Espagne
 
@@ -330,14 +331,14 @@ Pour construire un tableau à double entrée :
    
 NB : Il faut ajouter une ligne et une colonne de plus pour ajouter les légendes.
 
-Exemple : Constuire un tableau pour comparer la présence des constituants (membrane, cytoplasme, noyau, ADN) des cellules animales et ceux d’une bactérie.
+Exemple : Construire un tableau pour comparer la présence des constituants (membrane, cytoplasme, noyau, ADN) des cellules animales et ceux d’une bactérie.
 Il y a 2 types de cellules et 4 composants donc le tableau fera 3 x 5.
 
 1. Choisir l’orientation du tableau pour que ce soit plus harmonieux sur la page
 
 2. Construire le tableau en traçant toutes les lignes et les colonnes : votre tableau doit être entièrement refermé pour toutes les cases.
-   - Une ligne doit toujours faire la même hauteur du début à la fin
-   - Une colonne doit toujours faire la même largeur du début à la fin
+   - Une ligne doit toujours faire la même hauteur du début à la fin.
+   - Une colonne doit toujours faire la même largeur du début à la fin.
 
 3. Compléter la première ligne et la première colonne avec les titres (bien relire la question pour ne rien oublier).
 
@@ -374,15 +375,15 @@ RÉDIGER UNE RÉPONSE SCIENTIFIQUE COMPLEXE
 - Étape 1 : OBSERVER
 Extraire les informations utiles des documents pour répondre à la question, en indiquant dans quel document est trouvé l'information.
 « Je vois que... », « j’observe que... », « je constate que... », « je remarque que »
-- Étape 2: INTERPRÉTER
+- Étape 2 : INTERPRÉTER
 Lorsque c’est nécessaire ajouter vos connaissances
-« or je sais que... », « d’après mes connaissances ...»
-- Étape 3: CONCLURE
+« or, je sais que... », « d’après mes connaissances ... »
+- Étape 3 : CONCLURE
 Rédiger votre réponse au problème.
-« J’en conclus que...», « donc»
+« J’en conclus que... », « donc »
 Lorsque vous vérifiez une hypothèse, il faut dire dans la conclusion si votre hypothèse est validée ou invalidée.
 
-A la fin, relire la consigne et la réponse pour vérifier que cette réponse réponde bien à la consigne.
+À la fin, relire la consigne et la réponse pour vérifier que cette réponse réponde bien à la consigne.
 
 --- 
 
@@ -424,18 +425,18 @@ Utilisation
 2. La lame doit être bloquée par les valets sur la platine, l'objet doit être placé au-dessus du trou de la platine
 3. Allumer le microscope et régler la luminosité.
 4. On commence toujours à observer à l’objectif rouge (x4)
-5. La mise au point se fait avec les vis macroscopique (les grosses) à l’objectif rouge, on tourne la vis jusqu'à observer nettement l'objet
+5. La mise au point se fait avec les vis macroscopiques (les grosses) à l’objectif rouge, on tourne la vis jusqu'à observer nettement l'objet
 6. Centrer la zone choisie dans le champ d'observation
-7. La mise au point se fait avec les vis microscopique (les petites) à partir de l’objectif jaune (x10) et bleu (x40/x60)
+7. La mise au point se fait avec les vis microscopiques (les petites) à partir de l’objectif jaune (x10) et bleu (x40/x60)
 
-Rangement: 
+Rangement : 
 
 1. On enlève la lame et on la dépose sur le bureau
 2. On remet l’objectif sur le rouge (x4)
 3. On range le câble soit autour du microscope, soit à l’arrière
 4. On range le microscope là où on l’a trouvé
 
-Calculer le grossissement : Pour savoir combien de fois on a grossi l’échantillon que l’on observe, il faut regarder le grossissement de l’oculaire (généralement x10) et celui de l’objectif (x4, x10 ou x40/x60). On les multiplie alors ensemble.
+Calculer le grossissement : Pour savoir combien de fois, on a grossi l’échantillon que l’on observe, il faut regarder le grossissement de l’oculaire (généralement x10) et celui de l’objectif (x4, x10 ou x40/x60). On les multiplie alors ensemble.
 
 </div>
 <div markdown style="break-inside: avoid;">
@@ -461,7 +462,7 @@ Calculer le grossissement : Pour savoir combien de fois on a grossi l’échanti
 
 1. Représenter le générateur.
 2. Représenter le récepteur relié à la borne positive.
-3. Relier par un trait (le fil électrique) les deux dipôles .
+3. Relier par un trait (le fil électrique) les deux dipôles.
 4. Continuer jusqu'à revenir à la borne négative du générateur.
 
 Pour les circuits en dérivation.
@@ -763,26 +764,26 @@ Les scientifiques nomment ensuite ces groupes.
 Il faudra faire un calcul de proportionnalité avec l'échelle
 
 
-Pour vous aider il est posssible d'utiliser un de ces deux tableaux
+Pour vous aider, il est possible d'utiliser un de ces deux tableaux
 
-Pour les 6e, 5e et 4e, la méthode du retour à l'unité : 
+### Pour les 6e, 5e et 4e, la méthode du retour à l'unité : 
 
-|         |Taille sur le document  | Unité | taille réelle |
+| |Taille sur le document | Unité | taille réelle |
 |----------|--|--|--|
-| échelle            |  |  1 |  |
-| taille ou distance |  |     |  |
+| échelle | | 1 | |
+| taille ou distance | | | |
 
 Pour remplir les tailles sur le document, il faut utiliser sa règle et mesurer l'échelle sur le document et la taille ou distance que l'on veut déterminer réellement.
-Pour la taille réelle de léchelle, elle est indiquée au dessus ou en dessous de la barre d'échelle
+Pour la taille réelle de l'échelle, elle est indiquée au-dessus ou en dessous de la barre d'échelle
 
-À partir du rapport ou du taux dont on connait les 2 termes, obtenir un rapport ou un taux équivalent dont le dénominateur est 1
+À partir du rapport ou du taux dont on connait les 2 termes, obtenir un rapport ou un taux équivalent dont le dénominateur est 1.
 
-Pour les 3e, la méthode du produit en croix :
+### Pour les 3e, la méthode du produit en croix :
 
-|         |Taille sur le document  | taille réelle |
+| |Taille sur le document | taille réelle |
 |----------|--|--|
-| échelle            |  |    |
-| taille ou distance |  |  |
+| échelle | | |
+| taille ou distance | | |
 
 
 </div>
