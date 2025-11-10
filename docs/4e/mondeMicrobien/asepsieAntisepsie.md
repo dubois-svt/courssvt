@@ -12,7 +12,7 @@
     - 
 
 
-<div style="break-inside: avoid;">
+<div markdown style="break-inside: avoid;">
 
 **Document 1 La peau et les muqueuses, des barrières naturelles**
 
@@ -20,7 +20,7 @@ Nous vivons au contact de microbes dont certains sont pathogènes. Notre corps e
 En effet, l’épiderme et les muqueuses sont recouverts de substances chimiques qui peuvent détruire les microbes. Toutefois, ces derniers peuvent franchir cette barrière au niveau de la moindre égratignure, la désinfection, avec un produit antiseptique, d’une plaie permet de réduire le risque de contamination.
 
 </div>
-<div style="break-inside: avoid;">
+<div markdown style="break-inside: avoid;">
 
 **Document 2 Effet du lavage des mains sur les micro-organismes cutanés**
 
@@ -30,7 +30,7 @@ On met une main sur un milieu de culture de bactéries. Après quelques jours de
 
 
 </div>
-<div style="break-inside: avoid;">
+<div markdown style="break-inside: avoid;">
     
 **Document 3 Les salmonelles**
 
@@ -49,7 +49,7 @@ Les salmonelles comme beaucoup de bactéries se développent rapidement à 37 �
 </div></div>
 
 </div>
-<div style="break-inside: avoid;">
+<div markdown style="break-inside: avoid;">
     
 **Document 4 Schéma des barrières naturelles de l’organisme humain**
 
