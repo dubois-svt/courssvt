@@ -24,7 +24,7 @@ En effet, l’épiderme et les muqueuses sont recouverts de substances chimiques
 
 **Document 2 Effet du lavage des mains sur les micro-organismes cutanés**
 
-On met une main sur un milieu de culture de bactéries. Après quelques jours de culture, on observe des points blancs, ce sont des bactéries.
+On met une main sur un milieu de culture de bactéries. Après quelques jours de culture, on observe des points blancs, ce sont des colonies de bactéries.
 
 ![](pictures/photoExpLavageMains.png)
 
