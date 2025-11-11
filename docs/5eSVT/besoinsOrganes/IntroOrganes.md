@@ -165,7 +165,7 @@ Le cross du collège se déroulera bientôt. Pour vous préparer, les enseignant
 
     <a markdown id="bilan4">
 
-    Le corps humain des limites. L'activité cardio-repsiratoires ne peut pas augmenter indéfiniment. 
+    Le corps humain des limites. L'activité cardio-repsiratoires ne peut pas augmenter indéfiniment. Il y a une consommation maximale de dioxygène possible (VO₂max) et une fréquence cardiaque maximale.
     
     Les capacités cardiaques et respiratoires peuvent être augmentées en suivant un entrainement. Ce qui est bénéfique pour la santé sur le long terme.
 
