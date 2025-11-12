@@ -6,10 +6,10 @@
 
 !!! warning "Consignes"
     
-    1. Compléter et légender le schéma du document 6 avec
+    1. Compléter et légender le schéma du document avec
         - Le foyer (par un point vert), la faille et l’épicentre (point rouge)
         - La propagation des ondes sismiques (cercle en pointillés)
-        - Les contraintes exercées sur les roches (flèches épaisses rouges) et le mouvement des roches (flèches fines bleues)
+        - Les forces exercées sur les roches (flèches épaisses rouges) et le mouvement des roches (flèches fines bleues)
         - L’état des maisons situées aux emplacements 1, 2 et 3.
 
     
@@ -18,6 +18,6 @@
 
 
 
-**Document 6 Schéma des effets d'un séisme**
+**Document 1 Schéma des effets d'un séisme**
 
 ![](pictures/schemaEffetSeisme.png)
