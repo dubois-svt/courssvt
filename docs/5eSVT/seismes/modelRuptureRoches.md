@@ -11,7 +11,7 @@
     1. À partir de l’analyse des documents 1, 2 et 3, construire un schéma fonctionnel expliquant ce qui provoque un séisme.
     2. Rédiger un protocole expérimental d'un modèle qui permettrait d'enregistrer des ondes sismiques, en vous aidant du document 4. Appeler l'enseignant.
     3. Réaliser la modélisation.
-    4. Expliquer l’intérêt du modèle dans cette activité et donner une ou deux critiques qui pourrait être faite.
+    4. Expliquer l’intérêt du modèle dans cette activité et donner une ou deux critiques qui pourraient être faites.
 
 ??? bug "Critères de réussite"
 

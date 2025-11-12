@@ -17,6 +17,8 @@
 
     
 ??? bug "Critères de réussite"
+  - Aléa est déterminé en fonction du nombre de séismes ayant eu lieu dans la région étudiée
+  - Vulnérabilité des  enjeux est détermininé en fonction du nombre de personnes exposées et de la possibilité pour eux de fabriquer des batiments résistants
 
 
 **Document 1 Prévision, protection et prévention d'un risque**
@@ -38,7 +40,7 @@ Pour réduire le risque 3 approches sont possibles :
 
 - La prévision est l’étude de l’aléa (nature, fréquence, localisation, intensité, date des événements majeurs) permettant une détermination plus précise du risque.
 
-- La protection est l’ensemble des mesures prises pour diminuer l’impact potentiel d’un aléa sur un enjeu donné (population, construction…) et donc diminuer le risque en diminuant la vulnérabilité.
+- La protection est l’ensemble des mesures prises pour diminuer l’impact potentiel d’un aléa sur un enjeu donné lorsqu'il a lieu(population, construction…) et donc diminuer le risque en diminuant la vulnérabilité.
 
 - La prévention d’un risque est l’ensemble des mesures visant à anticiper les aléas et leurs impacts par divers moyens (apprentissage de gestes ou consignes à suivre en cas de problème, mise en place et respect de règles ou protocoles d’action…) afin de diminuer le risque global.
 

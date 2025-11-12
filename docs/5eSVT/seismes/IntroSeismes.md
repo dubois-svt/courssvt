@@ -15,7 +15,6 @@
 ![](pictures/planTrav.png){:style="width:1000px;"}
 
 
-
 ## Séance 1 : Les séismes
 
 !!! question "Problématique"
@@ -54,7 +53,7 @@
     Comment se propagent les ondes sismiques ? 
 
 [Activité Propagation des ondes sismiques et intensité](../propagOndes)
-[Activité Propagation des ondes sismiques et intensité Eléa](https://mureaux.elea.ac-versailles.fr/course/view.php?id=1399)https://mureaux.elea.ac-versailles.fr/course/view.php?id=1399
+[Activité Propagation des ondes sismiques et intensité Eléa](https://mureaux.elea.ac-versailles.fr/course/view.php?id=1399)
 
 
 ??? abstract "Bilan"

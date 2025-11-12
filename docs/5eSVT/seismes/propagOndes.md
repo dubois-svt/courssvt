@@ -6,23 +6,19 @@
     - utiliser l'outil mathématique
 
 !!! warning "Consignes"
-    
-    1. D'après les documents 2 et 3 , quel mot permet de qualifier la ville de Bam ? Qu’est-ce que cela signifie ?
-    2. Décris ensuite en quelques phrases la manière dont les dégâts sont répartis dans la région de Bam. (document 2)
-    3. A l’aide du document 5 propose une explication à cette répartition des dégâts en étudiant les données apportées par les sismogrammes.
-    4. Calculer la vitesse des ondes sismiques entre l'épicentre et Djibouti à partir des documents 1 et 5
-    5. Compléter et légender le schéma du document 6 avec
-        - Le foyer (par un point vert), la faille et l’épicentre (point rouge)
-        - La propagation des ondes sismiques (cercle en pointillés)
-        - Les contraintes exercées sur les roches (flèches épaisses rouges) et le mouvement des roches (flèches fines bleues)
-        - L’état des maisons situées aux emplacements 1, 2 et 3.
 
-    
+    1. Décris  en quelques phrases la manière dont les dégâts sont répartis dans la région de Bam. (document 2)
+    2. Comparer les 3 sismogrammes du séisme.
+    3. Proposer une explication à cette répartition des dégâts en étudiant les données apportées par les sismogrammes.
+    4. Calculer la vitesse des ondes sismiques entre l'épicentre et Djibouti à partir des documents 1 et 5
+
+
 ??? bug "Critères de réussite"
     - description intensité :
       - comparer intensité autour de la ville de Bam
       - Formuler une conclusion
         - compléter la phrase suivante : Plus on s’éloigne de _ _ _ _ _ _ _ _ _ _ _ _ _ plus l’intensité du séisme _ _ _ _ _ _ _ _ _ _ _ _
+    - Comparer les sismogrammes en focntion de l'heure de début enregsitrée et de l'amplitude
     - calculer vitesse
       - rappeler formule
       - trouver le temps entre le séisme et un enregistrement
@@ -106,8 +102,3 @@ Aujourd’hui, des sismomètres réalisent des mesures électroniques.
 ![](pictures/carteStationSismiques.png){:style="width:400px;"}
 ![](pictures/sismogrammeBam.png){:style="width:400px;"}
 </div>
-
-
-**Document 6 Schéma des effets d'un séisme**
-
-![](pictures/schemaEffetSeisme.png)
