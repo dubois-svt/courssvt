@@ -20,11 +20,11 @@
 
 **Document 1 Les séismes.**
 
-<div markdown style="display:flex; flex-direction:row;">
+
 
 Les séismes ou tremblements de terre sont des vibrations soudaines et fréquentes à la surface du globe, souvent imperceptibles pour des humains, il y a plus de 1000 secousses par jour, mais parfois intenses et dévastatrices (de 10 à 100 par an). Les vibrations du sol sont appelées ondes sismiques.
 
-<div markdown style="display:flex; flex-direction:column;">
+<div markdown style="display:flex; flex-direction:row;">
 
 <iframe title="Tremblement de terre, tsunami et explosion nucléaire au Japon _ Archive INA" width="560" height="315" src="https://tube-sciences-technologies.apps.education.fr/videos/embed/ba209534-e17f-48a9-bb17-103028a4f7d8" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 
@@ -32,7 +32,7 @@ Les séismes ou tremblements de terre sont des vibrations soudaines et fréquent
 
 </div>
 
-</div>
+
 
 
 **Document 2 Effets des séismes observables sur le sol.**
