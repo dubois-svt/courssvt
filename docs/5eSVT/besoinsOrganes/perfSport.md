@@ -11,6 +11,12 @@
     
 ??? bug "Critères de réussite"
 
+    - Identifier les limites du corps
+    - Indiquer l'effet de l'entrainement sur les limites
+    - Indiquer l'impact sur la santé et les performances
+    - Décrire l'impact duu surentrainement sur la santé et les performances
+    - Expliquer pourquoi les sportifs se dopent et l'impact sur le corps.
+
 
 <div  markdown style="break-inside: avoid;">
     
