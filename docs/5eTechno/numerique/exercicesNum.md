@@ -72,7 +72,7 @@ Le répertoire de l’élève « identifiant_eleve » : l’élève peut y sauve
 
 **Document 1 Mots de passe**
 
-Une élève nommée Idia et née le 07072012 veut choisir un mot de passe dans cette liste :
+Une élève nommée Idia née le 07072012, habitant aux Mureaux et dont la mère s'appelle Hanna veut choisir un mot de passe dans cette liste :
 
 
 <div markdown style="display: flex; flex-direction: row">
