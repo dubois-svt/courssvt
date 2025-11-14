@@ -67,7 +67,7 @@ Le répertoire de l’élève « identifiant_eleve » : l’élève peut y sauve
 
 !!! warning "Consignes"
 
-    1. Indiquer les mots de passse qui vous semblent les plus appropriés dans le document 1
+    1. Indiquer les mots de passe qui vous semblent les plus appropriés dans le document 1
     2. Indiquer où est ce que l'on peut télécharer le logiciel VLC sans risque de malware. 
 
 **Document 1 Mots de passe**
