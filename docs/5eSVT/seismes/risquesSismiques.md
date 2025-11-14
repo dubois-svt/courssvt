@@ -18,8 +18,8 @@
     
 ??? bug "Critères de réussite"
 
-  - Aléa est déterminé en fonction du nombre de séismes ayant eu lieu dans la région étudiée
-  - Vulnérabilité des  enjeux est détermininé en fonction du nombre de personnes exposées et de la possibilité pour eux de fabriquer des batiments résistants
+    - Aléa est déterminé en fonction du nombre de séismes ayant eu lieu dans la région étudiée
+    - Vulnérabilité des  enjeux est détermininé en fonction du nombre de personnes exposées et de la possibilité pour eux de fabriquer des batiments résistants
 
 
 **Document 1 Prévision, protection et prévention d'un risque**
