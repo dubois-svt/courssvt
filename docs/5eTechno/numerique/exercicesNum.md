@@ -20,7 +20,7 @@
 | Clé USB | 64Go   |
 | CD | 700 Mo|
 | Disque externe | 500 Go |
-
+| Clé USB | 2Go   |
 
 </div>
 <div markdown style="break-inside: avoid;">
