@@ -119,10 +119,10 @@ Si on recherche sur un moteur de recherche à télécharger le logiciel VLC de V
 
 !!! warning "Consignes"
 
-    1. Pour chacune de ces situations indiquer s'il s'agi de cyberviolence.
+    1. Pour chacune de ces situations indiquer s'il s'agit de cyberviolence.
 
 
-**Document 4 Des situations de cyberviolence ?**
+**Document 1 Des situations de cyberviolence ?**
 
 
 Dire une fois à quelqu’un que vous n’êtes pas d’accord avec lui.
