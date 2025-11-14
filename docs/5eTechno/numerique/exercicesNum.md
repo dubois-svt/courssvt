@@ -12,7 +12,7 @@
 
 !!! warning "Consignes"
 
-    1. Vous avez un document de 3500 Mo à enregistrer , vous devez choisir un moyen de stokage pour le sauvegarder. Quel objet faut-il utiliser ? 
+    1. Vous avez un document de 3500 Mo à enregistrer, vous devez choisir un moyen de stockage pour le sauvegarder. Quel objet faut-il utiliser ? 
 
 
 | Nom de l’objet  | Taille  |
