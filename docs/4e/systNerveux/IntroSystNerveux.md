@@ -8,9 +8,8 @@
 
     Comment fonctionne le système nerveux ?
 
+![](image-2.png)
     
-
-![](Pictures/footIA.jpg){: style="width:400px; flex-shrink: 0;"}
 
 ## Séance 1 : Le mouvement
 
