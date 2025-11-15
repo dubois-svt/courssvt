@@ -1,7 +1,7 @@
 # Activité : Exercices d’application
 
+[Exercices en version interactive](../exercicesNumH5P)
 
-</div>
 <div markdown style="break-inside: avoid;">
 
 ## Exercice 1 : Moyens de stockage

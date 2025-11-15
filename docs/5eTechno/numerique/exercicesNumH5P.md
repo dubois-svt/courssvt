@@ -1,13 +1,10 @@
 # Activité : Exercices d’application
 
-
-</div>
 <div markdown style="break-inside: avoid;">
 
 ## Exercice 1 : Moyens de stockage
 
-<div class="d-flex justify-content-end mb-3">
-</div>
+
 
 <iframe
     src="exoStockage.h5p"
