@@ -100,9 +100,14 @@ L’être humain et plus généralement tous les animaux ont besoin de manger po
     Les aliments doivent apporter tous les nutriments nécessaires au fonctionnement de notre organisme (= apports qualitatifs). Lorsqu’un nutriment n’est pas apporté en quantité suffisante, on parle de carence. Les carences peuvent provoquer des maladies graves.
 
 
+## Séance 5 : Microbiote
+
+TODO : activité à faire
+
+
 
 <div style="break-inside: avoid;"></div>
 
-## Séance 5 : Exercices
+## Séance 6 : Exercices
 
 [Activité Exercices sur la digestion](../exercicesDigestion)
