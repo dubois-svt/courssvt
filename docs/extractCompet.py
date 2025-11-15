@@ -21,6 +21,12 @@ def extraire_section(fichier_md, debut, fin, limitedebut, limitefin):
     except FileNotFoundError:
         print(f"❌ Erreur : le fichier '{fichier_md}' n'existe pas.")
 
+print("---")
+print("initialExpandLevel: 1")
+print("title: Mon titre")
+print("focusOnBranch: true")
+print("---")
+
 
 # Ouvre le fichier en lecture (utf-8 pour éviter les problèmes d'accents)
 with open("sommaire.md", "r", encoding="utf-8") as f:
