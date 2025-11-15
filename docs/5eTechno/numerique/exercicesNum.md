@@ -1,6 +1,6 @@
 # Activité : Exercices d’application
 
-[Exercices en version interactive](../exercicesNumH5P)
+[Exercices en version interactive](https://mureaux.elea.ac-versailles.fr/course/view.php?id=1426)
 
 <div markdown style="break-inside: avoid;">
 
