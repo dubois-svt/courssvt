@@ -7,8 +7,7 @@
 
 !!! warning "Consignes"
 
-    1. A partir des documents, expliquer sous la forme d'un schéma focntionnel la rougeur et le gonflement.
-    2. Expliquer l'intéret pour le corps de la réaction inflammatoire.
+    1. A partir des documents, expliquer sous la forme d'un schéma focntionnel les réactions du corps au niveau d'une blessure. Votre réponse devra expliquer comment le corps élimine les bactéries.
 
 ??? bug "Critères de réussite"
 
@@ -17,7 +16,10 @@
     - Avoir expliqué le lien entre gonflement et accumulation de cellules
 
 
-Cette réaction s’accompagne d’un gonflement, d’une rougeur et d’une augmentation de la température de la zone. Il peut aussi y avoir une douleur. La couleur de la peau dépend en partie de la quantité de sang qui passent dans les vaisseaux sanguins.
+Cette réaction s’accompagne d’un gonflement, d’une rougeur et d’une augmentation de la température de la zone. Il peut aussi y avoir une douleur. 
+
+
+
 
 **document 1 blessure**
 
@@ -33,7 +35,7 @@ bactérie rentre et des médiateurs chimiques sont libérés.
 <div markdown style="display: flex; flex: 2 1 0; flex-direction: column;">
 Lors d'une contamination, des molécules sont libérées, cela va entraîner une dilatation des vaisseaux sanguins. Les vaisseaux sanguins vont grossir au niveau de la contamination.
 
-Les molécules libérées vont aussi attirer des leucocytes. Les leucocytes présents dans le sang vont traverser la paroi des vaisseaux sanguins, accompagnés d’un peu de plasma sanguin (=partie liquide du sang)tous ces phénomènes vont entraîner une rougeur, un gonflement et de la chaleur au niveau de la zone infectée.
+Les molécules libérées vont aussi attirer des leucocytes. Les leucocytes présents dans le sang vont traverser la paroi des vaisseaux sanguins, accompagnés d’un peu de plasma sanguin (=partie liquide du sang). tous ces phénomènes vont entraîner une rougeur, un gonflement et de la chaleur au niveau de la zone infectée.
 
 </div></div>
 
@@ -41,7 +43,7 @@ Les molécules libérées vont aussi attirer des leucocytes. Les leucocytes pré
 
 le diamètre des vaisseaux sanguins détermine le débit sanguin et donc la quantité de sang qui circule à cet endroit
 en se dilatant, la paroi des vaisseaux sanguins devient plus perméable et des éléments du sang peuvent sortir
-
+La couleur de la peau dépend en partie de la quantité de sang qui passent dans les vaisseaux sanguins.
 
 
 **document 4 sang**
@@ -56,7 +58,7 @@ Quelques heures après une blessure, une réaction inflammatoire apparaît, acco
 
 <iframe src="https://lycees.netocentre.fr/POD/video/7958-reaction-inflammatoire/?is_iframe=true&loop=true" width="640" height="360" style="padding: 0; margin: 0; border:0" allowfullscreen ></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_5ZymOPk1Jk?si=o-UgoV47iDe_W3Jo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 
@@ -66,7 +68,7 @@ Quelques heures après une blessure, une réaction inflammatoire apparaît, acco
 
 
 
-**Document 2 Schématisation de la réaction inflammatoire.**
+**Document 2 La réaction inflammatoire.**
 
 ![](Pictures/schemaReactionInfla.png)
 
@@ -80,7 +82,7 @@ La phagocytose est une méthode de défense assurée par certains leucocytes app
 
 ![](Pictures/schemaPhagocytose.png)
 
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_5ZymOPk1Jk?si=o-UgoV47iDe_W3Jo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ??? note-prof "correction"
 
