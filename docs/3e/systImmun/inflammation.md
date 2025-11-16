@@ -11,38 +11,19 @@
     2. Expliquer l'intéret pour le corps de la réaction inflammatoire.
 
 ??? bug "Critères de réussite"
-    - Avoir expliquer le but de la digestion
-    - Avoir expliquer le lien entre rougeur et vaisseau sanguin
-    - Avoir expliquer le lien entre gonflement et accumulation de cellules
 
+    - Avoir expliqué le but de la digestion
+    - Avoir expliqué le lien entre rougeur et vaisseau sanguin
+    - Avoir expliqué le lien entre gonflement et accumulation de cellules
 
-**Document 1 : La réaction inflammatoire**
-
-
-<div markdown style="display: flex; flex-direction: row;">
-
-<div markdown style="display: flex; flex: 2 1 0; flex-direction: row;">
-
-![](Pictures/inflammation.png){: style="width:300px;"}
-
-![](Pictures/reactionInflaChaleur.png){: style="width:300px;"}
-
-</div>
-
-<div markdown style=" flex: 2 1 0; flex-direction: column;">
-
-
-Quelques heures après une blessure, une réaction inflammatoire apparaît, accompagnée ou non de la formation de pus au niveau de la zone infectée. Le pus contient des bactéries et des phagocytes
 
 Cette réaction s’accompagne d’un gonflement, d’une rougeur et d’une augmentation de la température de la zone. Il peut aussi y avoir une douleur. La couleur de la peau dépend en partie de la quantité de sang qui passent dans les vaisseaux sanguins.
 
-</div></div>
+**document 1 blessure**
 
-**Document 2 Schématisation de la réaction inflammatoire.**
+bactérie rentre et des médiateurs chimiques sont libérés.
 
-![](Pictures/schemaReactionInfla.png)
-
-**Document 3 Vaisseau sanguin d’un tissu infecté.**
+**document 2 rôle des médiateurs chimiques**
 
 <div markdown style="display: flex; flex-direction: row;">
 
@@ -50,13 +31,48 @@ Cette réaction s’accompagne d’un gonflement, d’une rougeur et d’une au
 ![](Pictures/vaisseauSanguinInfla.png)
 </div>
 <div markdown style="display: flex; flex: 2 1 0; flex-direction: column;">
-Lors de l’infection, des molécules sont libérées, cela va entraîner une dilatation des vaisseaux sanguins (un gonflement) et attirés des leucocytes (= globules blancs). Les leucocytes présents dans le sang vont traverser la paroi des vaisseaux sanguins, accompagnés d’un peu de plasma sanguin (=partie liquide du sang). Tous ces phénomènes vont entraîner une rougeur, un gonflement et de la chaleur au niveau de la zone infectée.
+Lors d'une contamination, des molécules sont libérées, cela va entraîner une dilatation des vaisseaux sanguins. Les vaisseaux sanguins vont grossir au niveau de la contamination.
+
+Les molécules libérées vont aussi attirer des leucocytes. Les leucocytes présents dans le sang vont traverser la paroi des vaisseaux sanguins, accompagnés d’un peu de plasma sanguin (=partie liquide du sang)tous ces phénomènes vont entraîner une rougeur, un gonflement et de la chaleur au niveau de la zone infectée.
 
 </div></div>
 
-**Document 4 Photo d’un phagocyte et de bactéries**
+**document 3 diamètre des vaisseaux**
 
-![](Pictures/photoPhagocytose.png)
+le diamètre des vaisseaux sanguins détermine le débit sanguin et donc la quantité de sang qui circule à cet endroit
+en se dilatant, la paroi des vaisseaux sanguins devient plus perméable et des éléments du sang peuvent sortir
+
+
+
+**document 4 sang**
+
+le sang est à une température de 37°C et il détermine la couleur de la peau
+
+**document 5 pus**
+
+Quelques heures après une blessure, une réaction inflammatoire apparaît, accompagnée ou non de la formation de pus au niveau de la zone infectée. Le pus contient des bactéries et des phagocytes
+
+**Document 1 : La réaction inflammatoire**
+
+<iframe src="https://lycees.netocentre.fr/POD/video/7958-reaction-inflammatoire/?is_iframe=true&loop=true" width="640" height="360" style="padding: 0; margin: 0; border:0" allowfullscreen ></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_5ZymOPk1Jk?si=o-UgoV47iDe_W3Jo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+![alt text](image-1.png)
+
+
+
+
+
+**Document 2 Schématisation de la réaction inflammatoire.**
+
+![](Pictures/schemaReactionInfla.png)
+
+**Document 3 Vaisseau sanguin d’un tissu infecté.**
+
+
 
 **Document 5 : La phagocytose**
 

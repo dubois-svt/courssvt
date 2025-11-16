@@ -67,6 +67,15 @@
 
     ![](Pictures/inflammation.png){: style="width:300px;"}
 
+    ![](Pictures/reactionInflaChaleur.png){: style="width:300px;"}
+
+??? abstract "Notes supplémentaires"
+    - rougeur
+    - gonflement
+    - douleur
+    - chaleur
+    - pus 
+
 [Activité La réaction inflammatoire](../inflammation)
 
 
@@ -93,26 +102,26 @@
 
         Après une contamination, certains leucocytes (=globules blancs), cellules sanguines du système immunitaire vont détecter les éléments extérieurs (virus ou bactéries) et une ........................ va se produire très rapidement (gonflement, rougeur, chaleur et douleur).
 
-        Les ...................... qui sont leucocytes vont sortir des vaisseaux sanguins.
+        Gràce à cette réaction, les ...................... qui sont leucocytes vont sortir des vaisseaux sanguins.
 
         Ces phagocytes vont absorber et .................... les éléments étrangers pour les ....................... C’est la phagocytose.
 
         C’est une réaction rapide et non spécifique (réaction contre n’importe quel élément étranger).
 
-        Après la contamination, les microbes vont se multiplier dans l'organisme, c'est l'..........................
+        Après la contamination, les microbes peuvent se multiplier dans l'organisme, c'est l'..........................
 
 
     === "Bilan"
     
         Après une contamination, certains leucocytes (=globules blancs), cellules sanguines du système immunitaire vont détecter les éléments extérieurs (virus ou bactéries) et une réaction inflammatoire va se produire très rapidement (gonflement, rougeur, chaleur et douleur).
 
-        Les phagocytes qui sont leucocytes vont sortir des vaisseaux sanguins.
+        Gràce à cette réaction, les phagocytes qui sont leucocytes vont sortir des vaisseaux sanguins.
 
         Ces phagocytes vont absorber et digérer les éléments étrangers pour les détruire. C’est la phagocytose.
 
         C’est une réaction rapide et non spécifique (réaction contre n’importe quel élément étranger).
 
-        Après la contamination, les microbes vont se multiplier dans l'organisme, c'est l'infection.
+        Après la contamination, les microbes peuvent se multiplier dans l'organisme, c'est l'infection.
 
 
 
