@@ -111,9 +111,10 @@ Noter les 4 mots qui sont fournis à la fin de chaque mission.
 
     Il faut alors protéger son matériel informatique :
 
-        - antivirus
-        - mots de passes uniques et robustes
-        - prudence avec les logiciels et documents ouverts
+    - antivirus.
+    - mots de passes uniques et robustes.
+    - prudence avec les logiciels et documents ouverts.
+    - Sauvegarder ses données.
 
     Lorsqu'on utilise internet des informations sont diffusées.
     Volontairement (photos, messages), qui peuvent rester en ligne et nous échapper.
