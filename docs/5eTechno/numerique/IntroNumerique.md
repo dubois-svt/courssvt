@@ -79,7 +79,7 @@ En langage simple, le système informatique est l’ensemble des équipements qu
 
 
 
-A faire avant la séance 3 : [Activité  Hachette](college.hachette-education.com/ressources/0002017890737/techno5e_genially10/)
+À faire avant la séance 3 : [Activité Hachette](college.hachette-education.com/ressources/0002017890737/techno5e_genially10/)
 
 Noter les 4 mots qui sont fournis à la fin de chaque mission.
 
@@ -110,11 +110,12 @@ Noter les 4 mots qui sont fournis à la fin de chaque mission.
     La cybersécurité consiste à protéger les matériels informatiques ainsi que nos données personnelles contre les attaques malveillantes.
 
     Il faut alors protéger son matériel informatique :
+
         - antivirus
         - mots de passes uniques et robustes
         - prudence avec les logiciels et documents ouverts
 
-    Lorsque l'on utilise internet des informations sont diffusées.
+    Lorsqu'on utilise internet des informations sont diffusées.
     Volontairement (photos, messages), qui peuvent rester en ligne et nous échapper.
     Involontairement, les cookies qui stockent des informations sur nous (sites visités, zone géographique, informations personnelles), beaucoup de cookies sont utilisés pour le ciblage publicitaire.
 
