@@ -90,42 +90,23 @@ La phagocytose est une méthode de défense assurée par certains leucocytes app
 
 **Document 6 Photo d'une goutte de pus observée au microscope**
 
-![](image-5.png)
+![](Pictures/photoPusMO.png)
 
-Quelques heures après une blessure, du pus peut se former au niveau de la zone infectée. Le pus contient des bactéries et des phagocytes baignant dans du plasma.
+Quelques heures après une blessure, du pus peut se former au niveau de la zone infectée. Le pus contient des bactéries, des débris bactériens et des phagocytes baignant dans du plasma.
 
+??? bug "aide"
 
+    ![](Pictures/aideSchFoncReacInfla.png)
 
 ??? note-prof "correction"
 
-    Consigne 1 : Expliquer à quoi sont due le
-    gonflement et la rougeur de la réaction inflammatoire au niveau d’une
+    Consigne 1 : Expliquer à quoi sont due le     gonflement et la rougeur de la réaction inflammatoire au niveau d’une
     blessure.
 
-    Lors de l’infection des molécules vont faire
-    gonfler les vaisseaux sanguins au niveau de la blessure, il y aura donc
-    plus de sang, cela va entraîner une rougeur. Le gonflement du vaisseau
-    sanguin et la sortie de plasma vont faire gonfler la zone infectée.
+    Lors de l’infection des molécules vont faire gonfler les vaisseaux sanguins au niveau de la blessure, il y aura donc plus de sang, cela va entraîner une rougeur. Le gonflement du vaisseau sanguin et la sortie de plasma vont faire gonfler la zone infectée.
 
-    Consigne 2 : Expliquer comment notre corps
-    lutte contre l’infection.
 
-    Dans notre sang, des leucocytes, les
-    phagocytes, sont présents. Ces phagocytes vont sortir du sang au niveau
-    de la blessure et absorber puis détruire les bactéries qui causent
+    Les phagocytes vont absorber puis détruire les bactéries qui causent
     l’infection.
 
-    Consigne 3 : Calculer et comparer les
-    tailles d’un phagocyte et d’une bactérie.
-
-    Le calcul de la taille correspond à :
-
-    échelle \* taille de l’objet sur la photo /
-    taille de l’échelle sur la photo
-
-    La bactérie mesure 10\*0,2/0,5 = 4 µm
-
-    Le phagocyte mesure 10\*3,5/0,5 = 70 µm
-
-    La bactérie est donc presque dix fois plus
-    petite que le phagocyte.
+    ![](Pictures/schFoncReacInfla.png)
