@@ -37,11 +37,11 @@ Lorsque c'est le cas, des médiateurs chimiques de l'inflammation sont libérés
 <div markdown style="display: flex; flex-direction: row;">
 
 
-![](image-2.png)
+![](image-2.png){: style="width: 500px; "}
 
 
 
-![](image-3.png)
+![](image-3.png){: style="width: 500px; "}
 
 </div>
 
@@ -58,10 +58,10 @@ Les médiateurs chimiques de l'inflammation sont des molécules libérées par d
 <div markdown style="display: flex; flex-direction: row;">
 
 <div markdown style="display: flex; flex: 1 1 0; flex-direction: column;">
-![](image-4.png)
+![](image-4.png){: style="width: 500px; "}
 
 </div>
-<div markdown style="display: flex; flex: 2 1 0; flex-direction: column;">
+<div markdown style="display: flex; flex: 1 1 0; flex-direction: column;">
 
 Le diamètre des vaisseaux sanguins détermine le débit sanguin et donc la quantité de sang qui circule à cet endroit.
 En se dilatant, la paroi des vaisseaux sanguins devient plus perméable et des éléments du sang peuvent sortir et s'accumuler dans le derme (couche intermédiaire de la peau)
@@ -74,18 +74,12 @@ La couleur de la peau dépend en partie de la quantité de sang qui passent dans
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_5ZymOPk1Jk?si=o-UgoV47iDe_W3Jo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div markdown style="display: flex; flex-direction: row;">
-
-<div markdown style="display: flex; flex: 2 1 0; flex-direction: column;">
 
 
 La phagocytose est une méthode de défense assurée par certains leucocytes appelés phagocytes.
-</div>
-<div markdown style="display: flex; flex: 2 1 0; flex-direction: column;">
 
 ![](Pictures/schemaPhagocytose.png)
-</div>
-</div>
+
 
 
 **Document 6 Photo d'une goutte de pus observée au microscope**
