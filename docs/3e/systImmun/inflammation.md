@@ -29,13 +29,6 @@ La réaction inflammatoire s’accompagne d’un gonflement, d’une rougeur et
 </div></div>
 
 **Document 2 Une blessure**
-<div markdown style="display: flex; flex-direction: row;">
-
-<div markdown style="display: flex; flex: 2 1 0; flex-direction: column;">
-![](image-3.png)
-
-</div>
-<div markdown style="display: flex; flex: 2 1 0; flex-direction: column;">
 
 La peau est une des barrières empêchant les bactéries d'enter dans le corps.
 
@@ -45,10 +38,15 @@ Une pression peut stimuler ces nerfs.
 Lors d'une blessure, la peau est endommagée et donc des bactéries peuvent entrer, c'est la contamination.
 Lorsque c'est le cas, des médiateurs chimiques de l'inflammation sont libérés autour de la zone blessée.
 
-</div>
-<div markdown style="display: flex; flex: 2 1 0; flex-direction: column;">
+<div markdown style="display: flex; flex-direction: row;">
+
+
 ![](image-2.png)
-</div>
+
+
+
+![](image-3.png)
+
 </div>
 
 **Document 3 Le rôle des médiateurs chimiques de l'inflammation**
@@ -63,26 +61,25 @@ Les médiateurs chimiques de l'inflammation sont des molécules libérées par d
 
 <div markdown style="display: flex; flex-direction: row;">
 
-<div markdown style="display: flex; flex: 2 1 0; flex-direction: column;">
+<div markdown style="display: flex; flex: 1 1 0; flex-direction: column;">
 ![](image-4.png)
 
 </div>
 <div markdown style="display: flex; flex: 2 1 0; flex-direction: column;">
 
 Le diamètre des vaisseaux sanguins détermine le débit sanguin et donc la quantité de sang qui circule à cet endroit.
-En se dilatant, la paroi des vaisseaux sanguins devient plus perméable et des éléments du sang peuvent sortir.
+En se dilatant, la paroi des vaisseaux sanguins devient plus perméable et des éléments du sang peuvent sortir et s'accumuler dans le derme (couche intermédiaire de la peau)
 La couleur de la peau dépend en partie de la quantité de sang qui passent dans les vaisseaux sanguins. De plus le sang est chaud, entre 35,7 et 37,3 °C, plus il y a de sang circulant à un endroit, plus cette zone va chauffer.
 
 </div>
 </div>
 
 **Document 5 : La phagocytose**
-<div markdown style="display: flex; flex-direction: row;">
 
-<div markdown style="display: flex; flex: 2 1 0; flex-direction: column;">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_5ZymOPk1Jk?si=o-UgoV47iDe_W3Jo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-</div>
+<div markdown style="display: flex; flex-direction: row;">
+
 <div markdown style="display: flex; flex: 2 1 0; flex-direction: column;">
 
 
