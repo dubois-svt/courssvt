@@ -3,7 +3,7 @@
 !!! note "Compétences"
 
     - Trouver et extraire des informations.
-    - Faire un schéma focntionnel.
+    - Faire un schéma fonctionnel.
 
 !!! warning "Consignes"
 
@@ -15,74 +15,91 @@
     - Avoir expliqué le lien entre rougeur et vaisseau sanguin
     - Avoir expliqué le lien entre gonflement et accumulation de cellules
 
-
-Cette réaction s’accompagne d’un gonflement, d’une rougeur et d’une augmentation de la température de la zone. Il peut aussi y avoir une douleur. 
-
-
-
-
-**document 1 blessure**
-
-bactérie rentre et des médiateurs chimiques sont libérés.
-
-**document 2 rôle des médiateurs chimiques**
+**Document 1 La réaction inflammatoire**
 
 <div markdown style="display: flex; flex-direction: row;">
 
 <div markdown style="display: flex; flex: 2 1 0; flex-direction: row;">
-![](Pictures/vaisseauSanguinInfla.png)
+<iframe src="https://lycees.netocentre.fr/POD/video/7958-reaction-inflammatoire/?is_iframe=true&loop=true" width="640" height="360" style="padding: 0; margin: 0; border:0" allowfullscreen ></iframe>
 </div>
 <div markdown style="display: flex; flex: 2 1 0; flex-direction: column;">
-Lors d'une contamination, des molécules sont libérées, cela va entraîner une dilatation des vaisseaux sanguins. Les vaisseaux sanguins vont grossir au niveau de la contamination.
+La réaction inflammatoire s’accompagne d’un gonflement, d’une rougeur et d’une augmentation de la température de la zone. Il peut aussi y avoir une douleur. Il s'agit de la première défense mise en place par notre corps en cas de contamination.
 
-Les molécules libérées vont aussi attirer des leucocytes. Les leucocytes présents dans le sang vont traverser la paroi des vaisseaux sanguins, accompagnés d’un peu de plasma sanguin (=partie liquide du sang). tous ces phénomènes vont entraîner une rougeur, un gonflement et de la chaleur au niveau de la zone infectée.
 
 </div></div>
 
-**document 3 diamètre des vaisseaux**
+**Document 2 Une blessure**
+<div markdown style="display: flex; flex-direction: row;">
 
-le diamètre des vaisseaux sanguins détermine le débit sanguin et donc la quantité de sang qui circule à cet endroit
-en se dilatant, la paroi des vaisseaux sanguins devient plus perméable et des éléments du sang peuvent sortir
-La couleur de la peau dépend en partie de la quantité de sang qui passent dans les vaisseaux sanguins.
+<div markdown style="display: flex; flex: 2 1 0; flex-direction: column;">
+![](image-3.png)
 
+</div>
+<div markdown style="display: flex; flex: 2 1 0; flex-direction: column;">
 
-**document 4 sang**
+La peau est une des barrières empêchant les bactéries d'enter dans le corps.
 
-le sang est à une température de 37°C et il détermine la couleur de la peau
+Dans la peau, on retrouve des vaisseaux et des nerfs sensitifs qui stimulés provoquent de la douleur.
+Une pression peut stimuler ces nerfs.
 
-**document 5 pus**
+Lors d'une blessure, la peau est endommagée et donc des bactéries peuvent entrer, c'est la contamination.
+Lorsque c'est le cas, des médiateurs chimiques de l'inflammation sont libérés autour de la zone blessée.
 
-Quelques heures après une blessure, une réaction inflammatoire apparaît, accompagnée ou non de la formation de pus au niveau de la zone infectée. Le pus contient des bactéries et des phagocytes
+</div>
+<div markdown style="display: flex; flex: 2 1 0; flex-direction: column;">
+![](image-2.png)
+</div>
+</div>
 
-**Document 1 : La réaction inflammatoire**
+**Document 3 Le rôle des médiateurs chimiques de l'inflammation**
 
-<iframe src="https://lycees.netocentre.fr/POD/video/7958-reaction-inflammatoire/?is_iframe=true&loop=true" width="640" height="360" style="padding: 0; margin: 0; border:0" allowfullscreen ></iframe>
+Les médiateurs chimiques de l'inflammation sont des molécules libérées par des cellules immunitaires de notre corps.
 
+- Ces molécules vont entraîner une dilatation des vaisseaux sanguins, c'est-à-dire que les vaisseaux sanguins vont grossir au niveau de la contamination.
 
+- Les molécules libérées vont aussi attirer des phagocytes. Les leucocytes présents dans le sang peuvent traverser la paroi des vaisseaux sanguins lorsque ces vaisseaux sont dilatés, accompagnés d’un peu de plasma sanguin (=partie liquide du sang).
 
+**Document 4 Le diamètre des vaisseaux**
 
+<div markdown style="display: flex; flex-direction: row;">
 
-![alt text](image-1.png)
+<div markdown style="display: flex; flex: 2 1 0; flex-direction: column;">
+![](image-4.png)
 
+</div>
+<div markdown style="display: flex; flex: 2 1 0; flex-direction: column;">
 
+Le diamètre des vaisseaux sanguins détermine le débit sanguin et donc la quantité de sang qui circule à cet endroit.
+En se dilatant, la paroi des vaisseaux sanguins devient plus perméable et des éléments du sang peuvent sortir.
+La couleur de la peau dépend en partie de la quantité de sang qui passent dans les vaisseaux sanguins. De plus le sang est chaud, entre 35,7 et 37,3 °C, plus il y a de sang circulant à un endroit, plus cette zone va chauffer.
 
-
-
-**Document 2 La réaction inflammatoire.**
-
-![](Pictures/schemaReactionInfla.png)
-
-**Document 3 Vaisseau sanguin d’un tissu infecté.**
-
-
+</div>
+</div>
 
 **Document 5 : La phagocytose**
+<div markdown style="display: flex; flex-direction: row;">
+
+<div markdown style="display: flex; flex: 2 1 0; flex-direction: column;">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_5ZymOPk1Jk?si=o-UgoV47iDe_W3Jo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</div>
+<div markdown style="display: flex; flex: 2 1 0; flex-direction: column;">
+
 
 La phagocytose est une méthode de défense assurée par certains leucocytes appelés phagocytes.
+</div>
+<div markdown style="display: flex; flex: 2 1 0; flex-direction: column;">
 
 ![](Pictures/schemaPhagocytose.png)
+</div>
+</div>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_5ZymOPk1Jk?si=o-UgoV47iDe_W3Jo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Document 6 le pus**
+
+Quelques heures après une blessure, du pus peut se former au niveau de la zone infectée. Le pus contient des bactéries et des phagocytes et du plasma.
+
+
 
 ??? note-prof "correction"
 
