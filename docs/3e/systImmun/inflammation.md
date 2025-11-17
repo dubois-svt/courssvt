@@ -7,26 +7,22 @@
 
 !!! warning "Consignes"
 
-    1. A partir des documents, expliquer sous la forme d'un schéma focntionnel les réactions du corps au niveau d'une blessure. Votre réponse devra expliquer comment le corps élimine les bactéries.
+    A partir des documents, expliquer sous la forme d'un schéma fonctionnel, les réactions du corps au niveau d'une blessure. Votre réponse devra mettre en évidence l'apparition des signes de la réactions inflammatoire et le processus de défense du corps.
 
 ??? bug "Critères de réussite"
 
-    - Avoir expliqué le but de la digestion
+    - Avoir expliqué le but de la digestion par les phagocytes
     - Avoir expliqué le lien entre rougeur et vaisseau sanguin
-    - Avoir expliqué le lien entre gonflement et accumulation de cellules
+    - Avoir expliqué le lien entre chaleur et vaisseau sanguin
+    - Avoir expliqué le lien entre gonflement et accumulation de liquide
+    - Avoir expliqué le lien entre gonflement et douleur
 
 **Document 1 La réaction inflammatoire**
 
-<div markdown style="display: flex; flex-direction: row;">
-
-<div markdown style="display: flex; flex: 2 1 0; flex-direction: row;">
 <iframe src="https://lycees.netocentre.fr/POD/video/7958-reaction-inflammatoire/?is_iframe=true&loop=true" width="640" height="360" style="padding: 0; margin: 0; border:0" allowfullscreen ></iframe>
-</div>
-<div markdown style="display: flex; flex: 2 1 0; flex-direction: column;">
+
 La réaction inflammatoire s’accompagne d’un gonflement, d’une rougeur et d’une augmentation de la température de la zone. Il peut aussi y avoir une douleur. Il s'agit de la première défense mise en place par notre corps en cas de contamination.
-
-
-</div></div>
+Quelques heures après une blessure, du pus peut se former au niveau de la zone infectée.
 
 **Document 2 Une blessure**
 
@@ -92,9 +88,11 @@ La phagocytose est une méthode de défense assurée par certains leucocytes app
 </div>
 
 
-**Document 6 le pus**
+**Document 6 Photo d'une goutte de pus observée au microscope**
 
-Quelques heures après une blessure, du pus peut se former au niveau de la zone infectée. Le pus contient des bactéries et des phagocytes et du plasma.
+![](image-5.png)
+
+Quelques heures après une blessure, du pus peut se former au niveau de la zone infectée. Le pus contient des bactéries et des phagocytes baignant dans du plasma.
 
 
 
