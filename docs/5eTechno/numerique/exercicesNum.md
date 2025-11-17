@@ -23,9 +23,44 @@
 | Clé USB | 2Go   |
 
 </div>
+
+<div markdown style="break-inside: avoid;">
+    
+## Exercice 2 : Cyberviolence
+
+
+!!! note "Compétences"
+
+    Trouver et utiliser des informations 
+
+!!! warning "Consignes"
+
+    1. Pour chacune de ces situations indiquer s'il s'agit de cyberviolence.
+
+
+**Document 1 Des situations de cyberviolence ?**
+
+
+Dire une fois à quelqu’un que vous n’êtes pas d’accord avec lui.
+
+Se regrouper avec des ami(e)s pour se moquer d’une personne.
+
+Diffuser des vraies photos de quelques sans lui demander sans accord
+
+Faire des commentaires sur une photo en évitant d’être désagréable.
+
+Faire un commentaire désagréable à chaque fois que l’on parle d’une personne
+
+Créer un groupe pour s’entraider. 
+
+Utiliser le compte de quelqu’un d’autre et en profiter pour insulter tout le monde en se faisant passer pour lui.
+
+
+
+</div>
 <div markdown style="break-inside: avoid;">
 
-## Exercice 2 : Arborescences des données
+## Exercice 3 : Arborescences des données
 
 
 
@@ -58,7 +93,7 @@ Le répertoire de l’élève « identifiant_eleve » : l’élève peut y sauve
 </div>
 <div markdown style="break-inside: avoid;">
     
-## Exercice 3 : Sécurité informatique
+## Exercice 4 : Sécurité informatique
 
 
 !!! note "Compétences"
@@ -108,37 +143,4 @@ Si on recherche sur un moteur de recherche à télécharger le logiciel VLC de V
  
 
 </div>
-<div markdown style="break-inside: avoid;">
-    
-## Exercice 4 : Cyberviolence
 
-
-!!! note "Compétences"
-
-    Trouver et utiliser des informations 
-
-!!! warning "Consignes"
-
-    1. Pour chacune de ces situations indiquer s'il s'agit de cyberviolence.
-
-
-**Document 1 Des situations de cyberviolence ?**
-
-
-Dire une fois à quelqu’un que vous n’êtes pas d’accord avec lui.
-
-Se regrouper avec des ami(e)s pour se moquer d’une personne.
-
-Diffuser des vraies photos de quelques sans lui demander sans accord
-
-Faire des commentaires sur une photo en évitant d’être désagréable.
-
-Faire un commentaire désagréable à chaque fois que l’on parle d’une personne
-
-Créer un groupe pour s’entraider. 
-
-Utiliser le compte de quelqu’un d’autre et en profiter pour insulter tout le monde en se faisant passer pour lui.
-
-
-
-</div>
