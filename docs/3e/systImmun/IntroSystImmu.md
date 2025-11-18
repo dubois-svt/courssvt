@@ -134,7 +134,7 @@
 
     Comment notre corps réagit si l’infection ?
 
-[Activité Réaction de notre corps à une infection](../infectionContinue)
+[Activité Lutter contre l'infection](../infectionContinue)
 
 
 
