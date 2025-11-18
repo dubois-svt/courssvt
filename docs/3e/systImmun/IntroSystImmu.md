@@ -127,14 +127,14 @@
 
     </a>
     
-## Séance 3 : Réaction de notre corps à une infection prolongée.
+## Séance 3 : Réaction de notre corps à une infection.
 
 
 !!! question "Problématique"
 
-    Comment notre corps réagit si l’infection continue ?
+    Comment notre corps réagit si l’infection ?
 
-[Activité Réaction de notre corps à une infection prolongée](../infectionContinue)
+[Activité Réaction de notre corps à une infection](../infectionContinue)
 
 
 
