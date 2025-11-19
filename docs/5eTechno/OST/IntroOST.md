@@ -54,7 +54,7 @@ Les êtres humains ont besoin de : se nourrir, s’abriter, se vêtir, se laver
 
     <a markdown id="bilan2">
     
-    On parle de fonction principale pour décrire la fonction de l’OST qui est la plus visible et la plus importante pour les utilisateurs.
+    On parle de fonctions principales pour décrire la ou les services rendus par l’OST aux utilisateurs.
 
     La manière dont fonctionne un objet technique est appelée principe technique
 

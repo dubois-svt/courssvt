@@ -4,18 +4,23 @@
     si besoin d’infos
 
 
+
+Pour construire un objet ou système technologique de nombreux points de vigilance sont à prendre en compte
+- Inteerafteurs
+- Contraintes
+
 !!! question "Problématique"
 
-    Comment l'environnement impacte la conception de l'OST ?
+    Comment évaluer les contraintes à prendre en compte lors de la réalistaion d'un OST ?
 
     
 
-## Séance 1 : Les interacteurs extérieurs
+## Séance 1 : Les interacteurs extérieurs et les contraintes
 
 !!! question "Problématique"
 
 
-    Quels sont les éléments extérieurs qui interagissent avec notre OST ?
+    Quels sont les impacts des éléments extérieurs qui interagissent avec notre OST ?
 
 [Activité les interacteurs extérieurs](../systInformation)
 
