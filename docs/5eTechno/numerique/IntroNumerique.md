@@ -107,7 +107,7 @@ Noter les 4 mots qui sont fournis à la fin de chaque mission.
     <a markdown id="bilan3">
 
 
-    La cybersécurité consiste à protéger les matériels informatiques ainsi que nos données personnelles contre les attaques malveillantes.
+    La cybersécurité consiste à protéger notre matériel informatique ainsi que nos données personnelles contre les attaques malveillantes.
 
     Il faut alors protéger son matériel informatique :
 

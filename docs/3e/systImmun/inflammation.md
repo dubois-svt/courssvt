@@ -12,12 +12,14 @@
 
 
 ??? bug "Critères de réussite"
-
-    - Avoir expliqué le but de la digestion par les phagocytes
+    - Indiquer ce qu'entraînee une contamination
+    - Avoir indiqué le rôle des médiateurs chimiques
     - Avoir expliqué le lien entre rougeur et vaisseau sanguin
     - Avoir expliqué le lien entre chaleur et vaisseau sanguin
+    - Avoir expliqué l'impact de la dilation sur le plasma et les phagocytes
     - Avoir expliqué le lien entre gonflement et accumulation de liquide
     - Avoir expliqué le lien entre gonflement et douleur
+    - Avoir expliqué le but de la digestion par les phagocytes
 
 <div markdown style="break-inside: avoid;">
 
@@ -105,7 +107,7 @@ La phagocytose est une méthode de défense assurée par certains leucocytes app
 Quelques heures après une blessure, du pus peut se former au niveau de la zone infectée. Le pus contient des bactéries, des débris bactériens et des phagocytes baignant dans du plasma.
 </div>
 
-??? bug "video"
+??? bug "vidéo"
     <iframe title="Video Documents Reaction Inflammatoire" width="560" height="315" src="https://tube-sciences-technologies.apps.education.fr/videos/embed/9VcatumGWV1DUkHpQoA2dK?loop=1" style="border: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 
 ??? bug "aide"
