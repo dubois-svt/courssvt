@@ -7,9 +7,12 @@
 
 !!! warning "Consignes"
 
+    <div markdown style="display: flex; flex-direction: row;">
 
     À partir des documents, expliquer sous la forme d'un schéma fonctionnel, les réactions du corps au niveau d'une blessure. Votre réponse devra mettre en évidence l'apparition des signes de la réaction inflammatoire et le processus de défense du corps.
 
+    ![](image-1.png)
+    </div>
 
 ??? bug "Critères de réussite"
 
@@ -104,9 +107,6 @@ La phagocytose est une méthode de défense assurée par certains leucocytes app
 
 Quelques heures après une blessure, du pus peut se former au niveau de la zone infectée. Le pus contient des bactéries, des débris bactériens et des phagocytes baignant dans du plasma.
 </div>
-
-??? bug "video"
-    <iframe title="Video Documents Reaction Inflammatoire" width="560" height="315" src="https://tube-sciences-technologies.apps.education.fr/videos/embed/9VcatumGWV1DUkHpQoA2dK?loop=1" style="border: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 
 ??? bug "aide"
 
