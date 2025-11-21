@@ -12,7 +12,7 @@
 
 
 ??? bug "Critères de réussite"
-    - Indiquer ce qu'entraînee une contamination
+    - Indiquer ce qu'entraîne une contamination
     - Avoir indiqué le rôle des médiateurs chimiques
     - Avoir expliqué le lien entre rougeur et vaisseau sanguin
     - Avoir expliqué le lien entre chaleur et vaisseau sanguin
