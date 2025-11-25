@@ -45,7 +45,7 @@ Après avoir détecté un virus ou une bactérie grâce à leurs antigènes (él
 
 <div markdown style="display:flex; flex-direction:column; flex : 1 1 0;">
 
-![](Pictures/lymphocyteT.png){: style="width: 300px; padding-right: 10px;"}
+![](Pictures/lymphocyteT.png){: style="width: 200px; padding-right: 10px;"}
 </div>
 
 <div markdown style="display:flex; flex-direction:column; flex : 2 1 0;">
@@ -74,7 +74,7 @@ Lymphocytes T activateurs : activés par les cellules sentinelles, ils activent
 
 Lors d’une infection par un virus, les lymphocytes tueurs reconnaissent les cellules infectées par le virus en cause et seulement lui.
 
-![](Pictures/actionLymphocyteT.png){: style="width: 400px; "}
+![](Pictures/actionLymphocyteT.png){: style="width: 500px; "}
 
 </div>
 
@@ -86,7 +86,7 @@ Lors d’une infection par un virus, les lymphocytes tueurs reconnaissent les ce
 
 Les cellules infectées par un virus possèdent à leur surface des antigènes du virus.
 
-![](Pictures/expLymphocyteT.png){: style="width: 600px; "}
+![](Pictures/expLymphocyteT.png){: style="width: 500px; "}
 
 
 </div>
