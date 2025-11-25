@@ -7,8 +7,12 @@
 
 !!! warning "Consignes"
 
+    <div markdown style="display: flex; flex-direction: row;">
 
     À partir des documents, expliquer sous la forme d'un schéma fonctionnel, les réactions du corps au niveau d'une blessure. Votre réponse devra mettre en évidence l'apparition des signes de la réaction inflammatoire et le processus de défense du corps.
+
+    ![](image-1.png)
+    </div>
 
 
 ??? bug "Critères de réussite"
