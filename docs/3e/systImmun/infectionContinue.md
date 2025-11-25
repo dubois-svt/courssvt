@@ -7,7 +7,7 @@
 
 !!! warning "Consignes"
 
-    1. expliquer par un schéma fonctionnel, comment le système immunitaire est réagit lors de la détection d’un micro-organisme. (Documents 1, 2 et 3)
+    1. Expliquer par un schéma fonctionnel, comment le système immunitaire est réagit lors de la détection d’un micro-organisme. (Documents 1, 2 et 3)
 
     2. Expliquer comment les lymphocytes T tueurs permettent-ils lutter contre les infections. (Document 4)
     
@@ -19,12 +19,24 @@
 
 
 
+<div markdown style="break-inside: avoid;">
 
 **Document 1 : Contact entre une cellule sentinelle et un lymphocyte dans un ganglion lymphatique.**
 
-![](Pictures/cellulesSentinelles.png)
+<div markdown style="display:flex; flex-direction:row;">
 
+
+<div markdown style="display:flex; flex-direction:column; flex : 2 1 0;">
+![](Pictures/cellulesSentinelles.png){: style="width: 600px; "}
+
+</div>
+
+
+<div markdown style="display:flex; flex-direction:column; flex : 1 1 0;">
 Après avoir détecté un virus ou une bactérie grâce à leurs antigènes (éléments propres à chaque type de micro-organismes, présents à la surface des micro-organismes reconnus par le système immunitaire), certaines cellules sentinelles (cellules dendritiques) quittent le lieu de l’infection et migrent jusqu’aux ganglions les plus proches (ganglions du cou dans le cas d’un rhume). Le contact avec la cellule sentinelle provoque une activation du lymphocyte.
+</div>
+</div></div>
+<div markdown style="break-inside: avoid;">
 
 **Document 2 Les trois types de lymphocytes.**
 
@@ -46,16 +58,27 @@ Lymphocytes T activateurs : activés par les cellules sentinelles, ils activent
 </div>
 
 </div>
+</div>
+
+<div markdown style="break-inside: avoid;">
 
 **Document 3 Évolution du nombre de lymphocytes T et B dans un ganglion suite à une infection.**
 
-![](Pictures/graphNbLymphocyte.png)
+![](Pictures/graphNbLymphocyte.png){: style="width: 600px; "}
+
+</div>
+
+<div markdown style="break-inside: avoid;">
 
 **Document 4 Action d’un lymphocyte T tueur sur une cellule infectée.**
 
 Lors d’une infection par un virus, les lymphocytes tueurs reconnaissent les cellules infectées par le virus en cause et seulement lui.
 
-![](Pictures/actionLymphocyteT.png)
+![](Pictures/actionLymphocyteT.png){: style="width: 400px; "}
+
+</div>
+
+<div markdown style="break-inside: avoid;">
 
 
 
@@ -63,8 +86,12 @@ Lors d’une infection par un virus, les lymphocytes tueurs reconnaissent les ce
 
 Les cellules infectées par un virus possèdent à leur surface des antigènes du virus.
 
-![](Pictures/expLymphocyteT.png)
+![](Pictures/expLymphocyteT.png){: style="width: 600px; "}
 
+
+</div>
+
+<div markdown style="break-inside: avoid;">
 
 
 **Document 6 Antigène de micro-organisme et récepteur de lymphocyte.**
@@ -73,15 +100,19 @@ Les cellules infectées par un virus possèdent à leur surface des antigènes d
 
 
 <div markdown style="display:flex; flex-direction:column; flex : 1 1 0;">
-![](Pictures/schemaAntigene.jpg)
+![](Pictures/schemaAntigene.jpg){: style="width: 300px; "}
+
 </div>
 
 <div markdown style="display:flex; flex-direction:column; flex : 1 1 0;">
-![](Pictures/schemaAntigene2.png)
+![](Pictures/schemaAntigene2.png){: style="width: 300px; "}
+
 </div>
 </div>
 
 Tout micro-organisme possède à sa surface des éléments qui lui sont propres (les antigènes). Les lymphocytes possèdent naturellement à leur surface des récepteurs qui s’adaptent à la structure de tout type d’antigènes, ce qui leur permet de reconnaître ou non l’antigène (mécanisme clé – serrure). À chaque antigène correspond un récepteur d’un lymphocyte (un lymphocyte ne reconnaît qu’un seul type d’antigène) : c’est une réaction spécifique.
+</div>
+
 
 ??? note-prof "Correction"
 
