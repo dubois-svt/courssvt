@@ -8,22 +8,23 @@
 
 !!! warning "Consignes"
 
-1. Faire la liste des éoéments quin vont interagir avec l'objet des OST
-2. À Quoi l'OST devra résister
-3. 
+1. Faire la liste des éléments qui vont interagir avec l'objet des OST
+2. Faire un diagramme des cas d'utilisation
+3. À Quoi l'OST devra résister
+4. 
     
     
 ??? bug "Critères de réussite"
     - 
 
 
-
+![alt text](image-2.png)
 <div markdown style="break_inside: avoid;">
 
 **Document 1 Interacteurs extérieurs**
 
 Ce sont l'ensemble des éléments qui peuvent interagir avec l'OST pour le faire fonctionner, le modifier ou l'utiliser d'une façon ou d'une autre.
-Les différentes interacteurs vont déterminer les focntions techniques de notre OST mais aussi les contraintes liées à cette objet.
+Les différents interacteurs vont déterminer les fonctions techniques de notre OST, mais aussi les contraintes liées à cet objet.
 
 Ces fonctions techniques et ces contraintes détermineront notre cahier des charges.
 
@@ -63,6 +64,14 @@ souris sans fil         ordinateur              ergonomie                   êtr
                         utilisateur             ergonomie                   bien tenir dans la main
                         utilisateur                esthetisme                  être agréable à l'oeil
 cabine d                        
-choix d'un objet enfonction de son ergonomie
+choix d'un objet en fonction de son ergonomie
 
 
+**Document 2 Creer un diagramme des cas d'utilisation**
+
+Pour reprsenter les différents services rendus sur un système, on peut listrr les cas d'utilisation, qui poermettent de savoir à quoi va servur le système et avec quoi ou avec qui va interagir le système:
+
+- le système est délimité par un cadre
+- les cas d'utilisations énoncés dans des ellipses 
+- les acteurs interagissent avec le système
+![alt text](image-3.png)

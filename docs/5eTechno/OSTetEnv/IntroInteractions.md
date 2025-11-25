@@ -3,50 +3,63 @@
 !!! note-prof
     si besoin d’infos
 
+Pour choisir ou construire un OST.
+Il faut bien définir les besoins et les contraintes d’utilisation.
+
+![Google Glass](image.png)
 
 
 Pour construire un objet ou système technologique de nombreux points de vigilance sont à prendre en compte
-- Inteerafteurs
+- Interacteurs
 - Contraintes
 
 !!! question "Problématique"
 
     Comment évaluer les contraintes à prendre en compte lors de la réalistaion d'un OST ?
 
-    
+![](Pictures/parcJeux.jpeg) peut être pluttot prendre une montre connectée poiur nager
 
 ## Séance 1 : Les interacteurs extérieurs et les contraintes
 
 !!! question "Problématique"
 
-
     Quels sont les impacts des éléments extérieurs qui interagissent avec notre OST ?
 
 [Activité les interacteurs extérieurs](../systInformation)
 
-Connaissances : Faire la liste des interacteurs extérieurs d’un OST (interacteurs extérieurs : élémént de l'environnement qui ont un impact sur la conception)
+Connaissances : Faire la liste des interacteurs extérieurs d’un OST (interacteurs extérieurs : élément de l'environnement qui ont un impact sur la conception)
 
 ??? abstract "Bilan"
 
     <a markdown id="bilan1">
 
-    Lorsque l'on imagine un nouvel objet technique, il faut prendre en compte les éléments de son environnement:
+    Lorsque l'on imagine un nouvel objet technique, il faut prendre en compte les éléments de son environnement avec lequel il est en interaction:
 
-    - les usagers qui l'utiliseront;
+    - les usagers: ce sont les personnes qui utilisent l'objet ou le système.
 
-    - les objets avec lesquels il sera en contact;
+    - les objets avec lesquels il sera en contact : : ce sont les autres objets techniques avec lesquels l'objet ou le système est en contact.
 
-    - les autres éléments de son environnement;
+    - les autres éléments de son environnement: ce sont les éléments naturels ou artificiels qui entourent l'objet ou le système.
 
-    - les données qu'il aura à échanger.
+    - les données : ce sont les informations que l'objet ou le système utilise pour fonctionner. Elles peuvent être stockées dans l'objet lui-même ou provenir de l'extérieur.
 
     Ces éléments s'appellent des interacteurs extérieurs.
+
+    Pour expliquer les interactions entre un OST et son environnement, il faut être capable :
+    
+    - d’identifier les différents types d'interacteurs extérieurs.
+    - de décrire les interactions entre l'OST et chaque type d'interacteur.
+    - d’analyser l'influence des interactions sur le fonctionnement de l'OST.
 
     Ils créent des contraintes qui sont à respecter au moment de la conception de l'objet technique.
 
     </a>
 
 <div style="break-inside: avoid;"></div>
+
+
+
+
 
 
 
