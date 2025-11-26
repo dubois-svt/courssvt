@@ -67,5 +67,29 @@ Dans notre modèle, on utilisera :
 - une plaque de bois pour modéliser les roches
 - un système de serre-joint qui créera une force lorsque l'on visera (voir schéma)
 - des capteurs piézoelectriques détectant les vibrations, avec l'application [sismopiezo](https://cosentinophilippe.forge.apps.education.fr/sismopiezo/index.htm).
-- 
+
 ![Schéma du système pour modéliser un séisme](image-1.png)
+
+
+??? note-prof "Correction"
+
+    Consigne 1 :
+
+    ![](pictures/correcSchemaModelSeisme.png)
+        
+    Consigne 2 :
+
+    insérer la plaque de bois à la verticale collée à la partie inférieur du serre-joint (voir schéma)
+    Ouvrir l'application sismopiezo.  Avec Google Chrome et autoriser l'utilisation du micro.
+    Lorsque vous êtes prêts, commencer l'enregistrement en cliquant sur le bouton rouge
+    serrer le joint en le visant jusqu'à la rupture
+    Arrêter l'enrehgistrment.
+
+    Consigne 3: 
+
+    On voit que la force déforùme la plaque, puis au bout d'un moment la plaque casse. Sur le logiciel on voit un pic au moment où la plaque casse.
+
+    Consigne 4:
+
+    L'intéret que l'on peut simuler un séisme avec peu de matériel et sans craindre de dégats.
+    Mais les objets utilisés ne sont pas des roches et les secousses ainsi formés sont très inférieures à celle d'un séisme.

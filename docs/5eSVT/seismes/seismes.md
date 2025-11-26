@@ -109,7 +109,7 @@ Sur le croquis ci-dessous, on voit qu’un séisme de forte magnitude (à gauche
 
 
 ??? note-prof "correction"
-    Correction de l’activité 26
+    
     Consigne 1 :
     Un séisme peut causer des secousses du sol, des déformations du sol, des destructions, des blessés et des tsunamis. 
    

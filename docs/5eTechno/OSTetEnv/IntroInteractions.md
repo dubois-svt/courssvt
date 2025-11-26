@@ -17,7 +17,8 @@ Pour construire un objet ou système technologique de nombreux points de vigilan
 
     Comment évaluer les contraintes à prendre en compte lors de la réalistaion d'un OST ?
 
-![](Pictures/parcJeux.jpeg) peut être pluttot prendre une montre connectée poiur nager
+![Potager d'intérieur](image-5.png)![](image-8.png)
+Pourquoi faire ? 
 
 ## Séance 1 : Les interacteurs extérieurs et les contraintes
 
@@ -25,7 +26,7 @@ Pour construire un objet ou système technologique de nombreux points de vigilan
 
     Quels sont les impacts des éléments extérieurs qui interagissent avec notre OST ?
 
-[Activité les interacteurs extérieurs](../systInformation)
+[Activité les interacteurs extérieurs](../interacteurExt)
 
 Connaissances : Faire la liste des interacteurs extérieurs d’un OST (interacteurs extérieurs : élément de l'environnement qui ont un impact sur la conception)
 
@@ -68,7 +69,7 @@ Connaissances : Faire la liste des interacteurs extérieurs d’un OST (interact
 !!! question "Problématique"
 
 
-    Quels sont les éléments extérieurs qui interagissent avec notre OST ?
+    Quels contraintes prendre en compte dans la conception de l'OST? 
 
 [Activité les interacteurs extérieurs](../systInformation)
 

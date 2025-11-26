@@ -102,3 +102,43 @@ Aujourd’hui, des sismomètres réalisent des mesures électroniques.
 ![](pictures/carteStationSismiques.png){:style="width:400px;"}
 ![](pictures/sismogrammeBam.png){:style="width:400px;"}
 </div>
+
+
+
+??? note-prof "Correction"
+
+    Consigne 1 : Dans le document 2, on voit que l'intensité des dégâts est forte lorsque l'on est proche de Bam, et plus faible lorsque l'on s'éloigne. L'intensité diminue lorsque l'on s'éloigne de Bam. 
+
+    Consigne 2 : 
+    la station la plus proche de l'épicentre a enregistré le séisme en premier
+    La station la plus près de l'épicentre a enregistré une plus forte amplitude
+
+    Consigne 3 : 
+    On voit dans l'analyse du sismographe que, plus, on s'éloigne de l'épicentre, plus l'amplitude enregistrée est faible.
+
+    Cela explique l'intensité des dégâts observée autour de Bam.
+
+    Plus on se rapproche de l'épicentre, plus l'amplitude du séisme est forte donc les dégâts seront plus importants et donc l'intensité observée sera forte.
+
+    Consigne 4 :
+    La formule de la vitesse est \( Vitesse = \frac{Distance}{Temps} \).
+
+    Il faut donc calculer la distance entre 2 points
+
+    | |Échelle|	|	Distance Bam - Djibouti|
+    |--|-----|---|-----------------------|
+    |  Longueur sur carte (cm)|	2	|1|	4,5|
+    | Longueur réelle (km)	|1000|  |		 distance|
+
+    \( distance = 1000 \div2 \times4.5 \).
+
+    Il faut aussi calculer le temps de parcours.
+
+    Les ondes sont parties de Bam à 1h56min52s et arrivées à Djibouti à 2h01min53s.
+
+    Il y a donc 5min1s de trajet, soit 301s (5*60 +1)
+
+
+    La vitesse est donc \( Vitesse = \frac{2200}{301} \).
+
+    Vitesse = 7,3 km/s
