@@ -364,7 +364,18 @@ Les lampes à diodes électroluminescentes (DEL) équipent plus souvent les nouv
 
 
 
+## Exercice 6 : Fonctionnement du sèche-main
 
+!!! warning "Consignes"
+    1. Recopier le schéma et le compléter en utilisant les éléments du sèche-main.
+   
+
+
+**Document 1 : Éléments d'un sèche-main**
+
+![](pictures/sechemain.png)
+
+![](pictures/fonctSecheMain.png)
 
 
     

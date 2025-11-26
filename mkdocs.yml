@@ -246,6 +246,12 @@ nav :
         - Exercices : 5eTechno/numerique/exercicesNum.md
         - Fiche de révision : 5eTechno/numerique/Fiche.md
 
+      - Séquence L’OST dans son environnement :
+        - Intrduction : 5eTechno/OSTetEnv/IntroInteractions.md
+        - Les interacteurs extérieurs : 5eTechno/OSTetEnv/interacteurExt.md
+        - Cahier des charges d'une salle de classe: 5eTechno/OSTetEnv/cahierCharges.md
+        - Modélisation 3D d'une salle de classe : 5eTechno/OSTetEnv/Modelisation.md
+
 
 
 
@@ -512,12 +518,6 @@ nav :
           - Programmation d'un robot : 5eTechno/programmation/progmBot.md
           - Exercices sur la programmation : 5eTechno/programmation/exosProg.md
           - Fiche de révision : 5eTechno/programmation/FicheProg.md
-      - Séquence Construire une école :
-          - Introduction : 5eTechno/constructionEcole/Intro_Construire_Ecole.md
-          - Cahier des charges d'une salle de classe: 5eTechno/constructionEcole/cahierCharges.md
-          - Modélisation 3D d'une salle de classe : 5eTechno/constructionEcole/Modelisation.md
-          - Exercice : 5eTechno/constructionEcole/exoConstructionEcole.md
-          - Fiche de révision : 5eTechno/constructionEcole/FicheConstruction.md
       - Séquence Evolution des objets techniques et cycle de vie :
         - Introduction : 5eTechno/evolObjTech/IntroEvolObj.md
         - Familles d'objets : 5eTechno/evolObjTech/famillesObj.md

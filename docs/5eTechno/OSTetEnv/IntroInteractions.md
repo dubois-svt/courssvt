@@ -6,7 +6,7 @@
 Pour choisir ou construire un OST.
 Il faut bien définir les besoins et les contraintes d’utilisation.
 
-![Google Glass](image.png)
+![Google Glass](Pictures/googleGlass.png)
 
 
 Pour construire un objet ou système technologique de nombreux points de vigilance sont à prendre en compte
@@ -17,10 +17,20 @@ Pour construire un objet ou système technologique de nombreux points de vigilan
 
     Comment évaluer les contraintes à prendre en compte lors de la réalistaion d'un OST ?
 
-![Potager d'intérieur](image-5.png)![](image-8.png)
-Pourquoi faire ? 
+<div markdown style="display:flex; flex-direction:row">
 
-## Séance 1 : Les interacteurs extérieurs et les contraintes
+
+
+![Potager d'intérieur](Pictures/potagerInterieur.png)
+![Montre connectée](Pictures/montreConnectee.png)
+![Souris](Pictures/souris.png)
+
+</div>
+
+
+Il faut d'abpord lister les éléments qui vont agir avec notre objet.
+
+## Séance 1 : Les interacteurs extérieurs
 
 !!! question "Problématique"
 
@@ -28,7 +38,7 @@ Pourquoi faire ?
 
 [Activité les interacteurs extérieurs](../interacteurExt)
 
-Connaissances : Faire la liste des interacteurs extérieurs d’un OST (interacteurs extérieurs : élément de l'environnement qui ont un impact sur la conception)
+
 
 ??? abstract "Bilan"
 
@@ -36,13 +46,10 @@ Connaissances : Faire la liste des interacteurs extérieurs d’un OST (interact
 
     Lorsque l'on imagine un nouvel objet technique, il faut prendre en compte les éléments de son environnement avec lequel il est en interaction:
 
-    - les usagers: ce sont les personnes qui utilisent l'objet ou le système.
-
-    - les objets avec lesquels il sera en contact : : ce sont les autres objets techniques avec lesquels l'objet ou le système est en contact.
-
-    - les autres éléments de son environnement: ce sont les éléments naturels ou artificiels qui entourent l'objet ou le système.
-
-    - les données : ce sont les informations que l'objet ou le système utilise pour fonctionner. Elles peuvent être stockées dans l'objet lui-même ou provenir de l'extérieur.
+    - les usagers,
+    - les autres objets,
+    - les éléments de son environnement,
+    - les données.
 
     Ces éléments s'appellent des interacteurs extérieurs.
 
@@ -52,7 +59,7 @@ Connaissances : Faire la liste des interacteurs extérieurs d’un OST (interact
     - de décrire les interactions entre l'OST et chaque type d'interacteur.
     - d’analyser l'influence des interactions sur le fonctionnement de l'OST.
 
-    Ils créent des contraintes qui sont à respecter au moment de la conception de l'objet technique.
+  
 
     </a>
 
@@ -71,54 +78,43 @@ Connaissances : Faire la liste des interacteurs extérieurs d’un OST (interact
 
     Quels contraintes prendre en compte dans la conception de l'OST? 
 
-[Activité les interacteurs extérieurs](../systInformation)
+[Activité Les contraintes](../contraintes)
 
-Connaissances : Repérer et expliquer les choix de conception dans les domaines de l’ergonomie et de la sécurité ou en lien avec des objectifs de développement durable
 
 ??? abstract "Bilan"
 
     <a markdown id="bilan2">
 
-    D'autres contraintes sont à prendre en compte  pour concevior un objet technique.
-
-    L'ergonomie d'un objet est liée à ce que le rend pratique et agréable à l'utiliser (ses formes, son fonctionnement...)
-
-    Les contraintes liées à la sécurité protégent les utilisateurs et les autres personnes.
+    Les interacteurs extéireurs créent des contraintes qui sont à respecter au moment de la conception de l'objet technique.
 
     Des règles appelées normes fixent des obligations à respecter en matière de sécurité et de respects de l'environnement. 
 
-    La contraitne esthétique consiste à plaire aux utilisateurs.
+    Des labels et certifications permettent de montrer que l'OST correspond à certains critères.
 
-    Le cahier des charges est un document qui liste les fonctions et les contraintes à prendre en cmpte au moment de la conception d'un objet technique.
+    D'autres contraintes sont à prendre en compte  pour concevoir un objet technique :
+
+        - L'ergonomie (praticité et confort d'utilisation)
+        - La contraitne esthétique pour plaire aux utilisateurs.
+
+    Le cahier des charges est un document qui liste les fonctions et les contraintes à prendre en compte au moment de la conception d'un objet technique.
 
     </a>
 
-Cahier des charges plan de salles de classe
 
-Séance n°8 : Repérer et expliquer les choix de conception dans les domaines de l’ergonomie et de la sécurité ou en lien avec des objectifs de développement durable (1H)
-Ressources : MAGNARD p21
+    
+### Document d’appel :
 
+À la suite d’une demande de la région Île-de-France, vous vous lancez dans la conception d’une nouvelle salle de classe pour recevoir les nouveaux élèves.  
+![Photo d'une salle de classe](Pictures/salle_classe.png){: style="width:300px"}
 
+## Séance 3 : Cahier des charges
 
-
-
-# L’OST dans son environnement
-
-## Repères de progressivité
+[Activité Cahier des charges d'une salle de classe](../cahierCharges)
 
 
 
 
-## Connaissances
 
-- Les interacteurs extérieurs : usagers, données, autres objets, éléments de l’environnement ; les modes de représentation : croquis, schéma, graphique, algorithme, modélisation ;
-- Les contraintes : prise en compte des exigences issues des normes ou d’un cahier des charges, labels et certifications ; l’ergonomie liée à l’usage.
+## Séance 4 : Modélisation de la salle de classe
 
-## Bilan
-
-#### Les interacteurs extérieurs d'un objet technique
-
-
-
-#### Les contraintes liées à la sécurité et à l'ergonomie
-
+[Activité Modélisation 3D de la salle de classe](../Modelisation)
