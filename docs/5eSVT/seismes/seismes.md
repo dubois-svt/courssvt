@@ -111,11 +111,14 @@ Sur le croquis ci-dessous, on voit qu’un séisme de forte magnitude (à gauche
 ??? note-prof "correction"
     Correction de l’activité 26
     Consigne 1 :
-
-    Un séisme peut causer des déformations du sol, des destructions et des tsunamis. 
-    Lors d’un séisme, on peut mesurer l’énergie du séisme, c’est-à-dire sa magnitude.
-
+    Un séisme peut causer des secousses du sol, des déformations du sol, des destructions, des blessés et des tsunamis. 
+   
     Consigne 2 :
-    L’effet d’un séisme dépend de sa magnitude, plus la magnitude d’un séisme est élevée, plus les dégâts peuvent être importants. 
+    Lors d’un séisme, on peut mesurer l’énergie du séisme, c’est-à-dire sa magnitude. Mais aussi les dégats qui sont dûs au séismes avec l'intensité.
+    Les deux mesures sont compélmentaires car un séisme peut être fort, mais causer peu de dégats et à l'inverse un séisme de magnitude moyenne peut causer de gros dégats et donc avoir une grande intensité.
 
-    L’effet d’un séisme dépend de la distance à l’épicentre, plus on est loin de l’épicentre, plus les effets ressentis seront faibles.
+    Consigne 3 :
+    Il ya eu des séismes la veille en france majorité sont de faible magnitude.
+
+    Consigne 4 :
+    Dans le monde, on voit qu'il y a aussi des séismes de magntiude plus forte régulièrement.
