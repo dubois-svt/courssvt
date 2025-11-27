@@ -249,6 +249,8 @@ nav :
       - Séquence L’OST dans son environnement :
         - Intrduction : 5eTechno/OSTetEnv/IntroInteractions.md
         - Les interacteurs extérieurs : 5eTechno/OSTetEnv/interacteurExt.md
+        - Les contraintes : 5eTechno/OSTetEnv/contraintes.md
+
         - Cahier des charges d'une salle de classe: 5eTechno/OSTetEnv/cahierCharges.md
         - Modélisation 3D d'une salle de classe : 5eTechno/OSTetEnv/Modelisation.md
 

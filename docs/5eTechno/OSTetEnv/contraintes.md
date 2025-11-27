@@ -1,24 +1,14 @@
 # Activité : Les contraintes d'un OST
 
-
-    faire diagramme interacteurs
-
-
-    Comaprer 2 objets différencier ergonomie
-        - prise en compte handicap
-
-    Comaprer 2 objets prise en compte sécurité
-    jpuet pour enfant 
-
-
 !!! note "Compétences"
 
     Trouver et exploiter des informations  
 
 !!! warning "Consignes"
 
-   1. Relier les définitions à leurs contraintes dans le document 2 
-   2. À partir du diagramme de contrainte, indiquer les contraintes manquantes et donner le type dont il s'agit
+    1. Relier les définitions à leurs contraintes dans le document 2 
+    2. Reprendre un de nos diagramme d'utilisation et retrouver pour chaque fonctions techniques, la contrainte qui sera imposée et le type de contraintes dont il s'agit.
+    3. Retrouver pour l'objet d'autres contraintes correspondant au type manquant.
     
     
 ??? bug "Critères de réussite"
@@ -30,11 +20,20 @@
 **Document 1 Interacteurs extérieurs et contraintes**
 
 
-Les différents interacteurs vont déterminer les fonctions techniques de notre OST, mais aussi les contraintes liées à cet objet.
+Les différents interacteurs vont déterminer les contraintes associées à notre OST et donc les fonctions techniques de notre OST.
 
 Ces fonctions techniques et ces contraintes détermineront notre cahier des charges.
 
 Les contraintes spécifient ce que doit respecter un produit, elles correspondent à l'adaptation du produit à un élément de son environnement extérieur.
+
+Il existe différents types de contraintes :
+
+- contraintes de sécurité
+- Contraintes de fonctionnement
+- Contraintes économiques
+- Contraintes d'ergonomie
+- Contraintes environnementales
+- Contraintes d’esthétique
 
 
 </div>

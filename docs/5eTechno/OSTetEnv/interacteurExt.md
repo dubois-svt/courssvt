@@ -2,18 +2,6 @@
 
 
 ??? note-prof "idees a reprendre"
-    1. Faire la liste des éléments qui vont interagir avec l'objet des OST
-    2. utilisateur
-    3. données
-    4. objets
-    5. environnement
-    retrouver des contraintes de fabrication
-        - esthétisme
-        - sécurité
-        - utilisation
-        - enviropnnement
-    faire diagramme interacteurs
-
 
     Comaprer 2 objets différencier ergonomie
         - prise en compte handicap
@@ -28,7 +16,7 @@
 
 !!! warning "Consignes"
 
-    1. Faire la liste des éléments qui vont interagir avec nos trois objets.
+    1. Faire la liste des éléments qui vont interagir avec nos deux objets.
     2. Regrouper les interacteurs dans les différents types.
     3. Faire un diagramme des cas d'utilisation pour un des objets (potager ou montre)
 
@@ -38,12 +26,23 @@
 ??? bug "Critères de réussite"
     - 
 
-![](image-6.png)
 
+
+
+**Document 1 Deux OST**
+
+<div markdown style="display:flex; flex-direction:row">
+
+![Potager d'intérieur](Pictures/potagerInterieur.png){:style="width:300px;"}
+![Montre connectée pour la natation ](Pictures/montreConnectee.png){:style="width:300px;"}
+
+</div>
 
 <div markdown style="break_inside: avoid;">
 
-**Document 1 Interacteurs extérieurs**
+
+
+**Document 2 Interacteurs extérieurs**
 
 Ce sont l'ensemble des éléments qui peuvent interagir avec l'OST pour le faire fonctionner, le modifier ou l'utiliser d'une façon ou d'une autre.
 
@@ -57,7 +56,7 @@ Il y a différents types d'interacteurs extérieurs :
 </div>
 
 
-**Document 2 Créer un diagramme des cas d'utilisation**
+**Document 3 Créer un diagramme des cas d'utilisation**
 
 Pour représenter les différents services rendus sur un système, on peut lister les cas d'utilisation, qui permettent de savoir à quoi va servir le système et avec quoi ou avec qui va interagir le système:
 

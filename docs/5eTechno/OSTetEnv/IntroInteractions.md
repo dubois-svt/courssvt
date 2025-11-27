@@ -21,14 +21,14 @@ Pour construire un objet ou système technologique de nombreux points de vigilan
 
 
 
-![Potager d'intérieur](Pictures/potagerInterieur.png)
-![Montre connectée](Pictures/montreConnectee.png)
-![Souris](Pictures/souris.png)
+![Potager d'intérieur](Pictures/potagerInterieur.png){:style="width:300px;"}
+![Montre connectée](Pictures/montreConnectee.png){:style="width:300px;"}
+![Souris](Pictures/souris.png){:style="width:300px;"}
 
 </div>
 
 
-Il faut d'abpord lister les éléments qui vont agir avec notre objet.
+Il faut d'abord lister les éléments qui vont agir avec notre objet.
 
 ## Séance 1 : Les interacteurs extérieurs
 
@@ -66,7 +66,7 @@ Il faut d'abpord lister les éléments qui vont agir avec notre objet.
 <div style="break-inside: avoid;"></div>
 
 
-
+Nos diagrammes d'utilisation montre que nos OST doivent respecter des éléments, ce sont des contraintes
 
 
 
@@ -86,6 +86,16 @@ Il faut d'abpord lister les éléments qui vont agir avec notre objet.
     <a markdown id="bilan2">
 
     Les interacteurs extéireurs créent des contraintes qui sont à respecter au moment de la conception de l'objet technique.
+
+    Il existe différents types de contraintes :
+
+    - contraintes de sécurité
+    - Contraintes de fonctionnement
+    - Contraintes économique
+    - Contraintes d'ergonomie
+    - Contraintes environnementales
+    - Contraintes d’esthétique
+
 
     Des règles appelées normes fixent des obligations à respecter en matière de sécurité et de respects de l'environnement. 
 
