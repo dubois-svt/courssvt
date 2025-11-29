@@ -43,7 +43,7 @@ Il existe différents types de contraintes :
 <table>
 <tbody>
 
-<tr><th>Remplir la fonction d’usage</th><th> ● </th><th> <br>&nbsp;&nbsp; </th><th> ● </th><th> Contraintes de sécurité </th></tr>
+<tr><th>Remplir la fonction principale</th><th> ● </th><th> <br>&nbsp;&nbsp; </th><th> ● </th><th> Contraintes de sécurité </th></tr>
 
 <tr><td> Rendre utilisable en toute sécurité </td><td> ● </td><td> <br>&nbsp;&nbsp; </td><td> ● </td><td> Contraintes de fonctionnement&nbsp;&nbsp; </td></tr>
 
