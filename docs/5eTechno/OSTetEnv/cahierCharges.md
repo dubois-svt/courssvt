@@ -15,11 +15,17 @@ Vous êtes responsable du projet de rénovation d’une salle de sciences. Vous 
     - Avoir proposé un croquis de la salle de classe
     - Avoir mis une légende et un titre au croquis
 
+
+<div style="break-inside: avoid;">
+
+
 **Document 1 : Recommandations pour une salle de classe**  
 
 - Rangement : pour le matériel pédagogique devant rester dans la salle et pour le matériel et les effets personnels des enseignants et des élèves.  
 - Flexibilité de configuration pour un travail individuel et/ou collectif, avec suffisamment de place pour une classe complète de 24 élèves.  
 
+</div>
+<div style="break-inside: avoid;">
 
 **Document 2 : Des normes dans la construction des bâtiments publiques**  
 
@@ -27,8 +33,11 @@ Pour la sécurité des usagers, une salle de classe et plus particulièrement un
 
 - Il doit y avoir deux sorties d'urgence clairement indiquées dans la salle de classe. Ces sorties doivent être facilement accessibles et dégagées en tout temps.
 - Un extincteur doit être présent en permanence et aisément accessible.
-- Dans les salles de sciences, principalement les salles de chimie, une douche de sécurité doit être installée pour permettre un rinçage en cas de projection de produits.
+- Dans les salles de sciences, un point d'eau doit être installé pour permettre un nettoyage du amtériel et un rinçage en cas de projection de produits.
 - Un équipement pour les personnes à mobilité réduite doit être installé, dans une de classe, il s'agira d'une table avec assez d'espace autour pour qu'un fauteuil roulant circule.
+
+</div>
+<div style="break-inside: avoid;">
 
 **Document 3 Disposition des fenêtres**
 
@@ -40,7 +49,13 @@ Donc en fonction de où l'on dispose les fenêtres d'un bâtiment, la conséquen
 - A l'ouest : beaucoup de soleil l'après-midi, peu le matin
 - Au sud : un éclairement assez constant sur la journée.
 
-**Document 5  Cahier des charges de la salle de classe**
+</div>
+<div style="break-inside: avoid;">
+
+
+**Document 4  Cahier des charges de la salle de classe**
+
+
 
 <table><thead>
   <tr>
@@ -101,68 +116,7 @@ Donc en fonction de où l'on dispose les fenêtres d'un bâtiment, la conséquen
     <td>sol avec une couleur beige ou brune</td>
   </tr>
 </tbody></table>
-<div style="break-inside: avoid;">
 
-<table >
-<thead>
-  <tr>
-    <th style="background-color:LightGray"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">............</span></th>
-    <th style="background-color:LightGray"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">............</span></th>
-    <th style="background-color:LightGray"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">............ ............</span></th>
-    <th style="background-color:LightGray"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">............ ............</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td  ><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"></span></td>
-    <td ><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Salle de cours pour les sciences</span></td>
-    <td ><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Faire cours</span></td>
-    <td ><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Grande surface </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Accès à l’eau</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">.................................</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Bureau pour l'enseignant avec un ordinateur.</span></td>
-  </tr>
-  <tr>
-    <td  ><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"></span></td>
-    <td ><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">La lumière</span></td>
-    <td ><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Eclairer</span></td>
-    <td ><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">……………………………….</span></td>
-  </tr>
-    <tr>
-      <td  ><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"></span></td>
-    <td ><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Rangement sécurisé</span></td>
-    <td ><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Ranger</span></td>
-    <td ><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"></span></td>
-  </tr>
-  <tr>
-      <td  ><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"></span></td>
-    <td  ><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">protection des personnes</span><br></td>
-    <td  ><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"></span></td>
-        <td  ><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"></span></td>
-  </tr>
-
-  <tr>
-    <td  ><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
-    <td ><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Législation en vigueur</span></td>
-    <td ><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"></span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">24 places </span></td>
-    <td ><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"></span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"></span></td>
-  </tr>
-  <tr> 
-      <td  ><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"></span></td>
-    <td ><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Aération permanente</span></td>
-    <td ><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Ouverture sur l’extérieur</span></td><td ><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"></span></td>
-  </tr>
-  <tr>
-      <td  ><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"></span></td>
-    <td ><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Confort (luminosité, chaleur…)</span></td>
-    <td ><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Se sentir bien</span></td>
-    <td ><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Fenêtres côté Sud</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Eclairage au plafond</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
-  </tr>
-    <tr>
-    <td  ><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"></span></td>
-    <td ><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Confort des élèves à besoins particuliers</span></td>
-    <td ><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Se sentir bien</span></td>
-    <td ><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"> </span></td>
-  </tr>
-</tbody>
-</table>
 
 
 
