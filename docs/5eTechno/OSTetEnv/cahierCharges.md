@@ -74,7 +74,7 @@ Donc en fonction de où l'on dispose les fenêtres d'un bâtiment, la conséquen
   <tr>
     <td rowspan="2"></td>
     <td>Capacité de la salle à accueillir un élève en fauteuil roulant</td>
-    <td>place assez large pour un fauteuil roulant</td>
+    <td>place assez large pour un fauteuil roulant, près de l'entrée</td>
   </tr>
   <tr>
     <td>accès à de l'eau pour le nettoyage du matériel</td>
