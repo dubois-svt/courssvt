@@ -28,6 +28,8 @@
 
 
 
+<div markdown style="break_inside: avoid;">
+
 
 **Document 1 Deux OST**
 
@@ -38,6 +40,7 @@
 
 </div>
 
+</div>
 <div markdown style="break_inside: avoid;">
 
 
@@ -54,6 +57,8 @@ Il y a différents types d'interacteurs extérieurs :
 - éléments de l'environnement, élément naturel en contact avec l'OST
 
 </div>
+<div markdown style="break_inside: avoid;">
+
 
 
 **Document 3 Créer un diagramme des cas d'utilisation**
@@ -63,4 +68,6 @@ Pour représenter les différents services rendus sur un système, on peut liste
 - le système est délimité par un cadre
 - les cas d'utilisations énoncés dans des ellipses 
 - les acteurs interagissent avec le système
+
 ![](image-2.png){:style="width:400px;"}
+</div>
