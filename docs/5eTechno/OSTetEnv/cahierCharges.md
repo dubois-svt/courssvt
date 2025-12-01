@@ -16,7 +16,7 @@ Vous êtes responsable du projet de rénovation d’une salle de sciences. Vous 
     - Avoir mis une légende et un titre au croquis
 
 
-<div style="break-inside: avoid;">
+<div markdown style="break-inside: avoid;">
 
 
 **Document 1 : Recommandations pour une salle de classe**  
@@ -25,7 +25,7 @@ Vous êtes responsable du projet de rénovation d’une salle de sciences. Vous 
 - Flexibilité de configuration pour un travail individuel et/ou collectif, avec suffisamment de place pour une classe complète de 24 élèves.  
 
 </div>
-<div style="break-inside: avoid;">
+<div markdown style="break-inside: avoid;">
 
 **Document 2 : Des normes dans la construction des bâtiments publiques**  
 
@@ -37,7 +37,7 @@ Pour la sécurité des usagers, une salle de classe et plus particulièrement un
 - Un équipement pour les personnes à mobilité réduite doit être installé, dans une de classe, il s'agira d'une table avec assez d'espace autour pour qu'un fauteuil roulant circule.
 
 </div>
-<div style="break-inside: avoid;">
+<div markdown style="break-inside: avoid;">
 
 **Document 3 Disposition des fenêtres**
 
@@ -50,7 +50,7 @@ Donc en fonction de où l'on dispose les fenêtres d'un bâtiment, la conséquen
 - Au sud : un éclairement assez constant sur la journée.
 
 </div>
-<div style="break-inside: avoid;">
+<div markdown style="break-inside: avoid;">
 
 
 **Document 4  Cahier des charges de la salle de classe**
