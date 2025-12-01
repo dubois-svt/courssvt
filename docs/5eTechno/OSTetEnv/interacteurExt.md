@@ -35,8 +35,8 @@
 
 <div markdown style="display:flex; flex-direction:row">
 
-![Potager d'intérieur](Pictures/potagerInterieur.png){:style="height:200px;"}
-![Montre connectée pour la natation ](Pictures/montreConnectee.png){:style="height:200px;"}
+![Potager d'intérieur](Pictures/potagerInterieur.png){:style="width:200px;"}
+![Montre connectée pour la natation ](Pictures/montreConnectee.png){:style="width:200px;"}
 
 </div>
 
