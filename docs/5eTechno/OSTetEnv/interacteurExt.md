@@ -33,8 +33,8 @@
 
 <div markdown style="display:flex; flex-direction:row">
 
-![Potager d'intérieur](Pictures/potagerInterieur.png){:style="width:300px;"}
-![Montre connectée pour la natation ](Pictures/montreConnectee.png){:style="width:300px;"}
+![Potager d'intérieur](Pictures/potagerInterieur.png){:style="height:200px;"}
+![Montre connectée pour la natation ](Pictures/montreConnectee.png){:style="height:200px;"}
 
 </div>
 
@@ -63,4 +63,4 @@ Pour représenter les différents services rendus sur un système, on peut liste
 - le système est délimité par un cadre
 - les cas d'utilisations énoncés dans des ellipses 
 - les acteurs interagissent avec le système
-![](image-2.png)
+![](image-2.png){:style="width:400px;"}
