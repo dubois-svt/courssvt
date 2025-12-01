@@ -103,8 +103,8 @@ Nos diagrammes d'utilisation montre que nos OST doivent respecter des éléments
 
     D'autres contraintes sont à prendre en compte  pour concevoir un objet technique :
 
-        - L'ergonomie (praticité et confort d'utilisation)
-        - La contraitne esthétique pour plaire aux utilisateurs.
+    - L'ergonomie (praticité et confort d'utilisation)
+    - La contraitne esthétique pour plaire aux utilisateurs.
 
     Le cahier des charges est un document qui liste les fonctions et les contraintes à prendre en compte au moment de la conception d'un objet technique.
 
