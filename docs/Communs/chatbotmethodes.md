@@ -55,6 +55,7 @@ Que faut-il faire ?
 15. [Notions d'échelles spatiales et temporelles](Notions d'échelles spatiales et temporelles)
 16. [Construire des groupes emboîtés](Construire des groupes emboîtés)
 17. [Calculer une taille ou distance sur une photo ou une carte](Calculer une taille ou distance sur une photo ou une carte)
+18. [Tenue du porte-vues](Tenue du porte-vues)
 
 --- 
 </div>
@@ -807,3 +808,19 @@ Pour la taille réelle de l'échelle, elle est indiquée au-dessus ou en dessous
 |  temps | chronomètre | seconde (s) |
 
 </div>
+
+
+## Tenue du porte-vues
+
+- Une page de garde avec nom, prénom, classe et discipline
+- Le porte-vues ne contient qu'une seule discipline
+- Le cours est complet
+- Toutes les feuilles sont dans pochettes
+- 1 seule feuilles recto-verso par pochette ou 2 feuilles recto
+- Pas de feuilles doubles
+- Mettre les controles à la fin
+- Mettre le cours dans l'ordre
+- Dans la mesure du possible, mettre les documents face au cours. 
+
+À la fin du trimestre, regrouper dans une pochette chaque séquence qui ont été évalué
+
