@@ -6,7 +6,7 @@
 
 !!! warning "Consignes"
 
-    1. À partir des photographies de frottis sanguins, déterminez si Jules est victime d’une infection. Justifiez votre réponse.
+    1. À partir des documents, déterminez si Jules est victime d’une infection. Justifiez votre réponse.
     2. Calculer la taille d'un leucocyte
 
     
