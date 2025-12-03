@@ -20,8 +20,7 @@ Les photographies des deux frottis sont représentatives de l’ensemble des cel
 
 **Document 1 Comparaison du sang de Jules avec celui d’une personne non malade**
 
-![](Pictures/frottisSanguinMaladeEtSain.png)
-
+![](Pictures/frottisSanguinMaladeEtSain.png){: style="width: 400px; "}
 
 **Document 2 Tableau présentant les résultats d’une analyse sanguine de deux sujets**
 
