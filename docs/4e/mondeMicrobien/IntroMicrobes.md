@@ -143,17 +143,21 @@ Par Laura Thouny, L’express, publié le 16/07/2010
     === "De quoi parler dans le bilan ? Quels mots clés ?"
 
     === "Bilan à trous"
-
-        Les antibiotiques sont des substances qui permettent ........................ Ils sont donc un moyen efficace de lutter contre .......................
+        Les antibiotiques sont donc un moyen efficace de lutter contre l’infection (multiplication des micro-organismes)
+        Les antibiotiques sont des substances qui permettent ........................ 
         Les antibiotiques n’ont aucun effet sur les .........................
         
-        Une mauvaise utilisation des antibiotiques peut entraîner une résistance des ................... aux antibiotiques, ceux-ci peuvent donc devenir moins efficaces. De plus ces antibiotiques peuvent ................. le microbiote intestinal de l’être humain.
+        Une mauvaise utilisation des antibiotiques peut entraîner une résistance des ................... aux antibiotiques, ceux-ci peuvent donc devenir moins efficaces. 
+        De plus ces antibiotiques peuvent ................. le microbiote intestinal de l’être humain et donc entraîner des ..........
 
     === "Bilan à trous"
-        Les antibiotiques sont des substances qui permettent l’élimination des bactéries. Ils sont donc un moyen efficace de lutter contre l’infection.
+        Les antibiotiques sont donc un moyen efficace de lutter contre l’infection (multiplication des micro-organismes)
+        Les antibiotiques sont des substances qui permettent l’élimination des bactéries. 
         Les antibiotiques n’ont aucun effet sur les virus.
         
-        Une mauvaise utilisation des antibiotiques peut entraîner une résistance des bactéries aux antibiotiques, ceux-ci peuvent donc devenir moins efficaces. De plus ces antibiotiques peuvent tuer le microbiote intestinal de l’être humain.
+        Une mauvaise utilisation des antibiotiques peut entraîner une résistance des bactéries aux antibiotiques, ceux-ci peuvent donc devenir moins efficaces. 
+        De plus ces antibiotiques peuvent tuer le microbiote intestinal de l’être humain et donc entraîner des maladies.
+
 
 ??? abstract "Infos Supplémentaires"
 

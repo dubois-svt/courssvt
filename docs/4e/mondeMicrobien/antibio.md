@@ -9,8 +9,9 @@
 !!! warning "Consignes"
 
     1. À l’aide du document 1 et 2, expliquer le rôle des antibiotiques.
-    2. À l’aide des documents 3, 4 et 5, expliquer les deux phrases des campagnes de sensibilisation à l’usage des antibiotiques.
-    3. À l’aide des documents 6 et 7, indiquer en justifiant, quel antibiotique il faut prescrire dans le cas du patient de document 3.
+    2. À l’aide des documents 3 et 4, indiquer en justifiant, quel antibiotique il faut prescrire dans le cas du patient de document 4.
+    3. À l’aide des documents 5, 6 et 7, expliquer une des deux phrases des campagnes de sensibilisation à l’usage des antibiotiques.
+
     
 ??? bug "Critères de réussite"
     - 
@@ -28,40 +29,9 @@ Les antibiotiques vont tuer les bactéries
 
 ![](pictures/photoEffetAntibioBact.png){: style="height:300px;"}
 </div>
-<div markdown style="page-break-inside: avoid;">
-
-**Document 3 : La résistance aux antibiotiques**
-
-Dans une population de bactéries, en présence d’antibiotique, seules les bactéries ayant un mécanisme de résistance se reproduisent. Les autres meurent (bactéries sensibles). Ce faisant, la totalité de la population bactérienne devient résistante. En Europe, on estime que 25 000 décès par an sont liés à des infections dues à des résistances bactériennes et que 1,5 milliard d’euros sont dépensés à cause d’infections par des bactéries multirésistantes.
-
-Par ailleurs, un antibiotique peut tuer des bactéries constituant le microbiote digestif qui nous protège de certaines contaminations et qui participe à une bonne digestion.
-
-</div>
-<div markdown style="page-break-inside: avoid;">
-
-**Document 4 : Entretien avec Nadia Baron, médecin généraliste**
-
-En tant que médecin, quel message souhaitez-vous faire passer ?
-
-Les antibiotiques sont efficaces contre les bactéries, mais pas contre les virus. Le problème aujourd’hui, c’est le développement des résistances bactériennes. Il y a 15 ans, pour guérir une otite, on prescrivait une dose d’antibiotiques de 60 à 70 mg/kg/jour, aujourd’hui la dose est de 90. Les bactéries résistantes nous obligent à augmenter des doses, on se rapproche des limites dans lesquelles apparaissent des effets secondaires. À plus long terme, c’est la menace de pandémies.
-
-</div>
-<div markdown style="page-break-inside: avoid;">
-
-**Document 5 : Deux campagnes de sensibilisation à l’usage des antibiotiques.**
-
-
-<div markdown style="display:flex; flex-direction:row;">
-![](pictures/campagneAntibio1.png)
-![](pictures/campagneAntibio2.png)
-
-
-</div>
-
-</div>
 <div  markdown style="page-break-inside: avoid;">
 
-**Document 6 : Un antibiogramme.**
+**Document 3 : Un antibiogramme.**
 
 Un antibiogramme consiste à mettre en contact plusieurs antibiotiques avec des colonies de bactéries. Il permet de mesurer la capacité d’un antibiotique à empêcher la croissance bactérienne.
 Tous les antibiotiques ne sont pas efficaces contre toutes les bactéries. L’antibiogramme permet de déterminer l’antibiotique le plus efficace en cas d’infection bactérienne.
@@ -82,11 +52,44 @@ L’efficacité de l’antibiotique est révélée par la réaction de la popula
 </div>
 <div markdown style="page-break-inside: avoid;">
 
-**Document 7 : Un antibiogramme d’un patient.**
+**Document 4 : Un antibiogramme d’un patient.**
 
 Un antibiogramme est fait pour connaître l’antibiotique à utiliser dans le cas d’un patient souffrant d’une infection bactérienne.
 
 ![](pictures/Antibiogramme.png){: style="height:300px;"}
+
+</div>
+
+
+<div markdown style="page-break-inside: avoid;">
+
+**Document 5 : La résistance aux antibiotiques**
+
+Dans une population de bactéries, en présence d’antibiotique, seules les bactéries ayant un mécanisme de résistance se reproduisent. Les autres meurent (bactéries sensibles). Ce faisant, la totalité de la population bactérienne devient résistante. En Europe, on estime que 25 000 décès par an sont liés à des infections dues à des résistances bactériennes et que 1,5 milliard d’euros sont dépensés à cause d’infections par des bactéries multirésistantes.
+
+Par ailleurs, un antibiotique peut tuer des bactéries constituant le microbiote digestif qui nous protège de certaines contaminations et qui participe à une bonne digestion.
+
+</div>
+<div markdown style="page-break-inside: avoid;">
+
+**Document 6 : Entretien avec Nadia Baron, médecin généraliste**
+
+En tant que médecin, quel message souhaitez-vous faire passer ?
+
+Les antibiotiques sont efficaces contre les bactéries, mais pas contre les virus. Le problème aujourd’hui, c’est le développement des résistances bactériennes. Il y a 15 ans, pour guérir une otite, on prescrivait une dose d’antibiotiques de 60 à 70 mg/kg/jour, aujourd’hui la dose est de 90. Les bactéries résistantes nous obligent à augmenter des doses, on se rapproche des limites dans lesquelles apparaissent des effets secondaires. À plus long terme, c’est la menace de pandémies.
+
+</div>
+<div markdown style="page-break-inside: avoid;">
+
+**Document 7 : Deux campagnes de sensibilisation à l’usage des antibiotiques.**
+
+
+<div markdown style="display:flex; flex-direction:row;">
+![](pictures/campagneAntibio1.png)
+![](pictures/campagneAntibio2.png)
+
+
+</div>
 
 </div>
 

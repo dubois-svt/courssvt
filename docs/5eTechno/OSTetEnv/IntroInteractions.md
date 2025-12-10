@@ -15,7 +15,7 @@ Pour construire un objet ou système technologique de nombreux points de vigilan
 
 !!! question "Problématique"
 
-    Comment évaluer les contraintes à prendre en compte lors de la réalistaion d'un OST ?
+    Comment évaluer les contraintes à prendre en compte lors de la réalisation d'un OST ?
 
 <div markdown style="display:flex; flex-direction:row">
 
