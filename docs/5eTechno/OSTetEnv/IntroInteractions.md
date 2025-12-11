@@ -85,7 +85,7 @@ Nos diagrammes d'utilisation montre que nos OST doivent respecter des éléments
 
     <a markdown id="bilan2">
 
-    Les interacteurs extéireurs créent des contraintes qui sont à respecter au moment de la conception de l'objet technique.
+    Les interacteurs extérieurs créent des contraintes qui sont à respecter au moment de la conception de l'OST.
 
     Il existe différents types de contraintes :
 
