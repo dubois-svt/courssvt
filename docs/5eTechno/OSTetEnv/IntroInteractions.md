@@ -76,7 +76,7 @@ Nos diagrammes d'utilisation montre que nos OST doivent respecter des éléments
 !!! question "Problématique"
 
 
-    Quels contraintes prendre en compte dans la conception de l'OST? 
+    Quelles contraintes prendre en compte dans la conception de l'OST? 
 
 [Activité Les contraintes](../contraintes)
 
