@@ -33,7 +33,7 @@ Pour la sécurité des usagers, une salle de classe et plus particulièrement un
 
 - Il doit y avoir deux sorties d'urgence clairement indiquées dans la salle de classe. Ces sorties doivent être facilement accessibles et dégagées en tout temps.
 - Un extincteur doit être présent en permanence et aisément accessible.
-- Dans les salles de sciences, un point d'eau doit être installé pour permettre un nettoyage du amtériel et un rinçage en cas de projection de produits.
+- Dans les salles de sciences, un point d'eau doit être installé pour permettre un nettoyage du matériel et un rinçage en cas de projection de produits.
 - Un équipement pour les personnes à mobilité réduite doit être installé, dans une de classe, il s'agira d'une table avec assez d'espace autour pour qu'un fauteuil roulant circule.
 
 </div>
