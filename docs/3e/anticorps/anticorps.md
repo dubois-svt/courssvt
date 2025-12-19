@@ -127,9 +127,7 @@ En février 2014, une épidémie de fièvre hémorragie due au virus Ebola s’e
 <table>
 <colgroup>
 <col style="width: 200px">
-
 <col style="width: 700px">
-
 </colgroup>
 <tbody>
 <tr class="odd">
