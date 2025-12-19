@@ -167,19 +167,17 @@ Lorsqu’un individu présente un type d’anticorps dans son sang on dit qu’i
 </div>
 
 
-**Document 3 : Expérience historique de localisation des anticorps.**
-
-![](Pictures/schemaExpLocalisationAnticorps.png)
-
 
 **Document 4 Le mode d’action des anticorps**
 
-![](Pictures/modeActAnticorps.png)
+![](Pictures/modeActAnticorps.png){: style="width: 600px;"}
+
 
 
 **Document 5 Antigène de micro-organisme et récepteur de lymphocyte.**
 
-![](Pictures/specificiteAnticorps.png)
+![](Pictures/specificiteAnticorps.png){: style="width: 600px;"}
+
 
 Chaque anticorps est spécifique d’un antigène donné : il ne reconnaît et ne peut éliminer que cet antigène. Les anticorps sont produits par les lymphocytes B (cellules présentes dans le sang). Un lymphocyte ne produit des anticorps qu’après un contact avec un antigène.
 
@@ -189,7 +187,7 @@ Chaque anticorps est spécifique d’un antigène donné : il ne reconnaît et 
 ![](Pictures/testOuchternoly.png)
 </div>
 
-<div markdown style="display:flex; flex: 2 1 0; flex-direction:column;">
+<div markdown style="display:flex; flex: 3 1 0; flex-direction:column;">
 
 #### Principe du test d’immunodiffusion sur gel :
 
@@ -199,12 +197,17 @@ Les solutions déposées dans des puits creusés dans le gel diffusent de façon
 
 #### Matériel :
 
+<div markdown style="display:flex; flex-direction:row;">
+<div markdown style="display:flex; flex: 1 1 0; flex-direction:column;">
 - petite boite de Pétri gélosée (6 cm de diamètre)
 - emporte-pièce
 - cure-dent ou aiguille lancéolée
 - série de compte-gouttes propres
 - feutre
 - feuille de papier noir
+</div>
+
+<div markdown style="display:flex; flex: 1 1 0; flex-direction:column;">
 - 5 tubes contenant les solutions :
 
     - \(Ag) solution d’antigènes du virus ;
@@ -213,7 +216,8 @@ Les solutions déposées dans des puits creusés dans le gel diffusent de façon
     - \(S\) sérum du médecin à tester ;
     - \(G\) sérum d’un individu séropositif à l’antigène de la grippe ; (utile pour la consigne 5 uniquement)
 
-
+</div>
+</div>
 
 les produits utilisés (soude notamment) sont des produits de substitution permettant de modéliser les réactions entre sérum et anticorps, afin d’éviter les risques liés à la manipulation de produits biologiques dangereux. Cependant, un risque chimique subsiste puisque la soude provoque des brûlures et lésions oculaires.
 
@@ -224,7 +228,7 @@ les produits utilisés (soude notamment) sont des produits de substitution perme
 ![](Pictures/gabaritOuchterlony.png){: style="width: 100%;"}
 </div>
 
-<div markdown style="display:flex; flex: 1 1 0; flex-direction:column;">
+<div markdown style="display:flex; flex: 3 1 0; flex-direction:column;">
 
 #### Réalisation :
 
@@ -303,6 +307,12 @@ La réaction antigène-anticorps s’obtient de façon optimale lorsque la renco
     Consigne 5 : Expliquer la réaction ou son absence pour l’individu séropositif au virus de la grippe.
 
     On voit dans le cas de l’individu séropositif à la grippe, qu’il n’y a pas de réaction. On sait que les anticorps sont spécifiques c’est-à-dire qu’ils ne peuvent se fixer qu’à un seul type d’antigène. Donc les anticorps qu’il possède sont des anticorps qui reconnaissent les antigènes du virus de la grippe, mais pas ceux du virus Ebola, ce qui explique l’absence de réaction.
+
+
+    
+    **Document 3 : Expérience historique de localisation des anticorps.**
+    
+    ![](Pictures/schemaExpLocalisationAnticorps.png)
 
 
 
