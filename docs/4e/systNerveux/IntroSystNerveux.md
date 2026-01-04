@@ -8,9 +8,9 @@
 
     Comment fonctionne le système nerveux ?
 
-![](image-2.png)
+![](Pictures/planTrav.png){:style="width:1000px;"}
     
-
+![alt text](image.png)
 ## Séance 1 : Le mouvement
 
 !!! question "Problématique"

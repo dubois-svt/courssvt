@@ -26,7 +26,7 @@
 
 ??? abstract "Aides"
     === "Aide 1"
-        Le noyau est un élément arrondi ànl'intérieur des cellules
+        Le noyau est un élément arrondi à l'intérieur des cellules
     === "Aide 2"
         La membrane correspond à l'enveloppe qui délimite une cellule
     === "Aide 3"
@@ -44,8 +44,8 @@ Utilisation :
 - La lame doit être bloquée par les valets sur la platine, l'objet doit être placé au-dessus du trou de la platine
 - Allumer le microscope
 - On commence toujours à observer à l’objectif rouge (x4)
-- La mise au point se fait avec les vis macroscopique (les grosses) à l’objectif rouge, on tourne la vis jusqu'à observer nettement l'objet
-- La mise au point se fait avec les vis microscopique (les petites) à partir de l’objectif jaune (x10) et bleu (x40/x60)
+- La mise au point se fait avec les vis macroscopiques (les grosses) à l’objectif rouge, on tourne la vis jusqu'à observer nettement l'objet
+- La mise au point se fait avec les vis microscopiques (les petites) à partir de l’objectif jaune (x10) et bleu (x40/x60)
 
 Rangement : 
 
@@ -59,9 +59,8 @@ Pour savoir combien de fois, on a grossi l’échantillon que l’on observe, il
 
 **Document 2 Réaliser un dessin d'observation**
 
-Le dessin se fait au crayon à papier
-au centre de la feuille, on dessine l'objet observé ou une partie de façon assez grosse pour que le dessin soit lisible
-on met un titre avec TYPE / NATURE du document + ce qu’il REPRÉSENTE / MONTRE (+ Mode d’obtention : microscope, loupe avec le grossissement)
+Le dessin se fait au crayon à papier au centre de la feuille, on dessine l'objet observé ou une partie de façon assez grosse pour que le dessin soit lisible.
+On met un titre avec TYPE / NATURE du document + ce qu’il REPRÉSENTE / MONTRE (+ Mode d’obtention : microscope, loupe avec le grossissement)
 
 LÉGENDE :
 mettre des flèches ou des traits :
@@ -78,7 +77,7 @@ mettre mots de légende :
 
 **Document 3 Photos de neurones (MO x600)**
 
-![](Pictures/photoNeurone1.png)
+
 ![](Pictures/photoNeurone2.png)
 
 [https://vimeo.com/263053418](https://vimeo.com/263053418)

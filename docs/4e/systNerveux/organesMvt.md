@@ -21,7 +21,7 @@
 ??? abstract "Aides"
 
     === "Aide 1"
-        Retrouve dans la consoigne le premier élément du schéma et le dernier.
+        Retrouve dans la consigne le premier élément du schéma et le dernier.
     === "Aide 2"
         Retrouve les organes des différents documents. Dans quel ordre sont-ils utilisés ? 
         4 organes sont à retrouver

@@ -7,8 +7,9 @@
 Vous êtes responsable du projet de rénovation d’une salle de sciences. Vous allez devoir compléter votre cahier des charges d'après les textes de recommandations et proposer un croquis d'une salle de classe.
 
 !!! warning "Consignes"
-    1. Compléter le cahier des charges en retrouvant les éléments manquants.  
-    2. Réaliser un croquis rapide de la salle de classe.
+    1. Compléter le cahier des charges en retrouvant les éléments manquants.
+    2. Produire un diagramme des cas d'utilisation de la salle de classe. 
+    3. Réaliser un croquis rapide de la salle de classe.
 
 ??? bug "Critères de réussite"
     - Avoir complété le tableau du document 4
@@ -33,7 +34,7 @@ Pour la sécurité des usagers, une salle de classe et plus particulièrement un
 
 - Il doit y avoir deux sorties d'urgence clairement indiquées dans la salle de classe. Ces sorties doivent être facilement accessibles et dégagées en tout temps.
 - Un extincteur doit être présent en permanence et aisément accessible.
-- Dans les salles de sciences, un point d'eau doit être installé pour permettre un nettoyage du amtériel et un rinçage en cas de projection de produits.
+- Dans les salles de sciences, un point d'eau doit être installé pour permettre un nettoyage du matériel et un rinçage en cas de projection de produits.
 - Un équipement pour les personnes à mobilité réduite doit être installé, dans une de classe, il s'agira d'une table avec assez d'espace autour pour qu'un fauteuil roulant circule.
 
 </div>
@@ -42,10 +43,10 @@ Pour la sécurité des usagers, une salle de classe et plus particulièrement un
 **Document 3 Disposition des fenêtres**
 
 Le Soleil est visible à l'est le matin et à l'ouest en fin d'après midi et il est plutôt dans la partie Sud du ciel.
-Donc en fonction de où l'on dispose les fenêtres d'un bâtiment, la conséquence ne sera pas la même.
+Donc en fonction d'où l'on dispose les fenêtres d'un bâtiment, la conséquence ne sera pas la même.
 
-- Au nord : peu de lumière et le soleil chauffera peu la  pièce.
-- Al'est : beaucoup de Soleil le matin, peu l'après-midi
+- Au nord : peu de lumière et le soleil chauffera peu la pièce.
+- A l'est : beaucoup de Soleil le matin, peu l'après-midi
 - A l'ouest : beaucoup de soleil l'après-midi, peu le matin
 - Au sud : un éclairement assez constant sur la journée.
 
@@ -53,7 +54,7 @@ Donc en fonction de où l'on dispose les fenêtres d'un bâtiment, la conséquen
 <div markdown style="break-inside: avoid;">
 
 
-**Document 4  Cahier des charges de la salle de classe**
+**Document 4 Cahier des charges de la salle de classe**
 
 
 
