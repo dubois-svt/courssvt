@@ -10,7 +10,7 @@
 
 ![](Pictures/planTrav.png){:style="width:1000px;"}
     
-![alt text](image.png)
+
 ## Séance 1 : Le mouvement
 
 !!! question "Problématique"
@@ -58,12 +58,6 @@
 
 ## Séance 2 : Les nerfs
 
-![](Pictures/systNervGrenouille.jpg){: style="width: 400px"}
-
-[https://vimeo.com/263053418](https://vimeo.com/263053418)
-
-![](Pictures/dessiSystNerveux.png)
-
 !!! question "Problématique"
 
     De quoi sont composés les nerfs et les centres nerveux ?
@@ -91,6 +85,12 @@
         Une fibre nerveuse correspond au prolongement d’une cellule appelée neurone.
 
         Les nerfs et les centres nerveux sont composés de neurones.
+
+
+        ![](Pictures/dessiSystNerveux.png)
+
+        [https://vimeo.com/263053418](https://vimeo.com/263053418)
+
 
 ## Séance 3 : La communication nerveuse
 
@@ -138,10 +138,7 @@ Le message passe de neurone en neurone jusqu’aux muscles.
 
         Au niveau des synapses, le message nerveux  est de nature chimique. Il est transmis par des substances, les neurotransmetteurs.
         
-Séance 4 : Le cerveau, élément central du système nerveux
-
-
-![](Pictures/schemaSynapse.png)
+        ![](Pictures/schemaSynapse.png)
 
 ## Séance 4 : Le cerveau, élément central du système nerveux
 
