@@ -76,7 +76,7 @@ Nos diagrammes d'utilisation montre que nos OST doivent respecter des éléments
 !!! question "Problématique"
 
 
-    Quels contraintes prendre en compte dans la conception de l'OST? 
+    Quelles contraintes prendre en compte dans la conception de l'OST? 
 
 [Activité Les contraintes](../contraintes)
 
@@ -85,7 +85,7 @@ Nos diagrammes d'utilisation montre que nos OST doivent respecter des éléments
 
     <a markdown id="bilan2">
 
-    Les interacteurs extéireurs créent des contraintes qui sont à respecter au moment de la conception de l'objet technique.
+    Les interacteurs extérieurs créent des contraintes qui sont à respecter au moment de la conception de l'OST.
 
     Il existe différents types de contraintes :
 
@@ -104,7 +104,7 @@ Nos diagrammes d'utilisation montre que nos OST doivent respecter des éléments
     D'autres contraintes sont à prendre en compte  pour concevoir un objet technique :
 
     - L'ergonomie (praticité et confort d'utilisation)
-    - La contraitne esthétique pour plaire aux utilisateurs.
+    - La contrainte esthétique pour plaire aux utilisateurs.
 
     Le cahier des charges est un document qui liste les fonctions et les contraintes à prendre en compte au moment de la conception d'un objet technique.
 
