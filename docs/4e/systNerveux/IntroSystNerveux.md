@@ -159,7 +159,7 @@ Le message passe de neurone en neurone jusqu’aux muscles.
 
     === "Bilan à trous"
     
-        Les messages nerveux sensitifs arrivent dans des _____________ _____________ précises. Les aires cérébrales communiquent entre elles et traitent les informations reçues pour produire une réponse adaptée, par exemple un ___________  _________. Ce sont les neurones qui permettent ces communications dans le cerveau.
+        Les messages nerveux sensitifs arrivent dans des _____________ _____________ précises. Les aires cérébrales communiquent entre elles et traitent les informations reçues pour produire une réponse adaptée, par exemple un ___________. Ce sont les neurones qui permettent ces communications dans le cerveau.
 
         Pour percevoir une sensation, le cerveau tient compte des différentes informations provenant des organes des sens, mais aussi des informations stockées dans la mémoire, chacun perçoit donc l’environnement différemment.
 
@@ -167,7 +167,7 @@ Le message passe de neurone en neurone jusqu’aux muscles.
 
     === "Bilan"
 
-        Les messages nerveux sensitifs arrivent dans des aires cérébrales précises. Les aires cérébrales communiquent entre elles et traitent les informations reçues pour produire une réponse adaptée. Ce sont les neurones qui permettent ces communications dans le cerveau.
+        Les messages nerveux sensitifs arrivent dans des aires cérébrales précises. Les aires cérébrales communiquent entre elles et traitent les informations reçues pour produire une réponse adaptée, par exemple un mouvement. Ce sont les neurones qui permettent ces communications dans le cerveau.
 
         Pour percevoir une sensation, le cerveau tient compte des différentes informations provenant des organes des sens, mais aussi des informations stockées dans la mémoire, chacun perçoit donc l’environnement différemment.
 
