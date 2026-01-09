@@ -28,8 +28,14 @@ Un vaccin contient des antigènes de l’agent infectieux contre lequel on souha
 
 **Document 3 La mémoire immunitaire.**
 
-Lors du premier contact entre un antigène et l’organisme, certains lymphocytes se multiplient lorsque notre système immunitaire : ce sont les lymphocytes mémoires qui peuvent être présents plusieurs années.
+Lors du premier contact entre un antigène et l’organisme, les lymphocytes capables de reconnaitre l'antigène se multiplient. La majorité de ces lymphocytes participent à la réponse immunitaires, et une petite fraction de vient des cellules mémoires.
+Ces dernières possèdent une durée de vie très longue et sont capables d'agir plus rapidement et plus efficacement contre le même antigène lors d'une rencontre ultérieure, cette réposne rapide emâchent l'apparition de symptômes.
 Lorsque l’antigène se trouve à nouveau dans le sang, les lymphocytes mémoire sont activés et se différencient en lymphocytes T ou B actifs. C’est ce qu’on appelle la mémoire immunitaire. 
+
+| | lymphocyte naif (première rencontre avec un antigène) | lymphocyte mémoire |
+|----------- | --------------------- | -----------------------|
+| Délai de réponse | 6 à 8 jours | 3 à 5 jours |
+| Durée de vie | plusiuers jours | Plusieurs années |
 
 **Document 4  Campagne d'information sur la vaccination de l’Agence régionale de santé, intitulé « Se faire vacciner est une démarche altruiste »**
 
