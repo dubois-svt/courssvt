@@ -18,14 +18,19 @@
         - Avoir expliqué l'intéret d'un vaccin pour un organisme 
 
 
+<div markdown style="break-inside: avoid;">
 **Document 1 La composition d’un vaccin.**
 
 Un vaccin contient des antigènes de l’agent infectieux contre lequel on souhaite se protéger. On peut soit injecter des microbes atténués (inoffensifs), de microbes tués ou des fragments du microbe. Des adjuvants sont aussi présents ce qui permet une meilleure activation du système immunitaire et une meilleure efficacité des vaccins.
+</div>
 
+<div markdown style="break-inside: avoid;">
 **Document 2 : Comparaison de la production d’anticorps lors de la première et de la seconde rencontre avec un même agent infectieux.**
 
 ![](Pictures/graphMemoireImmu.png){: style="width: 600px;"}
+</div>
 
+<div markdown style="break-inside: avoid;">
 **Document 3 La mémoire immunitaire.**
 
 Lors du premier contact entre un antigène et l’organisme, les lymphocytes capables de reconnaitre l'antigène se multiplient. La majorité de ces lymphocytes participent à la réponse immunitaires, et une petite fraction de vient des cellules mémoires.
@@ -36,17 +41,23 @@ Lorsque l’antigène se trouve à nouveau dans le sang, les lymphocytes mémoir
 |----------- | --------------------- | -----------------------|
 | Délai de réponse | 6 à 8 jours | 3 à 5 jours |
 | Durée de vie | plusiuers jours | Plusieurs années |
+</div>
 
+<div markdown style="break-inside: avoid;">
 **Document 4  Campagne d'information sur la vaccination de l’Agence régionale de santé, intitulé « Se faire vacciner est une démarche altruiste »**
 
-![](Pictures/effetPopVaccination.png)
+![](Pictures/effetPopVaccination.png){: style="width: 700px;"}
 
 Après vaccination, une partie de la population est immunisée directement par l’effet du vaccin. Ces individus protègent indirectement l’ensemble du groupe en stoppant la transmission au plus grand nombre, c’est l’effet de groupe.
+</div>
 
+<div markdown style="break-inside: avoid;">
 **Document 5 Des contre-indications à la vaccination.**
 
 Certaines personnes ne peuvent pas se faire vacciner pour des raisons de santé. En effet, dans certains l’administration d’un vaccin pourrait mettre en danger la personne, c’est le cas des personnes ayant certaines allergies aux composés des vaccins, des personnes souffrant de maladies causant un affaiblissement du système immunitaire ou bien des femmes enceintes.
+</div>
 
+<div markdown style="break-inside: avoid;">
 **Document 6 : Évolution du nombre de cas de rougeole de 1950 à 2001 aux États-Unis.**
 
 <div markdown style="display:flex; flex-direction:row;">
@@ -61,7 +72,9 @@ La couverture vaccinale en France en 2008 était de 89 %, pour une éradication
 </div>
 
 </div>
+</div>
 
+<div markdown style="break-inside: avoid;">
 **Document 7 Risques dus à la rougeole et au vaccin contre la rougeole.**
 
 La rougeole est une maladie souvent bénigne, mais dont les complications tuent 200 000 enfants par an dans le monde. Entre 2008 et 2014, il y a eu 23 000 cas de rougeole en France. On dénombre 1500 complications pulmonaires, 34 complications neurologiques et 10 morts. 
@@ -71,6 +84,8 @@ Le vaccin peut avoir des effets indésirables à court terme, les plus courants 
 Dans le cas du vaccin contre la rougeole, des complications pulmonaires peuvent avoir lieu dans 1 cas sur 500, des complications neurologiques dans 1 cas sur 5000.
 
 Aucune étude à ce jour n’a montré d’effets indésirables à long terme d’un vaccin.
+</div>
+
 
 ??? note-prof "correction"
 
