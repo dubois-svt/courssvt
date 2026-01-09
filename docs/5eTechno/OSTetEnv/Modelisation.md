@@ -7,7 +7,7 @@
 !!! warning "Consignes"
     Réaliser une modélisation 3D de votre salle de classe répondant au cahier des charges de l'activité précédente en suivant la fiche du logiciel SweetHome 3D
 
-!!! bug Critères de réussite. 
+!!! bug "Critères de réussite" 
     - Avoir respecté le cahier des charges  
     - Avoir respecté les différentes étapes de la fiche logiciel
  
@@ -52,7 +52,7 @@ On souhaite réaliser la maquette numérique de votre salle de classe à l’aid
       - Ajouter un texte ![](Pictures/iconeTexteSweethome.png) sur votre plan avec le nom des deux élèves et le groupe de sciences.
       
 
-      **Attention nommer le fichier avec le nom des deux élèves et le groupe de sciences.**
+      **Attention nommer le fichier avec le nom des deux élèves et la classe.**
 
 </div>
 
