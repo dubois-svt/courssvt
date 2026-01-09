@@ -9,7 +9,7 @@
 
     1. À partir du document 1, trace un graphique de la quantité de nutriments présents dans le tube digestif en fonction de la distance à la bouche.
 
-    2. À partir des informations, indiquer ce que deviennent les nutriments présents dans le tube digestif.
+    2. À partir des informations, indiquer ce que deviennent les nutriments présents dans le tube digestif, justifier votre réponse avec deux informations.
 
     3. Indiquer ce qui fait que l'intestin grêle est une bonne surface d'échange.
 
