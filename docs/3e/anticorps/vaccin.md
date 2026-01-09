@@ -25,16 +25,14 @@ Un vaccin contient des antigènes de l’agent infectieux contre lequel on souha
 
 **Document 2 : Comparaison de la production d’anticorps lors de la première et de la seconde rencontre avec un même agent infectieux.**
 
-![](Pictures/graphMemoireImmu.png)
+![](Pictures/graphMemoireImmu.png){: style="width: 600px;"}
 
 **Document 3 La mémoire immunitaire.**
 
 Lors du premier contact entre un antigène et l’organisme, certains lymphocytes se multiplient lorsque notre système immunitaire : ce sont les lymphocytes mémoires qui peuvent être présents plusieurs années.
 Lorsque l’antigène se trouve à nouveau dans le sang, les lymphocytes mémoire sont activés et se différencient en lymphocytes T ou B actifs. C’est ce qu’on appelle la mémoire immunitaire.
 
-**Document 4 Une campagne d’information sur la vaccination.**
-
-Infographie extraite d’un document de l’Agence régionale de santé Languedoc-Roussillon, intitulé « Se faire vacciner est une démarche altruiste »
+**Document 4  Campagne d'information sur la vaccination de l’Agence régionale de santé, intitulé « Se faire vacciner est une démarche altruiste »**
 
 ![](Pictures/effetPopVaccination.png)
 
