@@ -11,6 +11,8 @@
 
     2. À partir des informations, indiquer ce que deviennent les nutriments présents dans le tube digestif.
 
+    3. Indiquer ce qui fait que l'intestin grêle est une bonne surface d'échange.
+
     
 ??? bug "Critères de réussite"
     - 
