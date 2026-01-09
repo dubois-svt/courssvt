@@ -50,9 +50,6 @@ On souhaite réaliser la maquette numérique de votre salle de classe à l’aid
 
 7. Rendu final
       - Ajouter un texte ![](Pictures/iconeTexteSweethome.png) sur votre plan avec le nom des deux élèves et le groupe de sciences.
-      
-
-      **Attention nommer le fichier avec le nom des deux élèves et la classe.**
 
 </div>
 
