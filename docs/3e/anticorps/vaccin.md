@@ -8,15 +8,14 @@
 !!! warning "Consignes"
 
     1. Expliquer le principe de la vaccination. (Document 1 à 3)
-
-    2. Expliquer l’intérêt de la vaccination pour un individu et
-    pour une population. (Document 2 à 6)
-
-    3. Comparer les risques dus à la rougeole et au vaccin contre
-    la rougeole.
+    2. Expliquer l’intérêt de la vaccination pour un individu et pour une population. (Document 2 à 6)
+    3. Comparer les risques dus à la rougeole et au vaccin contrela rougeole.
         
 ??? bug "Critères de réussite"
-    - 
+    - Consigne 1 
+        - Avoir expliqué ce que contient un vaccin.
+        - avoir expliqué l'impact du vaccin sur le corps
+        - Avoir expliqué l'intéret d'un vaccin pour un organisme 
 
 
 **Document 1 La composition d’un vaccin.**
@@ -30,7 +29,7 @@ Un vaccin contient des antigènes de l’agent infectieux contre lequel on souha
 **Document 3 La mémoire immunitaire.**
 
 Lors du premier contact entre un antigène et l’organisme, certains lymphocytes se multiplient lorsque notre système immunitaire : ce sont les lymphocytes mémoires qui peuvent être présents plusieurs années.
-Lorsque l’antigène se trouve à nouveau dans le sang, les lymphocytes mémoire sont activés et se différencient en lymphocytes T ou B actifs. C’est ce qu’on appelle la mémoire immunitaire.
+Lorsque l’antigène se trouve à nouveau dans le sang, les lymphocytes mémoire sont activés et se différencient en lymphocytes T ou B actifs. C’est ce qu’on appelle la mémoire immunitaire. 
 
 **Document 4  Campagne d'information sur la vaccination de l’Agence régionale de santé, intitulé « Se faire vacciner est une démarche altruiste »**
 
