@@ -7,7 +7,7 @@
 !!! warning "Consignes"
 
     1. Relier les définitions à leurs contraintes dans le document 2 
-    2. Reprendre un de nos diagramme d'utilisation et retrouver pour chaque fonctions techniques, la contrainte qui sera imposée et le type de contraintes dont il s'agit.
+    2. Reprendre un de nos diagramme d'utilisation et retrouver pour chaque fonction technique, la contrainte qui sera imposée et le type de contraintes dont il s'agit.
     3. Retrouver pour l'objet d'autres contraintes correspondant au type manquant.
     
     

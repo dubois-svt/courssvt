@@ -63,11 +63,11 @@ Il y a différents types d'interacteurs extérieurs :
 
 **Document 3 Créer un diagramme des cas d'utilisation**
 
-Pour représenter les différents services rendus sur un système, on peut lister les cas d'utilisation, qui permettent de savoir à quoi va servir le système et avec quoi ou avec qui va interagir le système:
+Pour représenter les différents services rendus sur un système, on peut lister les cas d'utilisation, qui permettent de savoir à quoi va servir le système et avec quoi ou avec qui va interagir le système :
 
 - le système est délimité par un cadre
-- les cas d'utilisations énoncés dans des ellipses 
 - les acteurs interagissent avec le système
+- les cas d'utilisations énoncés dans des ellipses 
 
-![](image-2.png){:style="width:400px;"}
+![](Pictures/diagCasUtilisation.png){:style="width:400px;"}
 </div>
