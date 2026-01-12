@@ -128,3 +128,10 @@ Nos diagrammes d'utilisation montre que nos OST doivent respecter des éléments
 ## Séance 4 : Modélisation de la salle de classe
 
 [Activité Modélisation 3D de la salle de classe](../Modelisation)
+
+
+
+## Séance 5 : Exercice
+[Activité Exercice](../exercices)
+
+
