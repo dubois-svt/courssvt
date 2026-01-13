@@ -12,7 +12,7 @@
 
     3. Expliquer pourquoi les antigènes sont disposés au centre. (0,5 point)
 
-    4. Schématiser la boite obtenue avec les résultats et répondre au roblème posé. (1,75 points)
+    4. Schématiser la boite obtenue avec les résultats et répondre au problème posé. (1,75 points)
 
     5. Expliquer la réaction ou son absence pour l’individu séropositif au virus de la grippe (0,75 point)
     
