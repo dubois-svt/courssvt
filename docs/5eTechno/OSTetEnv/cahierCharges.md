@@ -68,7 +68,7 @@ Donc en fonction d'où l'on dispose les fenêtres d'un bâtiment, la conséquenc
   <tr>
     <td rowspan="4"></td>
     <td>Lumineux en permanence</td>
-    <td>4 appliques ou suspension&nbsp;&nbsp;lumineuse</td>
+    <td>au moins 4 appliques ou suspensions lumineuses</td>
   </tr>
   <tr>
     <td>travail des élèves</td>
@@ -138,7 +138,7 @@ Donc en fonction d'où l'on dispose les fenêtres d'un bâtiment, la conséquenc
       <tr>
         <td rowspan="4">Contraintes de fonctionnement</td>
         <td>Lumineux en permanence</td>
-        <td>4 appliques ou suspension&nbsp;&nbsp;lumineuse</td>
+        <td>au moins 4 appliques ou suspensions lumineuses</td>
       </tr>
       <tr>
         <td>travail des élèves</td>
