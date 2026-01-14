@@ -91,7 +91,7 @@ On souhaite réaliser la maquette numérique de votre salle de classe à l’aid
         <td  rowspan="2"><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		<br></td>
       </tr>
       <tr>
-        <td ><span style="background-color:transparent"> 			</span>Douche de sécurité 		</td>
+        <td ><span style="background-color:transparent"> 			</span>		</td>
         <td ><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
         <td ><span style="background-color:transparent"> 			</span>Fenêtres côté Sud 		</td>
         <td ><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
@@ -113,7 +113,7 @@ On souhaite réaliser la maquette numérique de votre salle de classe à l’aid
         <td ><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		<br></td>
       </tr>
       <tr>
-        <td ><span style="background-color:transparent"> 			</span>20 places 		</td>
+        <td ><span style="background-color:transparent"> 			</span>24 places 		</td>
         <td ><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
         <td ><span style="background-color:transparent"> 			</span>tableau 		</td>
         <td ><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
