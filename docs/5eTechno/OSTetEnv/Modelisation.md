@@ -59,10 +59,9 @@ On souhaite réaliser la maquette numérique de votre salle de classe à l’aid
     	 	 	 	
     Trouver et exploiter des informations(9 ou 8 critères TB ; 7 ou 6 ou 5  critères S ; 4 ou 3 critères F ; I)
         Accès à l’eau
-        Douche de sécurité
         extincteur
         Issue de secours
-        20 places
+        24 places
         tabourets
         Fenêtres côté Sud
         Éclairage au plafond
