@@ -57,13 +57,12 @@ On souhaite réaliser la maquette numérique de votre salle de classe à l’aid
 <div style="break-inside: avoid;"></div>
 !!! note-prof
     	 	 	 	
-    Trouver et exploiter des informations(11 à 10 critères TB ; 9 à 7  critères S ; 6 à 2 critères F ; 1 ou 0 critères I)
+    Trouver et exploiter des informations(10 à 9 critères TB ; 8 à 6  critères S ; 5 à 2 critères F ; 1 ou 0 critères I)
         Accès à l’eau
-        extincteur
+        ordinateur
         Issue de secours
+        extincteur
         24 places
-        tabourets
-        ordinateurs
         Fenêtres côté Sud
         Fauteuil roulant
         Éclairage au plafond ou aux murs
@@ -77,28 +76,28 @@ On souhaite réaliser la maquette numérique de votre salle de classe à l’aid
     
     <table ><thead>
       <tr>
-        <th colspan="6"><span style="background-color:transparent"> 			</span>Noms : <span style="background-color:transparent"> 			</span> 		</th>
+        <th colspan="6">Noms :</th>
       </tr></thead>
     <tbody>
       <tr>
-        <td colspan="3"><span style="background-color:transparent"> 			</span>Trouver et exploiter des informations(10 ou 9 critères TB ; 8 ou 7 ou 6  critères S ; 5, 4 ou 3 critères F ; I)</td>
-        <td ><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
-        <td ><span style="background-color:transparent"> 			</span>Utiliser des outils informatiques (4 critères TB ; 3 critères S ; 2 ou 1 critère F)		</td>
-        <td ><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
+        <td colspan="3">   Trouver et exploiter des informations(10 à 9 critères TB ; 8 à 6  critères S ; 5 à 2 critères F ; 1 ou 0 critères I)</td>
+        <td >		</td>
+        <td >Utiliser des outils informatiques (4 critères TB ; 3 critères S ; 2 ou 1 critère F)		</td>
+        <td >	</td>
       </tr>
       <tr>
-        <td ><span style="background-color:transparent"> 			</span>Accès à l’eau 		</td>
-        <td ><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
-        <td ><span style="background-color:transparent"> 			</span>Éclairage au plafond 		</td>
-        <td ><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
-        <td rowspan="2"><span style="background-color:transparent"> 			</span>Grande surface 81,25m2 +/-1m2 		</td>
-        <td  rowspan="2"><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		<br></td>
+        <td >Accès à l’eau 		</td>
+        <td >		</td>
+        <td >Éclairage au plafond 		</td>
+        <td >	</td>
+        <td rowspan="2">Grande surface 81,25m2 +/-1m2 		</td>
+        <td  rowspan="2">		</td>
       </tr>
       <tr>
-        <td ><span style="background-color:transparent"> 			</span>		</td>
-        <td ><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
-        <td ><span style="background-color:transparent"> 			</span>Fenêtres côté Sud 		</td>
-        <td ><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
+        <td >	</td>
+        <td >  </td>
+        <td >  Fenêtres côté Sud </td>
+        <td >   </td>
       </tr>
       <tr>
         <td ><span style="background-color:transparent"> 			</span>Issue de secours 		</td>
