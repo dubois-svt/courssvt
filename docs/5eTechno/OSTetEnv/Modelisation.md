@@ -57,19 +57,23 @@ On souhaite réaliser la maquette numérique de votre salle de classe à l’aid
 <div style="break-inside: avoid;"></div>
 !!! note-prof
     	 	 	 	
-    Trouver et exploiter des informations(9 ou 8 critères TB ; 7 ou 6 ou 5  critères S ; 4 ou 3 critères F ; I)
+    Trouver et exploiter des informations(11 à 10 critères TB ; 9 à 7  critères S ; 6 à 2 critères F ; 1 ou 0 critères I)
         Accès à l’eau
         extincteur
         Issue de secours
         24 places
         tabourets
+        ordinateurs
         Fenêtres côté Sud
-        Éclairage au plafond
+        Fauteuil roulant
+        Éclairage au plafond ou aux murs
         radiateurs
-    Utiliser des outils informatiques (3 critères TB ; 2 critères S ; 1 critère F)
+        armoires
+    Utiliser des outils informatiques (4 critères TB ; 3 critères S ; 2 critère F; 1 critère I)
         Grande surface 81,25m2 +/-1m2
         Murs attachés au sol
-        pièces avec une couleur au moins
+        pièces avec au moins un mur en couleurs
+        pièce avec un sol en couleur
     
     <table ><thead>
       <tr>
