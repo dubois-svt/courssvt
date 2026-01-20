@@ -57,70 +57,67 @@ On souhaite réaliser la maquette numérique de votre salle de classe à l’aid
 <div style="break-inside: avoid;"></div>
 !!! note-prof
     	 	 	 	
-    Trouver et exploiter des informations(10 à 9 critères TB ; 8 à 6  critères S ; 5 à 2 critères F ; 1 ou 0 critères I)
-        Accès à l’eau
-        ordinateur
-        Issue de secours
-        extincteur
-        24 places
-        Fenêtres côté Sud
-        Fauteuil roulant
-        Éclairage au plafond ou aux murs
-        radiateurs
-        armoires
-    Utiliser des outils informatiques (4 critères TB ; 3 critères S ; 2 critère F; 1 critère I)
-        Grande surface 81,25m2 +/-1m2
-        Murs attachés au sol
-        pièces avec au moins un mur en couleurs
-        pièce avec un sol en couleur
-    
-    <table ><thead>
+    <table style="undefined;table-layout: fixed; width: 937px"><colgroup>
+    <col style="width: 186px">
+    <col style="width: 59px">
+    <col style="width: 235px">
+    <col style="width: 123px">
+    <col style="width: 242px">
+    <col style="width: 92px">
+    </colgroup>
+    <thead>
       <tr>
-        <th colspan="6">Noms :</th>
+        <th colspan="6">Noms 				: 			</th>
       </tr></thead>
     <tbody>
-      <tr>
-        <td colspan="3">   Trouver et exploiter des informations(10 à 9 critères TB ; 8 à 6  critères S ; 5 à 2 critères F ; 1 ou 0 critères I)</td>
-        <td >		</td>
-        <td >Utiliser des outils informatiques (4 critères TB ; 3 critères S ; 2 ou 1 critère F)		</td>
-        <td >	</td>
-      </tr>
-      <tr>
-        <td >Accès à l’eau 		</td>
-        <td >		</td>
-        <td >Éclairage au plafond 		</td>
-        <td >	</td>
-        <td rowspan="2">Grande surface 81,25m2 +/-1m2 		</td>
-        <td  rowspan="2">		</td>
-      </tr>
-      <tr>
-        <td >	</td>
-        <td >  </td>
-        <td >  Fenêtres côté Sud </td>
-        <td >   </td>
-      </tr>
-      <tr>
-        <td ><span style="background-color:transparent"> 			</span>Issue de secours 		</td>
-        <td ><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
-        <td ><span style="background-color:transparent"> 			</span>Tabourets </td>
-        <td ><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
-        <td ><span style="background-color:transparent"> 			</span>Murs attachés au sol 		</td>
-        <td ><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		<br></td>
-      </tr>
-      <tr>
-        <td ><span style="background-color:transparent"> 			</span>extincteur </td>
-        <td ><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
-        <td ><span style="background-color:transparent"> 			</span>radiateurs </td>
-        <td ><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
-        <td ><span style="background-color:transparent"> 			</span>Insertion texte		</td>
-        <td ><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		<br></td>
-      </tr>
-      <tr>
-        <td ><span style="background-color:transparent"> 			</span>24 places 		</td>
-        <td ><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
-        <td ><span style="background-color:transparent"> 			</span>tableau 		</td>
-        <td ><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
-        <td ><span style="background-color:transparent"> 			</span>pièces avec une couleur au moins </td>
-        <td ><span style="background-color:transparent"> 			</span><br><span style="background-color:transparent">&nbsp;&nbsp;			</span> 		</td>
-      </tr>
+  <tr>
+    <td colspan="4">Trouver et exploiter des informations(10 à 9 critères TB ; 8 à 6 				critères S ; 5 à 2 critères F ; 1 ou 0 critère I) 			</td>
+    <td colspan="2">Utiliser des outils informatiques (5 critères TB ; 3 ou 4 critères S ; 2 ou 1 				critère F, 0 critère I)  				 			</td>
+  </tr>
+  <tr>
+    <td>Accès 				à l’eau&nbsp;&nbsp;				 			</td>
+    <td>&nbsp;&nbsp;				 			</td>
+    <td>Éclairage 				au plafond ou aux murs </td>
+    <td>&nbsp;&nbsp;				 			</td>
+    <td rowspan="2">Grande 				surface 81,25 m² +/-1m² 				 			</td>
+    <td rowspan="2">&nbsp;&nbsp;				 			<br></td>
+  </tr>
+  <tr>
+    <td>ordinateur 			</td>
+    <td>&nbsp;&nbsp;				 			</td>
+    <td>Fenêtres 				côté Sud </td>
+    <td>&nbsp;&nbsp;				 			</td>
+  </tr>
+  <tr>
+    <td>Issue de secours</td>
+    <td>    				 				 			</td>
+    <td>armoire 				 				 			</td>
+    <td>    				 				 			</td>
+    <td>Murs attachés au sol</td>
+    <td>    				 				 			</td>
+  </tr>
+  <tr>
+    <td>extincteur 				 				 			</td>
+    <td>    				 				 			</td>
+    <td>radiateurs 				 				 			</td>
+    <td>    				 				 			</td>
+    <td>Insertion texte			 			</td>
+    <td>    				 				 			</td>
+  </tr>
+  <tr>
+    <td>24 places			 			</td>
+    <td>    				 				 			</td>
+    <td>tableau 				 				 			</td>
+    <td>    				 				 			</td>
+    <td>Mur 				avec une couleur 			</td>
+    <td>    			</td>
+  </tr>
+  <tr>
+    <td>Fauteuil 				roulant 			</td>
+    <td>			 			</td>
+    <td>			 			</td>
+    <td>				 			</td>
+    <td>Sol 				avec une couleur 			</td>
+    <td>				 			</td>
+  </tr>
     </tbody></table>
