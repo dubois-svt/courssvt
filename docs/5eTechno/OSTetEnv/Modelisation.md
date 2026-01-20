@@ -77,10 +77,10 @@ On souhaite réaliser la maquette numérique de votre salle de classe à l’aid
   <tr>
     <td>Accès 				à l’eau&nbsp;&nbsp;				 			</td>
     <td>&nbsp;&nbsp;				 			</td>
-    <td>Éclairage 				au plafond ou aux murs </td>
-    <td>&nbsp;&nbsp;				 			</td>
-    <td rowspan="2">Grande 				surface 81,25 m² +/-1m² 				 			</td>
-    <td rowspan="2">&nbsp;&nbsp;				 			<br></td>
+    <td>au moins 4 éclairages au plafond ou aux murs </td>
+    <td>			 			</td>
+    <td rowspan="2">Grande surface 81,25 m² +/-1m² 				 			</td>
+    <td rowspan="2"> <br></td>
   </tr>
   <tr>
     <td>ordinateur 			</td>
