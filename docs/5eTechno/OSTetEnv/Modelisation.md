@@ -109,7 +109,7 @@ On souhaite réaliser la maquette numérique de votre salle de classe à l’aid
     <td>    				 				 			</td>
     <td>tableau 				 				 			</td>
     <td>    				 				 			</td>
-    <td>Mur 				avec une couleur 			</td>
+    <td>Mur avec une couleur claire</td>
     <td>    			</td>
   </tr>
   <tr>
@@ -117,7 +117,7 @@ On souhaite réaliser la maquette numérique de votre salle de classe à l’aid
     <td>			 			</td>
     <td>			 			</td>
     <td>				 			</td>
-    <td>Sol 				avec une couleur 			</td>
+    <td>Sol avec une couleur beige ou brune	</td>
     <td>				 			</td>
   </tr>
     </tbody></table>
