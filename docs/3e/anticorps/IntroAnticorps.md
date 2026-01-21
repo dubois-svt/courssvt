@@ -19,7 +19,9 @@ En février 2014, une épidémie de fièvre hémorragie due au virus Ebola s’e
 
 
 ??? abstract "Bilan"
-    === "De quoi parler dans le bilan ? Quels mots clés ?"
+
+
+    <a markdown id="bilan1">
 
     === "Bilan à trous"
         Lors d’une infection, les lymphocytes B qui ont été activés après la reconnaissance d’un .........., vont se .............. 
@@ -54,6 +56,10 @@ En février 2014, une épidémie de fièvre hémorragie due au virus Ebola s’e
 
         Anticorps : molécules produites par des lymphocytes B qui se lient à un antigène spécifique.
 
+    </a>
+
+
+
         [](https://www.youtube.com/watch?v=E9CRJqxgSvA)
 
 
@@ -69,7 +75,9 @@ En février 2014, une épidémie de fièvre hémorragie due au virus Ebola s’e
 
 
 ??? abstract "Bilan"
-    === "De quoi parler dans le bilan ? Quels mots clés ?"
+
+    <a markdown id="bilan2">
+
 
 
     === "Bilan à trous"
@@ -86,6 +94,8 @@ En février 2014, une épidémie de fièvre hémorragie due au virus Ebola s’e
         La 1re rencontre avec un antigène, contenu ici dans un vaccin, déclenche la formation de lymphocyte smémoires qui constituent la mémoire immunitaire. Ils permettent une réponse plus forte et plus rapide lors du 2e contact avec l’antigène, le protégeant ainsi de la maladie = Prévention.
 
         À l’échelle de la population, la vaccination permet d’éviter la propagation des pathogènes.
+
+    </a>
 
 ??? abstract "notes supplémentaires"
 
@@ -118,7 +128,8 @@ Tasp (Treatment as Prevention) : sous traitement, la quantité de virus dans l�
 
 
 ??? abstract "Bilan"
-    === "De quoi parler dans le bilan ? Quels mots clés ?"
+    <a markdown id="bilan3">
+
 
 
     === "Bilan à trous"
@@ -147,6 +158,7 @@ Tasp (Treatment as Prevention) : sous traitement, la quantité de virus dans l�
 
         Pour savoir si l’on est atteint par le virus un simple dépistage suffit, il s'agit d'un test pour détecter les anticorps anti-VIH qui se créent suite à l'infection.
 
+    </a>
 ## Séance 4 : Exercice
 
 

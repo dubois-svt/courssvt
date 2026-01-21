@@ -8,9 +8,9 @@
 
     1. Faire un diagramme des cas d'utilisation pour une trottinette électrique.
         - lister tous les interacteurs extérieurs
-        - pour chacun de ces interacteurs indiqué, la fonction technique associée
+        - pour chacun de ces interacteurs, indiquer la fonction technique associée
     2. Regrouper les interacteurs dans les différents types.
-    3. Pour chaque fonction du diagramme indiquer à quelle type de contrainte cela correspond.
+    3. Pour chaque fonction du diagramme indiquer à quel type de contrainte cela correspond.
     
 
     
