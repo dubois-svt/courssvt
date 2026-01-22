@@ -11,6 +11,7 @@
         - pour chacun de ces interacteurs, indiquer la fonction technique associée
     2. Regrouper les interacteurs dans les différents types.
     3. Pour chaque fonction du diagramme indiquer à quel type de contrainte cela correspond.
+    4. Compléter le document 2
     
 
     
