@@ -8,15 +8,21 @@
 
     1. A partir des différents documents, lister les étapes du cycle de vie d’un appareil photo.
     2. Proposer une schéma du cycle de vie d’un appareil photo. 
-    3. Créer un tableau indiquant pour chaque étape l’impact sociétal et l’impact environnemental.   
+    3. Expliquer pourquoi l'utilisation à un impact important sur l'environnement
 
 ??? bug "Critères de réussite"
     - Au moins 5 étapes.
+      - recyclage / destruction
+      - fabrication
+      - Extraction des matières premieres
+      - ventes
+      - conception
+      - utilisation
 
 
 **Document 1 Cycle de vie d'un objet technique.**
 
-Le cycle de vie d’un produit correspond à l’ensemble des étapes de commercialisation qu’il traverse au cours du temps. De l’extraction des matières premières nécessaires à leur conception jusqu’à leur fin de vie, les appareils électroniques font partie intégrante de notre quotidien. Cette proximité nous fait oublier leur origine et leurs conditions de fabrication.
+Le cycle de vie d’un OST correspond à l’ensemble des étapes qu’il traverse au cours du temps. Du développement de l'idée de l'OST  à sa de fin de vie, les appareils électroniques font partie intégrante de notre quotidien, cette proximité nous fait oublier leur origine et leurs conditions de fabrication.
 
 
 
@@ -51,16 +57,9 @@ Un million d'enfants de 5 à 17 ans travailleraient dans des mines à travers le
 
 ![Mine de cuivre de Kennecott, Etats Unis](pictures/mineCuivre.png)
 
-![Mine d'or de Los Filos, Mexique](pictures/mineOr.png)
-
 
 </div>
 
-
-
-**Document 4 Mine de Carajas au Brésil, une des plus grandes mines de fer de la planète**
-
-![](pictures/mineBresil.png)
 
 **Document 5 : Le transport**
 
@@ -70,28 +69,6 @@ Le transport du pétrole s’opère au moyen d’oléoduc, à savoir, de grandes
 
 Le transport des métaux, des carrières aux usines de raffinage, se réalise par transport terrestre ou maritime, par camion ou bateau.
 
-
-**Document 6 Projet EACOP, Total**
-
-
-<div markdown style="display:flex; flex-direction: row; ">
-
-<div markdown style="display:flex; flex-direction: column; flex: 2 1 0;">
-
-Le projet EACOP est un projet d'oléoduc d'une longueur de 1443 km. Il traverse deux pays Ouganda et la Tanzanie.
-
-100000 personnes ont été expropriées et le projet met en danger de nombreux écosystèmes.
-
-
-</div>
-
-<div markdown style="display:flex; flex-direction: column; flex: 1 1 0;">
-
-![](pictures/projetEACOP.png)
-
-
-</div>
-</div>
 
 
 **Document 7 Les usines**
@@ -133,7 +110,11 @@ En suisse, on estime à près de 8 millions de vieux téléphones inutilisés et
 Puisque les réserves de certaines matières premières seront bientôt épuisées, le recyclage permet d’en valoriser une partie pour construire de nouveaux équipements.
 Cependant, le recyclage à un coût économique et tous les équipements ne peuvent pas être recyclés. Des appareils en provenance d’Europe s’entassent donc dans des décharges en Afrique (photo ci-contre).
 
-Sur place, beaucoup de gens essaient de gagner de l’argent en brûlant les plastiques pour récupérer les métaux précieux comme le cuivre, l’argent ou l’or. Lorsque les plastiques sont incinérées cela produit des gaz toxiques. 
+Sur place, beaucoup de gens essaient de gagner de l’argent en brûlant les plastiques pour récupérer les métaux précieux comme le cuivre, l’argent ou l’or. 
+
+Uniquement 25% des appareils électroniques ont été  recyclés en 2022.  (52 % en Amérique du Nord, 40 % en Europe, 12 % en Asie et moins d’1 % en Afrique).
+
+Le reste a soit été brûlé, jeté dans des déchetteries ou abandonné dans la nature, ce qui peut poser des problèmes sanitaires et environnementaux conséquents. 
 
 </div>
 

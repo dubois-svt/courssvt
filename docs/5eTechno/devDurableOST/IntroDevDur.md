@@ -61,11 +61,11 @@
     C
 
 
-## Séance 1 : Repérer pour un OST les matériaux, les sources et les formes d’énergie, le traitement de l’information (1H) [oxymètre]
+## Séance 1 : Repérer pour un OST les matériaux, les sources et les formes d’énergie, le traitement de l’information
 
 !!! question "Problématique"
 
-    Qu
+
 
 [Activité les interacteurs extérieurs](../interacteurExt)
 
@@ -107,3 +107,42 @@
 
 
 
+## Séance 3 : Cycle de vie, impacts sociétaux et environnementaux 
+
+
+!!! question "Problématique"
+
+    Quel est le cycle de vie d’un appareil photo ?
+
+    
+[Activité Cycle de vie des objets techniques](../cycleVieObj)
+
+
+
+
+??? abstract "Bilan"
+
+    
+    <a id="bilan3">
+
+    Le cycle de vie d’un objet est une succession de 5 étapes : 
+
+    - l’extraction des matières premières, 
+    - la fabrication, 
+    - la distribution (transport + stockage), 
+    - l’utilisation et 
+    - la fin de vie.
+  
+    Toutes les étapes du cycle de vie d’un objet ont des impacts environnementaux (sur la nature : épuisement des ressources, pollutions de l’air, des eaux et du sol...) et sociétaux négatifs (sur l’être humain : santé, conditions de travail...). 
+
+    Des solutions existent : comme le développement durable qui consiste à répondre aux besoins du présent sans compromettre la capacité des générations futures à répondre à leurs propres besoins. Il doit permettre le développement économique et social et le respect de l’environnement.
+    
+    ![](pictures/cycleVieObj.png)
+
+    </a>
+
+
+## Séance 4 : Exercices
+
+    
+[Activité Exercices](../exercicesObjetsTech)

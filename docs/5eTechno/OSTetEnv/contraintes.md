@@ -2,8 +2,8 @@
 
 !!! note "Compétences"
 
-    Trouver et exploiter des informations  
-
+    Identifier un besoin et énoncer un problème technique, identifier les conditions, contraintes (normes et règlements) et ressources correspondantes.
+    
 !!! warning "Consignes"
 
     1. Relier les définitions à leurs contraintes dans le document 2 

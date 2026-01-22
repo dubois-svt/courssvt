@@ -12,7 +12,8 @@
 
 !!! note "Compétences"
 
-    Trouver et exploiter des informations  
+    - Décrire les interactions entre un objet ou un système technique, son environnement et les utilisateurs
+    - Exprimer sa pensée à l’aide d’outils de description adaptés
 
 !!! warning "Consignes"
 

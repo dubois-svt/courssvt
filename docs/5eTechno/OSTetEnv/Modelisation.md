@@ -1,8 +1,8 @@
 # Activité : Modélisation 3D de la salle de classe
 
 !!! note "Compétences"
-    - Trouver et utiliser des informations
-    - Utiliser des outils numériques
+    - S’approprier un cahier des charges.
+    - Simuler numériquement la structure et/ou le comportement d’un objet.
 
 !!! warning "Consignes"
     Réaliser une modélisation 3D de votre salle de classe répondant au cahier des charges de l'activité précédente en suivant la fiche du logiciel SweetHome 3D

@@ -4,7 +4,11 @@
 
 - Retenir des idées essentielles d’une leçon
 - Trouver et utiliser des informations
-- Utiliser l'outil numérique
+- Exprimer sa pensée à l’aide d’outils de description adaptés
+- Identifier un besoin et énoncer un problème technique, identifier les conditions, contraintes (normes et règlements) et ressources correspondantes.
+- S’approprier un cahier des charges.
+- Simuler numériquement la structure et/ou le comportement d’un objet.
+
 
 ## À savoir faire
 

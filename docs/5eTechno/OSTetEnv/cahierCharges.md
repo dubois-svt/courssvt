@@ -1,7 +1,7 @@
 # Activité : Cahier des charges
 
 !!! note "Compétences"
-    - Trouver et utiliser des informations
+    - S’approprier un cahier des charges.
 
 
 Vous êtes responsable du projet de rénovation d’une salle de sciences. Vous allez devoir compléter votre cahier des charges d'après les textes de recommandations et proposer un croquis d'une salle de classe.
