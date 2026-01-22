@@ -38,6 +38,7 @@
 |--------------------|-------------|----------------------|
 |                    | pouvoir s'arrêter facilement |                      |
 |                    | pouvoir stationner la trottinette debout |                      |
+|                    | pouvoir régler la hauteur du guidon |   collier de serrage rapide  |
 
 
 </div>
