@@ -48,8 +48,10 @@ theme:
         - content.action.edit
 
 
-#extra:
-#  analytics:
+extra:
+  analytics:
+    host : "https://chat.kaeell.fr"
+    id : "1e7aa231-212f-4302-92a4-b84d78586890"
 #    provider: custom
 #    property: foobar 
 
