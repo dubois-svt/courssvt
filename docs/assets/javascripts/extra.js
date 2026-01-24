@@ -1,3 +1,12 @@
+// umami.js
+(function () {
+  const script = document.createElement('script');
+  script.src = "https://chat.kaeell.fr/script.js";
+  script.async = true;
+  script.setAttribute('data-website-id', 'YOUR_WEBSITE_ID');
+  document.head.appendChild(script);
+})();
+
 function printDiv() {
     console.log('Clicked');
   };
