@@ -7,7 +7,7 @@ site_author: !ENV [CI_PROJECT_ROOT_NAMESPACE, Dubois]
 
 
 repo_url: 'https://github.com/dubois-svt/courssvt/'
-edit_uri: edit/main/docs
+#edit_uri: edit/main/docs
 edit_uri_template: 'edit/main/docs/{path}'
 
 
@@ -48,10 +48,10 @@ theme:
         - content.action.edit
 
 
-extra:
-  analytics:
-    provider: custom
-    property: foobar 
+#extra:
+#  analytics:
+#    provider: custom
+#    property: foobar 
 
 #extra:
   # consent:
