@@ -1,13 +1,14 @@
 <!-- umami -->
-  <script defer src="https://chat.kaeell.fr/script.js" data-website-id="1e7aa231-212f-4302-92a4-b84d78586890"></script>
+ 
+<script defer src="https://chat.kaeell.fr/script.js" data-website-id="1e7aa231-212f-4302-92a4-b84d78586890"></script>
   
-  var property = "{{ config.extra.analytics.property }}" 
+var property = "{{ config.extra.analytics.property }}" 
 
-  /* Wait for page to load and application to mount */
-  document.addEventListener("DOMContentLoaded", function() {
+/* Wait for page to load and application to mount */
+document.addEventListener("DOMContentLoaded", function() {
     location$.subscribe(function(url) {
       /* Add custom page event tracking here */ 
     })
   })
-  
+
   <!-- End umami Code -->
