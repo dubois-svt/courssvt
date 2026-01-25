@@ -49,7 +49,8 @@ theme:
 
 
 #extra:
-#  provider: custom
+#  analytcs:
+#    provider: custom
 #  property: foobar
 
 #extra:
@@ -543,6 +544,7 @@ plugins:
   #- print-site
 
 extra_javascript:
+  - assets/javascripts/matomoto.js
   - assets/javascripts/extra.js
   - assets/javascripts/glightbox.min.js
   - assets/javascripts/mathjax.js                    # MathJax
