@@ -19,6 +19,7 @@
 
 
 <div markdown style="break-inside: avoid;">
+
 **Document 1 La composition d’un vaccin.**
 
 Un vaccin contient des antigènes de l’agent infectieux contre lequel on souhaite se protéger. On peut soit injecter des microbes atténués (inoffensifs), de microbes tués ou des fragments du microbe. Des adjuvants sont aussi présents ce qui permet une meilleure activation du système immunitaire et une meilleure efficacité des vaccins.
@@ -31,11 +32,12 @@ Un vaccin contient des antigènes de l’agent infectieux contre lequel on souha
 </div>
 
 <div markdown style="break-inside: avoid;">
+
 **Document 3 La mémoire immunitaire.**
 
-Lors du premier contact entre un antigène et l’organisme, les lymphocytes capables de reconnaitre l'antigène se multiplient. La majorité de ces lymphocytes participent à la réponse immunitaires, et une petite fraction de vient des cellules mémoires.
-Ces dernières possèdent une durée de vie très longue et sont capables d'agir plus rapidement et plus efficacement contre le même antigène lors d'une rencontre ultérieure, cette réposne rapide emâchent l'apparition de symptômes.
-Lorsque l’antigène se trouve à nouveau dans le sang, les lymphocytes mémoire sont activés et se différencient en lymphocytes T ou B actifs. C’est ce qu’on appelle la mémoire immunitaire. 
+Lors du premier contact entre un antigène et l’organisme, les lymphocytes capables de reconnaitre l'antigène se multiplient. La majorité de ces lymphocytes participent à la réponse immunitaires, et une petite fraction devient des cellules mémoires.
+Ces dernières possèdent une durée de vie très longue et sont capables d'agir plus rapidement et plus efficacement contre le même antigène lors d'une rencontre ultérieure, cette réponse rapide empêchent l'apparition de symptômes.
+Lorsque l’antigène se trouve à nouveau dans le sang, les lymphocytes mémoires sont activés et se différencient en lymphocytes T ou B actifs. C’est ce qu’on appelle la mémoire immunitaire. 
 
 | | lymphocyte naif (première rencontre avec un antigène) | lymphocyte mémoire |
 |----------- | --------------------- | -----------------------|

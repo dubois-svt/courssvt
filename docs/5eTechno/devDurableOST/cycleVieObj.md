@@ -8,23 +8,22 @@
 
     1. A partir des différents documents, lister les étapes du cycle de vie d’un appareil photo.
     2. Proposer une schéma du cycle de vie d’un appareil photo. 
-    3. Expliquer pourquoi l'utilisation à un impact important sur l'environnement
+    3. Expliquer pourquoi un OST a un impact important sur l'environnement
 
 ??? bug "Critères de réussite"
     - Au moins 5 étapes.
-      - recyclage / destruction
-      - fabrication
-      - Extraction des matières premieres
-      - ventes
-      - conception
-      - utilisation
 
+
+<div markdown style="break_inside: avoid;">
 
 **Document 1 Cycle de vie d'un objet technique.**
 
 Le cycle de vie d’un OST correspond à l’ensemble des étapes qu’il traverse au cours du temps. Du développement de l'idée de l'OST  à sa de fin de vie, les appareils électroniques font partie intégrante de notre quotidien, cette proximité nous fait oublier leur origine et leurs conditions de fabrication.
 
 
+</div>
+
+<div markdown style="break_inside: avoid;">
 
 **Document 2 Les matières premières**
 
@@ -50,8 +49,12 @@ Un million d'enfants de 5 à 17 ans travailleraient dans des mines à travers le
 </div>
 
 
+</div>
+
+<div markdown style="break_inside: avoid;">
+
 **Document 3 Conséquences sur les paysages de l'exploitation minière**
- / 
+
 
 <div markdown style="display:flex; flex-direction: row;">
 
@@ -61,7 +64,11 @@ Un million d'enfants de 5 à 17 ans travailleraient dans des mines à travers le
 </div>
 
 
-**Document 5 : Le transport**
+</div>
+
+<div markdown style="break_inside: avoid;">
+
+**Document 4 Le transport**
 
 Après extraction, les matières premières sont acheminées par divers moyens jusqu’aux usines, dont de nombreuses sont situées en Asie.  
 
@@ -70,8 +77,12 @@ Le transport du pétrole s’opère au moyen d’oléoduc, à savoir, de grandes
 Le transport des métaux, des carrières aux usines de raffinage, se réalise par transport terrestre ou maritime, par camion ou bateau.
 
 
+</div>
 
-**Document 7 Les usines**
+<div markdown style="break_inside: avoid;">
+
+
+**Document 5 Les usines**
 
 <div markdown style="display:flex; flex-direction: row; ">
 
@@ -89,7 +100,11 @@ Une fois arrivées, les matières premières sont travaillées, fabriquant ainsi
 </div>
 
 
-**Document 8 De l’usine à la maison**
+</div>
+
+<div markdown style="break_inside: avoid;">
+
+**Document 6 De l’usine à la maison**
 
 Une fois le produit conçu et fabriqué, il est acheminé dans les différentes parties du monde à des fins commerciales.  
 
@@ -99,8 +114,11 @@ Une des fonctions d’estime des nouveaux smartphones est la qualité des photog
 
 En suisse, on estime à près de 8 millions de vieux téléphones inutilisés et l’ensemble des ordinateurs portables inutilisés contiennent plus de 300 kg d’or et près de 2 t d’argent.
 
+</div>
 
-**Document 9 Et après ? Décharge, incinération en Afrique ou recyclage en Asie ?**
+<div markdown style="break_inside: avoid;">
+
+**Document 7 Et après ? Décharge, incinération en Afrique ou recyclage en Asie ?**
 
 
 <div markdown style="display:flex; flex-direction: row; ">
@@ -124,3 +142,15 @@ Le reste a soit été brûlé, jeté dans des déchetteries ou abandonné dans l
 
 </div>
 </div>
+
+</div>
+
+??? note-prof "correction"
+
+    - Au moins 5 étapes.
+      - recyclage / destruction
+      - fabrication
+      - Extraction des matières premieres
+      - ventes
+      - conception
+      - utilisation

@@ -255,6 +255,9 @@ nav :
         - Exercices : 5eTechno/OSTetEnv/exercices.md
         - Fiche de révision : 5eTechno/OSTetEnv/Fiche.md
 
+      - Séquence Choix d’un OST et développement durable :
+        - Introduction : 5eTechno/devDurableOST/IntroDevDur.md
+        - Cycle de vie, impacts sociétaux et environnementaux d’un OST et développement durable : 5eTechno/devDurableOST/cycleVieObj.md
 
 
   - 5e SVT :
@@ -507,9 +510,7 @@ nav :
   - 5e Technologie (ancien) :
       - Séquence Evolution des objets techniques et cycle de vie :
         - Introduction : 5eTechno/evolObjTech/IntroEvolObj.md
-        - Familles d'objets : 5eTechno/evolObjTech/famillesObj.md
         - Evolution de la photographie : 5eTechno/evolObjTech/evolPhoto.md
-        - Cycle de vie des objets : 5eTechno/evolObjTech/cycleVieObj.md
         - Exercices : 5eTechno/evolObjTech/exercicesObjetsTech.md
         - Fiche de révision : 5eTechno/evolObjTech/Fiche.md
       - Séquence La programmation :
@@ -520,13 +521,6 @@ nav :
           - Programmation d'un robot : 5eTechno/programmation/progmBot.md
           - Exercices sur la programmation : 5eTechno/programmation/exosProg.md
           - Fiche de révision : 5eTechno/programmation/FicheProg.md
-      - Séquence Evolution des objets techniques et cycle de vie :
-        - Introduction : 5eTechno/evolObjTech/IntroEvolObj.md
-        - Familles d'objets : 5eTechno/evolObjTech/famillesObj.md
-        - Evolution de la photographie : 5eTechno/evolObjTech/evolPhoto.md
-        - Cycle de vie des objets : 5eTechno/evolObjTech/cycleVieObj.md
-        - Exercices : 5eTechno/evolObjTech/exercicesObjetsTech.md
-        - Fiche de révision : 5eTechno/evolObjTech/Fiche.md
 
   - Fiches Méthodes : Communs/chatbotmethodes.md
   - Progression : progression.html
