@@ -39,9 +39,9 @@
 
 | Type de contraintes| Contraintes | Solutions techniques |
 |--------------------|-------------|----------------------|
-|                    | pouvoir s'arrêter facilement |                      |
-|                    | pouvoir stationner la trottinette debout |                      |
-|                    | pouvoir régler la hauteur du guidon |   collier de serrage rapide  |
+| | pouvoir s'arrêter facilement | |
+| | pouvoir stationner la trottinette debout | |
+| | pouvoir régler la hauteur du guidon | collier de serrage rapide |
 
 
 </div>
@@ -75,7 +75,7 @@
 
 | Type de contraintes| Contraintes | Solutions techniques |
 |--------------------|-------------|----------------------|
-|                    | Signaler une panne si on est bloqué à l’intérieur |                      |
-|                    | Portes qui ne se ferme pas si quelqu’un entre | Capteur de passage        |
-|                    | Pouvoir appeler l’ascenseur |           |
-|                    | Indiquer l’étage auquel on est à tout le monde (aveugle ou sourd) |  |
+| | Signaler une panne si on est bloqué à l’intérieur | |
+| | Portes qui ne se ferme pas si quelqu’un entre | Capteur de passage |
+| | Pouvoir appeler l’ascenseur | |
+| | Indiquer l’étage auquel on est à tout le monde (aveugle ou sourd) | |

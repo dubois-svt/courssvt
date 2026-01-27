@@ -48,21 +48,7 @@ Elle est représentée par une suite chronologique, du plus ancien au plus réce
 
 # Séquence Usages du numériques
 
-séance 1 les fichiers et arborescence
 
-Consigne 1 : A partir de l'image montrant plein de fichiers différents indiquer, quels sont les 3 moyens d'identifier un fichier.
-
-Consigne 2 : classer par taille les moyens de stockage
-
-consigne : parmi les chemins suivant lequel correspond au fichier de l'image. Indiquer le dossier, le sous dossier, le nom du fichier et l'extension
-
-Documents avec deux images d'explorateurs de fichiers montrant des fichiers différents
-Documents avec la taille de quelques moyens de stockage
-Document avec 3 chemins dont un vers une image, un vers un doc odt, un vers un film, un vers un son
-
-séance 2  les données
-
-séance 3 systèmes d'information
 
 ### Identification des données, stockage et partage
 
@@ -80,11 +66,6 @@ Le stockage en ligne favorise le partage des fichiers. Les données peuvent êtr
 
 # séquence OST dans son environnement  plan de classe
 
-séance interacteurs extérieurs
-
-séance contraintes des matériaux
-
-séance plan de classe
 
 séquence construction doseur spaghetti
 
@@ -98,15 +79,7 @@ protocole pour mesurer fiabilité de l'objet,
 
 - quantité pâte mesurée
 
-# séquence  choix OST
 
-séance formes et source énergie 
-
-séance impact matériau sur env
-
-séance choix cycle de vie
-
-séance  
 
 # Séquence dépannage réparation
 
@@ -117,3 +90,51 @@ séance
 # Séquence droit et devoir numériques
 
 # Séquence réseau informatique
+
+- Les objets et les systèmes techniques : leurs usages et leurs interactions à découvrir et à analyser
+  - Décrire les liens entre usages et évolutions technologiques des objets et des systèmes techniques
+  - Décrire les interactions entre un objet ou un système technique, son environnement et les utilisateurs
+  - Caractériser et choisir un objet ou un système technique selon différents critères
+- Structure, fonctionnement, comportement : des objets et des systèmes techniques à comprendre
+  - Décrire et caractériser l’organisation interne d’un objet ou d’un système technique et ses échanges avec son environnement (énergies, données)
+  - Identifier un dysfonctionnement d’un objet technique et y remédier
+  - Comprendre et modifier un programme associé à une fonctionnalité d’un objet ou d’un système technique
+  - Comprendre le fonctionnement d’un réseau informatique.
+- Création, conception, réalisation, innovations : des objets à concevoir et à réaliser
+  - Imaginer, concevoir et réaliser une ou des solutions en réponse à un besoin, à des exigences (de développement durable, par exemple) ou à la nécessité d’améliorations dans une démarche de créativité
+  - Valider les solutions techniques par des simulations ou par des protocoles de tests
+  - Concevoir, écrire, tester et mettre au point un programme
+- Pratiquer des démarches scientifiques et technologiques
+  - Imaginer, synthétiser, formaliser et respecter une procédure, un protocole.
+  - Mesurer des grandeurs de manière directe ou indirecte.
+  - Rechercher des solutions techniques à un problème posé, expliciter ses choix et les communiquer en argumentant.
+  - Participer à l’organisation et au déroulement de projets.
+- Concevoir, créer, réaliser
+  - Identifier un besoin et énoncer un problème technique, identifier les conditions, contraintes (normes et règlements) et ressources correspondantes.
+  - Identifier le(s) matériau(x), les flux d’énergie et d’information dans le cadre d’une production technique sur un objet et décrire les transformations qui s’opèrent.
+  - S’approprier un cahier des charges.
+  - Associer des solutions techniques à des fonctions.
+  - Imaginer des solutions en réponse au besoin.
+  - Réaliser, de manière collaborative, le prototype de tout ou partie d’un objet pour valider une solution.
+  - Imaginer, concevoir et programmer des applications informatiques pour des appareils nomades.
+- S’approprier des outils et des méthodes
+  - Exprimer sa pensée à l’aide d’outils de description adaptés : croquis, schémas, graphes, diagrammes, tableaux (représentations non normées).
+  - Traduire, à l’aide d’outils de représentation numérique, des choix de solutions sous forme de croquis, de dessins ou de schémas.
+  - Présenter à l’oral et à l’aide de supports numériques multimédia des solutions techniques au moment des revues de projet.
+- Pratiquer des langages
+  - Décrire, en utilisant les outils et langages de descriptions adaptés, la structure et le comportement des objets.
+  - Appliquer les principes élémentaires de l’algorithmique et du codage à la résolution d’un problème simple.
+- Mobiliser des outils numériques
+  - Simuler numériquement la structure et/ou le comportement d’un objet.
+  - Organiser, structurer et stocker des ressources numériques.
+  - Lire, utiliser et produire des représentations numériques d’objets.
+  - Piloter un système connecté localement ou à distance.
+  - Modifier ou paramétrer le fonctionnement d’un objet communicant
+  - Utiliser les fonctions simples d'un traitement de texte
+- Adopter un comportement éthique et responsable
+  - Développer les bonnes pratiques de l’usage des objets communicants
+  - Analyser l’impact environnemental d’un objet et de ses constituants.
+  - Analyser le cycle de vie d’un objet.
+- Se situer dans l’espace et dans le temps
+  - Regrouper des objets en familles et lignées.
+  - Relier les évolutions technologiques aux inventions et innovations qui marquent des ruptures dans les solutions techniques.

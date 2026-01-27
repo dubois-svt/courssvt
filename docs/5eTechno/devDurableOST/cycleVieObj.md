@@ -1,14 +1,14 @@
-# Activité : Cycle de vie, impacts sociétaux et environnementaux
+# Activité : Cycle de vie des OST
 
 !!! note "Compétences"
 
-    trouver et utiliser des informations. 
+    Analyser le cycle de vie d’un objet.
 
 !!! warning "Consignes"
 
     1. A partir des différents documents, lister les étapes du cycle de vie d’un appareil photo.
     2. Proposer une schéma du cycle de vie d’un appareil photo. 
-    3. Expliquer pourquoi un OST a un impact important sur l'environnement
+    3. Expliquer pourquoi un OST a un impact important sur l'environnement.
 
 ??? bug "Critères de réussite"
     - Au moins 5 étapes.
@@ -18,7 +18,7 @@
 
 **Document 1 Cycle de vie d'un objet technique.**
 
-Le cycle de vie d’un OST correspond à l’ensemble des étapes qu’il traverse au cours du temps. Du développement de l'idée de l'OST  à sa de fin de vie, les appareils électroniques font partie intégrante de notre quotidien, cette proximité nous fait oublier leur origine et leurs conditions de fabrication.
+Le cycle de vie d’un OST correspond à l’ensemble des étapes qu’il traverse au cours du temps. Du développement de l'idée de l'OST à sa fin de vie, les appareils électroniques font partie intégrante de notre quotidien, cette proximité nous fait oublier leur origine et leurs conditions de fabrication.
 
 
 </div>
@@ -34,10 +34,10 @@ Le cycle de vie d’un OST correspond à l’ensemble des étapes qu’il traver
 
 On retrouve, dans les appareils photos et comme dans de nombreux autres appareils électroniques, beaucoup de matières premières : du plastique, des métaux, etc. 
 
-L'extraction des matières premières va entrainer une destruction et une pollution de l'environnement  plus ou moins importante.
+L'extraction des matières premières va entrainer une destruction et une pollution de l'environnement plus ou moins importante.
 Le plastique est un dérivé du pétrole. Son exploitation nécessite un forage des sous-sols rocheux parfois par fracturation hydraulique. Ce procédé entraîne le rejet d’eaux polluées qui ne sont pas recyclées. 
 
-Les métaux, difficiles à exploiter, constituent une grande partie "invisible" de la composition d’un appareil électronique. Leur extraction et leur purification sont généralement très nocives pour l’environnement, polluant les eaux à proximité, enttrainant une déforestation et détruisant la biodiversité… Les eaux polluées entraînent des risques pour le personnel des sites miniers qui n’y sont pas protégés face aux substances toxiques, notamment en Afrique.
+Les métaux, difficiles à exploiter, constituent une grande partie "invisible" de la composition d’un appareil électronique. Leur extraction et leur purification sont généralement très nocives pour l’environnement, polluant les eaux à proximité, entrainant une déforestation et détruisant la biodiversité… Les eaux polluées entraînent des risques pour le personnel des sites miniers qui n’y sont pas protégés face aux substances toxiques, notamment en Afrique.
 
 Un million d'enfants de 5 à 17 ans travailleraient dans des mines à travers le monde.
 </div>
@@ -119,7 +119,7 @@ Cependant, le recyclage à un coût économique et tous les équipements ne peuv
 
 Sur place, beaucoup de gens essaient de gagner de l’argent en brûlant les plastiques pour récupérer les métaux précieux comme le cuivre, l’argent ou l’or. 
 
-Uniquement 25% des appareils électroniques ont été  recyclés en 2022.  (52 % en Amérique du Nord, 40 % en Europe, 12 % en Asie et moins d’1 % en Afrique).
+Uniquement 25% des appareils électroniques ont été recyclés en 2022. (52 % en Amérique du Nord, 40 % en Europe, 12 % en Asie et moins d’1 % en Afrique).
 
 Le reste a soit été brûlé, jeté dans des déchetteries ou abandonné dans la nature, ce qui peut poser des problèmes sanitaires et environnementaux conséquents. 
 

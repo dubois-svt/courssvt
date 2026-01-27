@@ -1,4 +1,4 @@
-# Séquence : Choix d’un OST et développement durable
+# Séquence : OST et développement durable
 
 !!! note-prof
 
@@ -25,13 +25,8 @@
 
 
 !!! question "Problématique"
-
+    Quel est l'impact environnemental de nos OST ?
     
-
-
-
-
-
 
 ## Séance 1 : Cycle de vie, impacts sociétaux et environnementaux 
 
@@ -41,14 +36,14 @@
     Quel est le cycle de vie d’un OST ?
 
     
-[Activité Cycle de vie des objets techniques](../cycleVieObj)
+[Activité Cycle de vie des OST](../cycleVieObj)
 
 
 
 ??? abstract "Bilan"
 
     
-    <a id="bilan2">
+    <a id="bilan1">
     
     Le développement durable consiste à répondre aux besoins du présent sans compromettre la capacité des générations futures à répondre à leurs propres besoins. Il doit permettre le développement économique et social et le respect de l’environnement.
 
@@ -81,9 +76,9 @@
 
 
 
-## Séance 2 : Choisir un OST 
+## Séance 2 : Les OST et le coût environnemental
 
-[Activité Choix d'un OST](../choixOST-indice)
+[Activité Choix d'un OST et le développement durable](../choixOSTDevDur)
 
 
 
@@ -91,7 +86,7 @@
 ??? abstract "Bilan"
 
     
-    <a id="bilan3">
+    <a id="bilan2">
 
 
 
@@ -109,7 +104,7 @@
 
     </a>
 
-## Séance 4 : Exercices
+## Séance 3 : Exercices
 
     
 [Activité Exercices](../exercicesObjetsTech)

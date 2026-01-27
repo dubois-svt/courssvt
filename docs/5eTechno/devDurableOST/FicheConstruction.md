@@ -1,15 +1,18 @@
-# Fiche de révision pour séquence construire une école
+# Fiche de révision OST et développement durable
 
 ## Compétences travaillées
 
 - Retenir des idées essentielles d’une leçon
 - Trouver et utiliser des informations
-- Utiliser l'outil numérique
+- Analyser l’impact environnemental d’un objet et de ses constituants.
+- Analyser le cycle de vie d’un objet.
+
+
+
 
 ## À savoir faire
 
-- Compléter et respecter un cahier des charges.
-- Utiliser le logiciel Sweet Home 3D [Version en ligne](https://www.sweethome3d.com/SweetHome3DJSOnline.jsp)
+
   
 <div markdown class="flashcard">
 
