@@ -34,9 +34,10 @@ Le cycle de vie d’un OST correspond à l’ensemble des étapes qu’il traver
 
 On retrouve, dans les appareils photos et comme dans de nombreux autres appareils électroniques, beaucoup de matières premières : du plastique, des métaux, etc. 
 
+L'extraction des matières premières va entrainer une destruction et une pollution de l'environnement  plus ou moins importante.
 Le plastique est un dérivé du pétrole. Son exploitation nécessite un forage des sous-sols rocheux parfois par fracturation hydraulique. Ce procédé entraîne le rejet d’eaux polluées qui ne sont pas recyclées. 
 
-Les métaux, difficiles à exploiter, constituent une grande partie "invisible" de la composition d’un appareil électronique. Leur extraction et leur purification sont généralement très nocives pour l’environnement, polluant les eaux à proximité, détruisant la biodiversité… Les eaux polluées entraînent des risques pour le personnel des sites miniers qui n’y sont pas protégés face aux substances toxiques, notamment en Afrique.
+Les métaux, difficiles à exploiter, constituent une grande partie "invisible" de la composition d’un appareil électronique. Leur extraction et leur purification sont généralement très nocives pour l’environnement, polluant les eaux à proximité, enttrainant une déforestation et détruisant la biodiversité… Les eaux polluées entraînent des risques pour le personnel des sites miniers qui n’y sont pas protégés face aux substances toxiques, notamment en Afrique.
 
 Un million d'enfants de 5 à 17 ans travailleraient dans des mines à travers le monde.
 </div>
@@ -44,31 +45,19 @@ Un million d'enfants de 5 à 17 ans travailleraient dans des mines à travers le
 <div markdown style="display:flex; flex-direction: column; flex: 1 1 0;">
 
 ![Tanzanie, enfant dans une mine d’or](pictures/enfantMines.png)
-
-</div>
-</div>
-
-
-</div>
-
-<div markdown style="break_inside: avoid;">
-
-**Document 3 Conséquences sur les paysages de l'exploitation minière**
-
-
-<div markdown style="display:flex; flex-direction: row;">
-
 ![Mine de cuivre de Kennecott, Etats Unis](pictures/mineCuivre.png)
 
-
+</div>
 </div>
 
 
 </div>
+
+
 
 <div markdown style="break_inside: avoid;">
 
-**Document 4 Le transport**
+**Document 3 Le transport**
 
 Après extraction, les matières premières sont acheminées par divers moyens jusqu’aux usines, dont de nombreuses sont situées en Asie.  
 
@@ -82,7 +71,7 @@ Le transport des métaux, des carrières aux usines de raffinage, se réalise pa
 <div markdown style="break_inside: avoid;">
 
 
-**Document 5 Les usines**
+**Document 4 Les usines**
 
 <div markdown style="display:flex; flex-direction: row; ">
 
@@ -104,7 +93,7 @@ Une fois arrivées, les matières premières sont travaillées, fabriquant ainsi
 
 <div markdown style="break_inside: avoid;">
 
-**Document 6 De l’usine à la maison**
+**Document 5 De l’usine à la maison**
 
 Une fois le produit conçu et fabriqué, il est acheminé dans les différentes parties du monde à des fins commerciales.  
 
@@ -118,7 +107,7 @@ En suisse, on estime à près de 8 millions de vieux téléphones inutilisés et
 
 <div markdown style="break_inside: avoid;">
 
-**Document 7 Et après ? Décharge, incinération en Afrique ou recyclage en Asie ?**
+**Document 6 Et après ? Décharge, incinération en Afrique ou recyclage en Asie ?**
 
 
 <div markdown style="display:flex; flex-direction: row; ">
