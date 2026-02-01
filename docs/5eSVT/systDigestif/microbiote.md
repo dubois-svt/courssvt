@@ -41,7 +41,7 @@ En plus des glucides, des protéines et des lipides, de nombreux microconstituan
 ![alt text](image-2.png)
  Extrait du livre "Le charme discret de l'intestin" (Giulia Enders, éditions Acte Sud, avril 2015)
 
-"Ces souris stériles1 sont un peu bizarres (...). Par rapport à leur congénères "habitées", elle mangent plus2 et mettent plus de temps à digérer. Elles ont des appendices énormes, des intestins rabougris, sans villosités (...). En leur injectant un cocktail de bactéries3 provenant d'autres souris, on peut observer des effets étonnants. Quand on leur administre des bactéries de sujets diabétiques (de type 2), les souris de laboratoire développent rapidement les  premiers problèmes de métabolisation des sucres. Quand on leur administre les bactéries intestinales de sujets en surpoids, leur tendance à l'embonpoint augmente aussi".
+"Ces souris stériles1 sont un peu bizarres (...). Par rapport à leur congénères "habitées", elles mangent plus2 et mettent plus de temps à digérer. Elles ont des appendices énormes, des intestins rabougris, sans villosités (...). En leur injectant un cocktail de bactéries3 provenant d'autres souris, on peut observer des effets étonnants. Quand on leur administre des bactéries de sujets diabétiques (de type 2), les souris de laboratoire développent rapidement les  premiers problèmes de métabolisation des sucres. Quand on leur administre les bactéries intestinales de sujets en surpoids, leur tendance à l'embonpoint augmente aussi".
 
 
 
