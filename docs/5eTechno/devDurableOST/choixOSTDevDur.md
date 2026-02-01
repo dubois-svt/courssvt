@@ -6,7 +6,7 @@
 
 !!! warning "Consignes"
 
-    1. Choisir un lave-vaiselle, le but est d'en trouver un qui, à l'usage, coûtera le moins cher possible, justifie ton choix.
+    1. Choisir un téléviseur, le but est d'en trouver un qui, à l'usage, coûtera le moins cher possible, justifie ton choix.
     2. Un fabricant de gourde souhaite fabriquer des gourdes plus écologiques, il hésite entre 3 matériaux, proposer un choix en le justifiant.
     3. Une personne souhaite faire un treck de plusieurs jours, pour cela elle souhaite acheter une lampe de poche, elle hésite entre trois modèles. Laquelle est la plus adaptée. Justifier le choix
 
@@ -14,32 +14,17 @@
 
 
 
-**Document 1 Différents lave-vaisselles**
-
-<div markdown style="display:flex; flex-direction: row; ">
-
-![Lave-vaisselle 1](image.png){:style="width:200px;border-color:black;border: solid 0.1em;"}
-![Lave-vaisselle 2](image-1.png){:style="width:200px;border-color:black;border: solid 0.1em;"}
-![Lave-vaisselle 3](image-2.png){:style="width:200px;border-color:black;border: solid 0.1em;"}
-![Lave-vaisselle 4](image-3.png){:style="width:200px;border-color:black;border: solid 0.1em;"}
-![Lave-vaisselle 5](image-4.png){:style="width:200px;border-color:black;border: solid 0.1em;"}
-
-</div>
-
-<div markdown style="display:flex; flex-direction: row; ">
-
-<div markdown style="display:flex; flex-direction: column; flex: 2 1 0;">
-
-![](image-5.png)
-
-</div>
+**Document 1 Différents téléviseurs**
 
 
-<div markdown style="display:flex; flex-direction: column; flex: 1 1 0;">
 
-**Document 2 L'indice de réparabilité**
+![](image-6.png)
 
-L'indice de réparabilité est une note qui indique si un produit est facile à réparer. Il va de 0 à 10, où 10 signifie que le produit est très simple à réparer. Cet indice a été créé pour aider les consommateurs à choisir des produits durables.
+
+**Document 2 L'indice de durabilité**
+
+L'indice de durabilité qui remplace pour certains produits l'indice de réparabilité. C'est une note qui indique si un produit est facile à réparer et fiable. 
+Il va de 0 à 10, où 10 signifie que le produit est très simple à réparer. Cet indice a été créé pour aider les consommateurs à choisir des produits durables.
 
 - Si un produit est facile à réparer, on le jette moins.
 - Réparer un produit coûte souvent moins cher que d'acheter un nouveau produit.
@@ -83,7 +68,7 @@ La classe énergétique nous aide à choisir des appareils qui sont bons pour no
 | prix | 24,99€ | 9,99€ | 29,99€ |
 | puissance | 210 lumens | 100 lumens | 300 lumens |
 | portée | 40m | 25m | 75m |
-| focntionnement | Rechargeable par USB et autonome grâce à sa dynamo. | Fonctionne avec 3 piles LR03-AAA fournies | Batterie rechargeable en micro-USB |
+| fonctionnement | Rechargeable par USB et autonome grâce à sa dynamo. | Fonctionne avec 3 piles LR03-AAA fournies | Batterie rechargeable en micro-USB |
 | | ![](pictures/lampeDynamo.png){:style="width:100px;"} | ![](pictures/lampePile.png){:style="width:100px;"} | ![](pictures/lampeBatterie.png){:style="width:100px;"} |
 
 

@@ -14,12 +14,16 @@ On veut vérifier que le microbiote est un allié pour l'organisme qui l'héberg
   - je peux identifier la (les) preuve(s) de différences d'un microbiote à un autre.
 
 
-**Document 1 : Densité et activités des bactéries du colon**
+**Document 1 Caractéristique des micro-organismes présents dans le tube digestif**
+
+Les micro-organismes sont présents dans la majorité des organes de notre tube digestif. La masse de ce smicrobes est d'environ 2kg. 
+L'intestin comporte 10 fois plus de microbes que notre corps a de cellules.
 
 
-Ce que nous ingérons suit un long parcours qui commence dans la bouche, se poursuit dans l'estomac, puis l'intestin dont la plus grande partie est représentée par l'intestin grêle (en vert sur le schéma ci-contre) avec ses 8 mètres de long. La paroi de l'intestin grêle est tapissée de villosités où se produit le passage dans la circulation sanguine des nutriments issus de la digestion.  La portion terminale de l'intestin est le colon (en rouge sur le schéma ci-contre). C'est là qu'on trouve la plus grande densité de bactéries du microbiote
 
-Depuis quelques années, les scientifiques se sont penchés sur le rôle joué par le microbiote colique dans la digestion et l'absorption.
+<table><thead><tr><th>Organe</th><th>Nombre de micro-organismes dans un gramme </th></tr></thead><tbody><tr><td>bouche</td><td>1000 à 10000</td></tr><tr><td>Oesophage</td><td>très faible</td></tr><tr><td>Estomac</td><td>1000 à 10000</td></tr><tr><td>Intestin grêle</td><td>100 millions</td></tr><tr><td>Gros intestin</td><td>1000 milliards</td></tr></tbody></table>
+
+
     
 Nos propres enzymes ne permettent pas la digestion de la totalité des protides et glucides que nous ingérons. La partie non digérée -en particulier les   fibres alimentaires- se retrouve dans le colon, où le microbiote colique entre en action. Des réactions de fermentation portant sur ces glucides et protides permettent aux bactéries d’obtenir l’énergie nécessaire à leur croissance et entrainent de ce fait la production d’une diversité de nutriments qui sont absorbés et utilisés par l’hôte.
 
@@ -27,14 +31,9 @@ Les lipides non absorbés dans l’intestin grêle subissent eux aussi des trans
 
 En plus des glucides, des protéines et des lipides, de nombreux microconstituants sont présents dans les aliments que nous consommons. Une part importante parvient au côlon où ils sont transformés par le microbiote. Cela permet la détoxication de composés potentiellement nocifs.
 
-![Micobiote_tractus_digestif](https://github.com/user-attachments/assets/307ef875-d662-4607-be9f-35871fd15ba9)
-
-
- Les différents segments de l'appareil digestif et la densité des bactéries du microbiote (en nombre par gramme de contenu) dans chacun des segments
-adapté d'après Sartor RB, Gastroenterology, 2008
 
  
-
+![alt text](image-1.png)
 
 **Document 2 :  Les observations chez des animaux d'élevage qui n'ont pas de microbiote**
  Extrait du livre "Le charme discret de l'intestin" (Giulia Enders, éditions Acte Sud, avril 2015)
@@ -50,16 +49,6 @@ adapté d'après Sartor RB, Gastroenterology, 2008
 3 L'auteur fait référence à des expériences de transfert de microbiote d'un animal à un autre. Le protocole de transfert de microbiote est redevable à Jeffrey Gordon au début des années 2000. Pour que des bactéries colonisent l'intestin de souris axéniques, il faut diluer dans de l'eau les selles de souris normales puis pulvériser le mélange obtenu sur le pelage des souris axéniques. En se léchant, ces dernières avalent les bactéries qui se retrouvent donc dans leur propre intestin. L'affaire est dans le sac !   
 
 
-**Document 3 : expérimentations et mesures**
-
-![image_preview](https://github.com/user-attachments/assets/d8bba423-5ad6-44da-bf42-ffa2845029f3)
- Taux d'augmentation de la masse grasse de souris initialement sans microbiote après 2 semaines de colonisation par un microbiote provenant de souris minces ou obèses
-
-![image_preview](https://github.com/user-attachments/assets/ce93e4ef-623e-4146-b56e-d989cf0c0e5d)
-Prise de poids occasionnée par un régime riche en graisses chez des souris stériles (= sans microbiote) et des souris "habitées" (= avec microbiote)
-
-Source : modifié d'après The gut microbiota as an environmental factor that regulates fat storage (Fredrik Bäckhed, Hao Ding, Ting Wang, Lora V. Hooper, Gou Young Koh, Andras Nagy, Clay F. Semenkovich, and Jeffrey I. Gordon), PNAS novembre 2004
-
 
 
 
@@ -73,7 +62,7 @@ Document 1 : Densité et activité des bactéries du colon
 Choisis la réponse exacte pour chaque série de propositions.
 
 1. Les bactéries du microbiote intestinal :
-     	sont plus abondantes dans l'intestin grêle, en relation avec leur rôle dans la fermentation des  molécules non digérées.
+    sont plus abondantes dans l'intestin grêle, en relation avec leur rôle dans la fermentation des  molécules non digérées.
   	sont plus abondantes dans le colon, en relation avec leur rôle dans la fermentation des  molécules non digérées.
   	 sont moins abondantes dans l'intestin grêle, en relation avec la fonction d'absorption de l'intestin grêle.
   	 sont de moins en moins abondantes du premier segment au dernier segment de l'intestin.
