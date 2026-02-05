@@ -7,7 +7,7 @@
 !!! warning "Consignes"
 
     1. A partir des différents documents, lister les étapes du cycle de vie d’un appareil photo.
-    2. Proposer une schéma du cycle de vie d’un appareil photo. 
+    2. Proposer un schéma du cycle de vie d’un appareil photo. 
     3. Expliquer pourquoi un OST a un impact important sur l'environnement.
 
 ??? bug "Critères de réussite"
