@@ -23,7 +23,7 @@
 
 
 ??? abstract "Bilan"
-    === "De quoi parler dans le bilan ? Quels mots clés ?"
+    <a markdown id="bilan1">
 
 
     === "Bilan à trous"
@@ -53,7 +53,7 @@
         Lors d’une stimulation, l’organe sensoriel envoie l’information vers le cerveau à travers un nerf sensitif.
         Le cerveau transmet la commande du mouvement par un nerf moteur qui traverse la moelle épinière et va jusqu’aux muscles.
 
-
+    </a>
 
 
 ## Séance 2 : Les nerfs
@@ -68,7 +68,8 @@
 
 
 ??? abstract "Bilan"
-    === "De quoi parler dans le bilan ? Quels mots clés ?"
+    <a markdown id="bilan2">
+
 
 
     === "Bilan à trous"
@@ -91,7 +92,8 @@
 
         [https://vimeo.com/263053418](https://vimeo.com/263053418)
 
-
+    </a>
+    
 ## Séance 3 : La communication nerveuse
 
 On a vu que la succession d’étapes entre le stimulus et la réaction.   
@@ -114,7 +116,8 @@ Le message passe de neurone en neurone jusqu’aux muscles.
 
 
 ??? abstract "Bilan"
-    === "De quoi parler dans le bilan ? Quels mots clés ?"
+    <a markdown id="bilan3">
+
 
 
     === "Bilan à trous"
@@ -140,6 +143,8 @@ Le message passe de neurone en neurone jusqu’aux muscles.
         
         ![](Pictures/schemaSynapse.png)
 
+    </a>
+
 ## Séance 4 : Le cerveau, élément central du système nerveux
 
 
@@ -154,7 +159,8 @@ Le message passe de neurone en neurone jusqu’aux muscles.
 
 
 ??? abstract "Bilan"
-    === "De quoi parler dans le bilan ? Quels mots clés ?"
+    <a markdown id="bilan4">
+
 
 
     === "Bilan à trous"
@@ -176,3 +182,5 @@ Le message passe de neurone en neurone jusqu’aux muscles.
     ![](Pictures/schemaZonesCerebrales1.png)
 
     ![](Pictures/schemaZonesCerebrales2.png)
+
+</a>
