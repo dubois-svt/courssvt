@@ -7,19 +7,32 @@
 
 !!! warning "Consignes"
 
-    1. À partir du document 1, trace un graphique de la quantité de nutriments présents dans le tube digestif en fonction de la distance à la bouche.
+    1. À partir du document 2, trace un graphique de la quantité de nutriments présents dans le tube digestif en fonction de la distance à la bouche.
 
-    2. À partir des informations, indiquer ce que deviennent les nutriments présents dans le tube digestif, justifier votre réponse avec deux informations.
+    2. À partir des documents 1 et 3, indiquer ce que deviennent les nutriments présents dans le tube digestif, justifier votre réponse avec deux informations.
 
-    3. Indiquer ce qui fait que l'intestin grêle est une bonne surface d'échange.
+    3. Tracer un schéma  de la coupe d'un instestin grêle vue au microscope et un cercle du même diamètre à coté.
+
+    4. Comparer les périmètres internes des deux. Que peut-on conclure sur la surface des deux.
+
+    5. En utilisant les informations précédentes et le document 5, indiquer ce qui fait que l'intestin grêle est une bonne surface d'échange.
+
 
     
 ??? bug "Critères de réussite"
     - 
 
+<div  markdown style="break-inside: avoid;">
+**Document 1**
+![](pictures/graphAbsoptIntes.png)
+
+</div>
 
 
-**Document 1 Mesure de la quantité de nutriments dans le tube digestif.**
+
+
+<div  markdown style="break-inside: avoid;">
+**Document 2 Mesure de la quantité de nutriments dans le tube digestif.**
 
 On donne à un individu un plat de pâtes à manger. Puis l’on suit la quantité de nutriments (glucose) tout au long de son tube digestif.	 
 
@@ -58,50 +71,54 @@ Résultats des mesures:
 </tbody>
 </table>
 
+</div>
 
-**Document 2 Mesure de la quantité de nutriments dans le sang au du tube digestif (en g par litre de sang)**
+<div  markdown style="break-inside: avoid;">
+**Document 3 Mesure de la quantité de nutriments dans le sang au du tube digestif (en g par litre de sang)**
 
 | Quantité de nutriments dans le  sang arrivant | Quantité denutriments dans le  sang sortant |
 |---|---|
 | 1,2 | 3,7 |
+</div>
 
+<div  markdown style="break-inside: avoid;">
+**Document 4 L’intestin grêle**
 
+<div markdown style="display:flex; flex-direction: row;">
+<div markdown style="display:flex; flex: 2 1 0 ;flex-direction: column;">
+L'intestin grêle est un organe très long, plusieurs mêtres chez l'humain.
+Des replis sont présents sur la surface internes, ce sont des villosités intestinales.
+A l'intérieur de ces villossités, des vaiseaux sanguins sont présents.
 
-
-
-
-
-
-
-**Document 3 L’intestin grêle**
-
-Les villosités intestinales sont des structures de la paroi intestinale dont la surface est estimée à 250m². Elles multiplient par 20 la surface de contact entre le contenu de l'intestin grêle et le sang.
-
+</div>
+<div markdown style="display:flex; flex: 2 1 0 ;flex-direction: column;">
 ![](pictures/schemaParoiIntestin.png){: style="width:600px;"}
+</div>
+</div>
 
+</div>
 
-**Document 4  Les échanges**
+<div  markdown style="break-inside: avoid;">
+**Document 5 Les échanges**
 
 Les échanges entre un organe et le sang se font plus facilement si  différentes conditions sont réunis :
 
 - la surface doit être grande
 - la distance entre le sang et l'organe doit être faible (épaisseur)
-  
 
-
-**Document 5 :**
-![](pictures/graphAbsoptIntes.png)
-
+Rappel la surface d'un tube dépend de sa longueur et de son périmètre interne.
+</div>
 
 
 
 
 
+??? note-prof "doc"
+    Les villosités intestinales sont des structures de la paroi intestinale dont la surface est estimée à 250m². Elles multiplient par 20 la surface de contact entre le contenu de l'intestin grêle et le sang.
+    
 
-
-
-
-
+    
+    
 
 
 
