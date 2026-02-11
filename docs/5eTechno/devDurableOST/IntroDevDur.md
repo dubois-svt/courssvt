@@ -66,8 +66,6 @@
 
 
     
-    Les matériaux composnt les objets sont une source importante de pollution, le choix de matériau moins polluants pour les OST permet aussi de réduire les impacts.
-
     
     ![](pictures/cycleVieObj.png)
 
@@ -77,6 +75,11 @@
 
 
 ## Séance 2 : Les OST et le coût environnemental
+
+
+!!! question "Problématique"
+
+    Comment choisir un OST avec le moins d'impact sur l'environnement ?
 
 [Activité Choix d'un OST et le développement durable](../choixOSTDevDur)
 
@@ -97,10 +100,14 @@
 
     Parmi les sources d'énergie présentes dans notre environnement, certaines sont renouvelables (vent, soleil, mouvement de l'eau ...) et d'autres non (gaz, charbon, pétrole, uranium)
 
-
     Diffrents objets peuvent répondre au besoin d'un utilisateur.
 
+    Les matériaux composnt les objets sont une source importante de pollution, le choix de matériau moins polluants pour les OST permet aussi de réduire les impacts.
+
+
     Il est dont amené à faire un choix en fonction de critères qui précisent ses attentes. Ils peuvent être liés au prix, à la couleur, aux matériaux, à l'énergie, aux performances techniques de l'objet, ...
+    Certains indices aident à faire ce choix (classe énergétique et indice de durabilité ou de réparabilité)
+
 
     </a>
 
