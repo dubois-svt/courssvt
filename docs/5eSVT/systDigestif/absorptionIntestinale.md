@@ -88,7 +88,7 @@ Résultats des mesures:
 <div markdown style="display:flex; flex: 2 1 0 ;flex-direction: column;">
 L'intestin grêle est un organe très long, plusieurs mêtres chez l'humain.
 Des replis sont présents sur la surface internes, ce sont des villosités intestinales.
-A l'intérieur de ces villossités, des vaiseaux sanguins sont présents.
+A l'intérieur de ces villosités, des vaiseaux sanguins sont présents.
 
 </div>
 <div markdown style="display:flex; flex: 2 1 0 ;flex-direction: column;">
