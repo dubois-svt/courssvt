@@ -28,6 +28,8 @@
 
 ??? abstract "Bilan"
 
+<a markdown id="bilan1">
+
     La surface rocheuse de la Terre est nommée lithosphère. Cette lithosphère est rigide et découpée en plaques appelées plaques lithosphériques (ou plaques tectoniques).
     
     La majorité des volcans et des séismes se situent aux limites des plaques lithosphériques. 
@@ -35,7 +37,7 @@
     La lithosphère se situe sur l’asthénosphère, milieu contenant des roches moins rigides que celles de la lithosphère. 
     
     Les roches de la lithosphère et de l’asthénosphère sont solides.
-
+</a>
 
 ??? abstract "Infos Supplémentaires"
 
@@ -60,21 +62,21 @@
 
 
 
-??? abstract "Bilan"
 
-    Ces plaques sont en mouvements les unes par rapport aux autres :
-
-
-    - Elles s’écartent dans les zones en divergence
-
-    - Elles se rapprochent dans les zones en convergence
-
-    - Elles peuvent aussi coulisser l’une par rapport à l’autre (décrochement)
     
 ??? abstract "Bilan"
 
+<a markdown id="bilan2">
+
+    Les plaques lithosphériques sont en mouvements les unes par rapport aux autres
+
     Il existe trois types de limites de plaques : 
-    - divergentes (où les plaques s'écartent), - convergentes (où elles se rapprochent) - et transformantes (où elles coulissent horizontalement l'une par rapport à l'autre).
+    
+    - divergentes (où les plaques s'écartent), 
+    - convergentes (où elles se rapprochent) 
+    - et transformantes (où elles coulissent horizontalement l'une par rapport à l'autre).
+
+</a>
 
 ## Séance 3 : Histoire des sciences et tectoniques des plaques
 
@@ -88,6 +90,9 @@
 
 
 ??? abstract "Bilan"
+
+<a markdown id="bilan3">
+    
     La théorie de la tectonique des plaques a été émise à la fin des années 1960 grâce à de meilleures connaissances de la surface de la Terre. Cette théorie est issue de la théorie de la dérive des continents élaborée par Wegener au début du 20e siècle.
     Cette théorie explique que les plaques lithosphériques sont en mouvements les unes par rapport aux autres (pas seulement les continents) et que les volcans et les séismes sont dus aux déplacements de ces plaques lithosphériques.
 
@@ -96,3 +101,5 @@
 
 
     ![](Pictures/schemaDiffTectoWegener.png)
+    
+</a>
