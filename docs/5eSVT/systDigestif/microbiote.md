@@ -10,7 +10,7 @@
 	1. À partir des documents 1,2 et 3, explique le rôle du microbiote dans notre corps. Et explique si c'est un allié pour l'organisme qui l'héberge.
 	2. A partir du document 4, montre que le microbiote peut causer des problèmes de santé
 
-!!! bug "Critères de réussite"
+??? bug "Critères de réussite"
   
 	- je peux identifier plusieurs rôles du microbiote dans la fonction digestive.
 	- je peux argumenter les rôles du microbiote à partir de faits expérimentaux.
@@ -26,6 +26,7 @@ Les micro-organismes sont présents dans la majorité des organes de notre tube 
 Les intestins comportent 10 fois plus de microbes que notre corps a de cellules. Il y a plus de 1000 milliards de microbes dans les intestins.
 
 On nomme ces micro-organismes vivants dans les intestins le microbiote intestinal.
+
 </div>
 
 <div markdown style="break_inside: avoid;">
@@ -40,6 +41,7 @@ Cela leur permet d'obtenir de l'énergie pour leur croissance et cela libère de
 
  
 ![Rôles des enzymes humaines et bactériennes](image-1.png)
+
 </div>
 
 <div markdown style="break_inside: avoid;">
@@ -47,6 +49,7 @@ Cela leur permet d'obtenir de l'énergie pour leur croissance et cela libère de
 
 
 ![](pictures/expMicrobioteIntest.png)
+
 </div>
 
 <div markdown style="break_inside: avoid;">
