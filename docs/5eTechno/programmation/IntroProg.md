@@ -9,8 +9,25 @@ On doit le tout premier programme informatique à l’anglaise Ada Lovelace au X
 
     Qu'est-ce qu'un programme informatique ?
 
+## Séance 1 : Algorithme
 
-## Séance 1 : Découverte de la programmation
+!!! question "Problématique"
+
+    Comment donner des ordres à un OST ?
+
+[Activité Initiation aux algorithmes](../initProg)
+
+
+
+
+??? abstract "Bilan"
+
+    Un algorithme est une succession logique d'instruction permettant de résoudre un problème à partir d'informations dont on a besoin au départ. Il s'écrit dans un langage courant.
+
+    Les premiers
+
+
+## Séance 2 : Découverte de la programmation
 
 !!! question "Problématique"
 
@@ -22,24 +39,22 @@ On doit le tout premier programme informatique à l’anglaise Ada Lovelace au X
 
 
 ??? abstract "Bilan"
-    === "De quoi parler dans le bilan ? Quels mots clés ?"
 
-    === "Bilan"
+    La programmation consiste à traduire un algorithme en un programme exécutable par une machine.
 
-    Un programme est composé d’une ou plusieurs séquences d’instructions ayant un but défini. Il est écrit à l’aide d’un langage de programmation. Ce programme traduit un algorithme.
+    Un programme est composé d’une ou plusieurs séquences d’instructions ayant un but défini. Il est écrit à l’aide d’un langage de programmation. 
 
-    - Algorithme : suite d’étapes dans un ordre précis permettant de terminer une tâche. Par exemple, une recette de cuisine est un algorithme permettant d’obtenir un plat à partir de ses ingrédients.
+    - Instruction : commande pour l’ordinateur. Assembler plusieurs commandes forme des algorithmes et des programmes informatiques
     - Séquence d’instructions : Fait de mettre les commandes dans le bon ordre afin que les machines puissent lire les commandes
     - Événement : Action qui déclenche une séquence d’instructions
-    - Boucle : structure qui permet d’exécuter la même séquence d’instructions plusieurs fois.
-    - Instruction : commande pour l’ordinateur. Assembler plusieurs commandes forme des algorithmes et des programmes informatiques
-    - Instruction conditionnelle : instruction qui s’exécute uniquement sous certaines conditions.
+    - instruction itérative : structure qui permet d’exécuter la même séquence d’instructions plusieurs fois (boucle).
+    - Instruction conditionnelle : instruction qui s’exécute uniquement sous certaines conditions (événement).
 
 
 
 
 
-## Séance 2 : Études d’objets programmés
+## Séance 3 : Études d’objets programmés
 
 !!! question "Problématique"
 
