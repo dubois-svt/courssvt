@@ -12,9 +12,16 @@
 ??? bug "Critères de réussite"
     - 
 
+<div markdown style="display:flex; flex-direction : row;">
+
 ![](image.png)
 ![](image-1.png)
+
+</div>
+<div markdown style="display:flex; flex-direction : row;">
+
 ![](image-2.png)
 ![](image-3.png)
+</div>
 
 ![](image-4.png)
