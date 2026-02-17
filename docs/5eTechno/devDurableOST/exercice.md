@@ -39,7 +39,7 @@
 | Prix |  710 € |  679,90 € |  659,90€ |  
 | Capacité de tonte max | 500  ㎡ | 500 ㎡| 450 ㎡ |   
 | Pente max conseillée | 25%   |  20% | 20% |   
-| Alarme sonore  | ou  | non  | non |   
+| Alarme sonore  | oui  | non  | non |   
 |  |  ![](pictures/indiceRobot1.png) |  ![](pictures/indiceRobot3.png) |  ![](pictures/indiceRobot2.png)  |   
 
 
