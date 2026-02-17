@@ -128,7 +128,12 @@ L’être humain et plus généralement tous les animaux ont besoin de manger po
 
 ## Séance 4 : Microbiote
 
+"Il [le microbiote] pèse entre un et cinq kilos, vit dans vos intestins et se nourrit de ce que vous avalez. Mais loin de vous être hostile, le microbiote est votre indispensable allié" (extrait de l'article "Microbiote : des bactéries qui nous veulent du bien", CNRS le journal, juillet 2014).
+Depuis une dizaine d'années, de telles publications scientifiques abondent à propos de ce qu'on appelle le microbiote !
 
+On veut vérifier que le microbiote est un allié pour l'organisme qui l'héberge.
+
+<table><thead><tr><th>Organe</th><th>Nombre de micro-organismes dans un gramme </th></tr></thead><tbody><tr><td>bouche</td><td>1000 à 10000</td></tr><tr><td>Oesophage</td><td>très faible</td></tr><tr><td>Estomac</td><td>1000 à 10000</td></tr><tr><td>Intestin grêle</td><td>100 millions</td></tr><tr><td>Gros intestin</td><td>1000 milliards</td></tr></tbody></table>
 
 !!! question "Problématique"
 
@@ -138,6 +143,20 @@ L’être humain et plus généralement tous les animaux ont besoin de manger po
 [Activité Le microbiote](../microbiote)
 
 
+??? abstract "Bilan"
+
+
+    <a markdown id="bilan3">
+
+    A l'intérieur du tube digestif, il y a de nombreux micro-organismes. Ces microbes produisent des enzymes qui nous permettent de digérer notre nourriture, pour eux mêmes se nourrir. Sans eux, la digestion fonctionnerait moins bien. 
+    
+    Entre humains et muicroibiote il y a des avantages réciproques, on parle donc de commensalisme ou de symbiose.
+
+    Ces micro-orgnaismes qui vivent à l'intérieur des humains, et aussi d'autres animaux, forment le microbiote.
+
+    Le microbiote peut-être la cause de certains problèmes de santé
+
+    </a>
 
 
 ## Séance 5 : Maladies liées à l'alimentation

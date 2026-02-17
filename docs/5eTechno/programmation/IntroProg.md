@@ -9,13 +9,13 @@ On doit le tout premier programme informatique à l’anglaise Ada Lovelace au X
 
     Qu'est-ce qu'un programme informatique ?
 
-## Séance 1 : Algorithme
+## Séance 1 : Algorithmes
 
 !!! question "Problématique"
 
     Comment donner des ordres à un OST ?
 
-[Activité Initiation aux algorithmes](../initProg)
+[Activité Initiation aux algorithmes](../initAlgo)
 
 
 
@@ -24,7 +24,11 @@ On doit le tout premier programme informatique à l’anglaise Ada Lovelace au X
 
     Un algorithme est une succession logique d'instruction permettant de résoudre un problème à partir d'informations dont on a besoin au départ. Il s'écrit dans un langage courant.
 
-    Les premiers
+    - Instruction : commande pour l’ordinateur. Assembler plusieurs commandes forme des algorithmes et des programmes informatiques
+    - Séquence d’instructions : Fait de mettre les commandes dans le bon ordre afin que les machines puissent lire les commandes
+    - Événement : Action qui déclenche une séquence d’instructions
+    - instruction itérative : structure qui permet d’exécuter la même séquence d’instructions plusieurs fois (boucle).
+    - Instruction conditionnelle : instruction qui s’exécute uniquement sous certaines conditions (événement).
 
 
 ## Séance 2 : Découverte de la programmation
@@ -42,13 +46,14 @@ On doit le tout premier programme informatique à l’anglaise Ada Lovelace au X
 
     La programmation consiste à traduire un algorithme en un programme exécutable par une machine.
 
-    Un programme est composé d’une ou plusieurs séquences d’instructions ayant un but défini. Il est écrit à l’aide d’un langage de programmation. 
+    Un programme est composé d’une ou plusieurs séquences d’instructions ayant un but défini. Il est écrit à l’aide d’un langage de programmation, il en existe de nombreux. 
 
-    - Instruction : commande pour l’ordinateur. Assembler plusieurs commandes forme des algorithmes et des programmes informatiques
-    - Séquence d’instructions : Fait de mettre les commandes dans le bon ordre afin que les machines puissent lire les commandes
-    - Événement : Action qui déclenche une séquence d’instructions
-    - instruction itérative : structure qui permet d’exécuter la même séquence d’instructions plusieurs fois (boucle).
-    - Instruction conditionnelle : instruction qui s’exécute uniquement sous certaines conditions (événement).
+    Pour programmer un système, il faut donner des instructions à ce système. Plusieurs étapes sont nécessaires : 
+    
+    - on rédige un algorithme, 
+    - que l’on traduit dans un langage de programmation 
+    - et on vérifie le comportement attendu du système.
+
 
 
 
@@ -67,11 +72,8 @@ On doit le tout premier programme informatique à l’anglaise Ada Lovelace au X
 
 
 ??? abstract "Bilan"
-    Pour programmer un système, il faut donner des instructions à ce système. Plusieurs étapes sont nécessaires : 
-    
-    - on rédige un algorithme, 
-    - que l’on traduit dans un langage de programmation 
-    - et on vérifie le comportement attendu du système.
+
+    Pour traduire un algorithme littéral sous la forme d'un schéma on utilse, un algorigramme.
 
     Un système embarqué est un système électronique et informatique autonome capable de réagir en temps réel et de réaliser des tâches précises (déplacements, préhension…).
 
@@ -81,10 +83,8 @@ On doit le tout premier programme informatique à l’anglaise Ada Lovelace au X
 
     Une interface établit la communication entre tous les composants du système programmable. Elle reçoit les informations des capteurs ou de l’être humain, effectue des traitements et envoie des ordres aux actionneurs.
 
-    Algorigramme : Schéma traduisant un algorithme littéral.
 
-
-## Séance 3 : Programmer un robot
+## Séance 4 : Programmer un robot
 
 En prévision d’un voyage sur Mars, les scientifiques ont développé des engins capables de les aider à explorer cette planète à la recherche de traces de vie microbienne en explorant le sol martien. La mission Mars Science Laboratory (MSL), avec à son bord le rover Curiosity, fut lancée le samedi 26 novembre par une fusée Atlas V depuis Cap Canaveral en Floride et atteignit la surface de Mars le 6 août 2012.
 
@@ -100,6 +100,6 @@ Pour préparer ces missions, des études sont menées en laboratoire. Le robot m
 
 
 
-## Séance 4 : Exercices 
+## Séance 5 : Exercices 
 
 [Activité Exercices de révision](../exosProg)
