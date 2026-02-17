@@ -1,4 +1,4 @@
-# Activité : Exercice d’application
+# Activité : Exercices d’application
 
 ## Exercice 1 : Matériaux présents dans un objet 
 
@@ -11,7 +11,7 @@
 
     1. Quel est le matériau le plus présent dans un écran plat ?
     2. Quel peut être l'impact écologique d'un écran plat ?
-    3. Il se vand plus de 5 écrans plats par seconde dans le monde, quelles peuvent être les solutions pour limiter l'impact écologique du marché des écrans plats sur les ressources de la Terre.
+    3. Il se vend plus de 5 écrans plats par seconde dans le monde, quelles peuvent être les solutions pour limiter l'impact écologique du marché des écrans plats sur les ressources de la Terre.
 
 
 **Document La composition d'un écran plat**
