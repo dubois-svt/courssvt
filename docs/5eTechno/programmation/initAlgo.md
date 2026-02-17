@@ -2,7 +2,7 @@
 
 !!! note "Compétences"
 
-    Utiliser l'outil numérique 
+    Appliquer les principes élémentaires de l’algorithmique et du codage à la résolution d’un problème simple.
 
 !!! warning "Consignes"
     
