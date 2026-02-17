@@ -5,7 +5,7 @@
 
     Interpréter 
 
-!!! note "Consigne"
+!!! warning "Consigne"
 
 	1. À partir des documents 1,2 et 3, explique le rôle du microbiote dans notre corps. Et explique si c'est un allié pour l'organisme qui l'héberge.
 	2. A partir du document 4, montre que le microbiote peut causer des problèmes de santé
