@@ -31,7 +31,7 @@ Par Laura Thouny, L’express, publié le 16/07/2010
     ![](pictures/echelleVivant.png)
 
 ??? abstract "Bilan"
-    === "De quoi parler dans le bilan ? Quels mots clés ?"
+    <a markdown id="bilan1">
 
     === "Bilan à trous"
 
@@ -56,7 +56,7 @@ Par Laura Thouny, L’express, publié le 16/07/2010
 
         Il existe beaucoup de micro-organismes différents. Certains sont utiles pour l’être humain, d’autres sont pathogènes (= responsable de maladies). 
 
-
+</a>
 
 ## Séance 2 Le microbiote.
 
@@ -68,7 +68,7 @@ Par Laura Thouny, L’express, publié le 16/07/2010
 
 
 ??? abstract "Bilan"
-    === "De quoi parler dans le bilan ? Quels mots clés ?"
+    <a markdown id="bilan2">
 
     === "Bilan à trous"
         La plupart des micro-organismes hébergés par l’être humain ne sont pas dangereux et contribuent à nous maintenir en bonne santé. L’ensemble de ces bactéries forme le ..................
@@ -89,6 +89,8 @@ Par Laura Thouny, L’express, publié le 16/07/2010
 
         Certaines bactéries du microbiote pourraient influencer notre comportement, notre mode d’alimentation.
 
+</a>
+
 ## Séance 3 : Limiter les risques de contamination
 
 !!! question "Problématique"
@@ -99,7 +101,7 @@ Par Laura Thouny, L’express, publié le 16/07/2010
 
 
 ??? abstract "Bilan"
-    === "De quoi parler dans le bilan ? Quels mots clés ?"
+    <a markdown id="bilan3">
 
     === "Bilan à trous"
 
@@ -128,6 +130,8 @@ Par Laura Thouny, L’express, publié le 16/07/2010
 
         Définition : muqueuses : ce sont des tissus recouvrant les parties intérieures du corps en contact avec l’extérieur.
 
+
+</a>
 ## Séance 4 : Les antibiotiques
 
 !!! question "Problématique"
@@ -140,7 +144,7 @@ Par Laura Thouny, L’express, publié le 16/07/2010
 
 
 ??? abstract "Bilan"
-    === "De quoi parler dans le bilan ? Quels mots clés ?"
+    <a markdown id="bilan4">
 
     === "Bilan à trous"
         Les antibiotiques sont donc un moyen efficace de lutter contre l’infection (multiplication des micro-organismes)
@@ -150,14 +154,14 @@ Par Laura Thouny, L’express, publié le 16/07/2010
         Une mauvaise utilisation des antibiotiques peut entraîner une résistance des ................... aux antibiotiques, ceux-ci peuvent donc devenir moins efficaces. 
         De plus ces antibiotiques peuvent ................. le microbiote intestinal de l’être humain et donc entraîner des ..........
 
-    === "Bilan à trous"
+    === "Bilan"
         Les antibiotiques sont donc un moyen efficace de lutter contre l’infection (multiplication des micro-organismes)
         Les antibiotiques sont des substances qui permettent l’élimination des bactéries. 
         Les antibiotiques n’ont aucun effet sur les virus.
         
         Une mauvaise utilisation des antibiotiques peut entraîner une résistance des bactéries aux antibiotiques, ceux-ci peuvent donc devenir moins efficaces. 
         De plus ces antibiotiques peuvent tuer le microbiote intestinal de l’être humain et donc entraîner des maladies.
-
+</a>
 
 ??? abstract "Infos Supplémentaires"
 
