@@ -96,6 +96,13 @@
 
     ![](Pictures/enqueteVolEcoute.png)
 
+## Séance 4 : Conduites addictives et système nerveux
+
+!!! question "Problématique"
+
+    Quels sont les effets de nos conduites addictes sur notre système nerveux ?
+
+
 
 [Activité Les conduites addictives](../addictions)
 
