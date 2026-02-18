@@ -90,11 +90,11 @@
 
     Réduire le volume du casque, s'éloigner des enceintes lors d'un concert et mettre des bouchons auditifs permet de réduire les risques de lésions de l'oreille et donc de perte d'audition.
 </a>
-    Document 4 : habitudes d'écoute chez les 12-17 ans.
-    Une enquête Bruitparif, réalisée en 2015-2016 sur 1178 élèves d'Île-de-France de 12 à 17 ans, a permis de mettre en évidence différents profils d'utilisateurs, et notamment des utilisateurs qui cumulent les pratiques à risque pour l'audition. Chaque point correspond à un individu sondé.
 
+Document 4 : habitudes d'écoute chez les 12-17 ans.
+Une enquête Bruitparif, réalisée en 2015-2016 sur 1178 élèves d'Île-de-France de 12 à 17 ans, a permis de mettre en évidence différents profils d'utilisateurs, et notamment des utilisateurs qui cumulent les pratiques à risque pour l'audition. Chaque point correspond à un individu sondé.
 
-    ![](Pictures/enqueteVolEcoute.png)
+![](Pictures/enqueteVolEcoute.png)
 
 ## Séance 4 : Conduites addictives et système nerveux
 
