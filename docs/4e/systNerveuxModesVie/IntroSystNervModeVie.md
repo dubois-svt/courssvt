@@ -100,7 +100,7 @@ Une enquête Bruitparif, réalisée en 2015-2016 sur 1178 élèves d'Île-de-Fra
 
 !!! question "Problématique"
 
-    Quels sont les effets de nos conduites addictes sur notre système nerveux ?
+    Quels sont les effets de nos conduites addictives sur notre système nerveux ?
 
 
 
