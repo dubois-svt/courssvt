@@ -58,10 +58,10 @@
     Toutes les étapes du cycle de vie d’un objet ont des impacts environnementaux  et sociétaux négatifs.
     
 
-    Plusieurs possibilités pour réduire l'impact sur notre environnement des matériaux d'un objet arrivant en fin de vie :
+    Plusieurs possibilités pour réduire l'impact sur notre environnement des OST :
     
     - la recyclage du matériau, 
-    - la rétuilisation des composants et 
+    - la réutilisation des composants et 
     - la valorisation énergétique.
 
 
