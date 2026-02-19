@@ -91,21 +91,11 @@
     
     <a id="bilan2">
 
-
-
-    L'énergie peut être exploitée par des objets techniques sous différentes formes.
-
-
-    Ces différentes formes d'énergies permettent de produire l'électricité, que les objets techniques peuvent utiliser à partir du courant du secteur ou d'une batterie.
+    Les différentes formes d'énergies permettent de produire l'électricité, que les objets techniques peuvent utiliser à partir du courant du secteur ou d'une batterie.
 
     Parmi les sources d'énergie présentes dans notre environnement, certaines sont renouvelables (inépuissable) (vent, soleil, mouvement de l'eau ...) et d'autres non (gaz, charbon, pétrole, uranium)
 
-    Différents objets peuvent répondre au besoin d'un utilisateur.
-
-    Les matériaux composnt les objets sont une source importante de pollution, le choix de matériau moins polluants pour les OST permet aussi de réduire les impacts.
-
-
-    Il est dont amené à faire un choix en fonction de critères qui précisent ses attentes. Ils peuvent être liés au prix, à la couleur, aux matériaux, à l'énergie, aux performances techniques de l'objet, ...
+    Les matériaux composent les objets sont une source importante de pollution, le choix de matériau moins polluants pour les OST permet aussi de réduire les impacts.
     Certains indices aident à faire ce choix (classe énergétique et indice de durabilité ou de réparabilité)
 
 
