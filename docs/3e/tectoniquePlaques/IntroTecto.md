@@ -28,7 +28,7 @@
 
 ??? abstract "Bilan"
 
-<a markdown id="bilan1">
+    <a markdown id="bilan1">
 
     La surface rocheuse de la Terre est nommée lithosphère. Cette lithosphère est rigide et découpée en plaques appelées plaques lithosphériques (ou plaques tectoniques).
     
@@ -37,7 +37,8 @@
     La lithosphère se situe sur l’asthénosphère, milieu contenant des roches moins rigides que celles de la lithosphère. 
     
     Les roches de la lithosphère et de l’asthénosphère sont solides.
-</a>
+    
+    </a>
 
 ??? abstract "Infos Supplémentaires"
 
@@ -66,7 +67,7 @@
     
 ??? abstract "Bilan"
 
-<a markdown id="bilan2">
+    <a markdown id="bilan2">
 
     Les plaques lithosphériques sont en mouvements les unes par rapport aux autres
 
@@ -76,7 +77,7 @@
     - convergentes (où elles se rapprochent) 
     - et transformantes (où elles coulissent horizontalement l'une par rapport à l'autre).
 
-</a>
+    </a>
 
 ## Séance 3 : Histoire des sciences et tectoniques des plaques
 
@@ -91,7 +92,7 @@
 
 ??? abstract "Bilan"
 
-<a markdown id="bilan3">
+    <a markdown id="bilan3">
     
     La théorie de la tectonique des plaques a été émise à la fin des années 1960 grâce à de meilleures connaissances de la surface de la Terre. Cette théorie est issue de la théorie de la dérive des continents élaborée par Wegener au début du 20e siècle.
     Cette théorie explique que les plaques lithosphériques sont en mouvements les unes par rapport aux autres (pas seulement les continents) et que les volcans et les séismes sont dus aux déplacements de ces plaques lithosphériques.
@@ -102,4 +103,4 @@
 
     ![](Pictures/schemaDiffTectoWegener.png)
     
-</a>
+    </a>
