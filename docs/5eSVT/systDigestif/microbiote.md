@@ -62,12 +62,55 @@ Extrait du livre "Le charme discret de l'intestin" (Giulia Enders, éditions Act
 
 
 
+## Version allégée
+
+Consigne 1 : Lis le document 1 et réponds aux questions :
+
+Où vivent ces microbes ? ⬜ Dans l'estomac ⬜ Dans les intestins ⬜ Dans la bouche
+Combien pèsent-ils environ ? ⬜ 200 grammes ⬜ 2 kilogrammes ⬜ 10 kilogrammes
+Comment nomme-t-on l'ensemble des microbes du tube digestif ? ____________________
+
+Consigne 2 : Lis le document 2 et réponds aux questions :
+D'où viennent principalement les enzymes digestives de notre corps : ⬜  bactéries    ⬜ humain
+
+Complète les phrases avec les mots suivants : aident – digérer – nutriments
+
+1. Sans les bactéries, notre corps n'arrive pas à tout ____________.
+2. Les bactéries nous ____________ à transformer la nourriture.
+3. Grâce à elles, notre corps reçoit des ____________.
+
+Conclusion : Le microbiote est-il un ami (allié) ou un ennemi pour nous ? 
+⬜ C'est un ami, il nous aide. ⬜ C'est un ennemi, il nous embête.
+
+
+Consigne 3 : 
+
+
+Consigne 4 : Lis le document 4 et réponds aux questions.
+
+    Problème 1 : Elles mangent beaucoup plus (30% de plus) mais digèrent mal.
+    Problème 2 : Leurs intestins sont mal formés (tout petits, sans villosités).
+
+Ensuite, ils ont donné des bactéries à ces souris :
+
+    Si on donne des bactéries de souris diabétiques ➡️ Les souris ont des problèmes de sucre.
+    Si on donne des bactéries de souris en surpoids ➡️ Les souris grossissent trop.
+
+Relie chaque situation à sa conséquence :
+| Si la souris reçoit des bactéries de...  | 	...alors elle...|
+| 🔴 Un animal diabétique | 	⬪ Grossit trop (surpoids) |
+| 🟠 Un animal en surpoids | 	⬪ A des problèmes de sucre | 
+| ⚪ Aucun animal (souris stérile)	|  ⬪ Digère mal et a un petit intestin |
 
 
 
+Consigne 5 : Je résume (Bilan)
 
+Coche les cases vraies :
 
+    ⬜ Le microbiote est composé de virus dangereux.
+    ⬜ Le microbiote aide à la digestion.
+    ⬜ Un microbiote différent peut rendre malade (diabète, obésité).
+    ⬜ Nous avons seulement 10 microbes dans le ventre.
 
-
-
-
+Phrase à compléter pour finir : Le microbiote est un ____________ (allié / ennemi) car il nous aide à ____________. Mais si les bactéries ne sont pas les bonnes, cela peut causer des ____________ (maladies / cadeaux).
