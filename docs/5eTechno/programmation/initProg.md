@@ -19,17 +19,14 @@
 
 1. Programmer avec Angry Birds
 2. Le Débogage dans le Labyrinthe
-3. Faire de l'Art avec le Code
-	
+
 
 ### Boucles
 
 1.  Les Boucles avec Rey et BB-8	
 2.  Les Boucles Imbriquées dans Labyrinthe
-3.  Les Flocons de Neige avec Anna et Elsa
 	
 ### Instructions conditionnelles
 
 1.  « Si/Sinon » avec l'Abeille
-2.  Anticiper l'avenir avec Minecraft
-3.  Récolter avec les Conditions
+2.  Récolter avec les Conditions
