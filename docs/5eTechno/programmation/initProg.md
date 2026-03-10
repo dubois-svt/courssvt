@@ -5,7 +5,7 @@
     Utiliser l'outil numérique 
 
 !!! warning "Consignes"
-    Se connecter sur le site [studio.code.org](studio.code.org) à l'aide des informations distribuées et réaliser les parcours proposés.
+    Se connecter sur le site [studio.code.org](https://studio.code.org) à l'aide des informations distribuées et réaliser les parcours proposés.
 
 
 ??? bug "Critères de réussite"
