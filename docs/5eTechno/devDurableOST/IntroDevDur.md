@@ -95,7 +95,7 @@
 
     Parmi les sources d'énergie présentes dans notre environnement, certaines sont renouvelables (inépuissable) (vent, soleil, mouvement de l'eau ...) et d'autres non (gaz, charbon, pétrole, uranium)
 
-    Les matériaux composent les objets sont une source importante de pollution, le choix de matériau moins polluants pour les OST permet aussi de réduire les impacts.
+    Les matériaux qui composent les objets sont une source importante de pollution, le choix de matériau moins polluants pour les OST permet aussi de réduire les impacts.
     Certains indices aident à faire ce choix (classe énergétique et indice de durabilité ou de réparabilité)
 
 
