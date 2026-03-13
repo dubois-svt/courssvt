@@ -22,6 +22,8 @@ On doit le tout premier programme informatique à l’anglaise Ada Lovelace au X
 
 ??? abstract "Bilan"
 
+    <a markdown id="bilan1">
+
     Un algorithme est une succession logique d'instruction permettant de résoudre un problème à partir d'informations dont on a besoin au départ. Il s'écrit dans un langage courant.
 
     - Instruction : commande pour l’ordinateur. Assembler plusieurs commandes forme des algorithmes et des programmes informatiques
@@ -30,6 +32,7 @@ On doit le tout premier programme informatique à l’anglaise Ada Lovelace au X
     - instruction itérative : structure qui permet d’exécuter la même séquence d’instructions plusieurs fois (boucle).
     - Instruction conditionnelle : instruction qui s’exécute uniquement sous certaines conditions (événement).
 
+    </a>
 
 ## Séance 2 : Découverte de la programmation
 
@@ -44,6 +47,8 @@ On doit le tout premier programme informatique à l’anglaise Ada Lovelace au X
 
 ??? abstract "Bilan"
 
+    <a markdown id="bilan2">
+
     La programmation consiste à traduire un algorithme en un programme exécutable par une machine.
 
     Un programme est composé d’une ou plusieurs séquences d’instructions ayant un but défini. Il est écrit à l’aide d’un langage de programmation, il en existe de nombreux. 
@@ -54,7 +59,7 @@ On doit le tout premier programme informatique à l’anglaise Ada Lovelace au X
     - que l’on traduit dans un langage de programmation 
     - et on vérifie le comportement attendu du système.
 
-
+    </a>
 
 
 
@@ -73,6 +78,8 @@ On doit le tout premier programme informatique à l’anglaise Ada Lovelace au X
 
 ??? abstract "Bilan"
 
+    <a markdown id="bilan3">
+
     Pour traduire un algorithme littéral sous la forme d'un schéma on utilse, un algorigramme.
 
     Un système embarqué est un système électronique et informatique autonome capable de réagir en temps réel et de réaliser des tâches précises (déplacements, préhension…).
@@ -83,7 +90,8 @@ On doit le tout premier programme informatique à l’anglaise Ada Lovelace au X
 
     Une interface établit la communication entre tous les composants du système programmable. Elle reçoit les informations des capteurs ou de l’être humain, effectue des traitements et envoie des ordres aux actionneurs.
 
-
+    </a>
+    
 ## Séance 4 : Programmer un robot
 
 En prévision d’un voyage sur Mars, les scientifiques ont développé des engins capables de les aider à explorer cette planète à la recherche de traces de vie microbienne en explorant le sol martien. La mission Mars Science Laboratory (MSL), avec à son bord le rover Curiosity, fut lancée le samedi 26 novembre par une fusée Atlas V depuis Cap Canaveral en Floride et atteignit la surface de Mars le 6 août 2012.
