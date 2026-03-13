@@ -26,12 +26,8 @@ Voici vingt poules qui n'ont jamais subi les atteintes de la maladie; je les ino
 
 ??? note-prof
 
-    1. Les poules B ont reçu, avant une culture vieillie de choléra.
-    Cette culture vieillie n'est pas mortelle, mais leur système immunitaire a donc rencontré l'antigène du choléra et a développer des lympohyctes et des anticorps contre cette bactéries.
-    Lors de la seconde injection, de culture jeune et mortelle, le système immunitaire avait déja rencontrré l'antigène et avaient donc des lymphocytes mémoires spécifique à cet antigène. La réponse immunitaire a donc été plus rapide et efficace, les poules ont donc pu guérir avant de mourir.
-
+    1. Les poules B ont reçu, avant une culture vieillie de choléra. Cette culture vieillie n’est pas mortelle, mais leur système immunitaire a donc rencontré l’antigène du choléra et a développé des lymphocytes et des anticorps contre cette bactérie. Lors de la seconde injection, de culture jeune et mortelle, le système immunitaire avait déjà rencontré l’antigène et avaient donc des lymphocytes mémoires spécifique à cet antigène. La réponse immunitaire a donc été plus rapide et efficace, les poules ont donc pu guérir avant de mourir.
     2. Cette méthode médicale a permis la découverte de la vaccination.
+    3. Les poules C ont développé comme les poules B une mémoire immunitaire spécifique au choléra. Mais elles ont eu une injection d’une autre bactérie mortelle, avec d’autres antigènes. La mémoire immunitaire étant spécifique, elle ne va pas être utilisée contre cette autre bactérie. Les poules vont donc mourir.
 
-    3. Les poules C ont développé comme les poules B une mémoire immunitaire spécifique au choléra. Mais elles ont eu une injection d'une autre bacétire mortelle, avec d'autres antigène. 
-    La mémoire immunitaire étant spécifique, elle ne va pas être utilisé contre cette autre bactérie. Les poules vont donc mourir.
     
