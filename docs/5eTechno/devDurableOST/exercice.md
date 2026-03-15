@@ -1,6 +1,25 @@
 # Activité : Exercices d’application
 
-## Exercice 1 : Matériaux présents dans un objet 
+## Exercice 1
+
+!!! note "Compétences"
+
+    Trouver et utiliser des informations 
+
+!!! warning "Consignes"
+    classer dans l’ordre chronologique, les étapes du cycle de vie d’un OST
+
+
+__ Les études des attentes des consommateurs
+__ Le recyclage
+__ la fabrication en grande quantité
+__ l’achat de matières premières aux fournisseurs
+__ la vente aux consommateurs
+__ la réalisation de prototype
+__ l’utilisation de l’objet à proprement parler
+
+
+## Exercice 2 : Matériaux présents dans un objet 
 
 
 !!! note "Compétences"
@@ -19,7 +38,7 @@
 ![](pictures/compoEcranPlat.png)
 
 
-## Exercice 2 : Choix d'une tondeuse autonome
+## Exercice 3 : Choix d'une tondeuse autonome
 
 
 !!! note "Compétences"
