@@ -29,7 +29,7 @@
 
 ![](Pictures/carteAgeFondsOceans.png)
 
-Des forages permettent de connaitre l'âge des plus **anciens basaltes** et des plus **jeunes basaltes**
+Des forages permettent de connaitre l'âge de la **croûte océanique**, des plus **anciens basaltes** et des plus **jeunes basaltes**
 
 
 **Document 2 : Le volcanisme des dorsales**
