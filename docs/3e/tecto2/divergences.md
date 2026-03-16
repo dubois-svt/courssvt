@@ -55,6 +55,4 @@ Les mouvements de **divergence** entraînent une **remontée de roches mantelliq
 
 **Document 4 ...................................**
 
-![](Pictures/etapesDivergences.png)
-
-![](image.png)
+![](Pictures/etapesDivergences_NB.png)
