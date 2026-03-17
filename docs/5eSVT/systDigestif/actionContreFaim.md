@@ -5,9 +5,9 @@
     Interpréter 
 
 !!! warning "Consignes"
-
-    1. À partir des documents, expliquer quel type de constituants alimentaires il est nécessaire d’apporter  pour lutter contre le kwashiorkor. 
-    2. Parmi les aliments proposés, lequel faut-il apporter en priorité, justifier.
+    1. Quels sont les différents types de constituants alimentaires. 
+    2. À partir des documents, expliquer quel type de constituants alimentaires il est nécessaire d’apporter  pour lutter contre le kwashiorkor. 
+    3. Parmi les aliments proposés, lequel peut-on facilement apporté en priorité, justifier.
 
 
     
@@ -49,10 +49,11 @@ Les étiquettes des produits alimentaires donnent la composition des aliments. I
 Le kwashiorkor est une maladie qui touche chaque année des millions d’enfants en Afrique. 
 
 Cette maladie provoque : 
-    • un rougissement de la peau
-    • une diminution de la masse musculaire
-    • un gonflement des membres inférieurs et de l’abdomen
-    • une augmentation du volume du foie.
+
+- un rougissement de la peau
+- une diminution de la masse musculaire
+- un gonflement des membres inférieurs et de l’abdomen
+- une augmentation du volume du foie.
 
 Le kwashiorkor est une maladie causée par une carence* en protéines (l’alimentation n’apportant pas les 60 grammes recommandés par jour).
 
@@ -116,6 +117,55 @@ Le kwashiorkor est une maladie causée par une carence* en protéines (l’alime
     <td> 0,2 g </td>
     <td> 24 g </td>
     <td> 1 g </td>
+
+  </tr>
+</tbody>
+</table>
+
+**Document 4  Conditions de conservation**
+
+
+
+
+<table>
+<thead>
+  <tr>
+    <th> Aliments </th>
+    <th> Temps </th>
+    <th> Température </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td> Pommes </td>
+    <td> 6 semaines (ou 2 semaines) </td>
+    <td> 4°C (ou 20°C) </td>
+
+  </tr>
+  <tr>
+    <td>Pâtes </td>
+    <td> 20 ans </td>
+    <td> 20°C </td>
+
+
+  </tr>
+  <tr>
+    <td> Lentilles </td>
+    <td> 2 à 3 ans </td>
+    <td> 20°C </td>
+
+  </tr>
+  <tr>
+    <td> Petits Pois </td>
+    <td> 3 jours </td>
+    <td> 4°C </td>
+
+
+  </tr>
+  <tr>
+    <td> Poulet </td>
+    <td> 3 jours </td>
+    <td> 4°C </td>
 
   </tr>
 </tbody>
