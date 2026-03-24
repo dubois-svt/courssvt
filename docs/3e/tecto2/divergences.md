@@ -44,14 +44,14 @@ Des forages permettent de connaitre l'âge de la **croûte océanique**, des plu
 
 <div markdown style="display:flex; flex-direction:column; flex: 2 1 0;">
 
-Une grande part de l’activité volcanique terrestre provient des dorsales. C’est un volcanisme effusif. Les volcans des dorsales émettent une lave fluide à une température comprise entre 1 000 °C et 1 200 °C. En se refroidissant, la **lave** forme des grosses boules de roche, du basalte, qui s’empilent les unes sur les autres. Ces roches sont appelées des pillow-lavas (lave en coussins). Ce magma, en refroidissant, est à l’origine de la partie superficielle de la **lithosphère océanique** qui est composée de la croûte et du **manteau lithosphérique**.
+Une grande part de l’activité volcanique terrestre provient des dorsales. C’est un volcanisme effusif. Les volcans des dorsales émettent une lave fluide à une température comprise entre 1 000 °C et 1 200 °C. En se refroidissant, la lave forme des grosses boules de roche, du basalte, qui s’empilent les unes sur les autres. Ces roches sont appelées des pillow-lavas (lave en coussins). Ce magma, en refroidissant, est à l’origine de la partie superficielle de la **lithosphère océanique** qui est composée de la croûte et du **manteau lithosphérique**.
 
 </div>
 </div>
 
 **Document 3 Le fonctionnement d’une dorsale océanique**
 
-Les mouvements de **divergence** entraînent une **remontée de roches mantelliques chaudes** dans l'**asthénosphère**. L'accumulation de chaleur provoque la **fusion de roches de la lithosphère** et une remontée de magma à l’axe de la **dorsale océanique**.
+Les mouvements de **divergence** entraînent une **remontée de roches chaudes** dans l'**asthénosphère**. L'accumulation de chaleur provoque la **fusion de roches** de la lithosphère et une remontée de magma à l’axe de la **dorsale océanique**.
 
 **Document 4 ...................................**
 
