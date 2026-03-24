@@ -26,6 +26,9 @@
 
 
 ??? abstract "Bilan"
+
+    <a markdown id="bilan1">
+    
     ![](Pictures/schemaDynDorsale.png)
 
     Les mouvements de divergence entre deux plaques lithosphériques ayant lieu au niveau des dorsales océaniques permettent la formation de lithosphère océanique. Cette limite est caractérisée par un volcanisme effusif.
@@ -33,6 +36,8 @@
     Au sein d’une plaque continentale, ces mouvements sont à l’origine de rifts continentaux, qui pourront former une dorsale plus tard.
 
     <iframe title="Tectonique Accrétion Océanique" width="560" height="315" src="https://tube-sciences-technologies.apps.education.fr/videos/embed/8987a03a-ad92-4547-89c3-ac5680dc30d2" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+
+    </a>
 
 ## Séance 2 : Les convergences
 
@@ -47,6 +52,8 @@
 [Activité La collision](../collision)
 
 ??? abstract "Bilan"
+
+    <a markdown id="bilan2">
 
     La convergence de deux plaques lithosphériques dont l’une est océanique, entraîne le plongement (subduction) de la plaque océanique sous l’autre plaque, au niveau d’une fosse océanique Cette limite est caractérisée par un volcanisme explosif.
 
@@ -63,6 +70,8 @@
 
     <iframe title="Tectonique Collision" width="560" height="315" src="https://tube-sciences-technologies.apps.education.fr/videos/embed/586b36fb-a90a-44c8-b5bd-d22d365e585b" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 
+    </a>
+    
 ## Séance 3 : Le moteur de la tectonique des plaques
 
 
@@ -73,6 +82,8 @@
 [Activité Le moteur des mouvements](../moteurTecto)
 
 ??? abstract "Bilan"
+
+    <a markdown id="bilan3">
 
     Il existe des différences de températures entre les roches présente à l’intérieur de la Terre.
 
@@ -88,3 +99,5 @@
     Ces mouvements, principalement les mouvements descendant au niveau des zones de subduction, provoquent des mouvements des plaques lithosphériques.
 
     <iframe title="Tectonique des Plaques" width="560" height="315" src="https://tube-sciences-technologies.apps.education.fr/videos/embed/b9e4c94c-bc5f-4849-9f63-e48b82554e56" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+
+    </a>
