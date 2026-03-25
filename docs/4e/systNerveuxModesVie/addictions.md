@@ -11,6 +11,7 @@
 ??? bug "Critères de réussite"
 
 **Document 1 L'expérience d'Olds et Milner.**
+
 ![](Pictures/schemaExpDopamine.png)
 En 1954, James Olds et Peter Milner mènent des recherches sur le cerveau des rats. Ils stimulent par des électrodes électriques le centre nerveux de la vigilance, dans l'hypothalamus. Tous les rats évitent alors certains coins de leur cage, associés à des stimulations électriques.
 
