@@ -12,7 +12,7 @@
 
 **Document 1 L'expérience d'Olds et Milner.**
 
-![](Pictures/schemaExpDopamine.png)
+![](Pictures/schemaExpDopamine.png){: style="width:400px; float:right" }
 En 1954, James Olds et Peter Milner mènent des recherches sur le cerveau des rats. Ils stimulent par des électrodes électriques le centre nerveux de la vigilance, dans l'hypothalamus. Tous les rats évitent alors certains coins de leur cage, associés à des stimulations électriques.
 
 Cependant, un rat fait d'exception : contrairement aux autres, il semble rechercher la stimulation et se place là où les chocs électriques sont envoyés ! Lors de la dissection de l'animal, Olds découvre que l'électrode n'était pas implantée dans l'hypothalamus, mais dans une zone voisine, le circuit de la récompense.
