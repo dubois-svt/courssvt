@@ -18,26 +18,13 @@ En 1954, James Olds et Peter Milner mènent des recherches sur le cerveau des ra
 Cependant, un rat fait d'exception : contrairement aux autres, il semble rechercher la stimulation et se place là où les chocs électriques sont envoyés ! Lors de la dissection de l'animal, Olds découvre que l'électrode n'était pas implantée dans l'hypothalamus, mais dans une zone voisine, le circuit de la récompense.
 
 Le rat s'auto-stimulait sans arrêt, ne prenant même plus le temps de manger ou de dormir correctement. Cette auto-stimulation se faisait même si le choc électrique étourdissait le rat. L'animal en a oublié ses besoins fondamentaux. 
-<div markdown style="display:flex; flex-direction: row;">
-<div markdown style="display:flex; flex: 1 1 0; flex-direction: column;">
-
-
-
-</div>
-<div markdown style="display:flex; flex: 2 1 0;  flex-direction: column;">
-
-
-
-</div>
-</div>
-
 
 **Document 2 Les aires cérébrales du « circuit de la récompense ».**
 
 <div markdown style="display:flex; flex-direction: row;">
 <div markdown style="display:flex; flex: 1 1 0; flex-direction: column;">
 
-![](Pictures/zoneCircuitRecompense.png)
+![](Pictures/zoneCircuitRecompense.png){: style="width:400px;}
 
 </div>
 <div markdown style="display:flex; flex: 1 1 0; flex-direction: column;">
@@ -51,7 +38,7 @@ Ces structures interagissent grâce à des messagers chimiques comme la dopamine
 
 **Document 3 L'activité des neurones du circuit de la récompense.**
 
-![](Pictures/graphActiviteNeuronesCircuitRecompense.png)
+![](Pictures/graphActiviteNeuronesCircuitRecompense.png){: style="width:400px; }
 
 **Document 4 : émission Dopamine d'Arte**
 
