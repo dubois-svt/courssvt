@@ -7,8 +7,9 @@
 
 !!! warning "Consignes"
 
-    1. Dessiner le parcours correspondant au programme du document 5. On prendra une échelle de 10 pas pour 1 mm
-    2. Compléter l'algorigramme du document 6
+    1. Relier la fonction technique de l’objet étudié avec la solution technique retenue dans le document 4
+    2. Dessiner le parcours correspondant au programme du document 5. On prendra une échelle de 10 pas pour 1 mm
+    3. Compléter l'algorigramme du document 6
 
 ??? bug "Critères de réussite"
     - 
@@ -41,24 +42,6 @@ Le déplacement du robot est assuré par deux moteurs à courant continu. Ils tr
 <div markdown style="display:flex; flex-direction: row;">
 
 <div markdown style="display:flex; flex-direction: column;">
-    
-**Document 4 Exemple de programme**
-
-![](pictures/programmeRobotAspi.png){: style="width:300px;"}
-
-</div>
-<div markdown style="display:flex; flex-direction: column;">
-
-**Document 5 Algorigramme du robot aspirateur**
-
-![](pictures/algorigrammeRobotAspi.png){: style="width:400px;"}
-
-</div>
-</div>
-
-
-??? note-prof "consigne supplémentaire"
-
 
     **Document 4 Solutions techniques adoptées**
     
@@ -115,5 +98,21 @@ Le déplacement du robot est assuré par deux moteurs à courant continu. Ils tr
     </tbody>
 </table>
 
-    1. Relier la fonction technique de l’objet étudié avec la solution technique retenue dans le document 4
+
+
+**Document 5 Exemple de programme**
+
+![](pictures/programmeRobotAspi.png){: style="width:300px;"}
+
+</div>
+<div markdown style="display:flex; flex-direction: column;">
+
+**Document 6 Algorigramme du robot aspirateur**
+
+![](pictures/algorigrammeRobotAspi.png){: style="width:400px;"}
+
+</div>
+</div>
+
+
 
