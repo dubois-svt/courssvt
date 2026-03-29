@@ -379,3 +379,17 @@ Les lampes à diodes électroluminescentes (DEL) équipent plus souvent les nouv
 
 
     
+
+## Exercice 5 Choix d’un robot serveur hachette p44 (3,5 points)
+Un restaurant cherche une idée novatrice pour fidéliser ses clients. Sa clientèle étant principalement constituée de familles, il décide de se renseigner sur l’intégration d’un robot serveur permettant de pouvoir servir directement à table.
+
+
+Besoin
+Le robot serveur doit pouvoir permettre de servir au moins 3 enfants en même temps
+LE robot doit être amusant pour ne pas effrayer les enfants
+
+
+!!! warning "Consignes"
+    1. PArmi les trois propositions de robot serveur ci-dessus, pour répondre aux deux besoins?
+    2. Sachant qu’un plateau de repas pour enfant pèse environ 1,5 kg, quelles solutions pourraient être appropriées ?
+    3. Sachant qu’un service de restauration dure environ 2 h le midi et 3,5 h le soir, quelle solution permettraient de recharger le robot tous les deux jours en fin de service sans prendre de risque ? 
