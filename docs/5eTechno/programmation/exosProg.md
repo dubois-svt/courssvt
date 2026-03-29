@@ -20,7 +20,9 @@
 
 <div markdown style="display:flex; flex: 1 1 0;flex-direction: column;">
 
+
 ![](pictures/exo1programme.png)
+
 </div>
 
 <div markdown style="display:flex;  flex:1 1 0;flex-direction: column;">
