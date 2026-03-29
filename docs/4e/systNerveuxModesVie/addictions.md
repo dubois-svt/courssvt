@@ -6,7 +6,7 @@
 
 !!! warning "Consignes"
 
-    À partir des documents et de la vidéo, expliquer comment nous pouvons développer des addictions en utilisant certaines applications.
+    À partir des documents et de la vidéo, expliquer comment nous pouvons développer des addictions avec certaines activités.
 
 ??? bug "Critères de réussite"
 
