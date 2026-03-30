@@ -39,11 +39,9 @@ Le déplacement du robot est assuré par deux moteurs à courant continu. Ils tr
 ![](pictures/interieurRobotAspi.png){: style="width:600px;"}
 
 
-<div markdown style="display:flex; flex-direction: row;">
 
-<div markdown style="display:flex; flex-direction: column;">
 
-    **Document 4 Solutions techniques adoptées**
+**Document 4 Solutions techniques adoptées**
     
     <table>
     <thead>
@@ -98,7 +96,9 @@ Le déplacement du robot est assuré par deux moteurs à courant continu. Ils tr
     </tbody>
 </table>
 
+<div markdown style="display:flex; flex-direction: row;">
 
+<div markdown style="display:flex; flex-direction: column;">
 
 **Document 5 Exemple de programme**
 
