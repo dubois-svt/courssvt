@@ -43,13 +43,13 @@ Le déplacement du robot est assuré par deux moteurs à courant continu. Ils tr
 
 **Document 4 Solutions techniques adoptées**
     
-    <table>
-    <thead>
-      <tr>
-        <th colspan="2"> Fonction technique </th>
-        <th colspan="2"> Solution technique </th>
-      </tr>
-    </thead>
+<table>
+<thead>
+<tr>
+<th colspan="2"> Fonction technique </th>
+<th colspan="2"> Solution technique </th>
+</tr>
+</thead>
     <tbody>
       <tr>
         <td> 			Se déplacer </td>
