@@ -182,7 +182,7 @@ On veut vérifier que le microbiote est un allié pour l'organisme qui l'héberg
 
         Les aliments doivent combler nos besoins en ____________________. Pour arriver à l’équilibre alimentaire, les apports énergétiques (= apports quantitatifs) d’un repas doivent être équivalents aux besoins énergétiques de notre corps.
 
-        Le surpoids puis l’obésité se développent lorsque les apports énergétiques sont supérieurs aux besoins d’une personne. Cette augmentation a pour conséquence une augmentation du risque de diabète ou de maladies cardiovasculaires.
+        Le surpoids puis l’obésité se développe lorsque les apports énergétiques sont supérieurs aux besoins d’une personne. Cette augmentation a pour conséquence une augmentation du risque de diabète ou de maladies cardiovasculaires.
 
         Les aliments doivent apporter tous les nutriments nécessaires au fonctionnement de notre organisme (= apports qualitatifs). Lorsqu’un nutriment n’est pas apporté en quantité suffisante, on parle de ________________. Les carences peuvent provoquer des maladies graves.
 
@@ -192,7 +192,7 @@ On veut vérifier que le microbiote est un allié pour l'organisme qui l'héberg
 
         Les aliments doivent combler nos besoins en énergie. Pour arriver à l’équilibre alimentaire, les apports énergétiques (= apports quantitatifs) d’un repas doivent être équivalents aux besoins énergétiques de notre corps.
 
-        Le surpoids puis l’obésité se développent lorsque les apports énergétiques sont supérieurs aux besoins d’une personne. Cette augmentation a pour conséquence une augmentation du risque de diabète ou de maladies cardiovasculaires.
+        Le surpoids puis l’obésité se développe lorsque les apports énergétiques sont supérieurs aux besoins d’une personne. Cette augmentation a pour conséquence une augmentation du risque de diabète ou de maladies cardiovasculaires.
 
         Les aliments doivent apporter tous les nutriments nécessaires au fonctionnement de notre organisme (= apports qualitatifs). Lorsqu’un nutriment n’est pas apporté en quantité suffisante, on parle de carence. Les carences peuvent provoquer des maladies graves.
 
