@@ -13,18 +13,25 @@
 ??? bug "Critères de réussite"
     - 
 
+<div markdown style="display: flex; flex-direction:row" > 
 
+<div markdown style="display: flex; flex-direction:column" > 
 
 **Document 1 Coulée de lave du Kilauea (Hawaï) en 1983**
 
 ![](pictures/eruptionKilauea.png)
 
+</div>
+<div markdown style="display: flex; flex-direction:column" > 
 
 **Document 2 Récolte de maïs détruite lors de la dernière éruption du Merapi (Indonésie)**
 
 Les cultures sont nombreuses aux abords du Merapi: les terres y sont peu chères à cause du danger, et fertiles, grâce aux cendres volcaniques qui s'y déposent
 
 ![](pictures/eruptionMerapi.png)
+
+</div>
+</div>
 
 **Document 3 Carte des aléas volcaniques et des systèmes de surveillances et de protection autour du Merapi**
 
