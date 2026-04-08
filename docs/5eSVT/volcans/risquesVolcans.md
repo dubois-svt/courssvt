@@ -13,16 +13,16 @@
 ??? bug "Critères de réussite"
     - 
 
-<div markdown style="display: flex; flex-direction:row" > 
+<div markdown style="display: flex; flex-direction:row flex: 1 1 0;" > 
 
-<div markdown style="display: flex; flex-direction:column" > 
+<div markdown style="display: flex; flex-direction:column; flex: 1 1 0;" > 
 
 **Document 1 Coulée de lave du Kilauea (Hawaï) en 1983**
 
 ![](pictures/eruptionKilauea.png)
 
 </div>
-<div markdown style="display: flex; flex-direction:column" > 
+<div markdown style="display: flex; flex-direction:column; flex: 1 1 0;" > 
 
 **Document 2 Récolte de maïs détruite lors de la dernière éruption du Merapi (Indonésie)**
 
