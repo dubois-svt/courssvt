@@ -7,7 +7,7 @@
 !!! warning "Consignes"
     1. Quels sont les différents types de constituants alimentaires. 
     2. À partir des documents, expliquer quel type de constituants alimentaires il est nécessaire d’apporter  pour lutter contre le kwashiorkor. 
-    3. Parmi les aliments proposés, lequel peut-on facilement apporté en priorité, justifier.
+    3. Parmi les aliments proposés, lequel peut-on facilement apporter en priorité, justifier.
 
 
     
