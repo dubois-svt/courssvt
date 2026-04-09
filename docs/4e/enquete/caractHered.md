@@ -11,6 +11,11 @@
 ??? bug "Critères de réussite"
     - 
 
+**Document 1  Définitions**
+
+- Un caractère héréditaire est un trait phénotypique (trait observable de l'échelle de l'organisme à l'échelle moléculaire)  transmis d'une génération à l'autre, comme la couleur des yeux ou la forme du visage, grâce aux gènes transmis par les parents.
+
+- Un caractère non héréditaire est un trait phénotypique acquise au cours de la vie, résultant de l'environnement, des expériences ou de l'apprentissage, et non transmissible génétiquement.
 
 |           | Espèce | Sexe | Caractères non héréditaires | Caractères héréditaires |
 |-----------|--------|------|-----------------------------|-------------------------|
