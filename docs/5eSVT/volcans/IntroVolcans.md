@@ -23,6 +23,10 @@
 
 
 ??? abstract "Bilan"
+
+    
+    <a markdown id="bilan1">
+    
     Il existe différents types de volcans sur Terre :
 
     - Les volcans effusifs dont les éruptions se caractérisent par des coulées de lave.
@@ -30,7 +34,7 @@
 
     - Les volcans explosifs sont beaucoup plus dangereux que les volcans effusifs.
 
-
+    </a>
 
 
 
@@ -46,11 +50,16 @@
 
 
 ??? abstract "Bilan"
+
+    
+    <a markdown id="bilan2">
+    
     La fusion des roches en profondeur donne du magma qui est riche en gaz. Ce sont ces gaz qui vont entraîner une remontée du magma vers la surface lors d’une éruption volcanique.
     Lorsque le magma atteint la surface, les gaz contenus à l’intérieur s’échappent, le magma devient de la lave.
     Ces laves en refroidissant forment des roches volcaniques qui vont former l’édifice volcanique.
     Selon la viscosité du magma, le type de volcanisme sera différent. 
 
+    </a>
 
 ## Séance 3 Le risque volcanique
 
@@ -64,9 +73,15 @@
 
 
 ??? abstract "Bilan"
+
+    
+    <a markdown id="bilan3">
+    
     Les phénomènes volcaniques peuvent exposer les populations humaines à un risque.
 
     Ce risque dépend du type de volcans. Contrairement aux séismes, on peut prévoir les éruptions.
 
     Pour réduire le risque, on peut utiliser des mesures de prévision, de prévention et de protection.
+    
+    </a>
 
