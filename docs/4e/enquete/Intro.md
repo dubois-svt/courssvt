@@ -86,9 +86,6 @@ Ils ont pu récuperer de l'ADN et voir cet ADN sous la forme de chromosomes. Ils
 
     <a id="bilan2">
 
-    === "De quoi parler dans le bilan ? Quels mots clés ?"
-
-
     === "Bilan à trous"
         L’information génétique permet la réalisation des phénotypes héréditaires et donc des caractères ..........................
         
