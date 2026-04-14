@@ -53,6 +53,7 @@ Avec le sang et les cheveux, on aura accès à l'ADN. Cet ADN nous permettra de 
 ??? abstract "Bilan"
     
     <a id="bilan1">
+    
     Les individus d’une même espèce partagent des caractères. Ce sont les caractères spécifiques. 
 
     Il existe cependant des variations individuelles. Ce qui permet une biodiversité génétique des espèces.
