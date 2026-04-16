@@ -13,6 +13,8 @@
 ??? bug "Critères de réussite"
     - 
 
+<div markdown style="break-inside: avoid;">
+    
 **Document 1 Coulée de lave du Kilauea (Hawaï) en 1983**
 
 
@@ -54,6 +56,9 @@
 
 </div>
 </div>
+
+</div>
+<div markdown style="break-inside: avoid;">
 
 **Document 2 Récolte de maïs détruite lors de la dernière éruption du Merapi (Indonésie)**
 
@@ -103,6 +108,10 @@ Les cultures sont nombreuses aux abords du Merapi: les terres y sont peu chères
 
 </div>
 
+
+</div>
+<div markdown style="break-inside: avoid;">
+    
 <div markdown style="display: flex; flex-direction:row; flex: 1 1 0;" > 
 
 <div markdown style="display: flex; flex-direction:column; flex: 1 1 0;" > 
@@ -122,6 +131,9 @@ Les systèmes de surveillance permettent de prévoir les éruptions quelques jou
 ![](pictures/afficheConseilEruption.png){: style="weight: 350px;"}
 
 </div>
+</div>
+
+
 </div>
 
 **Document 4 La gestion du risque au Merapi**
