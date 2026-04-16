@@ -92,7 +92,8 @@ Les cultures sont nombreuses aux abords du Merapi: les terres y sont peu chères
 </tbody>
 </table>
 
-<div markdown style="display: flex; flex-direction:row; " > 
+
+</div>
 
 <div markdown style="display: flex; flex-direction:column; flex 3 1 0; " > 
     
