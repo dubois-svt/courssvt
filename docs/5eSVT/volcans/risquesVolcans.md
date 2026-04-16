@@ -13,11 +13,10 @@
 ??? bug "Critères de réussite"
     - 
 
-<div markdown style="display: flex; flex-direction:row flex: 1 1 0;" > 
-
-<div markdown style="display: flex; flex-direction:column; flex: 1 1 0;" > 
-
 **Document 1 Coulée de lave du Kilauea (Hawaï) en 1983**
+
+
+<div markdown style="display: flex; flex-direction:row flex: 1 1 0;" > 
 
 - **Historique** : 70 éruptions depuis 1650, dont une seule meutrière en 1790 (100 personnes tuées).
 - **Fréquence d'éruptions** : une éruption tous les 2-3 ans environ depuis 1900 et en éruption continue depuis 1983.
@@ -49,15 +48,17 @@
 ![](pictures/eruptionKilauea.png)
 
 </div>
-<div markdown style="display: flex; flex-direction:column; flex: 1 1 0;" > 
 
 **Document 2 Récolte de maïs détruite lors de la dernière éruption du Merapi (Indonésie)**
+
+
+<div markdown style="display: flex; flex-direction:column; flex: 1 1 0;" > 
+
 
 
 - **Historique** : 64 éruptions depuis 1672, dont 16 meutrières.
 - **Fréquence d'éruptions** : une éruption tous les 4 ans environ.
 - **Dernière éruption meutrière** : octobre-novembre 2010 (322 morts, 500 millions d'euros de dégâts).
-
 Les cultures sont nombreuses aux abords du Merapi: les terres y sont peu chères à cause du danger, et fertiles, grâce aux cendres volcaniques qui s'y déposent
 
 <table><thead>
@@ -86,7 +87,6 @@ Les cultures sont nombreuses aux abords du Merapi: les terres y sont peu chères
 
 ![](pictures/eruptionMerapi.png)
 
-</div>
 </div>
 
 <div markdown style="display: flex; flex-direction:row flex: 1 1 0;" > 
