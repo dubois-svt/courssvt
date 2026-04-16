@@ -53,13 +53,12 @@
 
 **Document 2 Récolte de maïs détruite lors de la dernière éruption du Merapi (Indonésie)**
 
-Les cultures sont nombreuses aux abords du Merapi: les terres y sont peu chères à cause du danger, et fertiles, grâce aux cendres volcaniques qui s'y déposent
-
-![](pictures/eruptionMerapi.png)
 
 - **Historique** : 64 éruptions depuis 1672, dont 16 meutrières.
 - **Fréquence d'éruptions** : une éruption tous les 4 ans environ.
 - **Dernière éruption meutrière** : octobre-novembre 2010 (322 morts, 500 millions d'euros de dégâts).
+
+Les cultures sont nombreuses aux abords du Merapi: les terres y sont peu chères à cause du danger, et fertiles, grâce aux cendres volcaniques qui s'y déposent
 
 <table><thead>
   <tr>
@@ -85,6 +84,7 @@ Les cultures sont nombreuses aux abords du Merapi: les terres y sont peu chères
 </tbody>
 </table>
 
+![](pictures/eruptionMerapi.png)
 
 </div>
 </div>
