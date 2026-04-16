@@ -33,12 +33,26 @@ Les cultures sont nombreuses aux abords du Merapi: les terres y sont peu chères
 </div>
 </div>
 
+<div markdown style="display: flex; flex-direction:row flex: 1 1 0;" > 
+
+<div markdown style="display: flex; flex-direction:column; flex: 1 1 0;" > 
+
 **Document 3 Carte des aléas volcaniques et des systèmes de surveillances et de protection autour du Merapi**
 
 Les sabodams sont des barrages qui permettent d'atténuer l'effet d'éventuelles coulées de boues (lahars)
 Les systèmes de surveillance permettent de prévoir les éruptions quelques jours avant leur déclenchement.
 
-![](pictures/carteMerapi.png)
+![](pictures/carteMerapi.png){: style="weight: 350px;"}
+
+</div>
+<div markdown style="display: flex; flex-direction:column; flex: 1 1 0;" > 
+
+**Document 5 Conseils aux habitants de Yogyakarta en cas d'éruption**
+
+![](pictures/afficheConseilEruption.png){: style="weight: 350px;"}
+
+</div>
+</div>
 
 **Document 4 La gestion du risque au Merapi**
 
@@ -48,6 +62,4 @@ Les systèmes de surveillance permettent de prévoir les éruptions quelques jou
 | Mise au point de plans d'évacuation | Organisation des camps de déplacés | |
 | Éducation aux risques | | |
 
-**Document 5 Conseils aux habitants de Yogyakarta en cas d'éruption**
 
-![](pictures/afficheConseilEruption.png)
