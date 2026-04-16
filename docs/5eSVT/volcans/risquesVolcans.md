@@ -18,6 +18,7 @@
 
 <div markdown style="display: flex; flex-direction:row flex: 1 1 0;" > 
 
+<div markdown style="display: flex; flex-direction:column flex: 1 1 0;" > 
 - **Historique** : 70 éruptions depuis 1650, dont une seule meutrière en 1790 (100 personnes tuées).
 - **Fréquence d'éruptions** : une éruption tous les 2-3 ans environ depuis 1900 et en éruption continue depuis 1983.
 
@@ -45,8 +46,12 @@
 </tbody>
 </table>
 
+</div>
+<div markdown style="display: flex; flex-direction:column flex: 1 1 0;" > 
+
 ![](pictures/eruptionKilauea.png)
 
+</div>
 </div>
 
 **Document 2 Récolte de maïs détruite lors de la dernière éruption du Merapi (Indonésie)**
