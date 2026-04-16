@@ -18,7 +18,7 @@
 
 <div markdown style="display: flex; flex-direction:row; " > 
 
-<div markdown style="display: flex; flex-direction:column; " > 
+<div markdown style="display: flex; flex-direction:column; flex 3 1 0; " > 
     
 - **Historique** : 70 éruptions depuis 1650, dont une seule meutrière en 1790 (100 personnes tuées).
 - **Fréquence d'éruptions** : une éruption tous les 2-3 ans environ depuis 1900 et en éruption continue depuis 1983.
@@ -58,7 +58,9 @@
 **Document 2 Récolte de maïs détruite lors de la dernière éruption du Merapi (Indonésie)**
 
 
-<div markdown style="display: flex; flex-direction:column; flex: 1 1 0;" > 
+<div markdown style="display: flex; flex-direction:row; " > 
+
+<div markdown style="display: flex; flex-direction:column; flex 3 1 0; " > 
 
 
 
@@ -91,7 +93,13 @@ Les cultures sont nombreuses aux abords du Merapi: les terres y sont peu chères
 </tbody>
 </table>
 
+<div markdown style="display: flex; flex-direction:row; " > 
+
+<div markdown style="display: flex; flex-direction:column; flex 3 1 0; " > 
+    
 ![](pictures/eruptionMerapi.png)
+
+</div>
 
 </div>
 
