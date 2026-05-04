@@ -15,6 +15,8 @@
     - 
 
 
+<div markdown style="break-inside: avoid;">
+
 **Document 1 Quelques troubles du fonctionnement de l’appareil reproducteur**
 
 À l’hôpital, des patients sont suivis pour des troubles du fonctionnement de l’appareil reproducteur.
@@ -31,6 +33,8 @@
     notamment provoqué l’arrêt des ovulations et de ses règles, alors
     qu’elle n’est pas en période de ménopause.
 
+</div>
+<div markdown style="break-inside: avoid;">
 
 **Document 2 L’hypophyse, une petite glande du cerveau qui sécrète des hormones.**
 
@@ -52,6 +56,9 @@ L’hypophyse libère les hormones qu’elle fabrique dans la circulation sangui
 
 </div>
 </div>
+
+</div>
+<div markdown style="break-inside: avoid;">
 
 **Document 3 Rôle de l’hypophyse dans le déclenchement de la puberté.**
 
@@ -89,6 +96,9 @@ spermatozoïdes produits</p>
 </tbody>
 </table>
 
+</div>
+<div markdown style="break-inside: avoid;">
+
 **Document 4 Origine des caractères sexuels secondaires chez le coq.**
 
 La crête d'un coq est un caractère sexuel secondaire apparaissant à la puberté du coq.
@@ -104,7 +114,8 @@ Une expérience est faite sur des chapons, on leur injecte différentes quantit�
 |2,5|15|
 |5|20|
 
-
+</div>
+<div markdown style="break-inside: avoid;">
 
 **Document 5 Activité hypophysaire sur le fonctionnement des ovaires et de l’utérus**
 
@@ -133,6 +144,8 @@ cyclique de l’utérus</td>
 </tbody>
 </table>
 
+</div>
+    
 ??? note-prof "Correction"
 
     Dans le document 1, on voit que des patients avec des troubles au niveau
