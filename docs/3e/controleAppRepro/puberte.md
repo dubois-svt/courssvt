@@ -7,7 +7,7 @@
 
 !!! warning "Consignes"
 
-    1. tracer un graphique tréprésentant l’évolution de la quantité de testostérone et de l'oestrogènbe en fonction de l’âge sur le graphique.
+    1. tracer un graphique réprésentant l’évolution de la quantité de testostérone et de l'oestrogènbe en fonction de l’âge sur le graphique.
 
     2. Décrire une des deux courbes du graphique.
 
