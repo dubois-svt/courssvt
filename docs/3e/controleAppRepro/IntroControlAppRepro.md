@@ -45,7 +45,7 @@
     Chez les femmes, les ovules sont émis de façon cyclique (1 par mois environ), à partir de la puberté jusqu’à la ménopause.
 
 
-## Séance 3 : Le début de la puberté
+## Séance 1 : Le début de la puberté
 
 
 !!! question "Problématique"
@@ -57,6 +57,7 @@
 
 ??? abstract "Bilan"
 
+    <a markdown id="bilan1">
 
     ![](Pictures/hormonePuberteMale.png)
 
@@ -69,7 +70,9 @@
 
     ![](Pictures/schemaCommHormone.png)
 
-## Séance 4 : Le contrôle des appareils reproducteurs
+    </a>
+
+## Séance 2 : Le contrôle des appareils reproducteurs
 
 !!! question "Problématique"
 
@@ -85,13 +88,15 @@
 
 ??? abstract "Bilan"
 
+    <a markdown id="bilan2">
+
     Chez les êtres humains, l’hypophyse (dans le cerveau) contrôle les testicules ou les ovaires grâce à des hormones hypophysaires (LH et FSH). En réponse, les gonades (ovaires ou testicules) produisent des hormones sexuelles (testostérone par les testicules et œstrogènes et progestérones par les ovaires). Ce sont des hormones sexuelles qui permettent l’apparition et le maintien des caractères sexuels secondaires et la production de cellules reproductrices.
 
     ![](Pictures/schemaControleHormonaleHomme.png)
 
+    </a>
 
-
-## Séance 5 : Le cycle de la femme
+## Séance 3 : Le cycle de la femme
 
 !!! question "Problématique"
 
@@ -103,6 +108,8 @@
 
 ??? abstract "Bilan"
 
+    <a markdown id="bilan3">
+
     Les règles se caractérisent par un écoulement de sang provenant de l’utérus.
 
     De la puberté à la ménopause, lors de chaque cycle, la muqueuse utérine s’épaissit puis est éliminée.
@@ -113,3 +120,4 @@
 
     ![](Pictures/schemaCycleMenstruel.png)
 
+    </a>
