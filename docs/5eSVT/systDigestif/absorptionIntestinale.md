@@ -11,7 +11,7 @@
 
     2. À partir des documents 1 et 3, indiquer ce que deviennent les nutriments présents dans le tube digestif, justifier votre réponse avec deux informations.
 
-    3. Tracer un schéma  de la coupe d'un instestin grêle vue au microscope et un cercle du même diamètre à coté.
+    3. Tracer un schéma  de la coupe d'un intestin grêle vue au microscope et un cercle du même diamètre à côté.
 
     4. Comparer les périmètres internes des deux. Que peut-on conclure sur la surface des deux.
 
