@@ -148,11 +148,11 @@ On veut vérifier que le microbiote est un allié pour l'organisme qui l'héberg
 
     <a markdown id="bilan3">
 
-    A l'intérieur du tube digestif, il y a de nombreux micro-organismes. Ces microbes produisent des enzymes qui nous permettent de digérer notre nourriture, pour eux mêmes se nourrir. Sans eux, la digestion fonctionnerait moins bien. 
+    A l'intérieur du tube digestif, il y a de nombreux micro-organismes. Ces microbes produisent des enzymes qui nous permettent de digérer notre nourriture, pour eux-mêmes se nourrir. Sans eux, la digestion fonctionnerait moins bien. 
     
     Entre humains et microbiote il y a des avantages réciproques, on parle donc de commensalisme ou de symbiose.
 
-    Ces micro-orgnaismes qui vivent à l'intérieur des humains, et aussi d'autres animaux, forment le microbiote.
+    Ces micro-organismes qui vivent à l'intérieur des humains, et aussi d'autres animaux, forment le microbiote.
 
     Le microbiote peut-être la cause de certains problèmes de santé
 
