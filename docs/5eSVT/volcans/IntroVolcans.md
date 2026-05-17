@@ -79,6 +79,8 @@
     
     Les phénomènes volcaniques peuvent exposer les populations humaines à un risque.
 
+    Un risque est évalué en tenant compte de son aléa (sa probabilité de survenir) et de la vulnérabilité des enjeux (sensibilité au risque des biens et des humains).
+    
     Ce risque dépend du type de volcans. Contrairement aux séismes, on peut prévoir les éruptions.
 
     Pour réduire le risque, on peut utiliser des mesures de prévision, de prévention et de protection.
