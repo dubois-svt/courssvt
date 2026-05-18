@@ -313,11 +313,12 @@ nav :
           - Gestion du risque volcanique : 5eSVT/volcans/risquesVolcans.md
           - Fiche de révision : 5eSVT/volcans/FicheVolcans.md
       
-      - Séquence Contrôles hormonaux des appareils reproducteurs :
-          - Introduction : 5e/fonctAppRepro/IntroAppRepro.md
-          - Différences anatomiques : 5e/fonctAppRepro/diffFemmeHomme.md
-          - Les cellules sexuelles : 5e/fonctAppRepro//diffCellRepro.md
-          - Fécondation : 5e/fonctAppRepro/fecondation.md
+      - Séquence Fonctionnement des appareils reproducteurs :
+          - Introduction : 5eSVT/fonctAppRepro/IntroAppRepro.md
+          - Différences anatomiques : 5eSVT/fonctAppRepro/diffFemmeHomme.md
+          - Les cellules sexuelles : 5eSVT/fonctAppRepro/diffCellRepro.md
+          - Fécondation : 5eSVT/fonctAppRepro/fecondation.md
+          - Fiche de révision : 5eSVT/fonctAppRepro/FicheRepro.md
 
       - Séquence La nutrition des végétaux :
         - Introduction : 5eSVT/besoinsVeg/IntroVeg.md
