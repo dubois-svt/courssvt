@@ -143,3 +143,5 @@ Le reste a soit été brûlé, jeté dans des déchetteries ou abandonné dans l
       - ventes
       - conception
       - utilisation
+
+    3. un OST a impact environnemental, car l’extraction des matières premières, le transport des marchandises, la fin de vie l’appareil peuvent être très polluantes. Par exemple, le dioxyde de carbone émis par le transport a un aggrave le réchauffement climatique.
