@@ -78,6 +78,8 @@
 
 **Document 2 Des convertisseurs d'énergie**
 
+Certains composant ou OST servent à convertir une énergie d'une forme à une autre.
+
 ![](pictures/convertisseurEner.png){:style="width:500px;"} 
 
 </div>
@@ -92,7 +94,7 @@ Dans une chaine d'énergie, il y a différents éléments qui servent à:
 - convertir et
 - transmettre
 
-![](pictures/chaineEnergieMbot.png)
+![Chaine d'énergie du mBot](pictures/chaineEnergieMbot.png)
 
 </div>
 <div markdown style="break-inside: avoid;">
