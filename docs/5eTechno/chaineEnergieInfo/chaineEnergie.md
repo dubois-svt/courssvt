@@ -78,7 +78,7 @@
 
 **Document 2 Des convertisseurs d'énergie**
 
-Certains composant ou OST servent à convertir une énergie d'une forme à une autre.
+Certains composants ou OST servent à convertir une énergie d'une forme à une autre.
 
 ![](pictures/convertisseurEner.png){:style="width:500px;"} 
 
