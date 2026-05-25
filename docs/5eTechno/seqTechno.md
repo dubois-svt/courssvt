@@ -35,10 +35,10 @@ reprendre la même activité qu'avant
 
 Des objets qui répondent au même besoin font partie de la même famille
 
-## séance 3 : les lignées des OST
+## séance 3 : Les lignées des OST
 
 reprendre la même activité qu'avant en enlevant les innovations et invention et découverte
-rajouter quelques appareils numeriques
+rajouter quelques appareils numériques
 
 ### lignée
 
@@ -46,7 +46,7 @@ Une lignée est l'évolution d'objets technique qui répondent au même besoin a
 
 Elle est représentée par une suite chronologique, du plus ancien au plus récent.
 
-# Séquence Usages du numériques
+# Séquence Usages du numérique
 
 
 
@@ -64,7 +64,7 @@ Ces espaces de stockage sont organisés sous la forme d'une arborescence, afin d
 
 Le stockage en ligne favorise le partage des fichiers. Les données peuvent être transmises par des systèmes d'informations (ENT, réseaux sociaux, Service de cloud, sites collaboratifs, ...) de manière sécurisée
 
-# séquence OST dans son environnement  plan de classe
+# séquence OST dans son environnement plan de classe
 
 
 séquence construction doseur spaghetti

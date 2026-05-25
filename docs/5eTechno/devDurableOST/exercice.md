@@ -53,13 +53,13 @@ __ l’utilisation de l’objet à proprement parler
     4. Finalement, quel robot choisir ?
 
 
-|  | ![](pictures/robotTondeuse1.png)  | ![](pictures/robotTondeuse3.png)  |   ![](pictures/robotTondeuse2.png)  |
+| | ![](pictures/robotTondeuse1.png) | ![](pictures/robotTondeuse3.png) | ![](pictures/robotTondeuse2.png) |
 |--|---|---|--|
-| Prix |  710 € |  679,90 € |  659,90€ |  
-| Capacité de tonte max | 500  ㎡ | 500 ㎡| 450 ㎡ |   
-| Pente max conseillée | 25%   |  20% | 20% |   
-| Alarme sonore  | oui  | non  | non |   
-|  |  ![](pictures/indiceRobot1.png) |  ![](pictures/indiceRobot3.png) |  ![](pictures/indiceRobot2.png)  |   
+| Prix | 710 € | 679,90 € | 659,90€ |  
+| Capacité de tonte max | 500 ㎡ | 500 ㎡| 450 ㎡ |   
+| Pente max conseillée | 25% | 20% | 20% |   
+| Alarme sonore | oui | non | non |   
+| | ![](pictures/indiceRobot1.png) | ![](pictures/indiceRobot3.png) | ![](pictures/indiceRobot2.png) |   
 
 
 

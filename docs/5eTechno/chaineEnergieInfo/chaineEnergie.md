@@ -1,4 +1,4 @@
-# Activité : Les chaines d'énergie
+# Activité : La chaine d'énergie
 
 !!! note "Compétences"
 
@@ -9,10 +9,13 @@
 
     1. Dans le document 1, relier chaque OST au type d'énergie utilisée.
     2. Compléter le document 2 en indiquant pour chaque objet le type d'énergie manquant
-    3. 
+    3. Compléter les deux chaines d'énergie.
     
 ??? bug "Critères de réussite"
     - 
+
+
+<div markdown style="break-inside: avoid;">
 
 **Document 1 Différentes sources d'énergie**
 
@@ -70,31 +73,39 @@
     </tbody>
 </table>
 
-![](pictures/voilier.png)
-
+</div>
+<div markdown style="break-inside: avoid;">
 
 **Document 2 Des convertisseurs d'énergie**
 
-![](image.png)
+![](pictures/convertisseurEner.png){:style="width:500px;"} 
+
+</div>
+<div markdown style="break-inside: avoid;">
 
 **Document 3 Chaîne d'énergie**
 
-dans une chaine d'énergie, il ya différents éléments qui servent à:
-- alimenter 
-- stocker
-- distribuer
-- convertir
+Dans une chaine d'énergie, il y a différents éléments qui servent à:
+
+- alimenter,
+- distribuer,
+- convertir et
 - transmettre
 
-![](image-3.png)
+![](pictures/chaineEnergieMbot.png)
 
-
+</div>
+<div markdown style="break-inside: avoid;">
 
 **Document 4 Chaine d'énergie d'une lampe**
 
+![](pictures/chaineEnergieLampe.png)
 
-![](image-4.png)
+</div>
+<div markdown style="break-inside: avoid;">
 
 **Document 5 Chaine d'énergie d'un scooter**
 
-![](image-1.png)
+![](pictures/chaineEnergieScooter.png)
+
+</div>

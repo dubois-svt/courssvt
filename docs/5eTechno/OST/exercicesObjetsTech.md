@@ -163,7 +163,7 @@
     3. Indiquer avec deux couleurs différentes les deux lignées sur la frise chronologique et indiquer la rupture technologique.
     5. Expliquer en quoi les ampoules à incandescence peuvent être qualifiées d’invention. 
     6. Expliquer en quoi les ampoules LED sont une innovation qui répond à un besoin de développement durable.
-    7. Expliquer en quoi les ampoules LED ont tout de même un impact écologique  et comment le limiter
+    7. Expliquer en quoi les ampoules LED ont tout de même un impact écologique et comment le limiter
     **Document 7 frise chronologique**
 
     ![](pictures/friseFamilleLampe.png)
@@ -305,12 +305,12 @@ En 1879, Edison invente la lampe à incandescence à filament de carbone chauff�
 
 <div markdown style="display:flex; flex-direction:column; flex: 1 1 0;">
 
-**Document 6 Lampes à DEL**
+**Document 6 Lampes à LED**
 <div markdown style=" display:flex; flex-direction:row;">
 
 <div markdown style=" display:flex; flex-direction:row; flex : 2 1 0; ">
 
-Les lampes à diodes électroluminescentes (DEL) équipent plus souvent les nouvelles habitations du fait de leur consommation réduite et de leur durée de vie plus longue. Ce type d’ampoule consomme 2W pour un éclairement de 750 lumens et a une durée de vie de 20 ans.
+Les lampes à diodes électroluminescentes (LED ou DEL) équipent plus souvent les nouvelles habitations du fait de leur consommation réduite et de leur durée de vie plus longue. Ce type d’ampoule consomme 2W pour un éclairement de 750 lumens et a une durée de vie de 20 ans.
 
 </div>
 
