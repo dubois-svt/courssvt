@@ -22,7 +22,7 @@
 
     <a markdown id="bilan1">
 
-    L'énergie est indispensable pour réaliser des action. Elle se présente sous différentes formes, comme l'énergie électrique, cinétique, potentielle, thermique et lumineuse.
+    L'énergie est indispensable pour réaliser des actions. Elle se présente sous différentes formes, comme l'énergie électrique, cinétique, potentielle, thermique et lumineuse.
 
     Une chaine d'énergie représente le chemin parcouru par l’énergie dans un système technique. A chaque bloc de la chaine est associé une solution technique de l'OST.
 
