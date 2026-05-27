@@ -40,9 +40,30 @@
 
     Les cellules sexuelles sont produites par les gonades.
 
-    Chez les hommes, les spermatozoïdes sont produits par les testicules, en continu, à partir de la puberté. Le sperme contient du liquide séminal et des spermatozoïdes.
+    Chez les hommes, les spermatozoïdes sont produits par les testicules, en continu, à partir de la puberté. Le sperme contient du liquide séminal et des spermatozoïdes. Avec l'âge lma qualité du sperme diminue.
 
-    Chez les femmes, les ovules sont émis de façon cyclique (1 par mois environ), à partir de la puberté jusqu’à la ménopause.
+    Chez les femmes, les ovules sont émis par les ovaires, de façon cyclique (1 par mois environ), à partir de la puberté jusqu’à la ménopause.
+
+## Séance 2 : Le cycle de la femme
+
+!!! question "Problématique"
+
+     A quoi correspond le cycle de la femme ?
+
+[Activité Le cycle de la femme](../cycleFemme)
+
+
+??? abstract "Bilan"
+    Un cycle débute le premier jour des règles, il peut durer de 20 à 40 jours en fonction des femmes et du cycle.
+    On donne généralement une durée moyenne de 28 jours.
+
+    À chaque cycle, un ovule est libéré dans une des trompes, c’est l’ovulation. 
+    L'ovulation à lieu 14 jours avant les règles.
+    À chaque cycle, la paroi de l'utérus s'épaissit puis se détache, ce qui constitue les règles.
+
+    Ces cycles cessent au moment de la ménopause vers 50 ans. 
+
+
 
 
 
@@ -59,11 +80,10 @@
 
     ![](Pictures/photosEtapesEmbryo.jpg)
 
-    À chaque cycle, un ovule est libéré dans une des trompes, c’est l’ovulation. Cet ovule survit de 24 à 48 h.
-
     ![](Pictures/trajetSpz.png)
 
     Lors d’un rapport sexuel, des millions de spermatozoïdes sont déposés dans le vagin de la femme. Ces spermatozoïdes survivront 72 h environ.
+    Cet ovule survit de 24 à 48 h.
 
     Cependant, seule une centaine de spermatozoïdes arrivent à traverser le col de l’utérus (situé entre le vagin et la cavité de l’utérus). Ils remontent dans l’utérus et se dirigent vers les deux trompes.
 
