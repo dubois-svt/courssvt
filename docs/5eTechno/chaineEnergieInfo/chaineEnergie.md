@@ -95,7 +95,7 @@ Dans une chaine d'énergie, il y a différents éléments qui servent à:
 - transmettre
 
 ![Chaine d'énergie du mBot](pictures/chaineEnergieMbot.png)
-![alt text](image.png)
+
 </div>
 <div markdown style="break-inside: avoid;">
 
