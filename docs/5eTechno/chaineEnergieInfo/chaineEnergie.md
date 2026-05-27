@@ -8,7 +8,7 @@
 !!! warning "Consignes"
 
     1. Dans le document 1, relier chaque OST au type d'énergie utilisée.
-    2. Compléter le document 2 en indiquant pour chaque objet le type d'énergie manquant
+    2. Recopier et compléter le document 2 en indiquant pour chaque objet le type d'énergie manquant
     3. Compléter les deux chaines d'énergie.
     
 ??? bug "Critères de réussite"
