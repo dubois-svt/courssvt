@@ -28,7 +28,7 @@
 
 ![](Pictures/schemaCycleMenstruel.png)
 </div>
-<div markdown style="display:flex; flex-direction:row;flex: 2 1 0;">
+<div markdown style="display:flex; flex-direction:column;flex: 2 1 0;">
 
 **Document 3 Le cycle féminin théorique.**
 
@@ -52,10 +52,5 @@ Ces cycles cessent au moment de la ménopause qui survient naturellement entre 4
 L'endomètre correspond à la paroi interne de l'utérus
 
 ![](image-3.png)
-
-
- 
- 
- 
 
 ![Appareil sexuel de l'homme](image-1.png)
