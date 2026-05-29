@@ -38,11 +38,15 @@
 
 ??? abstract "Bilan"
 
+    <a markdown id="bilan1">
+    
     Les cellules sexuelles sont produites par les gonades.
 
     Chez les hommes, les spermatozoïdes sont produits par les testicules, en continu, à partir de la puberté. Le sperme contient du liquide séminal et des spermatozoïdes. Avec l'âge lma qualité du sperme diminue.
 
     Chez les femmes, les ovules sont émis par les ovaires, de façon cyclique (1 par mois environ), à partir de la puberté jusqu’à la ménopause.
+
+    </a>
 
 ## Séance 2 : Le cycle de la femme
 
@@ -54,6 +58,9 @@
 
 
 ??? abstract "Bilan"
+    
+    <a markdown id="bilan2">
+    
     Un cycle débute le premier jour des règles, il peut durer de 20 à 40 jours en fonction des femmes et du cycle.
     On donne généralement une durée moyenne de 28 jours.
 
@@ -64,10 +71,10 @@
     Ces cycles cessent au moment de la ménopause vers 50 ans. 
 
 
+    </a>
 
 
-
-## Séance 2 : La fécondation
+## Séance 3 : La fécondation
 
 !!! question "Problématique"
 
@@ -99,7 +106,11 @@
 
 
 ??? abstract "Bilan"
+
+    <a markdown id="bilan3">
+    
     Lorsque le rapport sexuel a lieu quelques jours avant ou après l’ovulation, un spermatozoïde peut s’unir avec l’ovule : c’est la fécondation.
 
     Cette union permet la formation de la *cellule-œuf*. Cette cellule-œuf se divise de nombreuses fois pour former un *embryon*.
 
+    </a>
