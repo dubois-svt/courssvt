@@ -1,4 +1,4 @@
-# Séquence : Fonctionnement des appareils reproducteurs
+# Séquence : Fonctionnement des appareils sexuels
 
 !!! note-prof
     si besoin d'infos
@@ -6,7 +6,7 @@
 
 !!! question "Problématique"
 
-    Comment fonctionnent les appareils reproducteurs ?
+    Comment fonctionnent les appareils sexuels ?
     
 
 ## Rappel les différences anatomiques
