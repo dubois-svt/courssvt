@@ -18,7 +18,7 @@
 **Document 1 Appareil sexuel de la femme.**
 
 
-![Source : https://svt.pages.ac-besancon.fr/repro/](image.png)
+![Source : https://svt.pages.ac-besancon.fr/repro/](image.png){: style="width: 600px;"}
 
 
 **Document 2 Le cycle féminin théorique.**
