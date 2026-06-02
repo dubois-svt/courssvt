@@ -13,22 +13,25 @@
     
 ??? bug "Critères de réussite"
     - 
-
+<div markdown style="display:flex; flex-direction:row;">
+<div markdown style="display:flex; flex-direction:column; flex: 1 1 0;">
+    
 **Document 1 Appareil sexuel de la femme.**
 
 
 ![Source : https://svt.pages.ac-besancon.fr/repro/](image.png)
 
-<div markdown style="display:flex; flex-direction:row;">
-<div markdown style="display:flex; flex-direction:column; flex: 1 1 0;">
+</div>
+<div markdown style="display:flex; flex-direction:column;flex: 1 1 0;">
 
 **Document 2 Le cycle féminin théorique.**
 
 
 
 ![](Pictures/schemaCycleMenstruel.png)
+
 </div>
-<div markdown style="display:flex; flex-direction:column;flex: 1 1 0;">
+</div>
 
 **Document 3 Le cycle féminin théorique.**
 
@@ -44,8 +47,7 @@ D’une femme à une autre et d’un cycle à un autre, le jour de l’ovulation
 
 Ces cycles cessent au moment de la ménopause qui survient naturellement entre 45 et 55 ans, avec un âge moyen de 51 ans.
 
-</div>
-</div>
+
 
 **Document 4 Le cycle de l'utérus.**
 
