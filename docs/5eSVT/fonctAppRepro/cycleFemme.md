@@ -13,16 +13,13 @@
     
 ??? bug "Critères de réussite"
     - 
-<div markdown style="display:flex; flex-direction:row;">
-<div markdown style="display:flex; flex-direction:column; flex: 1 1 0;">
+
     
 **Document 1 Appareil sexuel de la femme.**
 
 
 ![Source : https://svt.pages.ac-besancon.fr/repro/](image.png)
 
-</div>
-<div markdown style="display:flex; flex-direction:column;flex: 1 1 0;">
 
 **Document 2 Le cycle féminin théorique.**
 
@@ -30,8 +27,7 @@
 
 ![](Pictures/schemaCycleMenstruel.png)
 
-</div>
-</div>
+
 
 **Document 3 Le cycle féminin théorique.**
 
