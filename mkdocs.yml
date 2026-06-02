@@ -276,7 +276,7 @@ nav :
           - Introduction : 5eTechno/chaineEnergieInfo/IntroChaine.md
           - Chaine d'énergie : 5eTechno/chaineEnergieInfo/chaineEnergie.md
           - Chaine d'information : 5eTechno/chaineEnergieInfo/chaineInfo.md
-
+          - Exercices chaines : 5eTechno/chaineEnergieInfo/exoChaines.md
           - Fiche de révision : 5eTechno/programmation/FicheProg.md
 
 
@@ -324,6 +324,7 @@ nav :
           - Introduction : 5eSVT/fonctAppRepro/IntroAppRepro.md
           - Différences anatomiques : 5eSVT/fonctAppRepro/diffFemmeHomme.md
           - Les cellules sexuelles : 5eSVT/fonctAppRepro/diffCellRepro.md
+          - le cycle de la femme : 5eSVT/fonctAppRepro/cycleFemme.md
           - Fécondation : 5eSVT/fonctAppRepro/fecondation.md
           - Fiche de révision : 5eSVT/fonctAppRepro/FicheRepro.md
 
@@ -393,6 +394,8 @@ nav :
             - Exercices : 4e/enquete/exoChromosomes.md
             - Le groupe sanguin : 4e/enquete/grpSang.md
             - Le groupe sanguin et l'ADN : 4e/enquete/grpSangAlleles.md
+            - Exercices sur les allèles : 4e/enquete/exoAlleles.md
+
             - Transmission des gènes : 4e/enquete/transmissionGènes.md
             - Conservation de l'information génétique : 4e/enquete/mitose.md
             - Mutations : 4e/enquete/mutations.md

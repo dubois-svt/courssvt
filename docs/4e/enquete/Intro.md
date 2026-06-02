@@ -166,8 +166,7 @@ Un des parents indique que votre raisonnement est incorrect, si tous les humains
 
 [Activité Le groupe sanguin et les allèles](../grpSangAlleles)
 
-
-
+[Activité : Exercices sur les allèles](../exoAlleles)
 
 ??? abstract "Bilan"
 
