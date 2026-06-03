@@ -7,8 +7,9 @@
     Trouver et utiliser des informations 
 
 !!! warning "Consignes"
-    Pour chacun des objets suivants, indiquer la forme d'énergie utilisée. Cerf-volant, four solaire, Console de jeu, 
-    Pour chacun des objets suivants, indiquer la forme d'énergie entrante et la forme d'énergie sortante. Congélateur, ventilateur, grille-pain
+
+    1. Pour chacun des objets suivants, indiquer la forme d'énergie utilisée. Cerf-volant, four solaire, Console de jeu, 
+    2. Pour chacun des objets suivants, indiquer la forme d'énergie entrante et la forme d'énergie sortante. Congélateur, ventilateur, grille-pain
 
 
 ## Exercice 2
