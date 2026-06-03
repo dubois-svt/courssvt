@@ -23,7 +23,7 @@
 <table><thead><tr><th rowspan="2">Elément</th><th colspan="3">Chaine d'information</th><th colspan="4">Chaine d'énergie</th></tr><tr><th>Acquérir</th><th>Traiter</th><th>Communiquer</th><th>Alimenter</th><th>Distribuer</th><th>Convertir</th><th>Transmettre</th></tr></thead><tbody><tr><td>Détecteur de fulmée</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Buzzer</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Capteur à ultrasons</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>batterie</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Signal Wifi</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Microprocesseur</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>relais</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Courroie</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Vérin</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
-Exercice 3
+## Exercice 3
 
 
 !!! warning "Consignes"
