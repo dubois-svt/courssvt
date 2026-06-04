@@ -42,7 +42,7 @@
     
     Les cellules sexuelles sont produites par les gonades.
 
-    Chez les hommes, les spermatozoïdes sont produits par les testicules, en continu, à partir de la puberté. Le sperme contient du liquide séminal et des spermatozoïdes. Avec l'âge lma qualité du sperme diminue.
+    Chez les hommes, les spermatozoïdes sont produits par les testicules, en continu, à partir de la puberté. Le sperme contient du liquide séminal et des spermatozoïdes. Avec l'âge la qualité du sperme diminue.
 
     Chez les femmes, les ovules sont émis par les ovaires, de façon cyclique (1 par mois environ), à partir de la puberté jusqu’à la ménopause.
 
