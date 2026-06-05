@@ -8,7 +8,7 @@
 !!! warning "Consignes"
 
     1. Pour chaque composant du document 2, indiquer s'il permet de réaliser la fonction de communiquer ou acquérir
-    2. Compléter le document 2 en indiquant pour chaque objet le type d'énergie manquant
+    2. Compléter le document 4, en indiquant dans la chaine d'information les composants du mBot
     
 ??? bug "Critères de réussite"
     - 
@@ -23,8 +23,6 @@ Dans une chaine d'information, il y a différents éléments qui servent à:
 - Acquérir (fonction de prélèvement des informations), 
 - Traiter (fonction de calcul) et
 - Communiquer (fonction transmettant des informations à la chaine d'énergie ou à l'utilisateur)
-
-![](pictures/chaineEnergieMbot.png)
 
 </div>
 <div markdown style="break-inside: avoid;">
