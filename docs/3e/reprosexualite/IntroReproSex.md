@@ -9,7 +9,7 @@
 
 
 
-## Séance 1 : La grossesse
+## Rappel : La grossesse
 
 !!! question "Problématique"
 
@@ -62,7 +62,7 @@
     L’embryon continue alors de se développer. Après 3 mois, tous les organes du futur individu se forment, l’embryon devient alors un *fœtus*. Après 9 mois de grossesse, le bébé est prêt à naître.
 
 
-## Séance 2 : La nidation
+## Séance 4 : La nidation
 
 !!! question "Problématique"
 
@@ -100,6 +100,7 @@
 
 ??? abstract "Bilan"
 
+    <a markdown id="bilan3">
     La contraception désigne des méthodes utilisées pour éviter, de façon réversible, une grossesse et donc permettre une sexualité sans reproduction.
 
     Il existe différentes méthodes de contraception. Elle peut être chimique (pilules…) ou mécanique (préservatifs…).
@@ -117,8 +118,8 @@
     ![](Pictures/sterilet.jpg)
     ![](Pictures/installSterilet.png)
 
-
-## Séance 4 : Procréation médicalement assistée
+    </a>
+## Séance 2 : Procréation médicalement assistée
 
 !!! question "Problématique"
 
@@ -133,6 +134,8 @@
 
 
 ??? abstract "Bilan"
+
+    <a markdown id="bilan2">
     Lorsqu’un couple a des difficultés pour faire un enfant, on parle d’infertilité.
 
     Les problèmes d’infertilité peuvent être d’origine masculine (quantité ou forme anormale de spermatozoïdes…) ou d’origine féminine (problème d’ovulation, obstruction des trompes…).
@@ -143,9 +146,10 @@
     -   Insémination artificielle
     -   Fécondation in vitro…
 
+    </a>
 
 
-## Séance 5 : Les IST
+## Séance 1 : Les IST
 
 !!! question "Problématique"
 
@@ -158,6 +162,7 @@
 
 ??? abstract "Bilan"
 
+    <a markdown id="bilan1">
     Les IST (Infections Sexuellement Transmissibles) sont des maladies parfois graves provoquées par des micro-organismes pathogènes (virus, bactéries…)
 
     Les IST se transmettent lors de rapports sexuels et peuvent toucher les hommes ou les femmes.
@@ -165,6 +170,7 @@
     Le dépistage et l’usage de préservatif sont les pratiques permettant d’éviter la propagation des IST.
 
 
+    </a>
 ## Séance 6 : La sexualité
 
 La sexualité fait partie du développement normal de tout être humain.
