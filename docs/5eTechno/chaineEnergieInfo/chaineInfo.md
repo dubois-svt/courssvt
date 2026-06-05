@@ -8,7 +8,7 @@
 !!! warning "Consignes"
 
     1. Pour chaque composant du document 2, indiquer s'il permet de réaliser la fonction de communiquer ou acquérir
-    2. Compléter le document 4, en indiquant dans la chaine d'information les composants du mBot
+    2. Envous aidant du document 3, compléter le document 4, en indiquant dans la chaine d'information les composants du mBot
     
 ??? bug "Critères de réussite"
     - 
@@ -59,7 +59,7 @@ Dans une chaine d'information, il y a différents éléments qui servent à:
 <div markdown style="display:flex; flex-direction: column;">
 
 1. Écran LED
-2. interface programmable avec LED
+2. interface programmable
 3. Bouton 
 4. Câbles
 5. Moteur et Roues
