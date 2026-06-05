@@ -52,7 +52,7 @@ Avec le sang et les cheveux, on aura accès à l'ADN. Cet ADN nous permettra de 
 
 ??? abstract "Bilan"
     
-    <a id="bilan1">
+    <a markdown id="bilan1">
     
     Les individus d’une même espèce partagent des caractères. Ce sont les caractères spécifiques. 
 
@@ -85,7 +85,7 @@ Ils ont pu récuperer de l'ADN et voir cet ADN sous la forme de chromosomes. Ils
 
 ??? abstract "Bilan"
 
-    <a id="bilan2">
+    <a markdown id="bilan2">
 
     === "Bilan à trous"
         L’information génétique permet la réalisation des phénotypes héréditaires et donc des caractères ..........................
@@ -138,7 +138,7 @@ L'information génétique présente sur les chromosomes permet de donner les car
 
 ??? abstract "Bilan"
     
-    <a id="bilan3">
+    <a markdown id="bilan3">
 
     Un gène est une portion de chromosomes (donc d’ADN) située à un emplacement précis.
     Il porte une information génétique qui détermine un caractère héréditaire ou une partie d'un caractère. 
@@ -170,10 +170,7 @@ Un des parents indique que votre raisonnement est incorrect, si tous les humains
 
 ??? abstract "Bilan"
 
-    <a id="bilan4">
-
-    === "De quoi parler dans le bilan ? Quels mots clés ?"
-
+    <a markdown id="bilan4">
 
     === "Bilan à trous"
 
@@ -244,7 +241,7 @@ Vous devez donc lui expliquer comment l'information génétique est transmise de
 
 ??? abstract "Bilan"
 
-    <a id="bilan5">
+    <a markdown id="bilan5">
 
 
     Les spermatozoïdes et les ovules sont des gamètes (=cellules reproductrices).
@@ -281,7 +278,7 @@ Rédiger un texte accompagne d'un schéma à la mère d'Amina grâce auxquels vo
 
 ??? abstract "Bilan"
 
-    <a id="bilan6">
+    <a markdown id="bilan6">
 
     La division cellulaire permet la formation de nouvelles cellules qui vont permettre la formation d'un nouvel être vivant et le renouvellement de ses cellules.
 
@@ -309,7 +306,7 @@ Les résultats sont surprenants et modifient les conclusions de l'enquête.
 
 ??? abstract "Bilan"
 
-    <a id="bilan7">
+    <a markdown id="bilan7">
 
     Une mutation est une modification de l’ADN d’un gène. Elles sont rares. Elles peuvent être à l’origine de nouveaux caractères et modifier le phénotype.
 
