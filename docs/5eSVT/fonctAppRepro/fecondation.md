@@ -25,13 +25,13 @@
 
 
 <div markdown style="display:flex; flex-direction:row;">
-<div markdown style="display:flex; flex-direction:row; flex: 1 1 0;">
+<div markdown style="display:flex; flex-direction:column; flex: 1 1 0;">
 
 **Document 1 Le cycle féminin théorique.**
 
 ![](Pictures/schemaCycleMenstruel2.png)
 </div>
-<div markdown style="display:flex; flex-direction:row;flex: 2 1 0;">
+<div markdown style="display:flex; flex-direction:column;flex: 2 1 0;">
 
 **Document 2 La durée de vie moyenne des cellules reproductrices dans l’appareil génital féminin.**
 
