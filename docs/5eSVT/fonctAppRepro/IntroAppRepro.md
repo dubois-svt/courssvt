@@ -87,29 +87,17 @@
 
     ![](Pictures/photosEtapesEmbryo.jpg)
 
-    ![](Pictures/trajetSpz.png)
-
-    Lors d’un rapport sexuel, des millions de spermatozoïdes sont déposés dans le vagin de la femme. Ces spermatozoïdes survivront 72 h environ.
-    Cet ovule survit de 24 à 48 h.
-
-    Cependant, seule une centaine de spermatozoïdes arrivent à traverser le col de l’utérus (situé entre le vagin et la cavité de l’utérus). Ils remontent dans l’utérus et se dirigent vers les deux trompes.
-
-    Lorsque le rapport sexuel a lieu quelques jours avant ou après l’ovulation, un spermatozoïde peut s’unir avec l’ovule : c’est la fécondation.
-
-    ![](Pictures/schemaFecNidation.png)
-
-    
-    Seul un spermatozoïde pourra pénétrer dans l’ovule  (= ovocyte) : c’est la fécondation. Les deux noyaux des gamètes (= cellules reproductrices : spermatozoïde et ovule) fusionnent pour former une nouvelle cellule : la cellule-œuf.
-
-    La cellule-œuf se divise ensuite en 2 cellules, puis 4 cellules et ainsi de suite, pour former un embryon de plusieurs cellules .
 
 
+    ![alt text](image-4.png)
 
 ??? abstract "Bilan"
 
     <a markdown id="bilan3">
     
     Lorsque le rapport sexuel a lieu quelques jours avant ou après l’ovulation, un spermatozoïde peut s’unir avec l’ovule : c’est la fécondation.
+
+    La fécondation a lieu dans une des trompes.
 
     Cette union permet la formation de la *cellule-œuf*. Cette cellule-œuf se divise de nombreuses fois pour former un *embryon*.
 
