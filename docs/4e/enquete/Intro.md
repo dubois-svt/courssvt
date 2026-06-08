@@ -168,54 +168,53 @@ Un des parents indique que votre raisonnement est incorrect, si tous les humains
 
 [Activité : Exercices sur les allèles](../exoAlleles)
 
+??? abstract "Bilan"
 
+
+
+    Les différentes versions d'un gène sont appelées ............... Il détermine une version différente du caractère.
+    
+    Chaque personne a donc ...... allèles de chaque gène : 
+    
+    - Qui peuvent être identiques, l’individu est homozygote pour ce gène. 
+    - Qui peuvent être différents, l’individu est hétérozygote pour ce gène. 
+    
+    Si les deux allèles sont différents : 
+    
+    - Les deux peuvent s’exprimer, ils sont codominants. 
+    - Un seul allèle s’exprime, il est dominant et l’autre est récessif.
+    
+    Tous les individus ont les mêmes ............. La diversité humaine est possible grâce à l’existence de ces ............ Chaque individu est un assemblage d’allèles différents. Cette diversité est appelée biodiversité allélique. L’ensemble des allèles d’un individu est appelé génotype.
+    
+    Le génotype détermine une partie du ..............
+    
+    génotype <=> phénotype
+    
+    .......  <=>  ........
 ??? abstract "Bilan"
 
     <a markdown id="bilan4">
 
-    === "Bilan à trous"
 
-        Les différentes versions d'un gène sont appelées ............... Il détermine une version différente du caractère.
-    
-        Chaque personne a donc ...... allèles de chaque gène : 
-    
-        - Qui peuvent être identiques, l’individu est homozygote pour ce gène. 
-        - Qui peuvent être différents, l’individu est hétérozygote pour ce gène. 
-    
-        Si les deux allèles sont différents : 
-    
-        - Les deux peuvent s’exprimer, ils sont codominants. 
-        - Un seul allèle s’exprime, il est dominant et l’autre est récessif.
-    
-        Tous les individus ont les mêmes ............. La diversité humaine est possible grâce à l’existence de ces ............ Chaque individu est un assemblage d’allèles différents. Cette diversité est appelée biodiversité allélique. L’ensemble des allèles d’un individu est appelé génotype.
-    
-        Le génotype détermine une partie du ..............
-    
-        génotype <=> phénotype
-    
-        .......  <=>  ........
+    Les différentes versions d'un gène sont appelées "allèles". Il détermine une version différente du caractère.
 
-    === "Bilan"
+    Chaque personne a donc deux allèles de chaque gène : 
 
-        Les différentes versions d'un gène sont appelées "allèles". Il détermine une version différente du caractère.
+    - Qui peuvent être identiques, l’individu est homozygote pour ce gène. 
+    - Qui peuvent être différents, l’individu est hétérozygote pour ce gène. 
 
-        Chaque personne a donc deux allèles de chaque gène : 
+    Si les deux allèles sont différents : 
 
-        - Qui peuvent être identiques, l’individu est homozygote pour ce gène. 
-        - Qui peuvent être différents, l’individu est hétérozygote pour ce gène. 
+    - Les deux peuvent s’exprimer, ils sont codominants. 
+    - Un seul allèle s’exprime, il est dominant et l’autre est récessif.
 
-        Si les deux allèles sont différents : 
+    Tous les individus ont les mêmes gènes. La diversité humaine est possible grâce à l’existence de ces allèles. Chaque individu est un assemblage d’allèles différents. Cette diversité est appelée biodiversité allélique. L’ensemble des allèles d’un individu est appelé génotype.
 
-        - Les deux peuvent s’exprimer, ils sont codominants. 
-        - Un seul allèle s’exprime, il est dominant et l’autre est récessif.
+    Le génotype détermine une partie du phénotype.
 
-        Tous les individus ont les mêmes gènes. La diversité humaine est possible grâce à l’existence de ces allèles. Chaque individu est un assemblage d’allèles différents. Cette diversité est appelée biodiversité allélique. L’ensemble des allèles d’un individu est appelé génotype.
+    génotype <=> phénotype
 
-        Le génotype détermine une partie du phénotype.
-
-        génotype <=> phénotype
-
-        A/B <=> [AB]
+    A/B <=> [AB]
 
         [Vidéo bilan ](https://www.youtube.com/watch?%E2%80%A6&v=H9tz0GJNw2c&feature=youtu.be)
         
