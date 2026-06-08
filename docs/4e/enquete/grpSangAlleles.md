@@ -24,7 +24,7 @@
     2. Repérer la localisaiton de ce gène sur les chromosomes
     3. Placer le gène surle chromosome en le représentant par un trait de couleur.
 
-    Attention : un gène est présent en ..... exemplauire sur les chromosomes d'une même paire (=chromosome ....................)
+    Attention : un gène est présent en ..... exemplaires sur les chromosomes d'une même paire
 
 
 **Document 1 Les différentes versions du gène responsable du groupe sanguin ABO.**
@@ -47,7 +47,7 @@ Les chromosomes allant par paire, chaque individu possède deux versions de chaq
 
 Tous les allèles ne s'expriment pas. Dans le cas des groupes sanguins, l'allèle A et l'allèle B s'expriment toujours. On dit qu'ils sont dominants. L'allèle O ne s'exprime pas toujours. On dit qu'il est récessif.
 
-Si on possède par exemple les allèles A et O, l'allèle A entraine la fabrication de marqueur 1, on est de groupe A (et pas AO). Ainsi, pour être de groupe O, il ne faut fabriquer aucun marqueur. Il faut donc posséder deux fous l'allèle O.
+Si on possède par exemple les allèles A et O, l'allèle A entraine la fabrication de marqueur 1, on est de groupe A (et pas AO). Ainsi, pour être de groupe O, il ne faut fabriquer aucun marqueur. Il faut donc posséder deux fois l'allèle O.
 
 
 </div>
