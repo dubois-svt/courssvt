@@ -17,8 +17,8 @@
     - plaque de test des groupes sanguins
     - 2 cure-dents rouges
     -  flacon noté « ? » contenant un mélange eau + colorant rouge + sulfate de zinc à 0,1 mol.L-1 mimant du sang de groupe inconnu.
-    - 1 flacon noté « aA » de solution de soude incolore mimant du sérum avec des anticorps anti-A
-    - 1 flacon noté « aB » de solution d’eau incolore mimant du sérum avec des anticorps anti-B
+    - 1 flacon noté « aB » de solution de soude incolore mimant du sérum avec des anticorps anti-A
+    - 1 flacon noté « aA » de solution d’eau incolore mimant du sérum avec des anticorps anti-B
     - 3 pipettes plastiques notées « ? », « aA » et « aB »
 
     
