@@ -8,7 +8,7 @@
 !!! warning "Consignes"
 
     1. Pour chaque composant du document 2, indiquer s'il permet de réaliser la fonction de communiquer ou acquérir
-    2. Envous aidant du document 3, compléter le document 4, en indiquant dans la chaine d'information les composants du mBot
+    2. En vous aidant du document 3, compléter le document 4, en indiquant dans la chaine d'information les composants du mBot
     
 ??? bug "Critères de réussite"
     - 
