@@ -43,7 +43,7 @@
 
 !!! question "Problématique"
 
-        Quelles sont les relations de parentés entre l’espèce humaine et les autres espèces ?
+    Quelles sont les relations de parentés entre l’espèce humaine et les autres espèces ?
 
 
 [Activité La lignée humaine](../evolHum)
