@@ -163,6 +163,7 @@
 ??? abstract "Bilan"
 
     <a markdown id="bilan1">
+    
     Les IST (Infections Sexuellement Transmissibles) sont des maladies parfois graves provoquées par des micro-organismes pathogènes (virus, bactéries…)
 
     Les IST se transmettent lors de rapports sexuels et peuvent toucher les hommes ou les femmes.
