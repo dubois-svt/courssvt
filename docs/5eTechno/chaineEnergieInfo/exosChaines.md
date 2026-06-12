@@ -40,3 +40,22 @@ Un relais qui autorise le passage du courant est branché à un moteur.
 Ce moteur est relié à des engrenages et une crémaillère pour entrainer l'ouverture de la porte
 
 ![](portail.png)
+
+
+??? note-prof "correction"
+
+    exercice 1 
+
+    Consigne 1 :
+    Cerf-volant utilise de l’énergie cinétique 
+    four solaire  utilise de l’énergie lumineuse ou thermique, 
+    Console de jeu  utilise de l’énergie électrique 
+
+    ![alt text](pictures/correctionExo1.png)
+
+    exercice 2
+    <table><thead><tr><th rowspan="2">Elément</th><th colspan="3">Chaine d'information</th><th colspan="4">Chaine d'énergie</th></tr><tr><th>Acquérir</th><th>Traiter</th><th>Communiquer</th><th>Alimenter</th><th>Distribuer</th><th>Convertir</th><th>Transmettre</th></tr></thead><tbody><tr><td>Détecteur de fumée</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Buzzer</td><td></td><td></td><td>x</td><td></td><td></td><td></td><td></td></tr><tr><td>Capteur à ultrasons</td><td>x</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>batterie</td><td></td><td></td><td></td><td>x</td><td></td><td></td><td></td></tr><tr><td>Signal Wifi</td><td></td><td></td><td>x</td><td></td><td></td><td></td><td></td></tr><tr><td>Microprocesseur</td><td></td><td>x</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>relais</td><td></td><td></td><td></td><td></td><td>x</td><td></td><td></td></tr>
+    <tr><td>Courroie</td><td></td><td></td><td></td><td></td><td></td><td></td><td>x</td></tr><tr><td>Vérin</td><td></td><td></td><td></td><td></td><td></td><td>x</td><td></td></tr></tbody></table>
+
+    Exercice 3
+    ![alt text](pictures/correctExo3.png)

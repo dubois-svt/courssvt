@@ -63,7 +63,7 @@
 
     - Acquérir (capteurs), 
     - Traiter (microcontrôleur ou microprocesseur) et
-    - Communiquer à des actionneurs (moteur ...) ou humain
+    - Communiquer à des actionneurs comme un moteur (câble) ou humain (LED)
 
     Les chaines d'énergie et d'informations permettent de comprendre le fonctionnement d'un OST automatisé.
 

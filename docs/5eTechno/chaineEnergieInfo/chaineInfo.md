@@ -80,5 +80,21 @@ Dans une chaine d'information, il y a différents éléments qui servent à:
 
 ![](pictures/chainesInfoEnergiemBot.png)
 
-
 </div>
+
+
+??? note-prof "correction"
+
+    Consigne 1 :
+
+    Interrupteur Acquérir
+    Compteur de vitesse Communiquer
+    Sirène Communiquer
+    Clavier Acquérir
+    Station météo Acquérir
+    Ecran LED Communiquer
+    capteur ultrason Acquérir
+
+    Consigne 2 :
+    ![](pictures/correctChainesmBot.png)
+
