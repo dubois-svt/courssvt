@@ -34,16 +34,14 @@ De plus, il faut appliquer des consignes de sécurité pour ne pas se blesser.
 | objet |  problème constaté  |  panne identifiée  | réparation effectuée |
 |---|---|---|---|
 | Ventillateur 1 |   |   |   |
-| Ventillateur 1 |   |   |   |
-| Ventillateur 1 |   |   |   |
-| Ventillateur 1 |   |   |   |
-| Ventillateur 1 |   |   |   |
-
+| Ventillateur 2 |   |   |   |
+| Ventillateur 3 |   |   |   |
+| Ventillateur 4 |   |   |   |
+| Ventillateur 5 |   |   |   |
 | Lampe 6  |   |   |   |
 | Lampe 5  |   |   |   |
-|  |   |   |   |
-
+| Lampe 4 |   |   |   |
 | mBot |   |   |   |
 
 
-![alt text](image-1.png)
+![Fiche démontage lampe](image-1.png)

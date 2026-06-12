@@ -16,12 +16,6 @@
 [Activité Identification de la panne](../identifPanne)
 
 
-- ordinateur qui bip
-- appareil qui clignotent
-- appareil cassé
-- bruit à l'intérieur suspect
-- 
-
 ??? abstract "Bilan"
 
     <a markdown id="bilan1">
@@ -64,50 +58,3 @@
 
     </a>
 
-
-
-
-
-# 
-
-## Repères de progressivité
-
-- Repérer visuellement une pièce défectueuse
-- Réaliser une réparation en suivant un protocole fourni
-- Découvrir les procédés de réalisation présents dans un atelier de fabrication collaboratif
-
-## Connaissances
-
-- La fiabilité, la durabilité, l’indice de réparabilité ;
-- Les règles usuelles de sécurité et de mise en œuvre des moyens de réalisation au sein d’un atelier de fabrication collaboratif ;
-  - les équipements de protection individuelle ;
-  - l’outillage manuel ;
-  - l’appareillage de prototypage, de réalisation, de fabrication.
-- La technologie et les caractéristiques des composants à remplacer : capteurs, actionneurs, composants, microcontrôleurs, générateurs ;
-- Les procédés d’obtention de pièce (ajout et enlèvement de matière), de mise en forme (pliage, thermoformage) et d’assemblage (fixe et démontable) ;
-- Les moyens de production : découpe au laser, centre d’usinage, fabrication additive (imprimante 3D) ;
-- Les moyens de prototypage électronique : plaque d’essai, fils, composants électroniques, générateurs ;
-- Les modes de sollicitation des matériaux (flexion, torsion) ;
-- Les conductibilités électrique et thermique ; la disponibilité, la valorisation, le recyclage des matériaux.
-  Liens avec le CRCN
-- Information et données : mener une recherche ou une veille d’information
-
-## Bilan
-
-### Dysfonctionnement
-
-
-
-### 
-
-
-
-### Procédés de fabrication
-
-Il existe deux grans procédés d efabrication d'une pièce:
-
-- avec ajout de matière (impression 3D; moulage)
-
-- sans ajout de matière (découpage; usinage qui consiste à enlever de la matière)
-
-Pour chaque procédé, il existe un nombre important de machines-outils et d'outillages manuels dédiés. Afin  de les utiliser en sécurtité, il est important d'être muni d'équipement de protection individuelle (EPI) adaptés. Parmi ceux-ci, on trouve le masque, le casque, les lunettes, les chaussures, la combinaison et le casque anti-bruit
