@@ -42,11 +42,11 @@ On appelle cycle cellulaire un ensemble de deux phases : la phase de préparatio
 
 on a mesuré la masse d'ADN (donc la masse de matériel chromosomique) contenue dans une cellule au cours du temps. Les résultats sont donnés dans le tableau ci-dessous.
 
-La cellule réalise une mitose (division cellulaire) entre 10 et 11H
+La cellule réalise une mitose (division cellulaire) après 11h.
 
-|Temps (h) |0 |1 |2 |3 | 4 |5 |6 |7 |8 |9 |10 | 11|12|13|
+|Temps (h) |0 | 4 |8 |9 |10 | 11| 11|12|13|
 |------------------------------------ |---- |---- |----| ----| -----| -----| ---- |----| ----| ----| ---- |----|
-|Quantité d'ADN par cellule (en pg) | 6,6 | 6,6 | 6,6 | 6,6 | 8,2 | 
+|Quantité d'ADN par cellule (en pg) | 6,6 | 6,6 | 6,6 | 10 | 13,2 | 13,2  | 6,6 | 6,6| 6,6 | 
 
 
 ![](photoGenialy/PXL_20250109_131743200.jpg)
