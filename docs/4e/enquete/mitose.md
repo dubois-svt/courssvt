@@ -44,9 +44,9 @@ on a mesuré la masse d'ADN (donc la masse de matériel chromosomique) contenue 
 
 La cellule réalise une mitose (division cellulaire) après 11h.
 
-|Temps (h)                          |0     | 4  |8   |9    |10    | 11   | 11   |12   |13|
-|---------------------------------- |---- |---- |----| ----| -----| -----| ---- |----| ----| 
-|Quantité d'ADN par cellule (en pg) | 6,6 | 6,6 | 6,6 | 10 | 13,2 | 13,2  | 6,6 | 6,6| 6,6 | 
+|Temps (h)                          |0    | 4   |8    |9    |10    | 11   | 11   |12  |
+|---------------------------------- |---- |---- |----| ----| -----| -----| ---- |----| 
+|Quantité d'ADN par cellule (en pg) | 6,6 | 6,6 | 6,6 | 10 | 13,2 | 13,2 |  6,6 | 6,6| 
 
 
 ![](photoGenialy/PXL_20250109_131743200.jpg)
