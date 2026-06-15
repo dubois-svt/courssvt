@@ -33,14 +33,14 @@ De plus, il faut appliquer des consignes de sécurité pour ne pas se blesser.
 
 | objet |  problème constaté  |  panne identifiée  | réparation effectuée |
 |---|---|---|---|
-| Ventillateur 1 |   |   |   |
-| Ventillateur 2 |   |   |   |
-| Ventillateur 3 |   |   |   |
-| Ventillateur 4 |   |   |   |
-| Ventillateur 5 |   |   |   |
-| Lampe 6  |   |   |   |
+| Ventilateur 1 |   |   |   |
+| Ventilateur 2 |   |   |   |
+| Ventilateur 3 |   |   |   |
+| Ventilateur 4 |   |   |   |
+| Ventilateur 5 |   |   |   |
+| Lampe 3  |   |   |   |
 | Lampe 5  |   |   |   |
-| Lampe 4 |   |   |   |
+| Lampe 6 |   |   |   |
 | mBot |   |   |   |
 
 
