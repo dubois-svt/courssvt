@@ -7,7 +7,7 @@
 
 !!! warning "Consignes"
 
-    Pour chaque OST, indentifier la panne et suivre le protocole de réparation. Recopier et compléter le tableau au fur et mesure des répartion
+    Pour chaque OST, indentifier la panne et suivre le protocole de réparation. Recopier et compléter le tableau au fur et à mesure des réparations.
     
 ??? bug "Critères de réussite"
     - 
