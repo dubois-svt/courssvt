@@ -13,7 +13,7 @@
 
     Quels éléments peuvent nous indiquer une panne
 
-[Activité Identification de la panne](../identifPanne)
+
 
 
 ??? abstract "Bilan"
@@ -37,9 +37,8 @@
 !!! question "Problématique"
 
     Comment réparer un objet ? 
-
-[Activité La chaine d'information](../chaineInfo)
-
+    
+[Activité Identification de la panne](../identifPanne)
 
 
 
