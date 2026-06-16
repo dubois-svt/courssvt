@@ -45,3 +45,18 @@ De plus, il faut appliquer des consignes de sécurité pour ne pas se blesser.
 
 
 ![Fiche démontage lampe](image-1.png)
+
+
+??? note-prof "pannes"
+
+| objet |  problème constaté  |  panne identifiée  | réparation effectuée |
+|---|---|---|---|
+| Ventilateur 1 | pale mal mise  |   |   |
+| Ventilateur 2 | bouton cassé  |   |   |
+| Ventilateur 3 | pale casée  |   |   |
+| Ventilateur 4 | pile débranchée  |   |   |
+| Ventilateur 5 |  pile vide |   |   |
+| Lampe 3  | fil a replacer  |   |   |
+| Lampe 5  |  optique à changer |   |   |
+| Lampe 6 |  engranage à changer  |   |   |
+| mBot | moteur à revisser  |   |   |
