@@ -22,7 +22,7 @@
 
     Les objets techniques peuvent cesser de fonctionner. 
 
-    Dans certains cas, il ets possible d'identifier un dysfonctionnement possible à la vue d'une pièce usée ou endommagée.
+    Dans certains cas, il est possible d'identifier un dysfonctionnement à la vue d'une pièce usée ou endommagée.
 
     Mais il peut arriver que les objets techniques utilisent, pour nous communiquer leurs dysfonctionnements, différents signaux:
 
