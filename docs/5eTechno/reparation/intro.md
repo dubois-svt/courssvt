@@ -38,7 +38,7 @@
 
     Comment réparer un objet ? 
     
-[Activité Identification de la panne](../identifPanne)
+[Activité Identification de la panne](../identifiPanne)
 
 
 
