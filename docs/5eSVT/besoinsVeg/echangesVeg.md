@@ -40,7 +40,7 @@ Pour travailler sur les plantes plantes et par exemple analyser la sève des pla
 Pour travailler sur les gaz échangés par les êtres vivants, on trouve une enceinte dans laquelle on peut mettre différents êtres vivants et différentes sondes de mesures. 
 </div>
 <div markdown style="display:flex; flex:1 1 0;">
-![](pictures/biolabThyp.png){: style="width:100px; flex-shrink: 0;  " }
+![](pictures/biolabThyp.png){: style="width:75px; flex-shrink: 0;  " }
 
 </div>
 </div>
