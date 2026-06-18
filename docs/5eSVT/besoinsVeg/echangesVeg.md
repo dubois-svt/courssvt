@@ -30,7 +30,7 @@ Le site [THYP](https://thyp.netlify.app/) permet de simuler différentes expéri
 Pour travailler sur les plantes plantes et par exemple analyser la sève des plantes, on trouve un jeune plant de tomate. 
 </div>
 <div markdown style="display:flex; flex:1 1 0;">
-![](pictures/plantThyp.png){: style="width:200px; flex-shrink: 0;  " }
+![](pictures/plantThyp.png){: style="width:100px; flex-shrink: 0;  " }
 
 </div>
 </div>
@@ -40,7 +40,7 @@ Pour travailler sur les plantes plantes et par exemple analyser la sève des pla
 Pour travailler sur les gaz échangés par les êtres vivants, on trouve une enceinte dans laquelle on peut mettre différents êtres vivants et différentes sondes de mesures. 
 </div>
 <div markdown style="display:flex; flex:1 1 0;">
-![](pictures/biolabThyp.png){: style="width:200px; flex-shrink: 0;  " }
+![](pictures/biolabThyp.png){: style="width:100px; flex-shrink: 0;  " }
 
 </div>
 </div>
@@ -56,9 +56,9 @@ Pour travailler sur les gaz échangés par les êtres vivants, on trouve une enc
 <div markdown style="display:flex; flex-direction:row;">
 <div markdown style="display:flex; flex:1 1 0;">
 
-![Symbole d'un comburant](pictures/symboleComburant.png){: style="width:200px; flex-shrink: 0;  " }
+![Symbole d'un comburant](pictures/symboleComburant.png){: style="width:75px; flex-shrink: 0;  " }
 </div>
-<div markdown style="display:flex; flex:3 1 0;">
+<div markdown style="display:flex; flex:4 1 0;">
 
 Lors d'un incendie, il est conseillé de fermer les portes et les fenêtres si on a le temps, pour éviter l'entrée de dioxygène qui est un comburant.
  Un comburant permet la combustion des objets. Une combustion vive forme une flamme ou une explosion.
