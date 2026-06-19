@@ -1,0 +1,3541 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.3-beta (cedbd6c6ff, 2023-05-28)"
+   sodipodi:docname="algorigramme.svg"
+   inkscape:export-filename="/home/mica/algorigramme.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-bbox="false"
+     inkscape:zoom="0.22627418"
+     inkscape:cx="638.60578"
+     inkscape:cy="2088.1746"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2">
+    <rect
+       x="111.6758"
+       y="502.66701"
+       width="26.306083"
+       height="72.163966"
+       id="rect285573" />
+    <marker
+       style="overflow:visible;"
+       id="marker178221"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path177981" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round"
+         id="path47129" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker87336"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path87334" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker47421"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path47419" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         id="path47132" />
+    </marker>
+    <rect
+       x="348.54473"
+       y="258.92838"
+       width="169.90541"
+       height="64.157792"
+       id="rect7606" />
+    <rect
+       x="348.54474"
+       y="258.92838"
+       width="169.90541"
+       height="64.157791"
+       id="rect7606-2" />
+    <rect
+       x="348.54474"
+       y="258.92838"
+       width="169.90541"
+       height="64.157791"
+       id="rect7606-8" />
+    <rect
+       x="348.54474"
+       y="258.92838"
+       width="169.90541"
+       height="64.157791"
+       id="rect7606-2-8" />
+    <marker
+       style="overflow:visible"
+       id="marker47421-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47643"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47641" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47647"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47645" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47651"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47649" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47655"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47653" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47132-0" />
+    </marker>
+    <rect
+       x="348.54474"
+       y="258.92838"
+       width="169.90541"
+       height="64.157791"
+       id="rect7606-1" />
+    <rect
+       x="348.54474"
+       y="258.92838"
+       width="169.90541"
+       height="64.157791"
+       id="rect7606-2-6" />
+    <marker
+       style="overflow:visible"
+       id="marker47421-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47643-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47641-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47647-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47645-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47651-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47649-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47655-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47653-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47132-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-0-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-0-4-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2-9-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-0-4-3-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2-9-5-2" />
+    </marker>
+    <rect
+       x="348.54474"
+       y="258.92838"
+       width="169.90541"
+       height="64.157791"
+       id="rect7606-2-5" />
+    <rect
+       x="348.54474"
+       y="258.92838"
+       width="169.90541"
+       height="64.157791"
+       id="rect7606-2-5-9" />
+    <rect
+       x="348.54474"
+       y="258.92838"
+       width="169.90541"
+       height="64.157791"
+       id="rect7606-8-1" />
+    <marker
+       style="overflow:visible"
+       id="marker47421-0-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-0-4-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2-9-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-0-4-3-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2-9-5-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-0-4-3-9-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2-9-5-2-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47129-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-27" />
+    </marker>
+    <rect
+       x="348.54474"
+       y="258.92838"
+       width="169.90541"
+       height="64.157791"
+       id="rect7606-2-5-0" />
+    <rect
+       x="348.54474"
+       y="258.92838"
+       width="169.90541"
+       height="64.157791"
+       id="rect7606-8-6" />
+    <marker
+       style="overflow:visible"
+       id="marker47421-0-26"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-0-4-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2-9-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-0-4-3-92"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2-9-5-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-0-4-3-9-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2-9-5-2-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart-75"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47129-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart-75-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47129-9-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-65"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-69" />
+    </marker>
+    <rect
+       x="348.54474"
+       y="258.92838"
+       width="169.90541"
+       height="64.157791"
+       id="rect7606-8-6-3" />
+    <marker
+       style="overflow:visible"
+       id="marker47421-0-26-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2-1-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-0-4-8-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2-9-7-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-0-4-3-92-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2-9-5-0-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart-75-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47129-9-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker178221-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path177981-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-0-4-3-92-5-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2-9-5-0-4-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-0-4-3-92-5-0-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2-9-5-0-4-6-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-0-4-3-92-5-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2-9-5-0-4-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-0-4-3-92-5-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2-9-5-0-4-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47129-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-0-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2-3" />
+    </marker>
+    <rect
+       x="111.6758"
+       y="502.66702"
+       width="26.306084"
+       height="72.163963"
+       id="rect285573-5" />
+    <marker
+       style="overflow:visible"
+       id="marker47421-0-4-3-92-5-0-5-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2-9-5-0-4-6-9-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-0-4-3-92-5-1-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2-9-5-0-4-5-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-0-4-3-92-5-9-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2-9-5-0-4-1-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-0-4-3-92-5-0-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2-9-5-0-4-6-93" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-0-4-3-92-5-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2-9-5-0-4-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-0-26-7-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2-1-4-2" />
+    </marker>
+    <rect
+       x="348.54474"
+       y="258.92838"
+       width="169.90541"
+       height="64.157791"
+       id="rect7606-8-6-3-6" />
+    <marker
+       style="overflow:visible"
+       id="marker178221-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path177981-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart-75-79"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47129-9-20" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-0-4-3-92-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2-9-5-0-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-0-4-8-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2-9-7-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-0-26-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2-1-2" />
+    </marker>
+    <rect
+       x="348.54474"
+       y="258.92838"
+       width="169.90541"
+       height="64.157791"
+       id="rect7606-8-6-2" />
+    <marker
+       style="overflow:visible"
+       id="marker47421-0-2-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2-2-9" />
+    </marker>
+    <rect
+       x="348.54474"
+       y="258.92838"
+       width="169.90541"
+       height="64.157791"
+       id="rect7606-8-1-7" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart-3-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47129-6-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47129-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-0-4-3-9-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2-9-5-2-31" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-0-4-3-94"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2-9-5-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-0-4-84"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-2-9-50" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker9482"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path9480" />
+    </marker>
+    <rect
+       x="348.54474"
+       y="258.92838"
+       width="169.90541"
+       height="64.157791"
+       id="rect7606-8-3" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47132-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-5-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-6-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-7-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-5-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-6-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-1-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-15"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-54" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker9497"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path9495" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker9501"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path9499" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker9505"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path9503" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker47421-1-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path47419-27-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker9511"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path9509" />
+    </marker>
+    <rect
+       x="348.54474"
+       y="258.92838"
+       width="169.90541"
+       height="64.157791"
+       id="rect7606-2-5-5" />
+    <rect
+       x="348.54474"
+       y="258.92838"
+       width="169.90541"
+       height="64.157791"
+       id="rect7606-2-69" />
+    <rect
+       x="348.54474"
+       y="258.92838"
+       width="169.90541"
+       height="64.157791"
+       id="rect7606-3" />
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
+       id="rect31"
+       width="54.151699"
+       height="22.548626"
+       x="83.021568"
+       y="62.934586"
+       ry="8.9746885"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/rect31.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,7.9298765,2.8335812)"
+       id="text7604"
+       style="font-size:24px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;white-space:pre;shape-inside:url(#rect7606)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/rect31.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="348.54492"
+         y="280.76474"
+         id="tspan1">Début</tspan></text>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect31-0"
+       width="54.151699"
+       height="22.548626"
+       x="93.561508"
+       y="364.93747"
+       ry="8.9746885"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/rect31.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,18.46982,304.83648)"
+       id="text7604-3"
+       style="font-size:24px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;white-space:pre;shape-inside:url(#rect7606-2)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/rect31.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="348.54492"
+         y="280.76474"
+         id="tspan2">FIn</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,295.75814,172.22869)"
+       id="text7604-3-1"
+       style="font-size:24px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;white-space:pre;shape-inside:url(#rect7606-2-5)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="348.54492"
+         y="280.76474"
+         id="tspan3">Fin</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker47421);stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 111.59762,85.535118 0.0631,17.048552"
+       id="path18624"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/rect31.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.49875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-1)"
+       d="m 117.2017,121.79049 0.0631,19.61314"
+       id="path18624-09"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/rect31.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421)"
+       d="m 120.00538,348.64599 0.0631,15.36098"
+       id="path18624-82"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/rect31.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264602;stroke-opacity:1"
+       id="rect18648"
+       width="59.770397"
+       height="18.625744"
+       x="84.402374"
+       y="142.2627"
+       ry="0"
+       rx="0"
+       transform="matrix(1,0,0.01692277,0.9998568,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/rect31.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26459;stroke-opacity:1"
+       id="rect18648-0"
+       width="59.770397"
+       height="18.624006"
+       x="90.013992"
+       y="174.24387"
+       ry="0"
+       rx="0"
+       transform="matrix(1,0,-0.00999136,0.99995009,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/rect31.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26459;stroke-opacity:1"
+       id="rect18648-0-9"
+       width="59.770397"
+       height="18.624006"
+       x="86.581528"
+       y="103.23113"
+       ry="0"
+       rx="0"
+       transform="matrix(1,0,-0.00999136,0.99995009,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/rect31.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421)"
+       d="m 117.02041,193.55293 0.0631,17.04856"
+       id="path18624-8"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/rect31.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264619;stroke-opacity:1"
+       id="rect18648-2"
+       width="59.770397"
+       height="18.628174"
+       x="93.011887"
+       y="210.17334"
+       ry="0"
+       rx="0"
+       transform="matrix(1,0,-0.02338983,0.99972642,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/rect31.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26459;stroke-opacity:1"
+       id="rect18648-0-6"
+       width="59.770397"
+       height="18.624006"
+       x="510.19232"
+       y="235.1174"
+       ry="0"
+       rx="0"
+       transform="matrix(1,0,-0.00999136,0.99995009,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26459;stroke-opacity:1"
+       id="rect18648-0-6-6"
+       width="59.770397"
+       height="18.624006"
+       x="92.750389"
+       y="278.49915"
+       ry="0"
+       rx="0"
+       transform="matrix(1,0,-0.00999136,0.99995009,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/rect31.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.28468px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.220195"
+       x="107.06333"
+       y="124.50526"
+       id="text22028"
+       transform="scale(0.83223367,1.2015856)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/rect31.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan22026"
+         style="stroke-width:0.220195"
+         x="107.06333"
+         y="124.50526">Allumer les LED droite et </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.220195"
+         x="107.06333"
+         y="131.11111"
+         id="tspan29218">gauche en rouge</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.28468px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.220195"
+       x="109.991"
+       y="180.8204"
+       id="text22028-4"
+       transform="scale(0.83223367,1.2015856)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/rect31.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan22026-8"
+         style="stroke-width:0.220195"
+         x="109.991"
+         y="180.8204">Allumer les LED droite et </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.220195"
+         x="109.991"
+         y="187.42625"
+         id="tspan29218-9">gauche en vert</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.98363px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.249318"
+       x="96.628677"
+       y="174.8139"
+       id="text44424"
+       transform="scale(0.94230368,1.061229)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/rect31.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan44422"
+         style="stroke-width:0.249318"
+         x="96.628677"
+         y="174.8139">Attendre 1 seconde</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.98363px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.249318"
+       x="542.27441"
+       y="232.17323"
+       id="text44424-6"
+       transform="scale(0.94230368,1.061229)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan44422-8"
+         style="stroke-width:0.249318"
+         x="542.27441"
+         y="232.17323">Attendre 1 seconde</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421)"
+       d="m 114.71496,161.39298 0.10057,13.60256"
+       id="path46570"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/rect31.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421)"
+       d="m 535.93108,220.37281 -0.16401,14.42883"
+       id="path46572"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26459;stroke-opacity:1"
+       id="rect18648-0-6-5"
+       width="59.770397"
+       height="18.624006"
+       x="90.90226"
+       y="244.13942"
+       ry="0"
+       rx="0"
+       transform="matrix(1,0,-0.00999136,0.99995009,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/rect31.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.98363px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.249318"
+       x="97.216011"
+       y="240.67426"
+       id="text44424-6-5"
+       transform="scale(0.94230368,1.061229)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/rect31.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan44422-8-4"
+         style="stroke-width:0.249318"
+         x="97.216011"
+         y="240.67426">Attendre 1 seconde</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-6)"
+       d="m 116.55091,229.39436 -0.16401,14.42883"
+       id="path46572-7"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/rect31.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-7)"
+       d="m 118.15657,262.67168 -0.16401,14.42883"
+       id="path46572-3"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/rect31.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-5)"
+       d="m 117.51525,298.12131 -0.16401,14.42883"
+       id="path46572-2"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/rect31.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.266666;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 145.47745,329.81766 c 0,0 41.01523,-22.983 49.54489,-38.38084 10.12925,-18.28541 8.21631,-109.75814 -3.71134,-126.8179 -9.35493,-13.38009 -44.40714,-17.82662 -44.40714,-17.82662"
+       id="path46574"
+       sodipodi:nodetypes="cssc"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/rect31.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect31-8"
+       width="54.151699"
+       height="22.548626"
+       x="362.40887"
+       y="67.672844"
+       ry="8.9746885"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect31-8-4"
+       width="54.151699"
+       height="22.548626"
+       x="366.65588"
+       y="231.9238"
+       ry="8.9746885"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,287.31721,7.5718418)"
+       id="text7604-9"
+       style="font-size:24px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;white-space:pre;shape-inside:url(#rect7606-8)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="348.54492"
+         y="280.76474"
+         id="tspan4">Début</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-0)"
+       d="m 390.98495,90.273379 0.0631,17.048551"
+       id="path18624-0"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-0-4)"
+       d="m 393.92646,178.91709 0.0631,17.04855"
+       id="path18624-0-7"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-0-4-3)"
+       d="m 391.20926,125.77271 0.0631,17.04855"
+       id="path18624-0-7-0"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-0-4-3-9)"
+       d="m 394.47874,214.03626 0.0631,17.04855"
+       id="path18624-0-7-0-7"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264601;stroke-opacity:1"
+       id="rect18648-05"
+       width="59.770397"
+       height="18.625608"
+       x="363.758"
+       y="106.85083"
+       ry="0"
+       rx="0"
+       transform="matrix(1,0,-0.01648847,0.99986406,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264626;stroke-opacity:1"
+       id="rect18648-05-7"
+       width="59.770397"
+       height="18.629082"
+       x="371.88657"
+       y="196.48227"
+       ry="0"
+       rx="0"
+       transform="matrix(1,0,-0.02539001,0.99967762,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.24407px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.26017"
+       x="605.35004"
+       y="72.247139"
+       id="text22028-0"
+       transform="scale(0.60459576,1.6539977)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.26017"
+         x="605.35004"
+         y="72.247139"
+         id="tspan29218-2">Avancer avec vitesse à 50%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.0129px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.417203"
+       x="392.3829"
+       y="203.35597"
+       id="text22028-0-6"
+       transform="scale(0.96951627,1.0314422)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.417203"
+         x="392.3829"
+         y="203.35597"
+         id="tspan29218-2-1">Arrêter</tspan></text>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.377078;stroke-opacity:1"
+       id="rect76034"
+       width="32.309074"
+       height="31.051987"
+       x="374.47043"
+       y="-93.850082"
+       transform="matrix(0.84574704,0.53358406,-0.79451307,0.60724705,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.377078;stroke-opacity:1"
+       id="rect76034-3"
+       width="32.308998"
+       height="31.051987"
+       x="340.88599"
+       y="215.16582"
+       transform="matrix(0.84574704,0.53358406,-0.79451307,0.60724705,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/rect31.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.01196px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.208831"
+       x="524.56543"
+       y="113.99181"
+       id="text78540"
+       transform="scale(0.71789454,1.3929623)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.208831"
+         x="524.56543"
+         y="113.99181"
+         id="tspan82796">obstacle détecté </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.208831"
+         x="524.56543"
+         y="120.25677"
+         id="tspan97936">à moins de 10 </tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.213063;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lstart)"
+       d="m 418.59768,160.06088 c 0,0 20.93622,-8.02168 21.44408,-19.74107 0.49611,-11.44867 -13.88313,-23.772 -19.13805,-22.49861 v 0 0"
+       id="path87195"
+       sodipodi:nodetypes="csccc"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.104933;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lstart-3)"
+       d="m 305.27826,107.3507 c 0,0 20.32099,-1.94568 19.93003,-4.78825 -0.38195,-2.776913 -15.70633,-5.765973 -20.86359,-5.457108 v 0 0"
+       id="path87195-7"
+       sodipodi:nodetypes="csccc"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect31-8-5"
+       width="54.151699"
+       height="22.548626"
+       x="245.75148"
+       y="51.883614"
+       ry="8.9746885"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,170.65981,-8.2173858)"
+       id="text7604-9-4"
+       style="font-size:24px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;white-space:pre;shape-inside:url(#rect7606-8-1)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="348.54492"
+         y="280.76474"
+         id="tspan5">Début</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-0-2)"
+       d="m 274.32755,74.484156 0.0631,17.04855"
+       id="path18624-0-6"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264663;stroke-opacity:1"
+       id="rect18648-05-75"
+       width="59.770397"
+       height="18.634254"
+       x="241.70776"
+       y="91.101723"
+       ry="0"
+       rx="0"
+       transform="matrix(1,0,0.03462962,0.99940021,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.24407px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.26017"
+       x="412.39896"
+       y="62.701038"
+       id="text22028-0-9"
+       transform="scale(0.60459576,1.6539977)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.26017"
+         x="412.39896"
+         y="62.701038"
+         id="tspan29218-2-4">Avancer avec vitesse à 50%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.264583"
+       x="102.51475"
+       y="328.42242"
+       id="text2176"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/rect31.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan2174"
+         style="stroke-width:0.264583"
+         x="102.51475"
+         y="328.42242">Nombre de</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="102.51475"
+         y="336.35992"
+         id="tspan40020"> tour = 5?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.264583"
+       x="145.79384"
+       y="321.29733"
+       id="text6248"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/rect31.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan6246"
+         style="stroke-width:0.264583"
+         x="145.79384"
+         y="321.29733">Non</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.264583"
+       x="127.20144"
+       y="353.37119"
+       id="text8166"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/rect31.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan8164"
+         style="stroke-width:0.264583"
+         x="127.20144"
+         y="353.37119">oui</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.264583"
+       x="96.829277"
+       y="289.91394"
+       id="text11854"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/rect31.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan11852"
+         style="stroke-width:0.264583"
+         x="96.829277"
+         y="289.91394">ajouter 1 à tour</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;text-align:center;letter-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="117.45083"
+       y="112.19697"
+       id="text51192"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/rect31.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan51190"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="117.45083"
+         y="112.19697">Nombre de tour</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="117.45083"
+         y="120.13447"
+         id="tspan51194"> = 0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.264583"
+       x="395.81076"
+       y="184.83791"
+       id="text103616"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan103614"
+         style="stroke-width:0.264583"
+         x="395.81076"
+         y="184.83791">Oui</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.264583"
+       x="419.97101"
+       y="165.99051"
+       id="text103616-3"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan103614-6"
+         style="stroke-width:0.264583"
+         x="419.97101"
+         y="165.99051">Non</tspan></text>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect31-8-2"
+       width="54.151699"
+       height="22.548626"
+       x="503.57254"
+       y="63.893719"
+       ry="8.9746885"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,428.48086,3.792713)"
+       id="text7604-9-9"
+       style="font-size:24px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;white-space:pre;shape-inside:url(#rect7606-8-6)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="348.54492"
+         y="280.76474"
+         id="tspan6">Début</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-0-26)"
+       d="m 532.1486,86.494253 0.0631,17.048547"
+       id="path18624-0-73"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-0-4-8)"
+       d="m 535.09011,175.13796 0.0631,17.04855"
+       id="path18624-0-7-6"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-0-4-3-92)"
+       d="m 532.37291,121.99358 0.0631,17.04855"
+       id="path18624-0-7-0-1"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264597;stroke-opacity:1"
+       id="rect18648-05-9"
+       width="59.770397"
+       height="18.625061"
+       x="504.64639"
+       y="103.06815"
+       ry="0"
+       rx="0"
+       transform="matrix(1,0,-0.01459379,0.99989351,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.38227;stroke-opacity:1"
+       id="rect18648-05-7-3"
+       width="85.076378"
+       height="27.311468"
+       x="494.45605"
+       y="192.70634"
+       ry="0"
+       rx="0"
+       transform="matrix(1,0,0.00986685,0.99995132,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.24407px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.26017"
+       x="838.83441"
+       y="69.962296"
+       id="text22028-0-1"
+       transform="scale(0.60459576,1.6539977)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.26017"
+         x="838.83441"
+         y="69.962296"
+         id="tspan29218-2-9">Avancer avec vitesse à 50%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.5422px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.272591"
+       x="566.66882"
+       y="177.19774"
+       id="text22028-0-6-4"
+       transform="scale(0.88723517,1.1270969)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.272591"
+         x="566.66882"
+         y="177.19774"
+         id="tspan149704">Allumer le moteur gauche</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.272591"
+         x="566.66882"
+         y="185.37549"
+         id="tspan208248"> à 100% et éteindre </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.272591"
+         x="566.66882"
+         y="193.55324"
+         id="tspan223496">le moteur droite</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.52705px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.188627"
+       x="-129.83905"
+       y="142.9201"
+       id="text22028-0-6-4-3"
+       transform="scale(0.9448044,1.0584201)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.188627"
+         x="-129.83905"
+         y="142.9201"
+         id="tspan149704-6">Allumer le moteur droite</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.188627"
+         x="-129.83905"
+         y="148.57892"
+         id="tspan208248-5"> à 100% et éteindre </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.188627"
+         x="-129.83905"
+         y="154.23773"
+         id="tspan223496-6">le moteur gauche</tspan></text>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.377078;stroke-opacity:1"
+       id="rect76034-8"
+       width="32.309074"
+       height="31.051987"
+       x="462.70206"
+       y="-177.60202"
+       transform="matrix(0.84574704,0.53358406,-0.79451307,0.60724705,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.01196px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.208831"
+       x="721.20111"
+       y="111.2788"
+       id="text78540-4"
+       transform="scale(0.71789452,1.3929623)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.208831"
+         x="721.20111"
+         y="111.2788"
+         id="tspan82796-5">obstacle détecté </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.208831"
+         x="721.20111"
+         y="117.54375"
+         id="tspan97936-0">à moins de 10 </tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lstart-75)"
+       d="m 559.76133,156.28175 c 0,0 30.36855,-8.5549 31.10521,-21.05331 0.71964,-12.20969 -20.13784,-25.35219 -27.76024,-23.99416 v 0 0"
+       id="path87195-3"
+       sodipodi:nodetypes="csccc"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.253074;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker178221)"
+       d="m 503.67262,245.44195 c 0,0 -13.97653,-7.85259 -19.86241,-14.47487 -5.34373,-6.01229 -17.56271,-49.71876 -17.88938,-56.14935 -0.31911,-6.28202 3.73525,-42.56443 9.12506,-47.34125 9.03304,-10.04811 14.11548,-14.44836 25.4345,-14.74852"
+       id="path87195-3-0"
+       sodipodi:nodetypes="csscc"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.264583"
+       x="536.97443"
+       y="181.05879"
+       id="text103616-6"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan103614-1"
+         style="stroke-width:0.264583"
+         x="536.97443"
+         y="181.05879">Oui</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.264583"
+       x="561.13464"
+       y="162.21138"
+       id="text103616-3-0"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan103614-6-6"
+         style="stroke-width:0.264583"
+         x="561.13464"
+         y="162.21138">Non</tspan></text>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect31-8-2-8"
+       width="54.151699"
+       height="22.548626"
+       x="-240.67168"
+       y="49.157936"
+       ry="8.9746885"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-310.88942,-11.607425)"
+       id="text7604-9-9-8"
+       style="font-size:24px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;white-space:pre;shape-inside:url(#rect7606-8-6-3)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="348.54492"
+         y="280.76474"
+         id="tspan7">Début</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-0-26-7)"
+       d="m -212.29964,71.094116 0.0631,17.048543"
+       id="path18624-0-73-4"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-0-4-3-92-5)"
+       d="m -207.5746,130.49257 0.0631,17.04855"
+       id="path18624-0-7-0-1-1"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.474211;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-0-4-3-92-5-0)"
+       d="m -164.27059,108.36683 17.97464,-0.23593"
+       id="path18624-0-7-0-1-1-1"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264611;stroke-opacity:1"
+       id="rect18648-05-9-4"
+       width="59.770397"
+       height="18.626987"
+       x="-225.80098"
+       y="148.49174"
+       ry="0"
+       rx="0"
+       transform="matrix(1,0,-0.02048817,0.9997901,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264591;stroke-opacity:1"
+       id="rect18648-05-7-3-9"
+       width="59.770397"
+       height="18.624262"
+       x="-123.89442"
+       y="146.51053"
+       ry="0"
+       rx="0"
+       transform="matrix(1,0,-0.01127779,0.9999364,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.52705px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.188627"
+       x="-13.831724"
+       y="141.64503"
+       id="text22028-0-6-4-3-3"
+       transform="scale(0.94480443,1.0584201)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.188627"
+         x="-13.831724"
+         y="141.64503"
+         id="tspan149704-6-9">Allumer le moteur gauche</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.188627"
+         x="-13.831724"
+         y="147.30385"
+         id="tspan208248-5-4"> à 100% et éteindre </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.188627"
+         x="-13.831724"
+         y="152.96266"
+         id="tspan223496-6-8">le moteur droite</tspan></text>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2646;stroke-opacity:1"
+       id="rect18648-05-7-3-9-1"
+       width="59.770397"
+       height="18.62542"
+       x="-13.597813"
+       y="145.16989"
+       ry="0"
+       rx="0"
+       transform="matrix(1,0,-0.01585751,0.99987426,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.24407px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.26017"
+       x="-371.40747"
+       y="97.554008"
+       id="text22028-0-1-2"
+       transform="scale(0.60459576,1.6539977)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.26017"
+         x="-371.40747"
+         y="97.554008"
+         id="tspan29218-2-9-0">Avancer avec vitesse à 50%</tspan></text>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.599303;stroke-opacity:1"
+       id="rect76034-8-2"
+       width="52.084873"
+       height="48.655682"
+       x="-23.530436"
+       y="213.9483"
+       transform="matrix(0.92151651,0.38833919,-0.89064906,0.45469138,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.599303;stroke-opacity:1"
+       id="rect76034-8-2-2"
+       width="52.084873"
+       height="48.655682"
+       x="102.58992"
+       y="97.826653"
+       transform="matrix(0.92151651,0.38833919,-0.89064906,0.45469138,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.599303;stroke-opacity:1"
+       id="rect76034-8-2-7"
+       width="52.084873"
+       height="48.655682"
+       x="40.094536"
+       y="155.89253"
+       transform="matrix(0.92151651,0.38833919,-0.89064906,0.45469138,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.01196px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.208831"
+       x="-311.15128"
+       y="73.524544"
+       id="text78540-4-6"
+       transform="scale(0.71789452,1.3929623)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.208831"
+         x="-311.15128"
+         y="73.524544"
+         id="tspan232993">Capteur détecte </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.208831"
+         x="-311.15128"
+         y="79.789497"
+         id="tspan243976">ligne à gauche et </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.208831"
+         x="-311.15128"
+         y="86.054443"
+         id="tspan243978">à droite </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.264583"
+       x="-206.98398"
+       y="139.05444"
+       id="text103616-6-0"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan103614-1-4"
+         style="stroke-width:0.264583"
+         x="-206.98398"
+         y="139.05444">Oui</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-0-4-3-92-5-9)"
+       d="m -97.235827,128.80319 0.0631,17.04855"
+       id="path18624-0-7-0-1-1-7"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.264583"
+       x="-96.645203"
+       y="137.36507"
+       id="text103616-6-0-7"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan103614-1-4-1"
+         style="stroke-width:0.264583"
+         x="-96.645203"
+         y="137.36507">Oui</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-0-4-3-92-5-1)"
+       d="m 12.071022,126.67054 0.0631,17.04855"
+       id="path18624-0-7-0-1-1-9"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.264583"
+       x="12.661641"
+       y="135.23241"
+       id="text103616-6-0-77"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan103614-1-4-6"
+         style="stroke-width:0.264583"
+         x="12.661641"
+         y="135.23241">Oui</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.264583"
+       x="-163.12102"
+       y="116.85989"
+       id="text103616-3-0-8"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan103614-6-6-7"
+         style="stroke-width:0.264583"
+         x="-163.12102"
+         y="116.85989">Non</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.474211;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-0-4-3-92-5-0-5)"
+       d="m -53.900687,106.67987 17.97464,-0.23593"
+       id="path18624-0-7-0-1-1-1-4"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.264583"
+       x="-52.751102"
+       y="115.17293"
+       id="text103616-3-0-8-9"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan103614-6-6-7-0"
+         style="stroke-width:0.264583"
+         x="-52.751102"
+         y="115.17293">Non</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.12658px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.213607"
+       x="-134.78156"
+       y="93.865379"
+       id="text249906"
+       transform="scale(0.92118668,1.0855563)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan249904"
+         style="stroke-width:0.213607"
+         x="-134.78156"
+         y="93.865379">Capteur détecte </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.213607"
+         x="-134.78156"
+         y="100.2736"
+         id="tspan249908">ligne à gauche et </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.213607"
+         x="-134.78156"
+         y="106.68182"
+         id="tspan249910">pas de ligne à droite </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.12658px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.213607"
+       x="-13.538713"
+       y="92.260292"
+       id="text249906-2"
+       transform="scale(0.92118668,1.0855563)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan249904-2"
+         style="stroke-width:0.213607"
+         x="-13.538713"
+         y="92.260292">Capteur détecte </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.213607"
+         x="-13.538713"
+         y="98.668518"
+         id="tspan249908-6">ligne à droite et </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.213607"
+         x="-13.538713"
+         y="105.07674"
+         id="tspan249910-1">pas de ligne à gauche </tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text285571"
+       style="font-size:24px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;white-space:pre;shape-inside:url(#rect285573)"><tspan
+         x="111.67578"
+         y="596.66708"
+         id="tspan9"><tspan
+           dx="0 14.832001"
+           id="tspan8">uc</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker47421-0)"
+       d="m 11.371843,164.53691 -0.448132,21.1812 -288.215211,3.43656 0.89681,-109.39496 64.05559,-0.258823"
+       id="path316843"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -97.311137,165.29386 0.144885,21.8646"
+       id="path316845"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -203.91865,168.10116 0.41342,19.86222"
+       id="path316847"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect31-7"
+       width="54.151699"
+       height="22.548626"
+       x="92.279572"
+       y="513.88367"
+       ry="8.9746885"
+       inkscape:export-filename="C:\Users\mdubois\nuages\nuage.apps\5eme EIST\Séquence n°2 _ La mise en mouvement\algorigrammeT23\AlgoDefi1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,18.841532,451.30219)"
+       id="text7604-4"
+       style="font-size:24px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;white-space:pre;shape-inside:url(#rect7606-3)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="348.54492"
+         y="280.76474"
+         id="tspan10">Début</tspan></text>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect31-0-5"
+       width="54.151699"
+       height="22.548626"
+       x="95.378098"
+       y="745.60657"
+       ry="8.9746885"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,20.28642,685.50561)"
+       id="text7604-3-2"
+       style="font-size:24px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;white-space:pre;shape-inside:url(#rect7606-2-69)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="348.54492"
+         y="280.76474"
+         id="tspan11">FIn</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,296.74792,586.79756)"
+       id="text7604-3-1-5"
+       style="font-size:24px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;white-space:pre;shape-inside:url(#rect7606-2-5-5)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="348.54492"
+         y="280.76474"
+         id="tspan12">Fin</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.49875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-1-7)"
+       d="m 118.19148,536.35936 0.0631,19.61314"
+       id="path18624-09-7"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-15)"
+       d="m 121.82198,729.31512 0.0631,15.36098"
+       id="path18624-82-4"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264602;stroke-opacity:1"
+       id="rect18648-4"
+       width="59.770397"
+       height="18.625744"
+       x="78.375496"
+       y="556.89093"
+       ry="0"
+       rx="0"
+       transform="matrix(1,0,0.01692277,0.9998568,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26459;stroke-opacity:1"
+       id="rect18648-0-3"
+       width="59.770397"
+       height="18.624006"
+       x="95.146088"
+       y="588.83344"
+       ry="0"
+       rx="0"
+       transform="matrix(1,0,-0.00999136,0.99995009,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-15)"
+       d="m 118.01019,608.1218 0.0631,17.04856"
+       id="path18624-8-7"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264619;stroke-opacity:1"
+       id="rect18648-2-8"
+       width="59.770397"
+       height="18.628174"
+       x="103.70101"
+       y="624.85565"
+       ry="0"
+       rx="0"
+       transform="matrix(1,0,-0.02338983,0.99972642,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26459;stroke-opacity:1"
+       id="rect18648-0-6-68"
+       width="59.770397"
+       height="18.624006"
+       x="515.3244"
+       y="649.70697"
+       ry="0"
+       rx="0"
+       transform="matrix(1,0,-0.00999136,0.99995009,0,0)"
+       inkscape:export-filename="C:\Users\mdubois\nuages\nuage.apps\5eme EIST\Séquence n°2 _ La mise en mouvement\algorigrammeT23\AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.28468px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.220195"
+       x="108.25262"
+       y="469.52344"
+       id="text22028-43"
+       transform="scale(0.83223367,1.2015856)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan22026-1"
+         style="stroke-width:0.220195"
+         x="108.25262"
+         y="469.52344">Allumer les LED droite et </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.220195"
+         x="108.25262"
+         y="476.12927"
+         id="tspan29218-4">gauche en ________</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.28468px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.220195"
+       x="111.1803"
+       y="525.83856"
+       id="text22028-4-9"
+       transform="scale(0.83223367,1.2015856)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan22026-8-2"
+         style="stroke-width:0.220195"
+         x="111.1803"
+         y="525.83856">Allumer les LED ______ et </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.220195"
+         x="111.1803"
+         y="532.4444"
+         id="tspan29218-9-0">________ en ______</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.98363px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.249318"
+       x="97.679062"
+       y="565.46368"
+       id="text44424-68"
+       transform="scale(0.94230368,1.061229)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan44422-9"
+         style="stroke-width:0.249318"
+         x="97.679062"
+         y="565.46368">Attendre __ seconde</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.98363px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.249318"
+       x="543.32477"
+       y="622.823"
+       id="text44424-6-2"
+       transform="scale(0.94230368,1.061229)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan44422-8-6"
+         style="stroke-width:0.249318"
+         x="543.32477"
+         y="622.823">Attendre _ seconde</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-15)"
+       d="m 115.70474,575.96185 0.10057,13.60256"
+       id="path46570-6"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-15)"
+       d="m 536.92086,634.94168 -0.16401,14.42883"
+       id="path46572-4"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26459;stroke-opacity:1"
+       id="rect18648-0-6-5-9"
+       width="59.770397"
+       height="18.624006"
+       x="96.034348"
+       y="658.729"
+       ry="0"
+       rx="0"
+       transform="matrix(1,0,-0.00999136,0.99995009,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.98363px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.249318"
+       x="98.266388"
+       y="631.32404"
+       id="text44424-6-5-5"
+       transform="scale(0.94230368,1.061229)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan44422-8-4-0"
+         style="stroke-width:0.249318"
+         x="98.266388"
+         y="631.32404">Attendre __ seconde</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-6-0)"
+       d="m 117.54069,643.96323 -0.16401,14.42883"
+       id="path46572-7-4"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-7-3)"
+       d="m 119.14635,677.24055 -0.16401,14.42883"
+       id="path46572-3-8"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.242686;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-6)"
+       d="m 145.61777,710.48705 c 0,0 41.65212,-18.74427 50.31423,-31.30231 10.28654,-14.91305 8.34389,-89.51556 -3.76897,-103.429 -9.5002,-10.91242 -45.0967,-14.53888 -45.0967,-14.53888"
+       id="path46574-1"
+       sodipodi:nodetypes="cssc"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect31-8-7"
+       width="54.151699"
+       height="22.548626"
+       x="363.39865"
+       y="482.24173"
+       ry="8.9746885"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect31-8-4-2"
+       width="54.151699"
+       height="22.548626"
+       x="367.64566"
+       y="646.49268"
+       ry="8.9746885"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,288.30699,422.14071)"
+       id="text7604-9-7"
+       style="font-size:24px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;white-space:pre;shape-inside:url(#rect7606-8-3)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="348.54492"
+         y="280.76474"
+         id="tspan13">Début</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-0-5)"
+       d="m 391.97473,504.84225 0.0631,17.04855"
+       id="path18624-0-2"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-0-4-84)"
+       d="m 394.91624,593.48596 0.0631,17.04855"
+       id="path18624-0-7-2"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-0-4-3-94)"
+       d="m 392.19904,540.34158 0.0631,17.04855"
+       id="path18624-0-7-0-6"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-0-4-3-9-9)"
+       d="m 395.46852,628.60513 0.0631,17.04855"
+       id="path18624-0-7-0-7-1"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264601;stroke-opacity:1"
+       id="rect18648-05-0"
+       width="59.770397"
+       height="18.625608"
+       x="371.58432"
+       y="521.47607"
+       ry="0"
+       rx="0"
+       transform="matrix(1,0,-0.01648847,0.99986406,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264626;stroke-opacity:1"
+       id="rect18648-05-7-6"
+       width="59.770397"
+       height="18.629082"
+       x="383.40564"
+       y="611.18488"
+       ry="0"
+       rx="0"
+       transform="matrix(1,0,-0.02539001,0.99967762,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.24407px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.26017"
+       x="606.98712"
+       y="322.89374"
+       id="text22028-0-15"
+       transform="scale(0.60459576,1.6539977)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.26017"
+         x="606.98712"
+         y="322.89374"
+         id="tspan29218-2-94">Avancer avec vitesse à ____%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.0129px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.417203"
+       x="393.40381"
+       y="605.28723"
+       id="text22028-0-6-9"
+       transform="scale(0.96951627,1.0314422)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.417203"
+         x="393.40381"
+         y="605.28723"
+         id="tspan29218-2-1-0">________</tspan></text>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.377078;stroke-opacity:1"
+       id="rect76034-9"
+       width="32.309074"
+       height="31.051987"
+       x="726.44427"
+       y="279.57495"
+       transform="matrix(0.84574704,0.53358406,-0.79451307,0.60724705,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.377078;stroke-opacity:1"
+       id="rect76034-3-1"
+       width="32.308998"
+       height="31.051987"
+       x="664.6665"
+       y="557.53882"
+       transform="matrix(0.84574704,0.53358406,-0.79451307,0.60724705,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.01196px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.208831"
+       x="525.94415"
+       y="411.60855"
+       id="text78540-7"
+       transform="scale(0.71789452,1.3929623)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.208831"
+         x="525.94415"
+         y="411.60855"
+         id="tspan82796-7">obstacle détecté </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.208831"
+         x="525.94415"
+         y="417.8735"
+         id="tspan97936-1">à moins de ____ </tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.213063;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lstart-1)"
+       d="m 419.58746,574.62975 c 0,0 20.93622,-8.02168 21.44408,-19.74107 0.49611,-11.44867 -13.88313,-23.772 -19.13805,-22.49861 v 0 0"
+       id="path87195-1"
+       sodipodi:nodetypes="csccc"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.104933;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lstart-3-3)"
+       d="m 306.26804,521.91957 c 0,0 20.32099,-1.94568 19.93003,-4.78825 -0.38195,-2.77691 -15.70633,-5.76597 -20.86359,-5.45711 v 0 0"
+       id="path87195-7-5"
+       sodipodi:nodetypes="csccc"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect31-8-5-9"
+       width="54.151699"
+       height="22.548626"
+       x="246.74126"
+       y="466.45248"
+       ry="8.9746885"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,171.64959,406.35148)"
+       id="text7604-9-4-7"
+       style="font-size:24px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;white-space:pre;shape-inside:url(#rect7606-8-1-7)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="348.54492"
+         y="280.76474"
+         id="tspan14">Début</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-0-2-8)"
+       d="m 275.31733,489.05303 0.0631,17.04855"
+       id="path18624-0-6-7"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264663;stroke-opacity:1"
+       id="rect18648-05-75-6"
+       width="59.770397"
+       height="18.634254"
+       x="228.33257"
+       y="505.9194"
+       ry="0"
+       rx="0"
+       transform="matrix(1,0,0.03462962,0.99940021,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.24407px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.26017"
+       x="414.03604"
+       y="313.34763"
+       id="text22028-0-9-7"
+       transform="scale(0.60459576,1.6539977)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.26017"
+         x="414.03604"
+         y="313.34763"
+         id="tspan29218-2-4-3">__________________________</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.264583"
+       x="104.33134"
+       y="709.09155"
+       id="text2176-6"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan2174-5"
+         style="stroke-width:0.264583"
+         x="104.33134"
+         y="709.09155">Nombre de</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="104.33134"
+         y="717.02905"
+         id="tspan40020-6"> tour = __?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.264583"
+       x="147.61044"
+       y="701.96643"
+       id="text6248-3"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan6246-9"
+         style="stroke-width:0.264583"
+         x="147.61044"
+         y="701.96643">Non</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.264583"
+       x="129.01805"
+       y="734.04028"
+       id="text8166-4"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi1.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan8164-8"
+         style="stroke-width:0.264583"
+         x="129.01805"
+         y="734.04028">oui</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.264583"
+       x="396.80054"
+       y="599.40674"
+       id="text103616-0"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan103614-8"
+         style="stroke-width:0.264583"
+         x="396.80054"
+         y="599.40674">Oui</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.264583"
+       x="420.96078"
+       y="580.55939"
+       id="text103616-3-8"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi3.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan103614-6-5"
+         style="stroke-width:0.264583"
+         x="420.96078"
+         y="580.55939">Non</tspan></text>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect31-8-2-0"
+       width="54.151699"
+       height="22.548626"
+       x="504.56232"
+       y="478.46259"
+       ry="8.9746885"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,429.47064,418.36158)"
+       id="text7604-9-9-9"
+       style="font-size:24px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;white-space:pre;shape-inside:url(#rect7606-8-6-2)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="348.54492"
+         y="280.76474"
+         id="tspan15">Début</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-0-26-9)"
+       d="m 533.13838,501.06312 0.0631,17.04855"
+       id="path18624-0-73-6"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-0-4-8-7)"
+       d="m 536.07989,589.70683 0.0631,17.04855"
+       id="path18624-0-7-6-3"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-0-4-3-92-2)"
+       d="m 533.36269,536.56245 0.0631,17.04855"
+       id="path18624-0-7-0-1-8"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264597;stroke-opacity:1"
+       id="rect18648-05-9-5"
+       width="59.770397"
+       height="18.625061"
+       x="511.68695"
+       y="517.68121"
+       ry="0"
+       rx="0"
+       transform="matrix(1,0,-0.01459379,0.9998935,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.38227;stroke-opacity:1"
+       id="rect18648-05-7-3-6"
+       width="85.076378"
+       height="27.311468"
+       x="491.35513"
+       y="607.29541"
+       ry="0"
+       rx="0"
+       transform="matrix(1,0,0.00986685,0.99995132,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.24407px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.26017"
+       x="840.4715"
+       y="320.60889"
+       id="text22028-0-1-1"
+       transform="scale(0.60459576,1.6539977)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.26017"
+         x="840.4715"
+         y="320.60889"
+         id="tspan29218-2-9-1">__________________________</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.2252px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.259383"
+       x="-178.30603"
+       y="394.57047"
+       id="text22028-0-6-4-3-8"
+       transform="scale(0.68707457,1.4554461)"
+       inkscape:export-filename="C:\Users\mdubois\nuages\nuage.apps\5eme EIST\Séquence n°2 _ La mise en mouvement\algorigrammeT23\AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.259383"
+         x="-178.30603"
+         y="394.57047"
+         id="tspan223496-6-3">Tourner à __________________</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.2252px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.259383"
+       x="-18.48724"
+       y="392.89212"
+       id="text22028-0-6-4-3-8-1"
+       transform="scale(0.68707457,1.4554461)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.259383"
+         x="-18.48724"
+         y="392.89212"
+         id="tspan223496-6-3-0">Tourner à __________________</tspan></text>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.377078;stroke-opacity:1"
+       id="rect76034-8-0"
+       width="32.309074"
+       height="31.051987"
+       x="814.6759"
+       y="195.823"
+       transform="matrix(0.84574704,0.53358406,-0.79451307,0.60724705,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.01196px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.208831"
+       x="722.57983"
+       y="408.89554"
+       id="text78540-4-4"
+       transform="scale(0.71789452,1.3929623)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.208831"
+         x="722.57983"
+         y="408.89554"
+         id="tspan82796-5-4">obstacle détecté </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.208831"
+         x="722.57983"
+         y="415.16049"
+         id="tspan97936-0-4">à moins de ____ </tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lstart-75-79)"
+       d="m 560.75111,570.85062 c 0,0 30.36855,-8.5549 31.10521,-21.05331 0.71964,-12.20969 -20.13784,-25.35219 -27.76024,-23.99416 v 0 0"
+       id="path87195-3-4"
+       sodipodi:nodetypes="csccc"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.253074;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker178221-1)"
+       d="m 504.6624,660.01082 c 0,0 -13.97653,-7.85259 -19.86241,-14.47487 -5.34373,-6.01229 -17.56271,-49.71876 -17.88938,-56.14935 -0.31911,-6.28202 3.73525,-42.56443 9.12506,-47.34125 9.03304,-10.04811 14.11548,-14.44836 25.4345,-14.74852"
+       id="path87195-3-0-7"
+       sodipodi:nodetypes="csscc"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.264583"
+       x="537.96417"
+       y="595.62762"
+       id="text103616-6-6"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan103614-1-3"
+         style="stroke-width:0.264583"
+         x="537.96417"
+         y="595.62762">______</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.264583"
+       x="562.12439"
+       y="576.78021"
+       id="text103616-3-0-1"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi4.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan103614-6-6-75"
+         style="stroke-width:0.264583"
+         x="562.12439"
+         y="576.78021">______</tspan></text>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect31-8-2-8-9"
+       width="54.151699"
+       height="22.548626"
+       x="-239.68188"
+       y="463.72681"
+       ry="8.9746885"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-309.89964,402.96145)"
+       id="text7604-9-9-8-6"
+       style="font-size:24px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;white-space:pre;shape-inside:url(#rect7606-8-6-3-6)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="348.54492"
+         y="280.76474"
+         id="tspan16">Début</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-0-26-7-6)"
+       d="m -211.30986,485.66299 0.0631,17.04854"
+       id="path18624-0-73-4-2"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-0-4-3-92-5-6)"
+       d="m -206.58482,545.06144 0.0631,17.04855"
+       id="path18624-0-7-0-1-1-17"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.474211;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-0-4-3-92-5-0-0)"
+       d="m -163.28081,522.9357 17.97464,-0.23593"
+       id="path18624-0-7-0-1-1-1-8"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264611;stroke-opacity:1"
+       id="rect18648-05-9-4-5"
+       width="59.770397"
+       height="18.626987"
+       x="-216.31569"
+       y="563.14764"
+       ry="0"
+       rx="0"
+       transform="matrix(1,0,-0.02048817,0.9997901,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264591;stroke-opacity:1"
+       id="rect18648-05-7-3-9-7"
+       width="59.770397"
+       height="18.624262"
+       x="-118.22894"
+       y="561.10577"
+       ry="0"
+       rx="0"
+       transform="matrix(1,0,-0.01127779,0.9999364,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2646;stroke-opacity:1"
+       id="rect18648-05-7-3-9-1-9"
+       width="59.770397"
+       height="18.62542"
+       x="-6.033165"
+       y="559.79089"
+       ry="0"
+       rx="0"
+       transform="matrix(1,0,-0.01585751,0.99987426,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.24407px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.26017"
+       x="-369.77039"
+       y="348.20059"
+       id="text22028-0-1-2-7"
+       transform="scale(0.60459576,1.6539977)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.26017"
+         x="-369.77039"
+         y="348.20059"
+         id="tspan29218-2-9-0-5">___________________________</tspan></text>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.599303;stroke-opacity:1"
+       id="rect76034-8-2-3"
+       width="52.084873"
+       height="48.655682"
+       x="459.79459"
+       y="712.91272"
+       transform="matrix(0.92151651,0.38833919,-0.89064906,0.45469138,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.599303;stroke-opacity:1"
+       id="rect76034-8-2-2-8"
+       width="52.084873"
+       height="48.655682"
+       x="585.91492"
+       y="596.79108"
+       transform="matrix(0.92151651,0.38833919,-0.89064906,0.45469138,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.599303;stroke-opacity:1"
+       id="rect76034-8-2-7-8"
+       width="52.084873"
+       height="48.655682"
+       x="523.41956"
+       y="654.85699"
+       transform="matrix(0.92151651,0.38833919,-0.89064906,0.45469138,0,0)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.01196px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.208831"
+       x="-309.77258"
+       y="371.14127"
+       id="text78540-4-6-3"
+       transform="scale(0.71789452,1.3929623)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.208831"
+         x="-309.77258"
+         y="371.14127"
+         id="tspan232993-1">Capteur détecte </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.208831"
+         x="-309.77258"
+         y="377.40622"
+         id="tspan243976-8">ligne à ________ et </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.208831"
+         x="-309.77258"
+         y="383.67117"
+         id="tspan243978-9">à ________ </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.264583"
+       x="-205.9942"
+       y="553.62329"
+       id="text103616-6-0-6"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan103614-1-4-4"
+         style="stroke-width:0.264583"
+         x="-205.9942"
+         y="553.62329">Oui</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-0-4-3-92-5-9-2)"
+       d="m -96.246053,543.37206 0.0631,17.04855"
+       id="path18624-0-7-0-1-1-7-3"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.264583"
+       x="-95.655434"
+       y="551.9339"
+       id="text103616-6-0-7-3"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan103614-1-4-1-3"
+         style="stroke-width:0.264583"
+         x="-95.655434"
+         y="551.9339">Oui</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-0-4-3-92-5-1-9)"
+       d="m 13.060797,541.23941 0.0631,17.04855"
+       id="path18624-0-7-0-1-1-9-8"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.264583"
+       x="13.651423"
+       y="549.80127"
+       id="text103616-6-0-77-6"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan103614-1-4-6-0"
+         style="stroke-width:0.264583"
+         x="13.651423"
+         y="549.80127">Oui</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.264583"
+       x="-162.13123"
+       y="531.42877"
+       id="text103616-3-0-8-4"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan103614-6-6-7-8"
+         style="stroke-width:0.264583"
+         x="-162.13123"
+         y="531.42877">Non</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.474211;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker47421-0-4-3-92-5-0-5-6)"
+       d="m -52.910913,521.24874 17.97464,-0.23593"
+       id="path18624-0-7-0-1-1-1-4-8"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.264583"
+       x="-51.76133"
+       y="529.74176"
+       id="text103616-3-0-8-9-8"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan103614-6-6-7-0-9"
+         style="stroke-width:0.264583"
+         x="-51.76133"
+         y="529.74176">Non</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.12658px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.213607"
+       x="-133.70711"
+       y="475.76071"
+       id="text249906-7"
+       transform="scale(0.92118668,1.0855563)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan249904-7"
+         style="stroke-width:0.213607"
+         x="-133.70711"
+         y="475.76071">Capteur détecte </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.213607"
+         x="-133.70711"
+         y="482.16895"
+         id="tspan249908-64">ligne à ________ et </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.213607"
+         x="-133.70711"
+         y="488.57715"
+         id="tspan249910-3">pas de ligne à ______ </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.12658px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.213607"
+       x="-12.464249"
+       y="474.15561"
+       id="text249906-2-0"
+       transform="scale(0.92118668,1.0855563)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan249904-2-3"
+         style="stroke-width:0.213607"
+         x="-12.464249"
+         y="474.15561">Capteur détecte </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.213607"
+         x="-12.464249"
+         y="480.56384"
+         id="tspan249908-6-0">ligne à ________ et </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.213607"
+         x="-12.464249"
+         y="486.97205"
+         id="tspan249910-1-9">pas de ligne à ______ </tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,0.98977741,414.56887)"
+       id="text285571-2"
+       style="font-size:24px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;white-space:pre;shape-inside:url(#rect285573-5)"><tspan
+         x="111.67578"
+         y="596.66708"
+         id="tspan18"><tspan
+           dx="0 14.832001"
+           id="tspan17">uc</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker47421-0-5)"
+       d="m 12.361617,579.10578 -0.44813,21.1812 -288.215207,3.43656 0.89681,-109.39496 64.05559,-0.25882"
+       id="path316843-5"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -96.321363,579.86273 0.14489,21.8646"
+       id="path316845-4"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -202.92887,582.67003 0.41342,19.86222"
+       id="path316847-0"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.2252px;line-height:1.25;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:none;letter-spacing:0px;stroke-width:0.259383"
+       x="744.76672"
+       y="429.10782"
+       id="text22028-0-6-4-3-8-0"
+       transform="scale(0.68707457,1.4554461)"
+       inkscape:export-filename="/home/mica/NuageVersailles/5eme EIST/Séquence n°2 _ La mise en mouvement/algorigrammeT23/AlgoDefi5.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.259383"
+         x="744.76672"
+         y="429.10782"
+         id="tspan223496-6-3-7">Tourner à __________________</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,99 @@
+# Séquence Décrire le fonctionnement d'un OST 
+
+Séance 1 : Chainde d'énergie
+
+Comment réprensenter l'énergie qui circule dans l'OST ?
+
+mbot 
+
+Document 1 Description des conventions d'une chaine d'énergie
+
+Document 2 Type d'énergie
+
+Document 2 Description Mbot avec batterie
+
+Document 3 Chaine d'énergie vide
+
+
+
+Séance 2 : chaine d'informations
+
+Comment réprensenter l'information qui circule dans l'OST ?
+
+
+Séance 3 : Mesurer et comparer les performances d'un OST
+
+Repères de progressivité
+
+- Mesurer et comparer une performance d’un OST à partir d’un protocole fourni
+
+Connaissances
+
+- Les critères de performance d’un OST (grandeurs mesurables : vitesse, autonomie énergétique, etc.).
+  Lien avec le CRCN
+- Information et données : mener une recherche et une veille d’informations.
+
+# Fonctions, solutions, constituants de la chaine d’énergie
+
+## Repères de progressivité
+
+- Identifier des constituants de la chaîne d’énergie d’un objet technique (l’organisation de la chaîne d’énergie étant fournie)
+- Indiquer la nature des énergies en entrée et en sortie des constituants de la chaîne d’énergie
+
+## Connaissances
+
+- Les différentes formes d’énergie : électrique, cinétique, potentielle, thermique, lumineuse ;
+- Les conversions d’énergie des constituants suivants : moteur électrique, lampe, radiateur, génératrice, vérin ;
+- Les fonctions des constituants suivants : batterie, relais/interrupteur ;
+- Les mécanismes de transmission et de transformation de mouvements (engrenages, courroies, chaînes).
+
+## Bilan
+
+### Fonctions et solutions techniques
+
+La focntion d'usage est le service rendu oar l'objet technique, elle répond à la question " A quoi ça sert ?"
+
+Afin de réaliser sa fonction d'usage, un objet technique doit assurer plusieurs actions appelées fonctions techniques
+
+Une fonction technique est assurée par des pièces ou composants que l'on appelle solution technique.
+
+### Chaine d'énergie
+
+Tous les systèmes ont besoin d'énergie pour fonctionner. La cicrcualtion d'énergie dans le système se rpresente sous la forme d'une chaine d'énergie
+
+On trouve 4 principales fonctions dans la chaine d'énergie :
+
+- Alimenter/stocker
+
+- Distribuer
+
+- Convertir
+
+- Transmettre
+
+L'énergie peut prendre plusieurs formes (thermique, électrique, lumineuse, cinétique ...)
+
+# Fonctions, solutions, constituants de la chaîne d'information
+
+## Repères de progressivité
+
+- Identifier des constituants de la chaîne d’information d’un OST (l’organisation de la chaîne d’information étant fournie)
+
+## Connaissances
+
+- Les fonctions des constituants suivants : capteurs (température, présence, distance, etc.), microcontrôleur, composants d’une interface entre l’humain et la machine (IHM) : boutons, afficheurs, etc.
+
+## Bilan
+
+### Chaine d'information
+
+Un système automatisé a besoin d'informations pouur focntionner de manière autonome. La circualtion de cette information se représente sous la forme d'une chaine d'information.
+
+On trouve 3 focntions dans la chaine d'information :
+
+- Acquérir les données via des capteurs
+
+- Traiter les informations via un microprocesseur ou u microcontroleur. C'ets un quelque sorte le cerveau de la machine.
+
+- Communiquer des ordres aux actionneurs de la chaine d'energie ou commuinqiuer des informations aux utilsateurs ou aux autres systèmes.
+
