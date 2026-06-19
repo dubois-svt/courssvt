@@ -48,9 +48,9 @@
 
     Pour réparer une panne, il faut identifier le composant défectueux soit visuellement, soit en le testant.
 
-    Une fois identifiée, il faut le remplacer ou le remettre en état. Cela est d'autant plus facile que l'indice de raparabilité est haut.
+    Une fois identifiée, il faut le remplacer ou le remettre en état. Cela est d'autant plus facile que l'indice de réparabilité est haut.
 
-    Pour remplacer la pièce, il est nécessaire de suivra un protocole précis et de suivre des règles de sécurité et d'utiliser correctement les outils. 
+    Pour remplacer la pièce, il est nécessaire de suivre un protocole précis et de suivre des règles de sécurité et d'utiliser correctement les outils. 
 
     Dans certains cas, on peut fabriquer une pièce de rechange ( impression 3D, usinages, ...)
  
