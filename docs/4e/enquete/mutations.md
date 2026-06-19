@@ -8,7 +8,7 @@
 
     1. Indiquer quelle est la modification de l'information génétique du coupable et en donner les conséquences.
     2. Donner la définition de mutation.
-    3. Expliquer es conséquences des mutations sur les caractères des individus
+    3. Expliquer les conséquences des mutations sur les caractères des individus
     4. En déduire le nom du coupable définitif.
     
 ??? bug "Critères de réussite"
